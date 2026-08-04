@@ -1,0 +1,36 @@
+# .github/workflows/ecommerce_scraper.yml
+name: E-commerce Product Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Run every Sunday at midnight
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run e-commerce scraper
+      run: |
+        python scrapers/1_ecommerce_scraper.py
+    
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/
+        git diff --staged --quiet || git commit -m "Update e-commerce scraped data"
+        git push https://rexxgit:${{ secrets.BOT_TOKEN }}@github.com/rexxgit/webscrapingportfolio.git HEAD:main
