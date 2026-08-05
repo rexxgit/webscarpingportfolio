@@ -3,7 +3,7 @@ name: E-commerce Product Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Run every Sunday at midnight
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -24,8 +24,13 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        playwright install chromium
-        playwright install-deps
+    
+    - name: Install Chromium
+      run: |
+        # Install Chromium using Playwright
+        python -m playwright install chromium
+        # Install system dependencies for Chromium
+        python -m playwright install-deps chromium
     
     - name: Run e-commerce scraper
       run: python scrapers/1_ecommerce_scraper.py
