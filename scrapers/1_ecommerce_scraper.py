@@ -23,12 +23,41 @@ class EcommerceScraper:
         """Construct full URL from base URL and path"""
         return urljoin(self.base_url, path)
     
+    def find_chromium_path(self):
+        """Find system Chromium installation"""
+        possible_paths = [
+            '/usr/bin/chromium-browser',
+            '/usr/bin/chromium',
+            '/snap/bin/chromium',
+            '/usr/bin/google-chrome',
+            '/usr/bin/google-chrome-stable',
+        ]
+        
+        for path in possible_paths:
+            if os.path.exists(path):
+                print(f"Found Chromium at: {path}")
+                return path
+        
+        # Try to find via which command
+        try:
+            import subprocess
+            result = subprocess.run(['which', 'chromium-browser'], capture_output=True, text=True)
+            if result.returncode == 0 and result.stdout.strip():
+                path = result.stdout.strip()
+                print(f"Found Chromium via which: {path}")
+                return path
+        except:
+            pass
+        
+        print("No Chromium found, will use Playwright's bundled version")
+        return None
+    
     def setup_browser(self):
-        """Setup Playwright with Chromium - use system Chromium if available"""
+        """Setup Playwright with system Chromium if available"""
         self.playwright = sync_playwright().start()
         
-        # Check for system Chromium path
-        chromium_path = os.environ.get('CHROME_PATH')
+        # Try to find system Chromium
+        chromium_path = self.find_chromium_path()
         
         launch_options = {
             'headless': True,
@@ -40,14 +69,16 @@ class EcommerceScraper:
                 '--no-first-run',
                 '--no-zygote',
                 '--single-process',
-                '--disable-extensions'
+                '--disable-extensions',
+                '--disable-blink-features=AutomationControlled'
             ]
         }
         
-        # Use system Chromium if available
-        if chromium_path and os.path.exists(chromium_path):
-            print(f"Using system Chromium at: {chromium_path}")
+        if chromium_path:
             launch_options['executable_path'] = chromium_path
+            print(f"Using system Chromium: {chromium_path}")
+        else:
+            print("Using Playwright's bundled Chromium")
         
         self.browser = self.playwright.chromium.launch(**launch_options)
         self.page = self.browser.new_page(
