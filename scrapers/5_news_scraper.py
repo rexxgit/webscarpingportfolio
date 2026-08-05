@@ -95,7 +95,6 @@ class NewsScraper:
             viewport={'width': 1920, 'height': 1080},
             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         )
-        # Increase timeout for slow pages
         self.page.set_default_timeout(60000)
         
     def close_browser(self):
@@ -105,10 +104,18 @@ class NewsScraper:
         if self.playwright:
             self.playwright.stop()
     
-    def extract_headline(self, card):
-        """Extract headline using multiple methods"""
+    def extract_article_data(self, card):
+        """Extract all article data from a card element without navigating"""
+        data = {
+            'headline': 'N/A',
+            'author': 'N/A',
+            'date_time': 'N/A',
+            'summary': 'N/A',
+            'article_link': None
+        }
+        
         try:
-            # Method 1: Look for h2 or h3 with link
+            # Extract headline
             for tag in ['h2', 'h3', 'h1']:
                 elem = card.query_selector(tag)
                 if elem:
@@ -116,194 +123,124 @@ class NewsScraper:
                     if link:
                         text = link.inner_text().strip()
                         if text:
-                            return text
+                            data['headline'] = text
+                            # Get link from the same element
+                            href = link.get_attribute('href')
+                            if href:
+                                data['article_link'] = self.get_full_url(href)
+                            break
                     text = elem.inner_text().strip()
                     if text:
-                        return text
+                        data['headline'] = text
+                        break
         except:
             pass
-            
+        
+        # If no headline found, try looking for any link
+        if data['headline'] == 'N/A':
+            try:
+                links = card.query_selector_all('a')
+                for link in links:
+                    text = link.inner_text().strip()
+                    if len(text) > 20 and not any(x in text.lower() for x in ['read more', 'comment', 'share']):
+                        data['headline'] = text
+                        href = link.get_attribute('href')
+                        if href:
+                            data['article_link'] = self.get_full_url(href)
+                        break
+            except:
+                pass
+        
         try:
-            # Method 2: Look for any link with article title
-            links = card.query_selector_all('a')
-            for link in links:
-                text = link.inner_text().strip()
-                if len(text) > 20 and not any(x in text.lower() for x in ['read more', 'comment', 'share']):
-                    return text
-        except:
-            pass
-            
-        try:
-            # Method 3: Look for div with title class
-            title_elem = card.query_selector('[class*="title"], [class*="headline"]')
-            if title_elem:
-                text = title_elem.inner_text().strip()
-                if text:
-                    return text
-        except:
-            pass
-            
-        return "N/A"
-    
-    def extract_author(self, card):
-        """Extract author using multiple methods"""
-        try:
-            # Method 1: Look for author link
+            # Extract author
             author_elem = card.query_selector('[class*="author"], [class*="byline"]')
             if author_elem:
                 link = author_elem.query_selector('a')
                 if link:
-                    return link.inner_text().strip()
-                return author_elem.inner_text().strip()
+                    data['author'] = link.inner_text().strip()
+                else:
+                    data['author'] = author_elem.inner_text().strip()
         except:
             pass
-            
+        
         try:
-            # Method 2: Look for any link with author name pattern
-            links = card.query_selector_all('a')
-            for link in links:
-                text = link.inner_text().strip()
-                if len(text) > 3 and len(text) < 30 and ' ' in text:
-                    common_words = ['the', 'and', 'for', 'with', 'from', 'more', 'read', 'comment']
-                    if not any(word in text.lower() for word in common_words):
-                        # Check if it's in a byline context
-                        parent = link.query_selector('xpath=..')
-                        if parent:
-                            parent_text = parent.inner_text().lower()
-                            if 'by' in parent_text or 'author' in parent_text:
-                                return text
-        except:
-            pass
-            
-        return "N/A"
-    
-    def extract_date(self, card):
-        """Extract date using multiple methods"""
-        try:
-            # Method 1: Look for time tag
+            # Extract date
             time_elem = card.query_selector('time')
             if time_elem:
                 datetime_attr = time_elem.get_attribute('datetime')
                 if datetime_attr:
-                    return datetime_attr
-                text = time_elem.inner_text().strip()
-                if text:
-                    return text
+                    data['date_time'] = datetime_attr
+                else:
+                    text = time_elem.inner_text().strip()
+                    if text:
+                        data['date_time'] = text
         except:
             pass
-            
+        
         try:
-            # Method 2: Look for date class
-            date_elem = card.query_selector('[class*="date"], [class*="time"]')
-            if date_elem:
-                text = date_elem.inner_text().strip()
-                if text:
-                    return text
-        except:
-            pass
-            
-        try:
-            # Method 3: Look for date pattern in text
-            card_text = card.inner_text()
-            date_patterns = [
-                r'\d{1,2}:\d{2} [AP]M',  # 6:00 AM
-                r'\d{1,2}:\d{2}:\d{2}',   # 06:00:00
-                r'[A-Z][a-z]+ \d{1,2}, \d{4}',  # August 4, 2026
-                r'\d{4}-\d{2}-\d{2}',     # 2026-08-04
-            ]
-            for pattern in date_patterns:
-                match = re.search(pattern, card_text)
-                if match:
-                    return match.group()
-        except:
-            pass
-            
-        return "N/A"
-    
-    def extract_summary(self, card):
-        """Extract summary using multiple methods"""
-        try:
-            # Method 1: Look for specific summary element
+            # Extract summary
             summary_elem = card.query_selector('#speakable-summary')
             if summary_elem:
                 text = summary_elem.inner_text().strip()
                 if text:
-                    return text
+                    data['summary'] = text
         except:
             pass
-            
-        try:
-            # Method 2: Look for any paragraph that might be a summary
-            paragraphs = card.query_selector_all('p')
-            for p in paragraphs:
-                text = p.inner_text().strip()
-                if len(text) > 50 and len(text) < 300:
-                    if not any(x in text.lower() for x in ['read more', 'subscribe', 'newsletter']):
-                        return text
-        except:
-            pass
-            
-        try:
-            # Method 3: Look for div with excerpt class
-            excerpt = card.query_selector('[class*="excerpt"], [class*="summary"], [class*="description"]')
-            if excerpt:
-                text = excerpt.inner_text().strip()
-                if text:
-                    return text
-        except:
-            pass
-            
-        return "N/A"
+        
+        return data
     
     def scrape_article_content(self, article_url):
-        """Scrape full article content"""
+        """Scrape full article content from a separate page"""
         if not article_url:
             return "N/A"
             
         try:
             print(f"  Fetching article: {article_url}")
             
-            # Navigate to article page with longer timeout
-            self.page.goto(article_url, wait_until='domcontentloaded', timeout=60000)
-            time.sleep(2)
+            # Open a new page for content to keep main page intact
+            content_page = self.browser.new_page()
+            content_page.set_default_timeout(30000)
             
-            # Wait for content to load
             try:
-                self.page.wait_for_selector('p.wp-block-paragraph', timeout=10000)
-            except:
+                content_page.goto(article_url, wait_until='domcontentloaded', timeout=30000)
+                time.sleep(2)
+                
+                # Wait for content to load
                 try:
-                    self.page.wait_for_selector('article p', timeout=5000)
+                    content_page.wait_for_selector('p.wp-block-paragraph', timeout=5000)
                 except:
                     pass
-            
-            # Extract content
-            content_parts = []
-            
-            # Method 1: Look for article content
-            article_body = self.page.query_selector('[class*="article-content"], [class*="post-content"], [class*="entry-content"]')
-            
-            if article_body:
-                paragraphs = article_body.query_selector_all('p')
-            else:
-                # Fallback: find all paragraphs
-                paragraphs = self.page.query_selector_all('p.wp-block-paragraph')
-                if not paragraphs:
-                    paragraphs = self.page.query_selector_all('article p')
-                if not paragraphs:
-                    paragraphs = self.page.query_selector_all('p')
-            
-            for p in paragraphs[:10]:
-                text = p.inner_text().strip()
-                if text and len(text) > 30:
-                    content_parts.append(text)
-            
-            if content_parts:
-                content = ' '.join(content_parts)
-                if len(content) > 500:
-                    content = content[:500] + "..."
-                return content
-            
-            return "N/A"
+                
+                # Extract content
+                content_parts = []
+                
+                # Try to find article body
+                article_body = content_page.query_selector('[class*="article-content"], [class*="post-content"], [class*="entry-content"]')
+                
+                if article_body:
+                    paragraphs = article_body.query_selector_all('p')
+                else:
+                    paragraphs = content_page.query_selector_all('p.wp-block-paragraph')
+                    if not paragraphs:
+                        paragraphs = content_page.query_selector_all('article p')
+                    if not paragraphs:
+                        paragraphs = content_page.query_selector_all('p')
+                
+                for p in paragraphs[:10]:
+                    text = p.inner_text().strip()
+                    if text and len(text) > 30:
+                        content_parts.append(text)
+                
+                if content_parts:
+                    content = ' '.join(content_parts)
+                    if len(content) > 500:
+                        content = content[:500] + "..."
+                    return content
+                
+                return "N/A"
+                
+            finally:
+                content_page.close()
             
         except Exception as e:
             print(f"  Error scraping article content: {e}")
@@ -314,42 +251,39 @@ class NewsScraper:
         try:
             print(f"Fetching URL: {url}")
             
-            # Navigate to the page with domcontentloaded to speed up
+            # Navigate to the page
             self.page.goto(url, wait_until='domcontentloaded', timeout=60000)
             
-            # Wait for content to load with shorter timeout
+            # Wait for content to load
             try:
-                self.page.wait_for_selector('div.wp-block-techcrunch-card', timeout=10000)
+                self.page.wait_for_selector('h2 a, article, div.wp-block-techcrunch-card', timeout=10000)
             except PlaywrightTimeoutError:
-                print("Timeout waiting for article cards. Trying alternative selectors...")
-                try:
-                    self.page.wait_for_selector('article', timeout=5000)
-                except PlaywrightTimeoutError:
-                    try:
-                        self.page.wait_for_selector('h2 a', timeout=5000)
-                    except PlaywrightTimeoutError:
-                        print("No articles found on this page")
-                        return None
+                print("No articles found on this page")
+                return None
             
             # Scroll to load more content
             self.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
             time.sleep(2)
             
-            # Try multiple selectors for article cards
+            # Find article cards
             article_cards = []
             
-            # Method 1: Primary selector
-            article_cards = self.page.query_selector_all('div.wp-block-techcrunch-card')
+            # Try multiple selectors
+            selectors = [
+                'div.wp-block-techcrunch-card',
+                'article',
+                '[class*="post"]',
+                '[class*="article"]'
+            ]
             
-            # Method 2: Look for article containers
-            if not article_cards:
-                article_cards = self.page.query_selector_all('article')
+            for selector in selectors:
+                cards = self.page.query_selector_all(selector)
+                if cards:
+                    article_cards = cards
+                    print(f"Found {len(article_cards)} articles using selector: {selector}")
+                    break
             
-            # Method 3: Look for post containers
-            if not article_cards:
-                article_cards = self.page.query_selector_all('[class*="post"], [class*="article"]')
-            
-            # Method 4: Look for any div containing h2 with link
+            # If still no cards, look for h2 with links
             if not article_cards:
                 h2_elements = self.page.query_selector_all('h2')
                 for h2 in h2_elements:
@@ -358,106 +292,73 @@ class NewsScraper:
                         parent = h2.query_selector('xpath=../..')
                         if parent:
                             article_cards.append(parent)
+                if article_cards:
+                    print(f"Found {len(article_cards)} articles from h2 elements")
             
-            print(f"Found {len(article_cards)} article cards on this page")
+            if not article_cards:
+                print("No article cards found on this page")
+                return None
             
+            print(f"Processing {len(article_cards)} articles...")
+            
+            # Process each card
             for index, card in enumerate(article_cards):
                 try:
-                    headline = self.extract_headline(card)
-                    author = self.extract_author(card)
-                    date_time = self.extract_date(card)
-                    summary = self.extract_summary(card)
+                    # Extract data from card (no navigation)
+                    article_data = self.extract_article_data(card)
                     
-                    # Get article link
-                    article_link = None
-                    link = card.query_selector('a')
-                    if link:
-                        href = link.get_attribute('href')
-                        if href:
-                            article_link = self.get_full_url(href)
-                    
-                    # Only scrape content for first 3 articles to save time
-                    content = "N/A"
-                    if article_link and index < 3:
-                        content = self.scrape_article_content(article_link)
+                    # Scrape full content only for first 2 articles
+                    if article_data['article_link'] and index < 2:
+                        article_data['content'] = self.scrape_article_content(article_data['article_link'])
                         time.sleep(random.uniform(1, 2))
+                    else:
+                        article_data['content'] = "N/A"
                     
-                    print(f"Article {index + 1}: {headline[:40]}... - {author}")
+                    article_data['scraped_at'] = datetime.now().isoformat()
+                    self.articles.append(article_data)
                     
-                    self.articles.append({
-                        'headline': headline,
-                        'author': author,
-                        'date_time': date_time,
-                        'summary': summary,
-                        'content': content,
-                        'article_link': article_link,
-                        'scraped_at': datetime.now().isoformat()
-                    })
+                    print(f"Article {index + 1}: {article_data['headline'][:40]}... - {article_data['author']}")
                     
                 except Exception as e:
-                    print(f"Error parsing article card {index}: {e}")
+                    print(f"Error processing article {index}: {e}")
                     continue
             
             # Check for next page
+            next_url = None
             try:
                 next_button = self.page.query_selector('a.wp-block-query-pagination-next')
                 if next_button:
                     next_url = next_button.get_attribute('href')
-                    if next_url:
-                        return self.get_full_url(next_url)
             except:
                 pass
-                
-            # Try alternative pagination
-            try:
-                next_links = self.page.query_selector_all('a:has-text("Next")')
-                for link in next_links:
-                    href = link.get_attribute('href')
-                    if href:
-                        return self.get_full_url(href)
-            except:
-                pass
-                
-            # Try older pagination
-            try:
-                older_link = self.page.query_selector('a:has-text("Older posts")')
-                if older_link:
-                    href = older_link.get_attribute('href')
-                    if href:
-                        return self.get_full_url(href)
-            except:
-                pass
-                
+            
+            if not next_url:
+                try:
+                    next_links = self.page.query_selector_all('a:has-text("Next")')
+                    for link in next_links:
+                        href = link.get_attribute('href')
+                        if href:
+                            next_url = href
+                            break
+                except:
+                    pass
+            
+            if not next_url:
+                try:
+                    older_link = self.page.query_selector('a:has-text("Older posts")')
+                    if older_link:
+                        next_url = older_link.get_attribute('href')
+                except:
+                    pass
+            
+            if next_url:
+                return self.get_full_url(next_url)
+            
             print("No more pages found")
             return None
             
         except PlaywrightTimeoutError as e:
-            print(f"Timeout error scraping page: {e}")
-            # Try to get whatever content is already loaded
-            try:
-                # Check if any content loaded
-                h2_elements = self.page.query_selector_all('h2')
-                if h2_elements:
-                    print(f"Found {len(h2_elements)} h2 elements despite timeout")
-                    # Try to extract from what's loaded
-                    for h2 in h2_elements[:5]:
-                        link = h2.query_selector('a')
-                        if link:
-                            headline = link.inner_text().strip()
-                            article_link = self.get_full_url(link.get_attribute('href'))
-                            self.articles.append({
-                                'headline': headline,
-                                'author': "N/A",
-                                'date_time': "N/A",
-                                'summary': "N/A",
-                                'content': "N/A",
-                                'article_link': article_link,
-                                'scraped_at': datetime.now().isoformat()
-                            })
-                    print(f"Extracted {len(self.articles)} articles from partial load")
-                    return None
-            except:
-                pass
+            print(f"Timeout error: {e}")
             return None
         except Exception as e:
             print(f"Error scraping page: {e}")
@@ -519,7 +420,7 @@ class NewsScraper:
         
         fieldnames = ['headline', 'author', 'date_time', 'summary', 'content', 'article_link', 'scraped_at']
         
-        # Save as CSV - OVERWRITE if exists
+        # Save as CSV
         try:
             with open(self.csv_filename, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -530,7 +431,7 @@ class NewsScraper:
         except Exception as e:
             print(f"✗ Error saving CSV: {e}")
         
-        # Save as JSON - OVERWRITE if exists
+        # Save as JSON
         try:
             with open(self.json_filename, 'w', encoding='utf-8') as f:
                 json.dump(articles, f, indent=2, ensure_ascii=False)
@@ -555,8 +456,10 @@ class NewsScraper:
             print(f"{i}. {article['headline']}")
             print(f"   Author: {article['author']}")
             print(f"   Date: {article['date_time']}")
-            if article.get('summary'):
+            if article.get('summary') and article['summary'] != 'N/A':
                 print(f"   Summary: {article['summary'][:100]}...")
+            if article.get('content') and article['content'] != 'N/A':
+                print(f"   Content preview: {article['content'][:100]}...")
             print("-" * 40)
 
 if __name__ == "__main__":
