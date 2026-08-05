@@ -18,6 +18,9 @@ class EcommerceScraper:
         self.playwright = None
         self.browser = None
         self.page = None
+        # Fixed filenames (no timestamps)
+        self.csv_filename = "output/ecommerce_products.csv"
+        self.json_filename = "output/ecommerce_products.json"
         
     def get_full_url(self, path):
         """Construct full URL from base URL and path"""
@@ -38,7 +41,6 @@ class EcommerceScraper:
                 print(f"Found Chromium at: {path}")
                 return path
         
-        # Try to find via which command
         try:
             import subprocess
             result = subprocess.run(['which', 'chromium-browser'], capture_output=True, text=True)
@@ -56,7 +58,6 @@ class EcommerceScraper:
         """Setup Playwright with system Chromium if available"""
         self.playwright = sync_playwright().start()
         
-        # Try to find system Chromium
         chromium_path = self.find_chromium_path()
         
         launch_options = {
@@ -249,7 +250,7 @@ class EcommerceScraper:
                             'rating': rating,
                             'stock_status': stock,
                             'product_url': product_url,
-                            'timestamp': datetime.now().isoformat()
+                            'scraped_at': datetime.now().isoformat()
                         })
                     
                 except Exception as e:
@@ -330,7 +331,7 @@ class EcommerceScraper:
         return self.products
     
     def save_results(self, products):
-        """Save results to CSV and JSON"""
+        """Save results to CSV and JSON - OVERWRITES existing files"""
         if not products:
             print("No products to save!")
             return
@@ -338,28 +339,37 @@ class EcommerceScraper:
         if not os.path.exists('output'):
             os.makedirs('output')
         
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        fieldnames = ['product_name', 'price', 'rating', 'stock_status', 'product_url', 'scraped_at']
         
-        fieldnames = ['product_name', 'price', 'rating', 'stock_status', 'product_url', 'timestamp']
-        
-        csv_file = f'output/ecommerce_products_{timestamp}.csv'
+        # Save as CSV - OVERWRITE if exists
         try:
-            with open(csv_file, 'w', newline='', encoding='utf-8') as f:
+            with open(self.csv_filename, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
                 writer.writeheader()
                 writer.writerows(products)
-            print(f"\n✓ CSV saved: {csv_file}")
+            print(f"\n✓ CSV saved (overwritten): {self.csv_filename}")
+            print(f"  Total records: {len(products)}")
         except Exception as e:
             print(f"✗ Error saving CSV: {e}")
         
-        json_file = f'output/ecommerce_products_{timestamp}.json'
+        # Save as JSON - OVERWRITE if exists
         try:
-            with open(json_file, 'w', encoding='utf-8') as f:
+            with open(self.json_filename, 'w', encoding='utf-8') as f:
                 json.dump(products, f, indent=2, ensure_ascii=False)
-            print(f"✓ JSON saved: {json_file}")
+            print(f"✓ JSON saved (overwritten): {self.json_filename}")
+            print(f"  Total records: {len(products)}")
         except Exception as e:
             print(f"✗ Error saving JSON: {e}")
         
+        # Print summary
+        print(f"\n{'='*60}")
+        print("SUMMARY")
+        print(f"{'='*60}")
+        print(f"Total products: {len(products)}")
+        print(f"CSV file: {self.csv_filename}")
+        print(f"JSON file: {self.json_filename}")
+        
+        # Show first 5 products as preview
         print(f"\n{'='*60}")
         print("SAMPLE PRODUCTS (first 5)")
         print(f"{'='*60}")
