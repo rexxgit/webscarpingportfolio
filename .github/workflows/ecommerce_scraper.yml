@@ -6,19 +6,19 @@ on:
   workflow_dispatch:
 
 env:
-  # Recommended to prepare for Node 24 default
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to push changes
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        # Pass the token explicitly for authentication
-        token: ${{ secrets.BOT_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}  # Built-in token
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -42,6 +42,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update e-commerce scraped data [skip ci]"
-          # Use the token for the push as well
-          git push https://x-access-token:${{ secrets.BOT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          git push
         fi
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
