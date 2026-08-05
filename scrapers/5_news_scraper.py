@@ -45,46 +45,43 @@ class TechCrunchScraper:
     
     async def _init_browser(self):
         """Initialize Playwright browser with context."""
-        self.playwright = await async_playwright().start()
-        
-        self.browser = await self.playwright.chromium.launch(
-            headless=True,
-            args=[
-                '--no-sandbox',
-                '--disable-dev-shm-usage',
-                '--disable-gpu',
-                '--disable-setuid-sandbox',
-                '--disable-blink-features=AutomationControlled',
-                '--disable-features=IsolateOrigins,site-per-process',
-                '--disable-web-security'
-            ]
-        )
-        
-        self.page = await self.browser.new_page(
-            viewport={'width': 1920, 'height': 1080},
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        )
-        self.page.set_default_timeout(60000)
-        
-        # Add stealth
-        await self.page.add_init_script("""
-            Object.defineProperty(navigator, 'webdriver', {
-                get: () => undefined
-            });
-        """)
-        
-        print("✅ Playwright browser initialized")
+        try:
+            self.playwright = await async_playwright().start()
+            
+            # Use a simpler launch configuration
+            self.browser = await self.playwright.chromium.launch(
+                headless=True,
+                args=[
+                    '--no-sandbox',
+                    '--disable-dev-shm-usage',
+                    '--disable-gpu',
+                    '--disable-setuid-sandbox'
+                ]
+            )
+            
+            self.page = await self.browser.new_page(
+                viewport={'width': 1920, 'height': 1080},
+                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            )
+            self.page.set_default_timeout(45000)
+            
+            print("✅ Playwright browser initialized")
+        except Exception as e:
+            print(f"❌ Error initializing browser: {e}")
+            raise
     
     async def _close_browser(self):
         """Clean up browser resources."""
         try:
+            if self.page:
+                await self.page.close()
             if self.browser:
                 await self.browser.close()
             if self.playwright:
                 await self.playwright.stop()
             print("🔚 Browser closed")
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"⚠️ Error closing browser: {e}")
     
     async def _scroll_to_load(self):
         """Scroll to load lazy-loaded content."""
@@ -102,11 +99,13 @@ class TechCrunchScraper:
     async def _get_next_page_url(self) -> Optional[str]:
         """Extract the next page URL from pagination."""
         try:
+            # Try multiple selectors for pagination
             selectors = [
                 'a.wp-block-query-pagination-next',
+                'a.next.page-numbers',
                 'a:has-text("Next")',
                 'a:has-text("Older posts")',
-                'a.next'
+                '.next a'
             ]
             
             for selector in selectors:
@@ -129,7 +128,6 @@ class TechCrunchScraper:
     async def _extract_article_urls_from_page(self, url: str) -> List[str]:
         """
         Scrape article URLs from a TechCrunch category page.
-        Uses multiple strategies with robust error handling.
         """
         try:
             print(f"📄 Loading category page: {url}")
@@ -138,14 +136,24 @@ class TechCrunchScraper:
                 await self.page.goto(url, wait_until='domcontentloaded', timeout=30000)
             except PlaywrightTimeoutError:
                 print("   ⏳ Load timeout, retrying...")
-                await self.page.goto(url, wait_until='commit', timeout=30000)
+                try:
+                    await self.page.goto(url, wait_until='commit', timeout=30000)
+                except:
+                    print("   ❌ Failed to load page")
+                    return []
             
-            await asyncio.sleep(3)
+            # Wait for content with specific selector
+            try:
+                await self.page.wait_for_selector('h2', timeout=10000)
+            except:
+                print("   ⚠️ No h2 elements found")
+            
+            await asyncio.sleep(2)
             await self._scroll_to_load()
             
             article_urls = []
             
-            # STRATEGY 1: h2 elements with links (MOST RELIABLE)
+            # STRATEGY 1: h2 elements with links
             try:
                 h2_elements = await self.page.query_selector_all('h2')
                 for h2 in h2_elements:
@@ -158,12 +166,12 @@ class TechCrunchScraper:
             except Exception as e:
                 print(f"   ⚠️ Strategy 1 error: {e}")
             
-            # STRATEGY 2: div.wp-block-techcrunch-card
-            if len(article_urls) < 10:
+            # STRATEGY 2: article elements
+            if len(article_urls) < 5:
                 try:
-                    cards = await self.page.query_selector_all('div.wp-block-techcrunch-card')
-                    for card in cards:
-                        link = await card.query_selector('a')
+                    articles = await self.page.query_selector_all('article')
+                    for article in articles:
+                        link = await article.query_selector('a')
                         if link:
                             href = await link.get_attribute('href')
                             if href and 'techcrunch.com' in href and '/category/' not in href:
@@ -173,7 +181,7 @@ class TechCrunchScraper:
                     print(f"   ⚠️ Strategy 2 error: {e}")
             
             # STRATEGY 3: Any link with date pattern
-            if len(article_urls) < 10:
+            if len(article_urls) < 5:
                 try:
                     all_links = await self.page.query_selector_all('a[href*="techcrunch.com"]')
                     for link in all_links:
@@ -196,7 +204,7 @@ class TechCrunchScraper:
     
     async def _scrape_article_content(self, url: str) -> Optional[Dict]:
         """
-        Scrape a single TechCrunch article page using Playwright.
+        Scrape a single TechCrunch article page.
         """
         try:
             print(f"   📄 Scraping article: {url}")
@@ -205,20 +213,17 @@ class TechCrunchScraper:
                 await self.page.goto(url, wait_until='domcontentloaded', timeout=30000)
             except PlaywrightTimeoutError:
                 print("   ⏳ Article load timeout, attempting to proceed...")
-                await self.page.evaluate("window.stop()")
-                await asyncio.sleep(2)
+                try:
+                    await self.page.evaluate("window.stop()")
+                    await asyncio.sleep(2)
+                except:
+                    pass
             
             await asyncio.sleep(1.5)
-            await self._scroll_to_load()
             
             # EXTRACT TITLE
             title = "No Title"
-            title_selectors = [
-                'h1.wp-block-post-title',
-                'h1.article__title',
-                'h1.entry-title',
-                'h1'
-            ]
+            title_selectors = ['h1', '.article__title', '.entry-title', '.wp-block-post-title']
             for selector in title_selectors:
                 try:
                     elem = await self.page.query_selector(selector)
@@ -232,11 +237,10 @@ class TechCrunchScraper:
             # EXTRACT AUTHOR
             author = "Unknown"
             author_selectors = [
-                '.wp-block-post-author__name',
-                '.wp-block-tc23-author-card-name__link',
                 '.byline a',
                 '.article__byline a',
-                '.author-name'
+                '.author-name',
+                '.wp-block-post-author__name'
             ]
             for selector in author_selectors:
                 try:
@@ -248,27 +252,9 @@ class TechCrunchScraper:
                 except Exception:
                     continue
             
-            # Fallback: find "By" text
-            if author == "Unknown":
-                try:
-                    by_text = await self.page.query_selector('text=By')
-                    if by_text:
-                        parent = await by_text.query_selector('xpath=..')
-                        if parent:
-                            text = await parent.text_content()
-                            if 'By' in text:
-                                author = text.replace('By', '').strip()
-                except:
-                    pass
-            
             # EXTRACT DATE
             date = datetime.now().strftime('%Y-%m-%d')
-            date_selectors = [
-                'time[datetime]',
-                '.wp-block-post-date time',
-                '.article__date',
-                '.post-date'
-            ]
+            date_selectors = ['time', '.post-date', '.article__date']
             for selector in date_selectors:
                 try:
                     elem = await self.page.query_selector(selector)
@@ -286,17 +272,9 @@ class TechCrunchScraper:
             
             # EXTRACT CONTENT
             content = ""
+            content_selectors = ['.entry-content', '.article-content', '.post-content', 'article']
+            
             content_elem = None
-            
-            # Try to find article content
-            content_selectors = [
-                '.entry-content.wp-block-post-content',
-                '.entry-content',
-                '.article-content',
-                '.post-content',
-                'main article'
-            ]
-            
             for selector in content_selectors:
                 try:
                     content_elem = await self.page.query_selector(selector)
@@ -316,19 +294,6 @@ class TechCrunchScraper:
                     content = ' '.join(paragraph_texts)
                 except Exception:
                     content = ""
-            
-            # Fallback: get all paragraphs
-            if not content or len(content) < 100:
-                try:
-                    all_paragraphs = await self.page.query_selector_all('p.wp-block-paragraph')
-                    paragraph_texts = []
-                    for p in all_paragraphs:
-                        text = await p.text_content()
-                        if text and len(text.strip()) > 20:
-                            paragraph_texts.append(text.strip())
-                    content = ' '.join(paragraph_texts)
-                except Exception:
-                    pass
             
             # Build result
             if content and len(content) > 100:
@@ -351,7 +316,7 @@ class TechCrunchScraper:
     
     async def scrape(self, max_articles: int = 15, max_pages: int = 3) -> List[Dict]:
         """
-        Main scraping function - collects URLs and scrapes articles.
+        Main scraping function.
         """
         print(f"\n{'='*60}")
         print(f"STARTING NEWS SCRAPER")
@@ -366,14 +331,17 @@ class TechCrunchScraper:
         self.max_articles = max_articles
         self.max_pages = max_pages
         
-        await self._init_browser()
+        try:
+            await self._init_browser()
+        except Exception as e:
+            print(f"❌ Failed to initialize browser: {e}")
+            return []
         
         try:
             all_urls = []
             current_url = self.full_search_url
             page_count = 0
             
-            # Step 1: Collect article URLs
             print("🔍 Step 1: Collecting article URLs...")
             while current_url and page_count < max_pages:
                 page_count += 1
@@ -403,7 +371,6 @@ class TechCrunchScraper:
                     print(f"   ❌ Error on page {page_count}: {e}")
                     break
             
-            # Trim to max articles
             if len(all_urls) > max_articles:
                 all_urls = all_urls[:max_articles]
             
@@ -413,7 +380,6 @@ class TechCrunchScraper:
                 print("❌ No article URLs found")
                 return []
             
-            # Step 2: Scrape each article
             print(f"\n📝 Step 2: Scraping {len(all_urls)} articles...")
             articles = []
             for i, url in enumerate(all_urls):
@@ -430,6 +396,8 @@ class TechCrunchScraper:
             
         except Exception as e:
             print(f"❌ Scraper error: {e}")
+            import traceback
+            traceback.print_exc()
             return []
         finally:
             await self._close_browser()
@@ -437,7 +405,6 @@ class TechCrunchScraper:
     def save_results(self, articles: List[Dict]) -> None:
         """
         Save results to CSV and JSON - OVERWRITES existing files.
-        Matches the pattern used in other scrapers.
         """
         if not articles:
             print("No articles to save!")
@@ -468,7 +435,6 @@ class TechCrunchScraper:
         except Exception as e:
             print(f"✗ Error saving JSON: {e}")
         
-        # Print summary
         print(f"\n{'='*60}")
         print("SUMMARY")
         print(f"{'='*60}")
@@ -476,7 +442,6 @@ class TechCrunchScraper:
         print(f"CSV file: {self.csv_filename}")
         print(f"JSON file: {self.json_filename}")
         
-        # Show first 5 articles as preview
         print(f"\n{'='*60}")
         print("SAMPLE ARTICLES (first 5)")
         print(f"{'='*60}")
@@ -499,8 +464,15 @@ async def main():
     print("="*60)
     
     scraper = TechCrunchScraper()
-    articles = await scraper.scrape(max_articles=15, max_pages=3)
+    articles = await scraper.scrape(max_articles=10, max_pages=2)
     scraper.save_results(articles)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("\n⚠️ Scraper interrupted by user")
+    except Exception as e:
+        print(f"\n❌ Scraper failed: {e}")
+        import traceback
+        traceback.print_exc()
