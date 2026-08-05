@@ -24,22 +24,29 @@ class EcommerceScraper:
         return urljoin(self.base_url, path)
     
     def setup_browser(self):
-        """Setup Playwright browser"""
+        """Setup Playwright with Chromium"""
         self.playwright = sync_playwright().start()
+        
+        # Launch Chromium with specific arguments for stability
         self.browser = self.playwright.chromium.launch(
-            headless=True,  # Run in headless mode for GitHub Actions
+            headless=True,
             args=[
                 '--no-sandbox',
                 '--disable-dev-shm-usage',
                 '--disable-gpu',
-                '--window-size=1920,1080'
+                '--disable-setuid-sandbox',
+                '--no-first-run',
+                '--no-zygote',
+                '--single-process',
+                '--disable-extensions'
             ]
         )
+        
         self.page = self.browser.new_page(
             viewport={'width': 1920, 'height': 1080},
             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         )
-        self.page.set_default_timeout(30000)  # 30 second timeout
+        self.page.set_default_timeout(30000)
         
     def close_browser(self):
         """Close browser and playwright"""
@@ -51,7 +58,6 @@ class EcommerceScraper:
     def extract_title(self, card):
         """Extract product title using multiple methods"""
         try:
-            # Method 1: Using data-testid
             title_elem = card.query_selector('span[data-testid="ds-box"]')
             if title_elem:
                 title = title_elem.inner_text().strip()
@@ -61,7 +67,6 @@ class EcommerceScraper:
             pass
             
         try:
-            # Method 2: Using class containing 'SearchResultCard_title'
             title_elem = card.query_selector('span[class*="SearchResultCard_title"]')
             if title_elem:
                 title = title_elem.inner_text().strip()
@@ -71,12 +76,10 @@ class EcommerceScraper:
             pass
             
         try:
-            # Method 3: Find all spans and look for the one with longest text
             spans = card.query_selector_all('span')
             for span in spans:
                 text = span.inner_text().strip()
                 if len(text) > 15 and '$' not in text and '★' not in text:
-                    # Check if it's in a link
                     parent_link = span.query_selector('xpath=./ancestor::a')
                     if parent_link:
                         return text
@@ -84,7 +87,6 @@ class EcommerceScraper:
             pass
             
         try:
-            # Method 4: Get image alt text
             img = card.query_selector('img')
             if img:
                 alt_text = img.get_attribute('alt')
@@ -94,7 +96,6 @@ class EcommerceScraper:
             pass
             
         try:
-            # Method 5: Get link text
             link = card.query_selector('a')
             if link:
                 text = link.inner_text().strip()
@@ -108,7 +109,6 @@ class EcommerceScraper:
     def extract_price(self, card):
         """Extract product price"""
         try:
-            # Method 1: Using data-testid
             price_elem = card.query_selector('span[data-testid="line-item-price-price"]')
             if price_elem:
                 price = price_elem.inner_text().strip()
@@ -118,7 +118,6 @@ class EcommerceScraper:
             pass
             
         try:
-            # Method 2: Using class containing 'Price'
             price_elem = card.query_selector('span[class*="Price"]')
             if price_elem:
                 price = price_elem.inner_text().strip()
@@ -128,7 +127,6 @@ class EcommerceScraper:
             pass
             
         try:
-            # Method 3: Look for price pattern in card text
             card_text = card.inner_text()
             price_pattern = re.search(r'\$\d+\.?\d*', card_text)
             if price_pattern:
@@ -143,45 +141,36 @@ class EcommerceScraper:
         try:
             print(f"Fetching URL: {url}")
             
-            # Navigate to the page
             self.page.goto(url, wait_until='networkidle')
             
-            # Wait for products to load - try multiple selectors
             try:
                 self.page.wait_for_selector('div[data-testid="search-result-card"]', timeout=15000)
             except PlaywrightTimeoutError:
                 print("Timeout waiting for product cards. Checking for alternative selectors...")
-                # Try alternative selector
                 try:
                     self.page.wait_for_selector('div[class*="SearchResultCard"]', timeout=10000)
                 except PlaywrightTimeoutError:
                     print("No products found on this page")
                     return None
             
-            # Scroll down to load more products
             self.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
             time.sleep(2)
             
-            # Scroll back up slightly to ensure all elements are loaded
             self.page.evaluate("window.scrollTo(0, document.body.scrollHeight * 0.5)")
             time.sleep(1)
             
-            # Find all product cards - try multiple selectors
             product_cards = self.page.query_selector_all('div[data-testid="search-result-card"]')
             
             if not product_cards:
-                # Try alternative selector
                 product_cards = self.page.query_selector_all('div[class*="SearchResultCard"]')
             
             print(f"Found {len(product_cards)} product cards on this page")
             
             for index, card in enumerate(product_cards):
                 try:
-                    # Extract data
                     title = self.extract_title(card)
                     price = self.extract_price(card)
                     
-                    # Extract rating
                     rating = "N/A"
                     try:
                         rating_elem = card.query_selector('span[data-testid="rating-stars"]')
@@ -190,21 +179,18 @@ class EcommerceScraper:
                     except:
                         pass
                     
-                    # Extract stock status
                     stock = "In Stock"
                     try:
                         stock_elem = card.query_selector('span[data-testid="stock-status"]')
                         if stock_elem:
                             stock = stock_elem.inner_text().strip()
                         else:
-                            # Check for out of stock indicators in card text
                             card_text = card.inner_text().lower()
                             if 'out of stock' in card_text or 'sold out' in card_text:
                                 stock = "Out of Stock"
                     except:
                         pass
                     
-                    # Extract product URL
                     product_url = "N/A"
                     try:
                         link = card.query_selector('a')
@@ -226,14 +212,11 @@ class EcommerceScraper:
                             'product_url': product_url,
                             'timestamp': datetime.now().isoformat()
                         })
-                    else:
-                        print(f"  ⚠️ Skipping product {index + 1} - no title found")
                     
                 except Exception as e:
                     print(f"Error parsing product card {index}: {e}")
                     continue
             
-            # Check for next page
             try:
                 next_button = self.page.query_selector('a[data-testid="pagination-next"]')
                 if next_button:
@@ -245,7 +228,6 @@ class EcommerceScraper:
             except:
                 pass
                 
-            # Try alternative pagination selector
             try:
                 next_links = self.page.query_selector_all('a:has-text("Next")')
                 for link in next_links:
@@ -294,7 +276,6 @@ class EcommerceScraper:
                 page_num += 1
                 print(f"Total products scraped so far: {len(self.products)}")
                 
-                # Random delay to be respectful
                 delay = random.uniform(2, 4)
                 print(f"Waiting {delay:.2f} seconds before next request...")
                 time.sleep(delay)
@@ -320,10 +301,8 @@ class EcommerceScraper:
         
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         
-        # Define field names for CSV
         fieldnames = ['product_name', 'price', 'rating', 'stock_status', 'product_url', 'timestamp']
         
-        # Save as CSV
         csv_file = f'output/ecommerce_products_{timestamp}.csv'
         try:
             with open(csv_file, 'w', newline='', encoding='utf-8') as f:
@@ -334,7 +313,6 @@ class EcommerceScraper:
         except Exception as e:
             print(f"✗ Error saving CSV: {e}")
         
-        # Save as JSON
         json_file = f'output/ecommerce_products_{timestamp}.json'
         try:
             with open(json_file, 'w', encoding='utf-8') as f:
@@ -343,15 +321,6 @@ class EcommerceScraper:
         except Exception as e:
             print(f"✗ Error saving JSON: {e}")
         
-        # Print summary
-        print(f"\n{'='*60}")
-        print("SUMMARY")
-        print(f"{'='*60}")
-        print(f"Total products: {len(products)}")
-        print(f"CSV file: {csv_file}")
-        print(f"JSON file: {json_file}")
-        
-        # Show first 5 products as preview
         print(f"\n{'='*60}")
         print("SAMPLE PRODUCTS (first 5)")
         print(f"{'='*60}")
@@ -366,7 +335,7 @@ class EcommerceScraper:
 
 if __name__ == "__main__":
     print("="*60)
-    print("E-COMMERCE PRODUCT SCRAPER (Playwright)")
+    print("E-COMMERCE PRODUCT SCRAPER (Playwright with Chromium)")
     print("="*60)
     
     scraper = EcommerceScraper()
