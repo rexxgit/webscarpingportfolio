@@ -1,6 +1,4 @@
 # scrapers/1_ecommerce_scraper.py
-import requests
-from bs4 import BeautifulSoup
 import time
 import csv
 import json
@@ -9,208 +7,216 @@ from datetime import datetime
 import random
 from urllib.parse import urljoin
 import re
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 class EcommerceScraper:
     def __init__(self):
-        self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate, br',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1'
-        }
         self.base_url = "https://www.redbubble.com"
         self.search_path = "/shop/iphone-17-cases"
         self.full_search_url = urljoin(self.base_url, self.search_path)
         self.products = []
+        self.playwright = None
+        self.browser = None
+        self.page = None
         
     def get_full_url(self, path):
         """Construct full URL from base URL and path"""
         return urljoin(self.base_url, path)
     
+    def setup_browser(self):
+        """Setup Playwright browser"""
+        self.playwright = sync_playwright().start()
+        self.browser = self.playwright.chromium.launch(
+            headless=True,  # Run in headless mode for GitHub Actions
+            args=[
+                '--no-sandbox',
+                '--disable-dev-shm-usage',
+                '--disable-gpu',
+                '--window-size=1920,1080'
+            ]
+        )
+        self.page = self.browser.new_page(
+            viewport={'width': 1920, 'height': 1080},
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        self.page.set_default_timeout(30000)  # 30 second timeout
+        
+    def close_browser(self):
+        """Close browser and playwright"""
+        if self.browser:
+            self.browser.close()
+        if self.playwright:
+            self.playwright.stop()
+    
     def extract_title(self, card):
-        """Extract product title using multiple methods specific to Redbubble"""
-        title = "N/A"
-        
-        # Method 1: Using data-testid='ds-box' (your primary selector)
-        title_elem = card.find('span', {'data-testid': 'ds-box'})
-        if title_elem and title_elem.text.strip():
-            title = title_elem.text.strip()
-            print(f"  Found title via data-testid: {title[:30]}...")
-            return title
-        
-        # Method 2: Using class containing 'SearchResultCard_title'
-        title_elem = card.find('span', class_=lambda c: c and 'SearchResultCard_title' in c if c else False)
-        if title_elem and title_elem.text.strip():
-            title = title_elem.text.strip()
-            print(f"  Found title via SearchResultCard_title: {title[:30]}...")
-            return title
-        
-        # Method 3: Find all spans and look for the one with the longest text (likely the title)
-        spans = card.find_all('span')
-        for span in spans:
-            text = span.text.strip()
-            # Title should be longer than 10 characters and not contain price symbols
-            if len(text) > 15 and not '$' in text and not '★' in text:
-                # Check if it's in a link (most product titles are in links)
-                parent_link = span.find_parent('a')
-                if parent_link:
-                    title = text
-                    print(f"  Found title via span in link: {title[:30]}...")
+        """Extract product title using multiple methods"""
+        try:
+            # Method 1: Using data-testid
+            title_elem = card.query_selector('span[data-testid="ds-box"]')
+            if title_elem:
+                title = title_elem.inner_text().strip()
+                if title:
                     return title
-        
-        # Method 4: Look for any text in the card that looks like a title
-        # Get all text from the card
-        card_text = card.get_text(separator='\n', strip=True)
-        lines = [line.strip() for line in card_text.split('\n') if line.strip()]
-        
-        # Title is usually the first long line that doesn't look like a price
-        for line in lines:
-            if len(line) > 15 and not re.search(r'\$\d+', line) and not re.search(r'★', line):
-                title = line
-                print(f"  Found title via text extraction: {title[:30]}...")
-                return title
-        
-        # Method 5: Look for image alt text (often contains the product name)
-        img = card.find('img')
-        if img and img.get('alt'):
-            alt_text = img.get('alt').strip()
-            if len(alt_text) > 10:
-                title = alt_text
-                print(f"  Found title via image alt: {title[:30]}...")
-                return title
-        
-        # Method 6: Look for any heading element
-        heading = card.find(['h1', 'h2', 'h3', 'h4'])
-        if heading and heading.text.strip():
-            title = heading.text.strip()
-            print(f"  Found title via heading: {title[:30]}...")
-            return title
-        
-        # Method 7: Look for link text
-        link = card.find('a')
-        if link and link.text.strip() and len(link.text.strip()) > 10:
-            title = link.text.strip()
-            print(f"  Found title via link text: {title[:30]}...")
-            return title
-        
-        # Debug: print all text from card to help identify the issue
-        if title == "N/A":
-            print("  ⚠️ No title found. Card preview:")
-            preview = card.get_text(separator=' ', strip=True)[:100]
-            print(f"  Preview: {preview}...")
+        except:
+            pass
             
-            # Debug: show all spans in the card
-            spans = card.find_all('span')
-            if spans:
-                print(f"  Found {len(spans)} spans in card:")
-                for i, span in enumerate(spans[:3]):
-                    text = span.text.strip()
-                    if text:
-                        print(f"    Span {i+1}: {text[:50]}...")
-        
-        return title
+        try:
+            # Method 2: Using class containing 'SearchResultCard_title'
+            title_elem = card.query_selector('span[class*="SearchResultCard_title"]')
+            if title_elem:
+                title = title_elem.inner_text().strip()
+                if title:
+                    return title
+        except:
+            pass
+            
+        try:
+            # Method 3: Find all spans and look for the one with longest text
+            spans = card.query_selector_all('span')
+            for span in spans:
+                text = span.inner_text().strip()
+                if len(text) > 15 and '$' not in text and '★' not in text:
+                    # Check if it's in a link
+                    parent_link = span.query_selector('xpath=./ancestor::a')
+                    if parent_link:
+                        return text
+        except:
+            pass
+            
+        try:
+            # Method 4: Get image alt text
+            img = card.query_selector('img')
+            if img:
+                alt_text = img.get_attribute('alt')
+                if alt_text and len(alt_text.strip()) > 10:
+                    return alt_text.strip()
+        except:
+            pass
+            
+        try:
+            # Method 5: Get link text
+            link = card.query_selector('a')
+            if link:
+                text = link.inner_text().strip()
+                if len(text) > 10:
+                    return text
+        except:
+            pass
+            
+        return "N/A"
     
     def extract_price(self, card):
-        """Extract product price using multiple methods"""
-        # Method 1: Using data-testid
-        price_elem = card.find('span', {'data-testid': 'line-item-price-price'})
-        if price_elem and price_elem.text.strip():
-            return price_elem.text.strip()
-        
-        # Method 2: Using class containing 'Price'
-        price_elem = card.find('span', class_=lambda c: c and 'Price' in c if c else False)
-        if price_elem and price_elem.text.strip():
-            return price_elem.text.strip()
-        
-        # Method 3: Looking for any element with $ sign
-        elements_with_dollar = card.find_all(string=lambda t: t and '$' in t if t else False)
-        for elem in elements_with_dollar:
-            if elem.strip():
-                # Clean up the price
-                price_text = elem.strip()
-                # Extract just the price part
-                price_match = re.search(r'\$\d+\.?\d*', price_text)
-                if price_match:
-                    return price_match.group()
-                return price_text
-        
-        # Method 4: Look for price pattern in text
-        card_text = card.get_text()
-        price_pattern = re.search(r'\$\d+\.?\d*', card_text)
-        if price_pattern:
-            return price_pattern.group()
-        
+        """Extract product price"""
+        try:
+            # Method 1: Using data-testid
+            price_elem = card.query_selector('span[data-testid="line-item-price-price"]')
+            if price_elem:
+                price = price_elem.inner_text().strip()
+                if price:
+                    return price
+        except:
+            pass
+            
+        try:
+            # Method 2: Using class containing 'Price'
+            price_elem = card.query_selector('span[class*="Price"]')
+            if price_elem:
+                price = price_elem.inner_text().strip()
+                if price:
+                    return price
+        except:
+            pass
+            
+        try:
+            # Method 3: Look for price pattern in card text
+            card_text = card.inner_text()
+            price_pattern = re.search(r'\$\d+\.?\d*', card_text)
+            if price_pattern:
+                return price_pattern.group()
+        except:
+            pass
+            
         return "N/A"
     
     def scrape_page(self, url):
         """Scrape a single page of products"""
         try:
             print(f"Fetching URL: {url}")
-            response = requests.get(url, headers=self.headers, timeout=15)
-            response.raise_for_status()
             
-            soup = BeautifulSoup(response.text, 'html.parser')
+            # Navigate to the page
+            self.page.goto(url, wait_until='networkidle')
             
-            # Try multiple ways to find product cards
-            product_cards = []
+            # Wait for products to load - try multiple selectors
+            try:
+                self.page.wait_for_selector('div[data-testid="search-result-card"]', timeout=15000)
+            except PlaywrightTimeoutError:
+                print("Timeout waiting for product cards. Checking for alternative selectors...")
+                # Try alternative selector
+                try:
+                    self.page.wait_for_selector('div[class*="SearchResultCard"]', timeout=10000)
+                except PlaywrightTimeoutError:
+                    print("No products found on this page")
+                    return None
             
-            # Method 1: Using data-testid
-            product_cards = soup.find_all('div', {'data-testid': 'search-result-card'})
+            # Scroll down to load more products
+            self.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            time.sleep(2)
             
-            # Method 2: If no cards found, try looking for product containers
+            # Scroll back up slightly to ensure all elements are loaded
+            self.page.evaluate("window.scrollTo(0, document.body.scrollHeight * 0.5)")
+            time.sleep(1)
+            
+            # Find all product cards - try multiple selectors
+            product_cards = self.page.query_selector_all('div[data-testid="search-result-card"]')
+            
             if not product_cards:
-                product_cards = soup.find_all('div', class_=lambda c: c and 'SearchResultCard' in c if c else False)
-            
-            # Method 3: Look for any div that contains product information
-            if not product_cards:
-                product_cards = soup.find_all('div', class_=lambda c: c and 'product' in c.lower() if c else False)
+                # Try alternative selector
+                product_cards = self.page.query_selector_all('div[class*="SearchResultCard"]')
             
             print(f"Found {len(product_cards)} product cards on this page")
             
             for index, card in enumerate(product_cards):
                 try:
-                    # Extract title using the enhanced method
+                    # Extract data
                     title = self.extract_title(card)
-                    
-                    # Extract price using the enhanced method
                     price = self.extract_price(card)
                     
-                    # Extract rating (if available)
+                    # Extract rating
                     rating = "N/A"
-                    rating_elem = card.find('span', {'data-testid': 'rating-stars'})
-                    if rating_elem:
-                        rating = rating_elem.get('aria-label', 'N/A')
-                    else:
-                        # Try to find rating via other selectors
-                        rating_spans = card.find_all('span', class_=lambda c: c and ('rating' in c.lower() or 'star' in c.lower()) if c else False)
-                        if rating_spans:
-                            rating_text = rating_spans[0].text.strip()
-                            if rating_text:
-                                rating = rating_text
+                    try:
+                        rating_elem = card.query_selector('span[data-testid="rating-stars"]')
+                        if rating_elem:
+                            rating = rating_elem.get_attribute('aria-label') or "N/A"
+                    except:
+                        pass
                     
                     # Extract stock status
                     stock = "In Stock"
-                    stock_elem = card.find('span', {'data-testid': 'stock-status'})
-                    if stock_elem:
-                        stock = stock_elem.text.strip()
-                    else:
-                        # Check for out of stock indicators
-                        out_of_stock = card.find(text=lambda t: t and ('out of stock' in t.lower() or 'sold out' in t.lower()) if t else False)
-                        if out_of_stock:
-                            stock = "Out of Stock"
+                    try:
+                        stock_elem = card.query_selector('span[data-testid="stock-status"]')
+                        if stock_elem:
+                            stock = stock_elem.inner_text().strip()
+                        else:
+                            # Check for out of stock indicators in card text
+                            card_text = card.inner_text().lower()
+                            if 'out of stock' in card_text or 'sold out' in card_text:
+                                stock = "Out of Stock"
+                    except:
+                        pass
                     
-                    # Extract product URL for reference
+                    # Extract product URL
                     product_url = "N/A"
-                    link = card.find('a')
-                    if link and link.get('href'):
-                        product_url = self.get_full_url(link.get('href'))
+                    try:
+                        link = card.query_selector('a')
+                        if link:
+                            href = link.get_attribute('href')
+                            if href:
+                                product_url = self.get_full_url(href)
+                    except:
+                        pass
                     
-                    # Debug output - show what we found
                     print(f"Product {index + 1}: {title[:50]}... - {price}")
                     
-                    # Only add product if it has a title
                     if title != "N/A":
                         self.products.append({
                             'product_name': title,
@@ -228,68 +234,78 @@ class EcommerceScraper:
                     continue
             
             # Check for next page
-            next_button = soup.find('a', {'data-testid': 'pagination-next'})
-            if next_button and next_button.get('href'):
-                next_url = next_button.get('href')
-                full_next_url = self.get_full_url(next_url)
-                print(f"Next page found: {full_next_url}")
-                return full_next_url
-            else:
-                # Try alternative pagination selector
-                next_links = soup.find_all('a', string=lambda t: t and ('next' in t.lower() or 'Next' in t) if t else False)
+            try:
+                next_button = self.page.query_selector('a[data-testid="pagination-next"]')
+                if next_button:
+                    next_url = next_button.get_attribute('href')
+                    if next_url:
+                        full_next_url = self.get_full_url(next_url)
+                        print(f"Next page found: {full_next_url}")
+                        return full_next_url
+            except:
+                pass
+                
+            # Try alternative pagination selector
+            try:
+                next_links = self.page.query_selector_all('a:has-text("Next")')
                 for link in next_links:
-                    if link.get('href'):
-                        full_next_url = self.get_full_url(link.get('href'))
+                    if link.get_attribute('href'):
+                        full_next_url = self.get_full_url(link.get_attribute('href'))
                         print(f"Next page found (alternative): {full_next_url}")
                         return full_next_url
+            except:
+                pass
                 
-                print("No more pages found")
-                return None
-            
-        except requests.RequestException as e:
-            print(f"Error scraping page: {e}")
+            print("No more pages found")
             return None
+            
         except Exception as e:
-            print(f"Unexpected error: {e}")
+            print(f"Error scraping page: {e}")
             return None
     
     def scrape(self, max_pages=3):
         """Scrape multiple pages"""
-        current_url = self.full_search_url
-        page_num = 1
+        self.setup_browser()
         
-        print(f"\n{'='*60}")
-        print(f"STARTING SCRAPER")
-        print(f"{'='*60}")
-        print(f"Base URL: {self.base_url}")
-        print(f"Search path: {self.search_path}")
-        print(f"Full URL: {self.full_search_url}")
-        print(f"{'='*60}\n")
-        
-        while current_url and page_num <= max_pages:
-            print(f"{'='*60}")
-            print(f"SCRAPING PAGE {page_num}")
-            print(f"{'='*60}")
+        try:
+            current_url = self.full_search_url
+            page_num = 1
             
-            next_url = self.scrape_page(current_url)
+            print(f"\n{'='*60}")
+            print(f"STARTING SCRAPER")
+            print(f"{'='*60}")
+            print(f"Base URL: {self.base_url}")
+            print(f"Search path: {self.search_path}")
+            print(f"Full URL: {self.full_search_url}")
+            print(f"{'='*60}\n")
             
-            if next_url:
-                current_url = next_url
-            else:
-                break
+            while current_url and page_num <= max_pages:
+                print(f"{'='*60}")
+                print(f"SCRAPING PAGE {page_num}")
+                print(f"{'='*60}")
                 
-            page_num += 1
-            print(f"Total products scraped so far: {len(self.products)}")
+                next_url = self.scrape_page(current_url)
+                
+                if next_url:
+                    current_url = next_url
+                else:
+                    break
+                    
+                page_num += 1
+                print(f"Total products scraped so far: {len(self.products)}")
+                
+                # Random delay to be respectful
+                delay = random.uniform(2, 4)
+                print(f"Waiting {delay:.2f} seconds before next request...")
+                time.sleep(delay)
             
-            # Random delay to be respectful
-            delay = random.uniform(2, 4)
-            print(f"Waiting {delay:.2f} seconds before next request...")
-            time.sleep(delay)
-        
-        print(f"\n{'='*60}")
-        print(f"SCRAPING COMPLETE!")
-        print(f"Total products scraped: {len(self.products)}")
-        print(f"{'='*60}")
+            print(f"\n{'='*60}")
+            print(f"SCRAPING COMPLETE!")
+            print(f"Total products scraped: {len(self.products)}")
+            print(f"{'='*60}")
+            
+        finally:
+            self.close_browser()
         
         return self.products
     
@@ -348,49 +364,10 @@ class EcommerceScraper:
                 print(f"   URL: {product['product_url'][:60]}...")
             print("-" * 40)
 
-# Test function to debug title extraction
-def test_title_extraction():
-    """Test function to debug title extraction"""
-    print("Running title extraction test...")
-    scraper = EcommerceScraper()
-    
-    try:
-        response = requests.get(scraper.full_search_url, headers=scraper.headers, timeout=15)
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        cards = soup.find_all('div', {'data-testid': 'search-result-card'})
-        
-        print(f"\nFound {len(cards)} cards to test")
-        
-        for i, card in enumerate(cards[:3], 1):
-            print(f"\n{'='*50}")
-            print(f"Testing Card {i}")
-            print(f"{'='*50}")
-            
-            # Try each method
-            title = scraper.extract_title(card)
-            print(f"Final title: {title}")
-            
-            # Show all text in the card
-            print("\nAll text in card:")
-            text = card.get_text(separator='\n', strip=True)
-            lines = [line.strip() for line in text.split('\n') if line.strip()]
-            for line in lines[:5]:
-                print(f"  {line[:100]}")
-            
-            print("-" * 50)
-            
-    except Exception as e:
-        print(f"Test error: {e}")
-
 if __name__ == "__main__":
     print("="*60)
-    print("E-COMMERCE PRODUCT SCRAPER")
+    print("E-COMMERCE PRODUCT SCRAPER (Playwright)")
     print("="*60)
-    
-    # Uncomment to run the test
-    # test_title_extraction()
     
     scraper = EcommerceScraper()
     products = scraper.scrape(max_pages=2)
