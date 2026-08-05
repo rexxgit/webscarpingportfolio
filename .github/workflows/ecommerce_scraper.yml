@@ -2,8 +2,12 @@ name: E-commerce Product Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
-  workflow_dispatch:
+    - cron: '0 0 * * 0'  # Run every Sunday at midnight
+  workflow_dispatch:  # Allow manual trigger
+
+env:
+  # Force Node 24 for testing (optional, can be removed after June 2026)
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   scrape:
@@ -37,5 +41,5 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update e-commerce scraped data [skip ci]"
-          git push https://x-access-token:${{ secrets.BOT_TOKEN }}@github.com/rexxgit/webscarpingportfolio.git HEAD:main
+          git push https://x-access-token:${{ secrets.BOT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
         fi
