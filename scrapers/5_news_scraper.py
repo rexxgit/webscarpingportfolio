@@ -77,7 +77,10 @@ class NewsScraper:
                 '--no-zygote',
                 '--single-process',
                 '--disable-extensions',
-                '--disable-blink-features=AutomationControlled'
+                '--disable-blink-features=AutomationControlled',
+                '--disable-features=IsolateOrigins,site-per-process',
+                '--disable-web-security',
+                '--disable-features=BlockInsecurePrivateNetworkRequests'
             ]
         }
         
@@ -92,7 +95,8 @@ class NewsScraper:
             viewport={'width': 1920, 'height': 1080},
             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         )
-        self.page.set_default_timeout(30000)
+        # Increase timeout for slow pages
+        self.page.set_default_timeout(60000)
         
     def close_browser(self):
         """Close browser and playwright"""
@@ -259,15 +263,18 @@ class NewsScraper:
         try:
             print(f"  Fetching article: {article_url}")
             
-            # Navigate to article page
-            self.page.goto(article_url, wait_until='networkidle')
+            # Navigate to article page with longer timeout
+            self.page.goto(article_url, wait_until='domcontentloaded', timeout=60000)
             time.sleep(2)
             
             # Wait for content to load
             try:
                 self.page.wait_for_selector('p.wp-block-paragraph', timeout=10000)
             except:
-                pass
+                try:
+                    self.page.wait_for_selector('article p', timeout=5000)
+                except:
+                    pass
             
             # Extract content
             content_parts = []
@@ -280,6 +287,8 @@ class NewsScraper:
             else:
                 # Fallback: find all paragraphs
                 paragraphs = self.page.query_selector_all('p.wp-block-paragraph')
+                if not paragraphs:
+                    paragraphs = self.page.query_selector_all('article p')
                 if not paragraphs:
                     paragraphs = self.page.query_selector_all('p')
             
@@ -305,20 +314,22 @@ class NewsScraper:
         try:
             print(f"Fetching URL: {url}")
             
-            # Navigate to the page
-            self.page.goto(url, wait_until='networkidle')
-            time.sleep(3)
+            # Navigate to the page with domcontentloaded to speed up
+            self.page.goto(url, wait_until='domcontentloaded', timeout=60000)
             
-            # Wait for content to load
+            # Wait for content to load with shorter timeout
             try:
-                self.page.wait_for_selector('div.wp-block-techcrunch-card', timeout=15000)
+                self.page.wait_for_selector('div.wp-block-techcrunch-card', timeout=10000)
             except PlaywrightTimeoutError:
                 print("Timeout waiting for article cards. Trying alternative selectors...")
                 try:
-                    self.page.wait_for_selector('article', timeout=10000)
-                except:
-                    print("No articles found on this page")
-                    return None
+                    self.page.wait_for_selector('article', timeout=5000)
+                except PlaywrightTimeoutError:
+                    try:
+                        self.page.wait_for_selector('h2 a', timeout=5000)
+                    except PlaywrightTimeoutError:
+                        print("No articles found on this page")
+                        return None
             
             # Scroll to load more content
             self.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
@@ -338,6 +349,16 @@ class NewsScraper:
             if not article_cards:
                 article_cards = self.page.query_selector_all('[class*="post"], [class*="article"]')
             
+            # Method 4: Look for any div containing h2 with link
+            if not article_cards:
+                h2_elements = self.page.query_selector_all('h2')
+                for h2 in h2_elements:
+                    link = h2.query_selector('a')
+                    if link:
+                        parent = h2.query_selector('xpath=../..')
+                        if parent:
+                            article_cards.append(parent)
+            
             print(f"Found {len(article_cards)} article cards on this page")
             
             for index, card in enumerate(article_cards):
@@ -355,9 +376,9 @@ class NewsScraper:
                         if href:
                             article_link = self.get_full_url(href)
                     
-                    # Scrape full article content if link available
+                    # Only scrape content for first 3 articles to save time
                     content = "N/A"
-                    if article_link:
+                    if article_link and index < 3:
                         content = self.scrape_article_content(article_link)
                         time.sleep(random.uniform(1, 2))
                     
@@ -397,14 +418,52 @@ class NewsScraper:
             except:
                 pass
                 
+            # Try older pagination
+            try:
+                older_link = self.page.query_selector('a:has-text("Older posts")')
+                if older_link:
+                    href = older_link.get_attribute('href')
+                    if href:
+                        return self.get_full_url(href)
+            except:
+                pass
+                
             print("No more pages found")
             return None
             
+        except PlaywrightTimeoutError as e:
+            print(f"Timeout error scraping page: {e}")
+            # Try to get whatever content is already loaded
+            try:
+                # Check if any content loaded
+                h2_elements = self.page.query_selector_all('h2')
+                if h2_elements:
+                    print(f"Found {len(h2_elements)} h2 elements despite timeout")
+                    # Try to extract from what's loaded
+                    for h2 in h2_elements[:5]:
+                        link = h2.query_selector('a')
+                        if link:
+                            headline = link.inner_text().strip()
+                            article_link = self.get_full_url(link.get_attribute('href'))
+                            self.articles.append({
+                                'headline': headline,
+                                'author': "N/A",
+                                'date_time': "N/A",
+                                'summary': "N/A",
+                                'content': "N/A",
+                                'article_link': article_link,
+                                'scraped_at': datetime.now().isoformat()
+                            })
+                    print(f"Extracted {len(self.articles)} articles from partial load")
+                    return None
+            except:
+                pass
+            return None
         except Exception as e:
             print(f"Error scraping page: {e}")
             return None
     
-    def scrape(self, max_pages=3):
+    def scrape(self, max_pages=2):
         """Scrape multiple pages"""
         self.setup_browser()
         
