@@ -1,3 +1,4 @@
+# .github/workflows/news_scraper.yml
 name: News Scraper
 
 on:
@@ -12,16 +13,23 @@ jobs:
       contents: write
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     
-    - uses: actions/setup-python@v5
+    - name: Set up Python
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
     
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Install Chromium for Playwright
+      run: |
+        python -m playwright install chromium
     
     - name: Run news scraper
       run: python scrapers/5_news_scraper.py
