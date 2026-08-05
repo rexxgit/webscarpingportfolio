@@ -1,21 +1,19 @@
 # scrapers/5_news_scraper.py
-import asyncio
+import requests
+from bs4 import BeautifulSoup
+import time
 import csv
 import json
 import os
-import time
-import random
-import hashlib
 from datetime import datetime
-from typing import List, Dict, Optional
+import random
 from urllib.parse import urljoin
-
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+import re
 
 class TechCrunchScraper:
     """
-    TechCrunch AI News Scraper using Playwright for JavaScript-rendered content.
-    Follows the same pattern as other scrapers in the portfolio.
+    TechCrunch AI News Scraper using Requests and BeautifulSoup.
+    More reliable than Playwright for CI/CD environments.
     """
     
     def __init__(self):
@@ -23,17 +21,18 @@ class TechCrunchScraper:
         self.search_path = "/category/artificial-intelligence/"
         self.full_search_url = urljoin(self.base_url, self.search_path)
         self.articles = []
-        self.playwright = None
-        self.browser = None
-        self.page = None
-        self.max_articles = 15
-        self.max_pages = 3
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Referer': 'https://techcrunch.com/'
+        }
         
         # Fixed filenames (no timestamps - overwrite)
         self.csv_filename = "output/news_articles.csv"
         self.json_filename = "output/news_articles.json"
     
-    def get_full_url(self, path: str) -> Optional[str]:
+    def get_full_url(self, path):
         """Construct full URL from base URL and path"""
         if not path:
             return None
@@ -43,283 +42,318 @@ class TechCrunchScraper:
             return f"https:{path}"
         return urljoin(self.base_url, path)
     
-    async def _init_browser(self):
-        """Initialize Playwright browser with context."""
+    def extract_headline(self, card):
+        """Extract headline from article card"""
         try:
-            self.playwright = await async_playwright().start()
-            
-            # Use a simpler launch configuration
-            self.browser = await self.playwright.chromium.launch(
-                headless=True,
-                args=[
-                    '--no-sandbox',
-                    '--disable-dev-shm-usage',
-                    '--disable-gpu',
-                    '--disable-setuid-sandbox'
-                ]
-            )
-            
-            self.page = await self.browser.new_page(
-                viewport={'width': 1920, 'height': 1080},
-                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-            )
-            self.page.set_default_timeout(45000)
-            
-            print("✅ Playwright browser initialized")
-        except Exception as e:
-            print(f"❌ Error initializing browser: {e}")
-            raise
+            # Method 1: Look for h2 with link
+            h2 = card.find('h2')
+            if h2:
+                link = h2.find('a')
+                if link:
+                    return link.text.strip()
+                return h2.text.strip()
+        except:
+            pass
+        
+        try:
+            # Method 2: Look for any link with longer text
+            links = card.find_all('a')
+            for link in links:
+                text = link.text.strip()
+                if len(text) > 20 and not any(x in text.lower() for x in ['read more', 'comment', 'share']):
+                    return text
+        except:
+            pass
+        
+        return "N/A"
     
-    async def _close_browser(self):
-        """Clean up browser resources."""
+    def extract_author(self, card):
+        """Extract author from article card"""
         try:
-            if self.page:
-                await self.page.close()
-            if self.browser:
-                await self.browser.close()
-            if self.playwright:
-                await self.playwright.stop()
-            print("🔚 Browser closed")
-        except Exception as e:
-            print(f"⚠️ Error closing browser: {e}")
-    
-    async def _scroll_to_load(self):
-        """Scroll to load lazy-loaded content."""
-        try:
-            await self.page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-            await asyncio.sleep(2)
-            await self.page.evaluate('window.scrollTo(0, 0)')
-            await asyncio.sleep(1)
-            await self.page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-            await asyncio.sleep(2)
-            print("   📜 Scrolled to load content")
-        except Exception as e:
-            print(f"   ⚠️ Scroll error: {e}")
-    
-    async def _get_next_page_url(self) -> Optional[str]:
-        """Extract the next page URL from pagination."""
-        try:
-            # Try multiple selectors for pagination
-            selectors = [
-                'a.wp-block-query-pagination-next',
-                'a.next.page-numbers',
-                'a:has-text("Next")',
-                'a:has-text("Older posts")',
-                '.next a'
-            ]
-            
-            for selector in selectors:
-                try:
-                    next_link = await self.page.query_selector(selector)
-                    if next_link:
-                        href = await next_link.get_attribute('href')
-                        if href:
-                            print(f"   📌 Next page found: {href}")
-                            return self.get_full_url(href)
-                except Exception:
-                    continue
-            
-            return None
-            
-        except Exception as e:
-            print(f"   ⚠️ Could not find next page: {e}")
-            return None
-    
-    async def _extract_article_urls_from_page(self, url: str) -> List[str]:
-        """
-        Scrape article URLs from a TechCrunch category page.
-        """
-        try:
-            print(f"📄 Loading category page: {url}")
-            
-            try:
-                await self.page.goto(url, wait_until='domcontentloaded', timeout=30000)
-            except PlaywrightTimeoutError:
-                print("   ⏳ Load timeout, retrying...")
-                try:
-                    await self.page.goto(url, wait_until='commit', timeout=30000)
-                except:
-                    print("   ❌ Failed to load page")
-                    return []
-            
-            # Wait for content with specific selector
-            try:
-                await self.page.wait_for_selector('h2', timeout=10000)
-            except:
-                print("   ⚠️ No h2 elements found")
-            
-            await asyncio.sleep(2)
-            await self._scroll_to_load()
-            
-            article_urls = []
-            
-            # STRATEGY 1: h2 elements with links
-            try:
-                h2_elements = await self.page.query_selector_all('h2')
-                for h2 in h2_elements:
-                    link = await h2.query_selector('a')
-                    if link:
-                        href = await link.get_attribute('href')
-                        if href and 'techcrunch.com' in href and '/category/' not in href:
-                            if href not in article_urls:
-                                article_urls.append(href)
-            except Exception as e:
-                print(f"   ⚠️ Strategy 1 error: {e}")
-            
-            # STRATEGY 2: article elements
-            if len(article_urls) < 5:
-                try:
-                    articles = await self.page.query_selector_all('article')
-                    for article in articles:
-                        link = await article.query_selector('a')
-                        if link:
-                            href = await link.get_attribute('href')
-                            if href and 'techcrunch.com' in href and '/category/' not in href:
-                                if href not in article_urls:
-                                    article_urls.append(href)
-                except Exception as e:
-                    print(f"   ⚠️ Strategy 2 error: {e}")
-            
-            # STRATEGY 3: Any link with date pattern
-            if len(article_urls) < 5:
-                try:
-                    all_links = await self.page.query_selector_all('a[href*="techcrunch.com"]')
-                    for link in all_links:
-                        href = await link.get_attribute('href')
-                        if href and '/202' in href and '/category/' not in href:
-                            if href not in article_urls:
-                                article_urls.append(href)
-                except Exception as e:
-                    print(f"   ⚠️ Strategy 3 error: {e}")
-            
-            # Remove duplicates
-            article_urls = list(dict.fromkeys(article_urls))
-            
-            print(f"✅ Found {len(article_urls)} article URLs on this page")
-            return article_urls
-            
-        except Exception as e:
-            print(f"❌ Error scraping category page: {e}")
-            return []
-    
-    async def _scrape_article_content(self, url: str) -> Optional[Dict]:
-        """
-        Scrape a single TechCrunch article page.
-        """
-        try:
-            print(f"   📄 Scraping article: {url}")
-            
-            try:
-                await self.page.goto(url, wait_until='domcontentloaded', timeout=30000)
-            except PlaywrightTimeoutError:
-                print("   ⏳ Article load timeout, attempting to proceed...")
-                try:
-                    await self.page.evaluate("window.stop()")
-                    await asyncio.sleep(2)
-                except:
-                    pass
-            
-            await asyncio.sleep(1.5)
-            
-            # EXTRACT TITLE
-            title = "No Title"
-            title_selectors = ['h1', '.article__title', '.entry-title', '.wp-block-post-title']
-            for selector in title_selectors:
-                try:
-                    elem = await self.page.query_selector(selector)
-                    if elem:
-                        title = await elem.text_content()
-                        title = title.strip() if title else "No Title"
-                        break
-                except Exception:
-                    continue
-            
-            # EXTRACT AUTHOR
-            author = "Unknown"
+            # Look for author/byline elements
             author_selectors = [
+                '.wp-block-tc23-author-card-name__link',
                 '.byline a',
                 '.article__byline a',
-                '.author-name',
-                '.wp-block-post-author__name'
+                '[class*="author"]',
+                '[class*="byline"]'
             ]
+            
             for selector in author_selectors:
-                try:
-                    elem = await self.page.query_selector(selector)
-                    if elem:
-                        author = await elem.text_content()
-                        author = author.strip() if author else "Unknown"
-                        break
-                except Exception:
-                    continue
+                elem = card.select_one(selector)
+                if elem:
+                    return elem.text.strip()
+        except:
+            pass
+        
+        return "N/A"
+    
+    def extract_date(self, card):
+        """Extract date from article card"""
+        try:
+            # Look for time element
+            time_elem = card.find('time')
+            if time_elem:
+                datetime_attr = time_elem.get('datetime')
+                if datetime_attr:
+                    return datetime_attr
+                text = time_elem.text.strip()
+                if text:
+                    return text
+        except:
+            pass
+        
+        try:
+            # Look for date patterns in text
+            card_text = card.text
+            date_patterns = [
+                r'\d{1,2}:\d{2} [AP]M',
+                r'[A-Z][a-z]+ \d{1,2}, \d{4}',
+                r'\d{4}-\d{2}-\d{2}'
+            ]
+            for pattern in date_patterns:
+                match = re.search(pattern, card_text)
+                if match:
+                    return match.group()
+        except:
+            pass
+        
+        return "N/A"
+    
+    def extract_summary(self, card):
+        """Extract summary from article card"""
+        try:
+            # Look for summary/excerpt
+            summary_selectors = [
+                '#speakable-summary',
+                '[class*="excerpt"]',
+                '[class*="summary"]',
+                '[class*="description"]'
+            ]
             
-            # EXTRACT DATE
-            date = datetime.now().strftime('%Y-%m-%d')
-            date_selectors = ['time', '.post-date', '.article__date']
-            for selector in date_selectors:
-                try:
-                    elem = await self.page.query_selector(selector)
-                    if elem:
-                        datetime_val = await elem.get_attribute('datetime')
-                        if datetime_val:
-                            date = datetime_val
-                        else:
-                            text = await elem.text_content()
-                            if text:
-                                date = text.strip()
-                        break
-                except Exception:
-                    continue
+            for selector in summary_selectors:
+                elem = card.select_one(selector)
+                if elem:
+                    text = elem.text.strip()
+                    if len(text) > 20:
+                        return text
+        except:
+            pass
+        
+        try:
+            # Look for paragraphs that might be summary
+            paragraphs = card.find_all('p')
+            for p in paragraphs:
+                text = p.text.strip()
+                if len(text) > 50 and len(text) < 300:
+                    if not any(x in text.lower() for x in ['read more', 'subscribe']):
+                        return text
+        except:
+            pass
+        
+        return "N/A"
+    
+    def extract_article_url(self, card):
+        """Extract article URL from card"""
+        try:
+            # Look for link in h2 first
+            h2 = card.find('h2')
+            if h2:
+                link = h2.find('a')
+                if link and link.get('href'):
+                    return self.get_full_url(link.get('href'))
             
-            # EXTRACT CONTENT
-            content = ""
-            content_selectors = ['.entry-content', '.article-content', '.post-content', 'article']
+            # Look for any link with article-like text
+            links = card.find_all('a')
+            for link in links:
+                href = link.get('href')
+                if href and 'techcrunch.com' in href and '/category/' not in href:
+                    if '/202' in href or link.text.strip() and len(link.text.strip()) > 15:
+                        return self.get_full_url(href)
+        except:
+            pass
+        
+        return None
+    
+    def scrape_article_content(self, url):
+        """Scrape full article content from article page"""
+        if not url:
+            return "N/A"
+        
+        try:
+            print(f"  Fetching article: {url}")
+            response = requests.get(url, headers=self.headers, timeout=15)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Find article content
+            content_parts = []
+            
+            # Try multiple content selectors
+            content_selectors = [
+                '.entry-content.wp-block-post-content',
+                '.entry-content',
+                '.article-content',
+                '.post-content',
+                'article'
+            ]
             
             content_elem = None
             for selector in content_selectors:
-                try:
-                    content_elem = await self.page.query_selector(selector)
-                    if content_elem:
-                        break
-                except Exception:
-                    continue
+                content_elem = soup.select_one(selector)
+                if content_elem:
+                    break
             
             if content_elem:
-                try:
-                    paragraphs = await content_elem.query_selector_all('p')
-                    paragraph_texts = []
-                    for p in paragraphs:
-                        text = await p.text_content()
-                        if text and len(text.strip()) > 20:
-                            paragraph_texts.append(text.strip())
-                    content = ' '.join(paragraph_texts)
-                except Exception:
-                    content = ""
+                paragraphs = content_elem.find_all('p')
+                for p in paragraphs[:10]:
+                    text = p.text.strip()
+                    if text and len(text) > 30:
+                        content_parts.append(text)
             
-            # Build result
-            if content and len(content) > 100:
-                return {
-                    'headline': title,
-                    'author': author,
-                    'date_time': date,
-                    'summary': content[:300] + "..." if len(content) > 300 else content,
-                    'content': content[:2000],
-                    'article_link': url,
-                    'scraped_at': datetime.now().isoformat()
-                }
-            else:
-                print(f"      ⚠️ Content too short or missing")
-                return None
-                
+            # Fallback: get all paragraphs
+            if not content_parts:
+                paragraphs = soup.find_all('p', class_='wp-block-paragraph')
+                for p in paragraphs[:10]:
+                    text = p.text.strip()
+                    if text and len(text) > 30:
+                        content_parts.append(text)
+            
+            if content_parts:
+                content = ' '.join(content_parts)
+                return content[:2000]
+            
+            return "N/A"
+            
         except Exception as e:
-            print(f"      ❌ Error: {e}")
+            print(f"  Error scraping article content: {e}")
+            return "N/A"
+    
+    def scrape_page(self, url):
+        """Scrape a single page of news articles"""
+        try:
+            print(f"Fetching URL: {url}")
+            response = requests.get(url, headers=self.headers, timeout=15)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Find article cards using multiple methods
+            article_cards = []
+            
+            # Method 1: TechCrunch card class
+            cards = soup.find_all('div', class_=lambda c: c and 'wp-block-techcrunch-card' in c if c else False)
+            if cards:
+                article_cards = cards
+                print(f"Found {len(article_cards)} cards with wp-block-techcrunch-card")
+            
+            # Method 2: Article elements
+            if not article_cards:
+                cards = soup.find_all('article')
+                if cards:
+                    article_cards = cards
+                    print(f"Found {len(article_cards)} cards with article tag")
+            
+            # Method 3: Post containers
+            if not article_cards:
+                cards = soup.find_all('div', class_=lambda c: c and ('post' in c.lower() or 'article' in c.lower()) if c else False)
+                if cards:
+                    article_cards = cards
+                    print(f"Found {len(article_cards)} cards with post/article class")
+            
+            # Method 4: H2 with links
+            if not article_cards:
+                h2_elements = soup.find_all('h2')
+                for h2 in h2_elements:
+                    link = h2.find('a')
+                    if link and link.get('href') and 'techcrunch.com' in link.get('href'):
+                        # Use the parent as card
+                        parent = h2.parent
+                        if parent:
+                            article_cards.append(parent)
+                if article_cards:
+                    print(f"Found {len(article_cards)} cards from h2 elements")
+            
+            if not article_cards:
+                print("No article cards found on this page")
+                return None
+            
+            print(f"Processing {len(article_cards)} articles...")
+            
+            for index, card in enumerate(article_cards):
+                try:
+                    # Extract data
+                    headline = self.extract_headline(card)
+                    author = self.extract_author(card)
+                    date_time = self.extract_date(card)
+                    summary = self.extract_summary(card)
+                    article_link = self.extract_article_url(card)
+                    
+                    # Scrape full content for first 3 articles
+                    content = "N/A"
+                    if article_link and index < 3:
+                        content = self.scrape_article_content(article_link)
+                        time.sleep(random.uniform(1, 2))
+                    
+                    print(f"Article {index + 1}: {headline[:40]}... - {author}")
+                    
+                    self.articles.append({
+                        'headline': headline,
+                        'author': author,
+                        'date_time': date_time,
+                        'summary': summary,
+                        'content': content,
+                        'article_link': article_link,
+                        'scraped_at': datetime.now().isoformat()
+                    })
+                    
+                except Exception as e:
+                    print(f"Error parsing article {index}: {e}")
+                    continue
+            
+            # Check for next page
+            next_url = None
+            
+            # Try multiple pagination selectors
+            pagination_selectors = [
+                'a.wp-block-query-pagination-next',
+                'a.next.page-numbers',
+                'a:contains("Next")',
+                'a:contains("Older posts")'
+            ]
+            
+            for selector in pagination_selectors:
+                try:
+                    next_elem = soup.select_one(selector)
+                    if next_elem and next_elem.get('href'):
+                        next_url = self.get_full_url(next_elem.get('href'))
+                        break
+                except:
+                    continue
+            
+            if next_url:
+                print(f"Next page found: {next_url}")
+                return next_url
+            
+            print("No more pages found")
+            return None
+            
+        except requests.RequestException as e:
+            print(f"Error scraping page: {e}")
+            return None
+        except Exception as e:
+            print(f"Error scraping page: {e}")
             return None
     
-    async def scrape(self, max_articles: int = 15, max_pages: int = 3) -> List[Dict]:
-        """
-        Main scraping function.
-        """
+    def scrape(self, max_pages=3, max_articles=15):
+        """Scrape multiple pages"""
+        current_url = self.full_search_url
+        page_num = 1
+        total_articles = 0
+        
         print(f"\n{'='*60}")
-        print(f"STARTING NEWS SCRAPER")
+        print(f"STARTING NEWS SCRAPER (Requests + BeautifulSoup)")
         print(f"{'='*60}")
         print(f"Base URL: {self.base_url}")
         print(f"Search path: {self.search_path}")
@@ -328,88 +362,43 @@ class TechCrunchScraper:
         print(f"Max pages: {max_pages}")
         print(f"{'='*60}\n")
         
-        self.max_articles = max_articles
-        self.max_pages = max_pages
-        
-        try:
-            await self._init_browser()
-        except Exception as e:
-            print(f"❌ Failed to initialize browser: {e}")
-            return []
-        
-        try:
-            all_urls = []
-            current_url = self.full_search_url
-            page_count = 0
+        while current_url and page_num <= max_pages and total_articles < max_articles:
+            print(f"{'='*60}")
+            print(f"SCRAPING PAGE {page_num}")
+            print(f"{'='*60}")
             
-            print("🔍 Step 1: Collecting article URLs...")
-            while current_url and page_count < max_pages:
-                page_count += 1
-                print(f"\n📑 Scraping page {page_count}: {current_url}")
+            next_url = self.scrape_page(current_url)
+            
+            if next_url:
+                current_url = next_url
+            else:
+                break
                 
-                try:
-                    page_urls = await self._extract_article_urls_from_page(current_url)
-                    
-                    new_urls = [url for url in page_urls if url not in all_urls]
-                    all_urls.extend(new_urls)
-                    print(f"   📝 Added {len(new_urls)} new articles (total: {len(all_urls)})")
-                    
-                    if len(all_urls) >= max_articles:
-                        print(f"   🎯 Reached target of {max_articles} articles")
-                        break
-                    
-                    current_url = await self._get_next_page_url()
-                    if current_url:
-                        delay = random.uniform(1.5, 3.5)
-                        print(f"   ⏳ Waiting {delay:.1f}s before next page...")
-                        await asyncio.sleep(delay)
-                    else:
-                        print("   📌 No more pages available")
-                        break
-                        
-                except Exception as e:
-                    print(f"   ❌ Error on page {page_count}: {e}")
-                    break
+            page_num += 1
+            total_articles = len(self.articles)
+            print(f"Total articles scraped so far: {total_articles}")
             
-            if len(all_urls) > max_articles:
-                all_urls = all_urls[:max_articles]
-            
-            print(f"\n✅ Collected {len(all_urls)} article URLs from {page_count} pages")
-            
-            if not all_urls:
-                print("❌ No article URLs found")
-                return []
-            
-            print(f"\n📝 Step 2: Scraping {len(all_urls)} articles...")
-            articles = []
-            for i, url in enumerate(all_urls):
-                print(f"\n   📊 Progress: {i+1}/{len(all_urls)}")
-                article = await self._scrape_article_content(url)
-                if article:
-                    articles.append(article)
-                    print(f"      ✅ {article['headline'][:60]}...")
-                await asyncio.sleep(random.uniform(1, 2.5))
-            
-            print(f"\n✅ Scraped {len(articles)} articles successfully")
-            self.articles = articles
-            return articles
-            
-        except Exception as e:
-            print(f"❌ Scraper error: {e}")
-            import traceback
-            traceback.print_exc()
-            return []
-        finally:
-            await self._close_browser()
+            delay = random.uniform(2, 4)
+            print(f"Waiting {delay:.2f} seconds before next request...")
+            time.sleep(delay)
+        
+        # Trim to max articles
+        if len(self.articles) > max_articles:
+            self.articles = self.articles[:max_articles]
+        
+        print(f"\n{'='*60}")
+        print(f"SCRAPING COMPLETE!")
+        print(f"Total articles scraped: {len(self.articles)}")
+        print(f"{'='*60}")
+        
+        return self.articles
     
-    def save_results(self, articles: List[Dict]) -> None:
-        """
-        Save results to CSV and JSON - OVERWRITES existing files.
-        """
+    def save_results(self, articles):
+        """Save results to CSV and JSON - OVERWRITES existing files"""
         if not articles:
             print("No articles to save!")
             return
-        
+            
         if not os.path.exists('output'):
             os.makedirs('output')
         
@@ -442,6 +431,7 @@ class TechCrunchScraper:
         print(f"CSV file: {self.csv_filename}")
         print(f"JSON file: {self.json_filename}")
         
+        # Show first 5 articles as preview
         print(f"\n{'='*60}")
         print("SAMPLE ARTICLES (first 5)")
         print(f"{'='*60}")
@@ -449,30 +439,17 @@ class TechCrunchScraper:
             print(f"{i}. {article['headline']}")
             print(f"   Author: {article['author']}")
             print(f"   Date: {article['date_time']}")
-            if article.get('summary'):
+            if article.get('summary') and article['summary'] != 'N/A':
                 print(f"   Summary: {article['summary'][:100]}...")
+            if article.get('content') and article['content'] != 'N/A':
+                print(f"   Content preview: {article['content'][:100]}...")
             print("-" * 40)
 
-# ================================================
-# MAIN ENTRY POINT
-# ================================================
-
-async def main():
-    """Async main entry point."""
+if __name__ == "__main__":
     print("="*60)
     print("TECHCRUNCH NEWS SCRAPER")
     print("="*60)
     
     scraper = TechCrunchScraper()
-    articles = await scraper.scrape(max_articles=10, max_pages=2)
+    articles = scraper.scrape(max_pages=2, max_articles=10)
     scraper.save_results(articles)
-
-if __name__ == "__main__":
-    try:
-        asyncio.run(main())
-    except KeyboardInterrupt:
-        print("\n⚠️ Scraper interrupted by user")
-    except Exception as e:
-        print(f"\n❌ Scraper failed: {e}")
-        import traceback
-        traceback.print_exc()
