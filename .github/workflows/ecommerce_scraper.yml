@@ -1,48 +1,39 @@
+# .github/workflows/ecommerce_scraper.yml
 name: E-commerce Product Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 * * 0'  # Run every Sunday at midnight
   workflow_dispatch:
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required to push changes
+      contents: write
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # Built-in token
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.10'
-
+    
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-
+        playwright install chromium
+        playwright install-deps
+    
     - name: Run e-commerce scraper
-      run: |
-        python scrapers/1_ecommerce_scraper.py
-
+      run: python scrapers/1_ecommerce_scraper.py
+    
     - name: Commit and push results
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
         git add output/ || true
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update e-commerce scraped data [skip ci]"
-          git push
-        fi
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git diff --staged --quiet || git commit -m "Update e-commerce data [skip ci]"
+        git push
