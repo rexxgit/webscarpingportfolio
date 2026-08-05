@@ -25,19 +25,15 @@ jobs:
       run: |
         pip install -r requirements.txt
     
-    - name: Install Playwright without dependencies
+    - name: Install Chromium
       run: |
-        python -m playwright install --no-deps chromium
-    
-    - name: Install system Chromium
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y chromium-browser
+        # Install Chromium browser files without system dependencies
+        python -m playwright install chromium
     
     - name: Run e-commerce scraper
       run: python scrapers/1_ecommerce_scraper.py
       env:
-        CHROME_PATH: /usr/bin/chromium-browser
+        PLAYWRIGHT_BROWSERS_PATH: ${{ runner.tool_cache }}/playwright
     
     - name: Commit and push results
       run: |
