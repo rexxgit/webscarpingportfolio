@@ -1,0 +1,202 @@
+[
+  {
+    "address": "12246 Johnson Street NE, Blaine, MN 55434",
+    "price_aud": "AUD $426,011",
+    "price_usd": "AUD $426,011",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.644585"
+  },
+  {
+    "address": "3826 Goodwin Avenue N, Oakdale, MN 55128",
+    "price_aud": "AUD $248,506",
+    "price_usd": "AUD $248,506",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.644714"
+  },
+  {
+    "address": "314 Wedgewood Drive, Mahtomedi, MN 55115",
+    "price_aud": "AUD $923,024",
+    "price_usd": "AUD $923,024",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.644830"
+  },
+  {
+    "address": "3416 Xenwood Avenue S, Saint Louis Park, MN 55416",
+    "price_aud": "AUD $425,869",
+    "price_usd": "AUD $425,869",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-08-06T15:17:52.644946"
+  },
+  {
+    "address": "10263 Kittredge Parkway NE, Otsego, MN 55301",
+    "price_aud": "AUD $582,073",
+    "price_usd": "AUD $582,073",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.645055"
+  },
+  {
+    "address": "2156 Paris Avenue N, West Lakeland Twp, MN 55082",
+    "price_aud": "AUD $1,554,941",
+    "price_usd": "AUD $1,554,941",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "timestamp": "2026-08-06T15:17:52.645165"
+  },
+  {
+    "address": "7412 W 22nd Street, Saint Louis Park, MN 55426",
+    "price_aud": "AUD $248,080",
+    "price_usd": "AUD $248,080",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-08-06T15:17:52.645289"
+  },
+  {
+    "address": "6554 102nd Avenue N, Brooklyn Park, MN 55445",
+    "price_aud": "AUD $795,079",
+    "price_usd": "AUD $795,079",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-06T15:17:52.645400"
+  },
+  {
+    "address": "4705 170th Lane NE, Ham Lake, MN 55304",
+    "price_aud": "AUD $532,514",
+    "price_usd": "AUD $532,514",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.645509"
+  },
+  {
+    "address": "73681 290th Street, St. James, MN 56081",
+    "price_aud": "AUD $425,869",
+    "price_usd": "AUD $425,869",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.645619"
+  },
+  {
+    "address": "1366 Colonial Drive, Roseville, MN 55113",
+    "price_aud": "AUD $227,064",
+    "price_usd": "AUD $227,064",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "timestamp": "2026-08-06T15:17:52.645728"
+  },
+  {
+    "address": "168 Linden Circle, Apple Valley, MN 55124",
+    "price_aud": "AUD $518,172",
+    "price_usd": "AUD $518,172",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.645837"
+  },
+  {
+    "address": "7326 Upton Avenue S, Richfield, MN 55423",
+    "price_aud": "AUD $603,374",
+    "price_usd": "AUD $603,374",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.645947"
+  },
+  {
+    "address": "4713 127th Lane NE, Blaine, MN 55449",
+    "price_aud": "AUD $944,325",
+    "price_usd": "AUD $944,325",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.646056"
+  },
+  {
+    "address": "8778 Parkington Avenue NE, Otsego, MN 55330",
+    "price_aud": "AUD $454,270",
+    "price_usd": "AUD $454,270",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.646163"
+  },
+  {
+    "address": "1510 Archwood Road, Minnetonka, MN 55305",
+    "price_aud": "AUD $1,177,211",
+    "price_usd": "AUD $1,177,211",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.646280"
+  },
+  {
+    "address": "995 106th Lane NW, Coon Rapids, MN 55433",
+    "price_aud": "AUD $397,468",
+    "price_usd": "AUD $397,468",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.646391"
+  },
+  {
+    "address": "21005 Sunnyhill Lane, Corcoran, MN 55340",
+    "price_aud": "AUD $1,171,531",
+    "price_usd": "AUD $1,171,531",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-06T15:17:52.646500"
+  },
+  {
+    "address": "9469 242nd Lane NE, Stacy, MN 55079",
+    "price_aud": "AUD $637,597",
+    "price_usd": "AUD $637,597",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.646609"
+  },
+  {
+    "address": "6190 Marlowe Avenue NE, Otsego, MN 55301",
+    "price_aud": "AUD $355,008",
+    "price_usd": "AUD $355,008",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.646718"
+  },
+  {
+    "address": "14106 Alabama Avenue S, Savage, MN 55378",
+    "price_aud": "AUD $355,009",
+    "price_usd": "AUD $355,009",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.646826"
+  },
+  {
+    "address": "1525 6th Avenue N, Orono, MN 55356",
+    "price_aud": "AUD $2,555,925",
+    "price_usd": "AUD $2,555,925",
+    "bedrooms": "5",
+    "bathrooms": "7",
+    "timestamp": "2026-08-06T15:17:52.646935"
+  },
+  {
+    "address": "321 32nd Avenue N, Saint Cloud, MN 56303",
+    "price_aud": "AUD $248,364",
+    "price_usd": "AUD $248,364",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-08-06T15:17:52.647043"
+  },
+  {
+    "address": "3425 Golfview Drive, Eagan, MN 55123",
+    "price_aud": "AUD $198,663",
+    "price_usd": "AUD $198,663",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-06T15:17:52.647152"
+  },
+  {
+    "address": "2682 5th Street NW, New Brighton, MN 55112",
+    "price_aud": "AUD $596,274",
+    "price_usd": "AUD $596,274",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-08-06T15:17:52.647296"
+  }
+]
