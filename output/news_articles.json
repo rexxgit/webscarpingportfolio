@@ -1,30 +1,75 @@
 [
   {
+    "headline": "Amid legal battles, Suno says it will start watermarking songs",
+    "author": "Ivan Mehta",
+    "date_time": "2026-08-06T06:31:57-07:00",
+    "summary": "N/A",
+    "content": "Suno, the service that allows users to create AI-generated songs, today announced new tools to mark tracks made on its platform, limit downloads, and update community guidelines to prevent copycat songs. The changes come as Suno faces numerous lawsuits from labels and artist bodies. In a blog post, co-founder and CEO Mikey Shulman shared core principles and said that the platform wants to promote original creation while enabling more people to make music with its AI tools. One of the key points of contention involved users uploading AI-generated songs on other streaming platforms and gaming the system to earn revenue. Suno said that now it will use audio watermarking and fingerprinting to prevent misuse on other streaming platforms. It’s not clear if Suno will use an existing system like Google’s Synth ID or adopt a new one, and the company did not say when contacted by TechCrunch about this. The startup also signed an agreement with lyrics provider Musixmatch to use its Sentinal system for copyright detection, the blog post said. “These tools are designed to be durable and resistant to tampering, without affecting the listening experience. They are also not intended to pass judgment on whether a song is good, meaningful, or sufficiently human,” said Shulman in the blog. “Ultimately, we believe it should be up to artists and platforms to decide what they want to disclose. Our role is to build tools that give them transparency options and make it easier to collaborate across the industry.” The company added that it plans to add a new download policy to bar mass distribution on streaming platforms, but the company declined to provide details. Suno has also changed its community guidelines to explicitly prohibit “deceptive audio presented as real” and “using a real person’s voice or likeness without permission” to prevent copycats. The company, which raised $400 million in a Series D funding round in June, is fighting legal battles on many fronts. The startup is in a l",
+    "article_link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "scraped_at": "2026-08-06T14:28:45.864960"
+  },
+  {
+    "headline": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "author": "Lauren Forristal",
+    "date_time": "2026-08-06T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "Sidd Motwani, Ian Anderson and Shivaditya Sinha spent years building the behavioral intelligence infrastructure behind Spotify’s recommendation engine. Called Vector AI, the system is designed to predict a person’s intent and next actions instead of relying only on their past behavior. It powers about 90% of Spotify’s recommendations to its 800 million users. Now, the three are bringing a similar system to e-commerce with their new startup, Malachyte. The company on Thursday said it had raised $10 million in seed funding to scale distribution and hire more product and commercial leaders. Malachyte was formed from the belief that most online stores treat shoppers the same way: Personalization is largely dictated by historical purchases, demographic segmentation, or logged-in customer profiles. That means first-time visitors often see the same generic storefront as everyone else, while existing shoppers receive recommendations based primarily on what they bought previously rather than what they need today. The startup wants to change that by building real-time, intent-aware shopping experiences. Its platform uses what it calls “two-headed Vector AI” to predict what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time. “[Our] system starts forming before the first click, using the context available the moment the page loads. Within a single session, we build a real read on both preferences and what someone is trying to accomplish right now,” Motwani, Malachyte’s CEO, told TechCrunch. “A search for ‘heavy-duty boot’ followed by two clicks on steel-toed boots is enough to move work pants and gloves up the page and push dress shoes down, with no account or history required. Every additional action sharpens the profile, so the experience gets more relevant the longer someone stays, and again on their next visit.” Motwani argues that retailers already possess their most valuable source of customer intelligenc",
+    "article_link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "scraped_at": "2026-08-06T14:28:47.039082"
+  },
+  {
+    "headline": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-08-06T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "AI lab Mirendil has signed a multi-year partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned. The deal mirrors two trends shaping the AI industry: cloud giants are courting startups with huge infrastructure commitments, and AI companies are snatching up as many compute deals as they can to secure access as they scale. The deal is worth upwards of $100 million, Mirendil’s co-founder and CEO, Behnam Neyshabur, told TechCrunch. That’s roughly half of what Mirendil raised in seed funding at a $1 billion valuation in late June. The deal gives the startup access to both Google’s TPUs and Nvidia GPUs, as well as managed training clusters with which Mirendil will work on its self-improving AI. The startup hopes its AI will eventually be able to take on the work of an entire frontier AI lab. Self-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves. It’s a concept that major labs like Anthropic, where Mirendil’s co-founders hail from, have been working on. A handful of startups like Recursive Superintelligence and Ricursive Intelligence have also recently sprung up around achieving that goal. Mirendil believes this process will automate a lot of scientific and AI research, helping scientists make progress in fields like medicine, biology, and materials science. Neyshabur thinks AI can mimic how human scientists can learn more about new domains, accumulate knowledge and expertise, and gradually improve their performance. “You can have a self-improving AI where you can point a problem at it and it keeps getting better with time,” he said. “How can we have an AI system that keeps doing research, keeps improving its own knowledge and performance when it comes to Alzheimer’s disease?” he continued. “This technology allows us to set goals that are ambitious for AI, and the AI would keep making progress.” Training self-improving AI, however, require",
+    "article_link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "scraped_at": "2026-08-06T14:28:49.066063"
+  },
+  {
+    "headline": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "author": "Aisha Malik",
+    "date_time": "2026-08-06T05:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "scraped_at": "2026-08-06T14:28:49.068326"
+  },
+  {
+    "headline": "Omilia raises $67M to scale its customer support platform",
+    "author": "Ivan Mehta",
+    "date_time": "2026-08-06T05:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "scraped_at": "2026-08-06T14:28:49.070123"
+  },
+  {
     "headline": "Meta launches Muse Code, an AI agent for large code bases",
     "author": "Lucas Ropek",
     "date_time": "2026-08-05T14:21:28-07:00",
     "summary": "N/A",
-    "content": "Meta, considered a bit of a straggler in the AI harnesses realm, is making strides to catch up. This week, the company released a new terminal coding agent aimed at programmers looking for assistance with complex tasks across large software code bases. Muse Code, which is currently available in beta, can accomplish “complete software engineering tasks across large repos,” Meta CEO Mark Zuckerberg said in a social media post on Wednesday. Those tasks include “planning changes, writing code, validating the results,” he added. Code, which can be installed with a single command, is powered by Meta’s previously released coding model, Muse Spark. It handles large projects by launching its own agents, which then work simultaneously. “When a job is big enough, it fans out to separate sub-agents working in parallel in isolated worktrees,” Zuckerberg explained. “Your working copy is never touched. In testing we had it build six features for a game simultaneously with no collisions.” The move attempts to position Meta more competitively, and more affordably, with AI lab peers like OpenAI and its coding agent Codex, and Anthropic with Claude Code. “We think that for a lot of workflows and a lot of use cases, this can be an incredibly good option, especially from a cost perspective,” Alexandr Wang, Meta’s AI chief who leads Meta Superintelligence Labs, told the Wall Street Journal. Meta has been attempting to grow its AI presence by pouring money into development. In June, it expanded beyond its core focus of using AI to support its advertising business and entered the enterprise AI market with an agent aimed at customer service and support.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "scraped_at": "2026-08-06T08:48:28.425338"
+    "scraped_at": "2026-08-06T14:28:49.071933"
   },
   {
     "headline": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
     "author": "Marina Temkin",
     "date_time": "2026-08-05T13:05:00-07:00",
     "summary": "N/A",
-    "content": "Publicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup founded by serial entrepreneur Elias Torres. The terms of the deal were not disclosed. Founded in 2023, Agency had raised $32 million from investors, including Sequoia, Menlo Ventures, and Felicis prior to the acquisition. As part of the deal, Torres (pictured left) will join Klaviyo as chief product officer, leading Agency’s 25-person team to accelerate the development and expansion of Klaviyo’s AI agents: Composer, which builds marketing campaigns, and Customer Agent, which handles post-sale support like returns and order tracking. “Elias and the team built a great product with Agency,” Klaviyo co-founder and CEO Andrew Bialecki (pictured right) told TechCrunch. “We’re going to take that and combine it with our agent products and try to bring that to 200,000 businesses — and hopefully to millions more over the next couple of years.” For Torres, joining Klaviyo brings his career full circle. He is no stranger to M&A exits, having co-founded Performable (acquired by HubSpot in 2011) and later Drift, where he served as CTO for eight years until its $1.2 billion sale to Vista Equity in 2021. Back in 2010 at Performable, Torres hired Bialecki, who had graduated from Harvard two years earlier, as one of that startup’s first engineers. Torres mentored Bialecki on early-stage startup dynamics. “He soaked it up in a short amount of time,” Torres recalled of their time working together. Bialecki co-founded Klaviyo, which he initially bootstrapped, shortly after leaving Performable. When Klaviyo raised its first outside capital in 2015, Bialecki invited Torres to back the seed round as an angel investor.Klaviyo went on to complete a high-profile IPO in September 2023 at a $9.2 billion valuation. While Klaviyo’s stock has taken a hit alongside other SaaS companies, Torres and Bialecki believe the platform’s years of customer data ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "scraped_at": "2026-08-06T08:48:30.494919"
+    "scraped_at": "2026-08-06T14:28:49.073461"
   },
   {
     "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
     "author": "Lucas Ropek",
     "date_time": "2026-08-05T12:30:19-07:00",
     "summary": "N/A",
-    "content": "Jeff Dean, one of the longest-serving and most influential executives at Google, is stepping down from the search giant to launch his own AI startup. Coming with him as co-founders are several other top researchers at the company, including Sanjay Ghemawat, a top engineer and senior fellow at Google; Quoc Le, a key AI researcher and founding member of Google Brain; and Oriol Vinyals, a senior research scientist at Google DeepMind. Dean reportedly plans to serve as CEO. Together, the group is starting Discovery Loop, a public benefit corporation that seeks to use AI to turbo-charge scientific research. Discovery Loop says it plans to use high-octane algorithms to initiate and iterate thousands of experiments simultaneously, with the goal of partially automating the research process and expanding the scale at which experimentation can be conducted. The startup is also interested in using AI to help create more powerful AI (a process known as recursive self-improvement), which would cut human iteration out of the loop entirely. “While science and engineering have tremendously advanced society over past centuries, progress has traditionally relied on slow, sequential human iterations, creating a significant bottleneck,” the company said in a press release. “Discovery Loop is developing advanced AI systems that leverage massive computational scale to fundamentally transform the speed and efficiency of innovation by automating complete experimental loops.” Using AI to accelerate scientific discovery has been a key interest of the science and tech communities for many years, but until recently, it remained a largely experimental field with limited commercial application. The company has received financial support from a number of different sources, including Google’s parent company Alphabet. The initial funding round is being co-led by Radical Ventures and Khosla Ventures, the company announced Wednesday. Kleiner Perkins, Lightspeed, and Doerr Capital also participated. “T",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "scraped_at": "2026-08-06T08:48:31.727223"
+    "scraped_at": "2026-08-06T14:28:49.074869"
   },
   {
     "headline": "Shopify says AI search is driving more traffic and sales, not replacing Google",
@@ -33,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "scraped_at": "2026-08-06T08:48:31.729547"
+    "scraped_at": "2026-08-06T14:28:49.076289"
   },
   {
     "headline": "Hark previews its browser use agent for completing tasks",
@@ -42,51 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "scraped_at": "2026-08-06T08:48:31.731047"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-08-05T08:05:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-08-06T08:48:31.732513"
-  },
-  {
-    "headline": "Anthropic is hiring an AI chip design team",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-08-05T07:13:18-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "scraped_at": "2026-08-06T08:48:31.734007"
-  },
-  {
-    "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "author": "Ivan Mehta",
-    "date_time": "2026-08-05T05:28:38-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "scraped_at": "2026-08-06T08:48:31.735445"
-  },
-  {
-    "headline": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "author": "Tim Fernholz",
-    "date_time": "2026-08-05T04:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "scraped_at": "2026-08-06T08:48:31.736898"
-  },
-  {
-    "headline": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "author": "Tim De Chant",
-    "date_time": "2026-08-04T14:07:26-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "scraped_at": "2026-08-06T08:48:31.738341"
+    "scraped_at": "2026-08-06T14:28:49.077699"
   }
 ]
