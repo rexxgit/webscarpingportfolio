@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "author": "Sarah Perez",
+    "date_time": "2026-08-07T09:16:09-07:00",
+    "summary": "N/A",
+    "content": "Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers, the internet infrastructure provider launched Kitesurf, a cloud-hosted browser designed specifically for AI agents. AI software is evolving from chatbots that answer questions to agents that can complete tasks on users’ behalf. Browsers are a critical part of this transition, as they’ll need to navigate the web and use websites, as humans do. Unlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement. A browser designed for AI agents needs to manage context windows, performance, token costs, and scalability. It also faces a different threat model because an AI browser could be subject to vulnerabilities like prompt injection attacks and more, the company noted. With Kitesurf, AI developers will be able to build software that can navigate websites, fill out forms, and complete other browser-based tasks, without having to build their own browser software. Cloudflare says it decided to build Kitesurf just 12 weeks ago, and it runs entirely on top of the company’s serverless platform, called Workers. Kitesurf is available for free while in beta in Browser Run, which lets developers programmatically control and interact with headless browser instances on Cloudflare’s network. For developers, Cloudflare’s pitch is that this enables AI agents to use the web more efficiently while using less computing power than Chromium, which keeps costs down. “Kitesurf is significantly more efficient in CPU and memory consumption than Chromium for common agentic tasks like screenshots and HTML extraction,” according to the company. The browser itself was built from other technologies, including a modular rendering engine from Blitz; Firefox’s CSS parser, Stylo; and Boa JS, a Rust ECMAScript engine. Everything else r",
+    "article_link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "scraped_at": "2026-08-07T19:06:43.788789"
+  },
+  {
+    "headline": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "author": "Ivan Mehta",
+    "date_time": "2026-08-07T07:22:49-07:00",
+    "summary": "N/A",
+    "content": "Airbnb might be taking slow steps to roll out AI features to its consumer-facing interface, but the company is rapidly adopting the tech to build product. Earlier this year, the company said AI is writing 60% of its code. In its latest earnings call, co-founder and CEO Brian Chesky said AI is helping Airbnb create features a at rapid rate. Chesky said that because of AI, the company has reduced time from conceptualization to finally shopping features by 60%. “Today, we’re building, testing, and iterating faster than we could just a year ago. Across some of our key initiatives, we’ve reduced the time from concept to launch by as much as 60%. And compared to the same six months last year, we’ve increased the number of features and improvements we shipped this year by nearly 80%,” he said during the company’s second-quarter earnings call. He pointed out that AI has helped the company in areas like search, sign-up, checkout, and payments. Airbnb has also released features designed to help hosts with things like quicker onboarding flow. Airbnb’s adoption of consumer-facing AI features has been slower, and mostly isolated to features like review summaries and listing highlights. Until now, Chesky has maintained that just adopting a chatbot-like interface won’t work for travel use cases. Instead, the company has focused on developing an AI for search, discovery, and support. Chesky said during the earnings call that the company will finally start testing AI search. Even with the new test, Airbnb doesn’t want to impose AI search on customers who are used to the current search and filter feature on the app. To accommodate that, Airbnb is adding a toggle that lets users switch to AI search, where they can type in natural language to get results, which would be in a visual format. “The titles [in the answer] could actually be AI-generated and they can be conversational as if you’re reading a chatbot, but more visual. Then you get to the product description page and the highlig",
+    "article_link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "scraped_at": "2026-08-07T19:06:45.664246"
+  },
+  {
+    "headline": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "author": "Anthony Ha\nTheresa Loconsolo",
+    "date_time": "2026-08-07T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light. In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer Prize-winning Harvard historian and New Yorker writer argues that tech companies are gradually taking on the functions of democratic government — whether that’s Twitter giving a distorted picture of the electorate or Facebook displacing local news. In her view, these leaders often mistake technological advancement for political progress, all while outright declaring their intention to replace the nation-state. On this episode of TechCrunch’s Equity podcast, Anthony Ha talks with Lepore about her book and why she thinks today’s AI leaders — who promise a future where AI makes government more efficient, more responsive, and maybe even unnecessary — are selling an old fantasy in new packaging. Listen to the full episode to hear more about: Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "article_link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "scraped_at": "2026-08-07T19:06:47.113019"
+  },
+  {
     "headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
     "author": "Ivan Mehta",
     "date_time": "2026-08-07T04:40:37-07:00",
     "summary": "N/A",
-    "content": "A New Mexico Court judge on Thursday ordered Meta to pay a fine of $567 million, on top of the $375 million levied in March, in a case regarding social media harms and addiction. This brings the total fines the company has to pay to $942 million. The court also ordered Meta to make changes to how its platforms function in the state: it wants the company to remove Like counts, and only show such metrics to children under 18 with approval from a parent or a guardian. Push notifications to underaged users in the state are also to be paused between 10 p.m. and 7 a.m, and their usage should be limited to 90 hours a month, which amounts to roughly three hours per day. “Significant numbers of people in New Mexico experience harm from Meta’s products due to risks of sexual exploitation, interference with education, and adverse mental health outcomes,” the order said. The judge acknowledged that Meta is not the only platform causing a mental health crisis among youth in the state, but maintained that its platforms play a significant part. He said that the company has caused a significant “public nuisance” in New Mexcio, and is required to abate that. Meta said that it is going to appeal the judgment. “We work hard to keep people safe on our platforms and have been transparent about the challenges of identifying and removing bad actors and harmful content. We remain confident in our record of protecting teens online and will continue to defend ourselves against claims that misrepresent the facts,” company spokesperson Andy Stone said in an emailed statement. “For years, Meta knew its platforms were harming New Mexico’s kids, from feeding a youth mental health crisis to connecting predators with children, and it chose engagement and profit over their safety,” state Attorney General Raul Torrez said in a statement. “Today, Meta is paying for that choice. This judgment holds the company accountable for the damage it caused to our children, our families, and our schools, and it f",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "scraped_at": "2026-08-07T13:19:31.510582"
+    "scraped_at": "2026-08-07T19:06:47.115435"
   },
   {
     "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "author": "Lucas Ropek",
     "date_time": "2026-08-06T15:43:53-07:00",
     "summary": "N/A",
-    "content": "More details continue to trickle out about OpenAI’s mysterious new hardware device — described previously as an AI-fueled smart speaker that will be the “physical manifestation” of ChatGPT. Bloomberg now reports that the device will be “donut-shaped,” designed thusly to allow users to carry it around their home and place it in different locations, like a bedside table or a kitchen counter. It will be constructed from “high-quality metal,” have a “premium look,” and (in a detail that mystifies) will have distinct “moving parts,” sources told Bloomberg. It also could be slightly more expensive than your average smart speaker, perhaps $300 to $400 per unit, according to this report. For comparison, most of Amazon’s smart home speakers range in price from $40 on the low end to $240 on the high end. So, to sum up: an expensive talking AI donut that has … moving parts? OpenAI releasing a smart home device has a certain logic to it, in that it would further integrate ChatGPT into users’ lives. However, historically speaking, smart speakers have not always been profitable and may prove a difficult market to break into. The potentially high price point also might not help. The device, which is being developed in partnership with LoveFrom, the design studio founded by famous former Apple developer Jony Ive, will likely be released at some point in 2027, Bloomberg writes. The company’s attempt to enter the hardware market has not gone off without a hitch. OpenAI is being sued by the current king of hardware, Apple, which has accused the AI lab of stealing trade secrets. OpenAI has denied wrongdoing.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "scraped_at": "2026-08-07T13:19:33.048964"
+    "scraped_at": "2026-08-07T19:06:47.116962"
   },
   {
     "headline": "ChatGPT brings unlimited text chats to free users",
     "author": "Ivan Mehta",
     "date_time": "2026-08-06T10:34:42-07:00",
     "summary": "N/A",
-    "content": "OpenAI is removing limits on text-based chats for all users on ChatGPT, which recently crossed the 1 billion weekly user mark, the company announced today. The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. Both users will also get a new “Think” button that lets them select higher reasoning power for complex questions. OpenAI said that there will still be separate limits for files, images, voice, and image generation. The update brings changes for Plus and Pro users as well. They’ll gain access to an upgraded GPT-5.6 Sol model that’s better for quick tasks such as questions, web research, advice, planning, writing, and making decisions. The company noted that this new model will give more compact and robust answers. (Notably, this is a separate version from GPT-5.6 Sol used for Codex and Work, which is unchanged.) ChatGPT Plus and Pro users are also getting a thinking slider to adjust “how much” thought the model puts into an answer. They can tune the thinking slider based on complexity and steps involved in solving a query. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol. The updated version of GPT-5.6 Sol is available to Plus and Pro users today, while the other changes for Free and Go users are arriving this week. Next week, users will gain access to unlimited text chats and the new Think button for harder questions.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "scraped_at": "2026-08-07T13:19:35.142378"
+    "scraped_at": "2026-08-07T19:06:47.118432"
   },
   {
     "headline": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "scraped_at": "2026-08-07T13:19:35.144720"
+    "scraped_at": "2026-08-07T19:06:47.119906"
   },
   {
     "headline": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "scraped_at": "2026-08-07T13:19:35.146317"
+    "scraped_at": "2026-08-07T19:06:47.121346"
   },
   {
     "headline": "OpenAI says Apple’s own security practices undermine its trade secrets case",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "scraped_at": "2026-08-07T13:19:35.148000"
+    "scraped_at": "2026-08-07T19:06:47.122800"
   },
   {
     "headline": "Amid legal battles, Suno says it will start watermarking songs",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "scraped_at": "2026-08-07T13:19:35.149722"
-  },
-  {
-    "headline": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "author": "Lauren Forristal",
-    "date_time": "2026-08-06T06:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "scraped_at": "2026-08-07T13:19:35.151509"
-  },
-  {
-    "headline": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-08-06T06:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "scraped_at": "2026-08-07T13:19:35.153124"
-  },
-  {
-    "headline": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "author": "Aisha Malik",
-    "date_time": "2026-08-06T05:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "scraped_at": "2026-08-07T13:19:35.154794"
+    "scraped_at": "2026-08-07T19:06:47.124230"
   }
 ]
