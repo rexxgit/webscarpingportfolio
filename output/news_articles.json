@@ -1,30 +1,48 @@
 [
   {
+    "headline": "OpenAI says it slowed Astra model development over security concerns",
+    "author": "Kirsten Korosec",
+    "date_time": "2026-08-07T15:48:24-07:00",
+    "summary": "N/A",
+    "content": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities. OpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. Under the company’s “Preparedness Framework,” which it created in 2023, this triggered additional safeguards. “While we continue to benchmark and assess this model, our preliminary evaluations indicate strong enough performance that we cannot rule out Critical capability level at this time,” OpenAI wrote. “Astra is an upcoming model, and was not involved in exploiting Hugging Face.” The disclosure highlights an unusual moment in the topsy-turvy and still nascent frontier AI labs sector. Companies across every industry hold back products over potential risks, including for safety and cybersecurity concerns. But they rarely announce those decisions publicly when it’s a product that is still under development. In this case, OpenAI is already under scrutiny after a different unreleased model breached Hugging Face’s systems during internal testing — the first verifiable incident of an AI lab losing control of its model. Since then, OpenAI and AI labs such as Anthropic have disclosed other incidents in which AI models breached their sandboxes and posed threats during cybersecurity tests. The string of cases — seems like a new disclosure every day now — has triggered varying reactions from cybersecurity experts, lawmakers, and the AI labs themselves. Some express fear and call for stricter oversight. But there’s also a bit of flexing. In certain circles, any AI lab with a model that has that kind of capability will be seen as an impressive advancement. OpenAI said it was sharing this info",
+    "article_link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "scraped_at": "2026-08-08T02:05:57.152431"
+  },
+  {
+    "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "author": "Julie Bort",
+    "date_time": "2026-08-07T14:30:11-07:00",
+    "summary": "N/A",
+    "content": "HR software provider Rippling this week unveiled AI Spend Console, an anti-tokenmaxxing product that helps a company track and contain its AI spending. One of the most interesting features is that it maps how much individual employees, teams, and roles are spending and if they are genuinely more productive, or generally producing more AI slop. The company promises the tool will show “which engineers have high AI spend whose peers frequently ask them to redo work in code reviews,” the company says in its blog post. The tool was born after Rippling went all in on tokenmaxxing at the start of the year — as so many did — only to discover employees were wildly burning cash. Chief Product Officer Matt MacInnis still recalls the executive team meeting in March when CFO Adam Swiecicki presented a number that shocked them. Rippling was on track to burn 40% of its R&D headcount budget on AI tokens, meaning it was spending as much on tokens as 40% of all the compensation it paid employees in that unit. Millions of dollars. (The R&D org is home to engineering at most tech companies.) Spending was growing by 80% month-over-month, and if that trend continued, the next year it would spend almost as much on AI tokens — 90% — as it spent on its high-paid R&D unit employees. “We were incredulous,” MacInnis told TechCrunch. Management immediately undertook an “urgent” project to understand the spending and what they were getting for that money, he said. In fact, the launch ad for this new product features Swiecicki sitting on a stool while employees are picking up wads of cash and dumping them into a paper shredder. When Rippling conducted an analysis, it discovered facts like “roughly 10–15% of our employees were driving about 60% of total AI spend. One engineer was spending $50,000 a month,” its blog post shared. Rippling didn’t want to stop AI usage, just rein it in — a lot. It started by negotiating a max spending cap with each of the tools its company used: Cursor, OpenAI, and An",
+    "article_link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "scraped_at": "2026-08-08T02:05:58.865123"
+  },
+  {
     "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "author": "Sarah Perez",
     "date_time": "2026-08-07T09:16:09-07:00",
     "summary": "N/A",
     "content": "Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers, the internet infrastructure provider launched Kitesurf, a cloud-hosted browser designed specifically for AI agents. AI software is evolving from chatbots that answer questions to agents that can complete tasks on users’ behalf. Browsers are a critical part of this transition, as they’ll need to navigate the web and use websites, as humans do. Unlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement. A browser designed for AI agents needs to manage context windows, performance, token costs, and scalability. It also faces a different threat model because an AI browser could be subject to vulnerabilities like prompt injection attacks and more, the company noted. With Kitesurf, AI developers will be able to build software that can navigate websites, fill out forms, and complete other browser-based tasks, without having to build their own browser software. Cloudflare says it decided to build Kitesurf just 12 weeks ago, and it runs entirely on top of the company’s serverless platform, called Workers. Kitesurf is available for free while in beta in Browser Run, which lets developers programmatically control and interact with headless browser instances on Cloudflare’s network. For developers, Cloudflare’s pitch is that this enables AI agents to use the web more efficiently while using less computing power than Chromium, which keeps costs down. “Kitesurf is significantly more efficient in CPU and memory consumption than Chromium for common agentic tasks like screenshots and HTML extraction,” according to the company. The browser itself was built from other technologies, including a modular rendering engine from Blitz; Firefox’s CSS parser, Stylo; and Boa JS, a Rust ECMAScript engine. Everything else r",
     "article_link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "scraped_at": "2026-08-07T19:06:43.788789"
+    "scraped_at": "2026-08-08T02:06:00.240837"
   },
   {
     "headline": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "author": "Ivan Mehta",
     "date_time": "2026-08-07T07:22:49-07:00",
     "summary": "N/A",
-    "content": "Airbnb might be taking slow steps to roll out AI features to its consumer-facing interface, but the company is rapidly adopting the tech to build product. Earlier this year, the company said AI is writing 60% of its code. In its latest earnings call, co-founder and CEO Brian Chesky said AI is helping Airbnb create features a at rapid rate. Chesky said that because of AI, the company has reduced time from conceptualization to finally shopping features by 60%. “Today, we’re building, testing, and iterating faster than we could just a year ago. Across some of our key initiatives, we’ve reduced the time from concept to launch by as much as 60%. And compared to the same six months last year, we’ve increased the number of features and improvements we shipped this year by nearly 80%,” he said during the company’s second-quarter earnings call. He pointed out that AI has helped the company in areas like search, sign-up, checkout, and payments. Airbnb has also released features designed to help hosts with things like quicker onboarding flow. Airbnb’s adoption of consumer-facing AI features has been slower, and mostly isolated to features like review summaries and listing highlights. Until now, Chesky has maintained that just adopting a chatbot-like interface won’t work for travel use cases. Instead, the company has focused on developing an AI for search, discovery, and support. Chesky said during the earnings call that the company will finally start testing AI search. Even with the new test, Airbnb doesn’t want to impose AI search on customers who are used to the current search and filter feature on the app. To accommodate that, Airbnb is adding a toggle that lets users switch to AI search, where they can type in natural language to get results, which would be in a visual format. “The titles [in the answer] could actually be AI-generated and they can be conversational as if you’re reading a chatbot, but more visual. Then you get to the product description page and the highlig",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "scraped_at": "2026-08-07T19:06:45.664246"
+    "scraped_at": "2026-08-08T02:06:00.243249"
   },
   {
     "headline": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
     "author": "Anthony Ha\nTheresa Loconsolo",
     "date_time": "2026-08-07T07:00:00-07:00",
     "summary": "N/A",
-    "content": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light. In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer Prize-winning Harvard historian and New Yorker writer argues that tech companies are gradually taking on the functions of democratic government — whether that’s Twitter giving a distorted picture of the electorate or Facebook displacing local news. In her view, these leaders often mistake technological advancement for political progress, all while outright declaring their intention to replace the nation-state. On this episode of TechCrunch’s Equity podcast, Anthony Ha talks with Lepore about her book and why she thinks today’s AI leaders — who promise a future where AI makes government more efficient, more responsive, and maybe even unnecessary — are selling an old fantasy in new packaging. Listen to the full episode to hear more about: Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "scraped_at": "2026-08-07T19:06:47.113019"
+    "scraped_at": "2026-08-08T02:06:00.245344"
   },
   {
     "headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "scraped_at": "2026-08-07T19:06:47.115435"
+    "scraped_at": "2026-08-08T02:06:00.246958"
   },
   {
     "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "scraped_at": "2026-08-07T19:06:47.116962"
+    "scraped_at": "2026-08-08T02:06:00.248602"
   },
   {
     "headline": "ChatGPT brings unlimited text chats to free users",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "scraped_at": "2026-08-07T19:06:47.118432"
+    "scraped_at": "2026-08-08T02:06:00.250186"
   },
   {
     "headline": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "scraped_at": "2026-08-07T19:06:47.119906"
+    "scraped_at": "2026-08-08T02:06:00.251808"
   },
   {
     "headline": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "scraped_at": "2026-08-07T19:06:47.121346"
-  },
-  {
-    "headline": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "author": "Sarah Perez",
-    "date_time": "2026-08-06T08:10:32-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "scraped_at": "2026-08-07T19:06:47.122800"
-  },
-  {
-    "headline": "Amid legal battles, Suno says it will start watermarking songs",
-    "author": "Ivan Mehta",
-    "date_time": "2026-08-06T06:31:57-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "scraped_at": "2026-08-07T19:06:47.124230"
+    "scraped_at": "2026-08-08T02:06:00.253426"
   }
 ]
