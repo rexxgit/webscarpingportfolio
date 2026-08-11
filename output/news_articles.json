@@ -1,30 +1,66 @@
 [
   {
+    "headline": "Google’s Gemini app surges to one billion users",
+    "author": "Lauren Forristal",
+    "date_time": "2026-08-11T11:49:12-07:00",
+    "summary": "N/A",
+    "content": "In a significant milestone for Google, CEO Sundar Pichai announced via X that the Gemini app has become one of the company’s fastest-growing products, recently surpassing 1 billion monthly active users. Pichai also noted it was the 14th Google product to hit the 1 billion mark. With this rapid growth, Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June. The company has been steadily integrating Gemini across its products, from Search and Workspace to Android and its standalone app. Google’s AI Mode in Search, in particular, has achieved a lot of success, with over 1 billion monthly active users globally. But today’s figure refers specifically to the Gemini app, and does not include AI users from other channels. The company also continued rolling out new models and features, including Gemini 3.5 Flash, which Google says is designed to improve coding and autonomous AI-agent tasks. Google also shared numbers at how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google. And Gemini’s growth isn’t limited to Google’s own products. The company says it now has more than 100 million active users on iOS. The milestone comes right after its Q2 2026 earnings call, where the company celebrated having over 950 million monthly users, with daily active users tripling this past year. The announcement also comes ahead of its Made by Google event, where it’s expected to have more Gemini-powered features launching across Pixel devices.",
+    "article_link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "scraped_at": "2026-08-11T19:12:39.203375"
+  },
+  {
+    "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "author": "Lucas Ropek",
+    "date_time": "2026-08-11T10:41:34-07:00",
+    "summary": "N/A",
+    "content": "Brad Lightcap, one of the longest-serving executives at OpenAI, is leaving the powerful AI lab to “start something new.” In an internal message that Lightcap shared online Tuesday, the outgoing executive told OpenAI staff that it was “bittersweet to share that I’ll be moving on from OpenAI to start something new.” Lightcap, who joined the company in 2018, spent four years as OpenAI’s chief financial officer. He then ascended to chief operating officer, where he served from 2022 until earlier this year when, amidst a shakeup of executive roles, he transitioned to lead special projects at the company. Prior to OpenAI, Lightcap also worked with CEO Sam Altman at venture capital firm Y Combinator. “I had the privilege of building the first versions of most of our operations and business teams – from Finance to Legal, People, CorpSec, GTM/Gov, Partnerships, and more,” Lightcap wrote in his message Tuesday. “Among the most rewarding parts of this journey for me has been watching each of these teams mature under brilliant leaders.” In his note, Lightcap also looked ahead and hinted at a future venture while giving scant details as to what it might be. “Over the last few months, I’ve been focused on the next horizon and what would stand in the way of mission success,” Lightcap said. “I believe there are a few important new things the world will need to get right as we enter this next period. I’ll have more to share soon, but I believe in OpenAI more than ever and am excited to help you all advance the mission from a different vantage point.” As OpenAI preps for an IPO of industrywide significance, the company has been undergoing a shakeup of top-level executives. In July, the company’s No. 2 executive, Fidji Simo, who led AGI development, announced she would be stepping down. Other executives from less central areas of the company — including Bill Peebles, who formerly headed the company’s now dead video generator Sora, and Kevin Weil, the vice president of the company’s Sc",
+    "article_link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "scraped_at": "2026-08-11T19:12:41.120014"
+  },
+  {
+    "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "author": "Julie Bort",
+    "date_time": "2026-08-11T10:41:22-07:00",
+    "summary": "N/A",
+    "content": "River AI, an AI startup founded by xAI co-founder Igor Babuschkin, has secured $1.1 billion in funding in a seed/Series A round led by General Catalyst and AMP PBC, with participation from Nvidia, AMD Ventures, Y Combinator, and Temasek. (AMP PBC is an AI-focused investment firm founded in 2026 by former Andreessen Horowitz general partner Anjney Midha, backer of companies at a16z like Black Forest Labs, Mistral AI, LMArena and  OpenRouter.) River came out of stealth in June with a fascinating mission. Babuschkin, whose resume includes AI roles at DeepMind and OpenAI, intends to reinvent AI from scratch, beginning with how models are trained. This is in order to turn agents into personally trainable assistants, rather than following the trajectory other AI labs are on: human worker replacements. “To get there, we believe the stack has to be rebuilt end to end: training, models, the product layer, and new hardware that lets personal AI live close to you,” he wrote in his launch blog. “Capable agents will be a normal part of everyday life. Less like the assistants you call on today when you need a task done, more like guardian angels: quietly present, on your side, helping with what actually matters to you. They will know you well, and they will be yours, not someone else’s,” he envisions. River already offers an API, billed per 1 million tokens, with rates dependent on the open model used. The API allows developers to use both reinforcement learning (RL) and low-rank adaptation (LoRA) fine-tuning on the models. This first product is intended to be an antidote to prompt engineering. “Prompting steers a model you don’t own and can’t improve. River lets you train open models into ones that are truly yours — and serve them like any other endpoint,” the product literature says. While this round is an eye-popping-size investment for a nascent company, and perhaps another indication of the overheated AI atmosphere, River’s premise comes at a particularly auspicious time. En",
+    "article_link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "scraped_at": "2026-08-11T19:12:42.631774"
+  },
+  {
+    "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "author": "Russell Brandom",
+    "date_time": "2026-08-11T09:25:20-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "scraped_at": "2026-08-11T19:12:42.634171"
+  },
+  {
     "headline": "Media & Entertainment",
     "author": "Sarah Perez",
     "date_time": "2026-08-11T06:00:00-07:00",
     "summary": "N/A",
-    "content": "Spotify will begin labeling AI-generated artists with “AI Persona” profile tags and ban their music from its editorial and algorithmic recommendations, the company announced on Tuesday. In mid-September, Spotify users will see “AI Persona” badges appear on some artists’ profiles that signal the artist’s identity is AI-generated, instead of representing a real person. While Spotify will allow artists to identify themselves as AI Personas, the company says it won’t rely on self-disclosure alone. It will also review artist profiles and identify those where the artist’s name and imagery appear to represent photorealistic AI-generated identities. Spotify said it will begin its review with profiles that have met pre-defined audience thresholds to ensure the more listened-to artists are covered first. Once labeled, the AI Persona badges will appear on the artist’s profile in the banner and the About section, in Search, and on track rows across playlists. By default, Spotify won’t include AI Personas in its editorial or algorithmic recommendations, nor will it add AI Personas’ music to users’ personalized recommendations — unless they happen to follow an AI Persona. Only users can choose to follow an artist, so it’s an explicit signal that the user wants to hear more music from that person or group. The move is the latest expansion of Spotify’s AI policies, which detail guidelines for how AI-generated music appears on its service. First announced in September 2025, Spotify’s current policy identifies and labels AI music using industry-standard techniques, and bans unauthorized AI voice clones and deepfakes from its platform. Like others in the music industry, Spotify is attempting to balance innovations driven by AI, like its own AI-powered Prompted Playlists, AI DJ and chat, and forthcoming AI remixes, while still managing to thwart the deluge of AI-generated slop — low-quality content that AI has made it easier to mass produce. Allowing slop to proliferate could lead to a",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "scraped_at": "2026-08-11T13:21:56.826648"
+    "scraped_at": "2026-08-11T19:12:42.635805"
   },
   {
     "headline": "Anthropic says it will watermark text generated by its AI models",
     "author": "Ivan Mehta",
     "date_time": "2026-08-11T05:13:47-07:00",
     "summary": "N/A",
-    "content": "Anthropic will watermark text generated by its models, including Claude, to comply with European regulations, the company now says. The AI model maker confirmed the watermarking in an updated support page. EU AI Act’s Transparency Code, which took effect on August 2, requires AI companies to mark AI-generated or edited content in a way other systems can identify them. Anthropic said that all models released after August 2 will automatically have tech to watermark both computer-generated text and files. For files, the company is using the C2PA open standard. The company said it will extend support for older models as well, adding that the watermark will travel when users copy and paste the text. “Because the watermark is part of the text, it will travel with the text when it’s copied and pasted elsewhere, and may persist through some editing. Watermarking will be applied at the model level, which means it will be present no matter which Claude product or surface the text comes from,” the support page reads. It’s not clear how much editing users need to do to remove the watermark. We have asked Anthropic to clarify and will update the story if we hear back. The company noted that watermarking will apply to different products like Claude platform API, Claude, Claude Code, Claude Cowork, and Claude Tag. Platforms are now rushing to watermark AI-generated content after backlash from users and to avoid regulatory scrutiny. Last week, AI music platform Suno said it will mark tracks created on its platform after a spate of legal challenges. Last month, newsletter service Substack teamed up with Pangram to flag AI-generated content. The company’s CEO, Chris Best, called out Claudefishing, a term used for people using AI to generate content. Apart from Anthropic, other companies like Black Forest Labs, Google, Meta, Microsoft, OpenAI, and Synthesia have committed to adhering to the EU’s code.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "scraped_at": "2026-08-11T13:21:58.343275"
+    "scraped_at": "2026-08-11T19:12:42.637425"
   },
   {
     "headline": "OpenAI reportedly completed a $7 billion employee tender offer",
     "author": "Tim Fernholz",
     "date_time": "2026-08-10T17:03:18-07:00",
     "summary": "N/A",
-    "content": "OpenAI has bought back $7 billion worth of shares from employees at the privately held frontier AI lab as part of an effort to provide liquidity to its workforce. The deal, reported by Bloomberg, valued OpenAI at $852 billion, the same as its most recent fundraising round in March, which added $122 billion to the company’s war chest. The company also filed confidentially with the Securities and Exchange Commission in June to prepare for a potential IPO later this year. However, a tender offer suggests that an IPO may not be forthcoming soon. With many tech companies remaining private longer than previous generations of startups, private tenders have proven a useful way for firms to allow employees to realize the value of their stock compensation without the difficulties that come with a public offering. OpenAI did not respond to a request for comment by publication time. Last month, OpenAI CEO Sam Altman wrote that “we did not have our best 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date.” Firms going public typically want to show strong financial results to bring investors on board, and the Wall Street Journal reported in April that the company missed internal financial goals. While OpenAI’s incredible growth and products are likely to generate massive interest in public markets, the potential debut of rival Anthropic — which was reportedly profitable earlier this year — gives the company a reason to ensure it puts its best face forward. The tender could be another signal that the much-anticipated offering will wait for OpenAI’s new strategy of paring down its bets and focusing on its enterprise business to gain traction.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "scraped_at": "2026-08-11T13:21:59.978506"
+    "scraped_at": "2026-08-11T19:12:42.639096"
   },
   {
     "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "scraped_at": "2026-08-11T13:21:59.980754"
+    "scraped_at": "2026-08-11T19:12:42.640789"
   },
   {
     "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "scraped_at": "2026-08-11T13:21:59.982362"
+    "scraped_at": "2026-08-11T19:12:42.642414"
   },
   {
     "headline": "Tech industry is buzzing after a Claude agent hacked into a gym",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "scraped_at": "2026-08-11T13:21:59.983936"
-  },
-  {
-    "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-08-10T09:20:13-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "scraped_at": "2026-08-11T13:21:59.985504"
-  },
-  {
-    "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "author": "Tim Fernholz",
-    "date_time": "2026-08-10T05:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "scraped_at": "2026-08-11T13:21:59.987080"
-  },
-  {
-    "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-09T13:35:17-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "scraped_at": "2026-08-11T13:21:59.988697"
-  },
-  {
-    "headline": "Anthropic is turning Claude Code’s auto mode on by default",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-09T12:20:32-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "scraped_at": "2026-08-11T13:21:59.990290"
+    "scraped_at": "2026-08-11T19:12:42.644064"
   }
 ]
