@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "author": "Lucas Ropek",
+    "date_time": "2026-08-12T15:26:37-07:00",
+    "summary": "N/A",
+    "content": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. Anthropic rolled out this new policy to satisfy the EU AI Act’s Transparency Code, which now requires tech companies to label content that has been AI-generated or edited in a manner identifiable to computer systems. Yet while European regulators may be happy, some AI users are decidedly not. One need look no further than Reddit to find evidence of brewing discontent, though other posters on the site are not in agreement. One of the more histrionic posts I came across was from a user named visionode, whose account is notably only three weeks old. According to visionode, the new watermarking system is a draconian conspiracy designed to victimize innocent chatbot users worldwide. Visionode’s basic argument appears to be that, while savvy Claude users may be able hide evidence of their AI usage by paraphrasing or otherwise cleaning their outputs through other AI services, the average user of Claude will be caught. “Who will get caught? You. The student who used Claude to reorganize a paragraph. The journalist who asked the AI to summarize a two-hundred-page transcript. The writer who had creative block and asked for synonyms. Those guys come out of the process with a digital tattoo on their forehead.” Far be it from me to undermine visionode’s outrage, but those are not the best examples. A journalist asking AI to summarize a two-hundred-page transcript is not going to be bothered by a watermark attached to that summary, unless they are copying and pasting the summary verbatim into their article — which is plainly unethical and shouldn’t be happening. It is equally unethical for a student who copies and pastes Claude’s output into an essay after asking it to “reorganize a paragraph.” Other Redditors were also not particularly supportive of the poster’s outrage. “Get a load of this guy,” one poster merely commente",
+    "article_link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "scraped_at": "2026-08-13T02:32:09.635375"
+  },
+  {
+    "headline": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "author": "Amanda Silberling",
+    "date_time": "2026-08-12T13:10:40-07:00",
+    "summary": "N/A",
+    "content": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. This move has inspired swift and concentrated backlash from the Twitch community, especially because creators are opted in to having their content used for this AI training by default. For Amazon, these stream recordings are incredibly valuable, offering thousands of hours of audio and video content to help train AI models. But Twitch users worry that since creators have to manually opt out, they might be surrendering their content to train Amazon’s AI content models without even knowing it. This is especially concerning on a platform like Twitch, where creators are often recording livestreams of themselves and their voices for many hours per week. In a stream on the official Twitch channel, Twitch Head of Community Mary Kish and Chief Product Officer Mike Minton addressed a live audience of nearly 3,000 aggrieved users, many of whom were posting anti-AI sentiments in the chat. “Why is it not opt-in? That’s what everybody is spamming in chat. I get it. ‘Let me opt in versus making me opt out,’” Minton said. “Well, there’s an honest answer… If this was opt-in, nobody would opt in. That’s honestly the answer.” Twitch knows that its community of streamers is largely opposed to the use of generative AI, since the most prevalent generative AI products are trained on books, images, videos, and other materials scraped from the internet without consent. Even Twitch’s approach to breaking this news shows that the company is braced for backlash. Instead of telling the community that Amazon would begin training on Twitch users’ content, Twitch framed this change as “[adding] a setting that lets you opt out of having your channel content used to train generative AI content models across Amazon.” In some cases, this created confusion among streamers about whether their content had already been fed to Amazon without their knowledge. When one user asked i",
+    "article_link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "scraped_at": "2026-08-13T02:32:11.619538"
+  },
+  {
     "headline": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "author": "Julie Bort",
     "date_time": "2026-08-12T11:19:12-07:00",
     "summary": "N/A",
-    "content": "Cognition, makers of the AI coding agent Devin, is reportedly already talking to investors about raising another funding round with a big leap in valuation, after it raised $1 billion at a $26 billon valuation in May. This new round could deliver at least a $40 billion valuation based on achieving a $1 billion annualized revenue run rate, according to sources cited by Bloomberg. Three months ago, when it announced its last raise, Cognition’s Scott Wu confirmed to TechCrunch that it had achieved a $492 million annualized revenue run rate and that enterprises were growing their usage of Devin by 50% month-over-month for the past six months. Wu, a famed wunderkind programmer himself, also told TechCrunch that Devin is not being sold as a human replacement. The agent is often tasked with doing long-tail grunt-work that many programmers dislike such as bringing old software up to date or moving applications off one platform and onto another. This could account for much of its growing popularity among enterprises that have adopted it. The company says its customers include Mercedes-Benz, NASA, and Goldman Sachs.",
+    "content": "Cognition, maker of the AI coding agent Devin, is reportedly already talking to investors about raising another funding round with a big leap in valuation, after it raised $1 billion at a $26 billon valuation in May. This new round could deliver at least a $40 billion valuation based on achieving a $1 billion annualized revenue run rate, according to sources cited by Bloomberg. Three months ago, when it announced its last raise, Cognition’s Scott Wu confirmed to TechCrunch that it had achieved a $492 million annualized revenue run rate and that enterprises were growing their usage of Devin by 50% month-over-month for the past six months. Wu, a famed wunderkind programmer himself, also told TechCrunch that Devin is not being sold as a human replacement. The agent is often tasked with doing long-tail grunt-work that many programmers dislike, such as bringing old software up to date or moving applications off one platform and onto another. This could account for much of its growing popularity among enterprises that have adopted it. The company says its customers include Mercedes-Benz, NASA, and Goldman Sachs.",
     "article_link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "scraped_at": "2026-08-12T19:11:28.911817"
+    "scraped_at": "2026-08-13T02:32:13.697118"
   },
   {
     "headline": "As AI safety concerns mount, three pioneers make the case for staying open",
     "author": "Kate Park",
     "date_time": "2026-08-12T10:51:00-07:00",
     "summary": "N/A",
-    "content": "As projects like Pacing the Frontier look to major labs as a way to keep AI research safe, open-source models have become a sore spot for the industry. With free distribution and little control over how they’re used, open-weight models aren’t easily controlled, leading some labs to treat them as downright scary. But at the Ai4 conference in Las Vegas last week, three of the world’s most respected AI researchers — Nobel Prize winner Geoffrey Hinton, World Labs CEO and co-founder Fei-Fei Li, and Coursera co-founder Andrew Ng — spoke out on the issue. And while they disagreed on particular tactics, all three made a powerful case for keeping AI open. For the three speakers, the core concern was allowing a handful of major AI companies to control the pace of progress. When a few companies control access to a technology, as Apple and Google do with mobile operating systems, innovation can slow and the companies that control the platforms can influence what gets built on them. Andrew Ng said that he worried about a similar dynamic emerging in AI. “I don’t want there to be gatekeepers,” Ng said. “That limits how all of us can access AI.” Companies have an incentive to protect their competitive advantages, including by influencing the rules that govern the industry. That could create a dynamic where only the largest, best-capitalized firms with the resources to build the most advanced AI systems. Ng’s solution was to maintain multiple providers, with models and companies competing rather than allowing a handful of of players to dominate the field. “If I were to try to give one prescription, it would be to promote openness,” Ng said, “because AI is amazing technology and I want it to be in everyone’s hands.” But not everyone agreed that open-weight models would help preserve that state of play. Hinton, in particular, drew a distinction between open-source software, which makes the underlying code available for inspection and modification, and open-weight models, which release",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "scraped_at": "2026-08-12T19:11:30.808176"
+    "scraped_at": "2026-08-13T02:32:13.699543"
   },
   {
     "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "author": "Rebecca Bellan",
     "date_time": "2026-08-12T10:41:29-07:00",
     "summary": "N/A",
-    "content": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital. Thrive Holdings is akin to a private equity firm for AI, buying traditional businesses like accounting firms and implementing AI into their workflows. So far, Thrive has focused on accounting and information technology, but part of Wednesday’s raise will go toward expanding a new vertical in physical assets. Key to that strategy is Thrive’s close relationship with OpenAI. The New York Times was first to report the news. The firm is a spinout of Thrive Capital, one of OpenAI’s major investors. In December 2025, OpenAI took an ownership stake in Thrive Holdings. Part of the deal involved OpenAI sending employees to work with Thrive’s companies to accelerate AI adoption. That hands-on model of AI implementation has become a business in its own right, and may help explain investor enthusiasm behind Thrive’s latest fundraise. OpenAI and Anthropic have both partnered with large private equity firms to launch The Deployment Company and Ode with Anthropic, respectively — billion-dollar ventures that are building teams of elite engineers who embed themselves into enterprises and implement AI solutions into workflows. The raise comes off the back of proven success for Thrive’s companies, which has surpassed 70 businesses on Thrive Holdings’ platforms. The company has focused on two pillars to date: Current, its accounting arm with more than 50 firms and more than 2,000 professionals, and Shield, its information technology arm with around 20 companies on the platform. Current’s self-improving tax agents, dubbed TaxAI, processed more than 7,000 tax returns at 98% accuracy, lowering tax prep times at participating firms by over 30%, according to Thrive. Meanwhile, Shield’s AI products have sped up help desk resolution times by 36x, and the platform has doubled the number of custom AI agents deployed in the last month. Part of W",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "scraped_at": "2026-08-12T19:11:32.500517"
+    "scraped_at": "2026-08-13T02:32:13.701415"
   },
   {
     "headline": "Mesh, Automattic’s CRM for everyone, comes to Android",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "scraped_at": "2026-08-12T19:11:32.502587"
+    "scraped_at": "2026-08-13T02:32:13.703071"
   },
   {
     "headline": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "scraped_at": "2026-08-12T19:11:32.504451"
+    "scraped_at": "2026-08-13T02:32:13.704924"
   },
   {
     "headline": "Lovable confirms new $13.3B valuation, raises another $400M",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "scraped_at": "2026-08-12T19:11:32.506100"
+    "scraped_at": "2026-08-13T02:32:13.706578"
   },
   {
     "headline": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "scraped_at": "2026-08-12T19:11:32.507684"
+    "scraped_at": "2026-08-13T02:32:13.708212"
   },
   {
     "headline": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "scraped_at": "2026-08-12T19:11:32.509757"
-  },
-  {
-    "headline": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "author": "Lauren Forristal",
-    "date_time": "2026-08-12T07:20:33-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "scraped_at": "2026-08-12T19:11:32.511442"
-  },
-  {
-    "headline": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "author": "Jagmeet Singh",
-    "date_time": "2026-08-12T04:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "scraped_at": "2026-08-12T19:11:32.513072"
+    "scraped_at": "2026-08-13T02:32:13.710330"
   }
 ]
