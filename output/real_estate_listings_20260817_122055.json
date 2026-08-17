@@ -1,0 +1,202 @@
+[
+  {
+    "address": "17715 96th Avenue N, Maple Grove, MN 55311",
+    "price_aud": "AUD $360,661",
+    "price_usd": "AUD $360,661",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.582843"
+  },
+  {
+    "address": "2110 Doddridge Ave, Cloquet, MN 55720",
+    "price_aud": "AUD $133,178",
+    "price_usd": "AUD $133,178",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-08-17T12:20:55.582969"
+  },
+  {
+    "address": "18030 Covington Path, Minnetonka, MN 55345",
+    "price_aud": "AUD $378,905",
+    "price_usd": "AUD $378,905",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.583071"
+  },
+  {
+    "address": "N Arm W, Coo, MN 55723",
+    "price_aud": "AUD $132,617",
+    "price_usd": "AUD $132,617",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-17T12:20:55.583170"
+  },
+  {
+    "address": "4273 Vermilion Trail, Gilbert, MN 55741",
+    "price_aud": "AUD $279,267",
+    "price_usd": "AUD $279,267",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-17T12:20:55.583280"
+  },
+  {
+    "address": "29890 Ranchette Drive, Pequot Lakes, MN 56472",
+    "price_aud": "AUD $98,235",
+    "price_usd": "AUD $98,235",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-17T12:20:55.583378"
+  },
+  {
+    "address": "108 Celestine Circle, Mankato, MN 56001",
+    "price_aud": "AUD $491,033",
+    "price_usd": "AUD $491,033",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.583472"
+  },
+  {
+    "address": "8878 Main St, Mtn Iron, MN 55768",
+    "price_aud": "AUD $526,257",
+    "price_usd": "AUD $526,257",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-17T12:20:55.583555"
+  },
+  {
+    "address": "1069 Seminole Avenue, West Saint Paul, MN 55118",
+    "price_aud": "AUD $279,267",
+    "price_usd": "AUD $279,267",
+    "bedrooms": "2",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-17T12:20:55.583652"
+  },
+  {
+    "address": "5875 Meadowlark Lane, Prior Lake, MN 55372",
+    "price_aud": "AUD $2,596,199",
+    "price_usd": "AUD $2,596,199",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-17T12:20:55.583755"
+  },
+  {
+    "address": "1126 N 6th Ave E, Duluth, MN 55805",
+    "price_aud": "AUD $259,620",
+    "price_usd": "AUD $259,620",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "timestamp": "2026-08-17T12:20:55.583850"
+  },
+  {
+    "address": "8211 Sheridan Avenue N, Brooklyn Park, MN 55444",
+    "price_aud": "AUD $428,022",
+    "price_usd": "AUD $428,022",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.583958"
+  },
+  {
+    "address": "15400 Trillium Trail, Lake Park, MN 56554",
+    "price_aud": "AUD $862,921",
+    "price_usd": "AUD $862,921",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584053"
+  },
+  {
+    "address": "17615 Xenia Street NW, Andover, MN 55304",
+    "price_aud": "AUD $1,227,792",
+    "price_usd": "AUD $1,227,792",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-17T12:20:55.584147"
+  },
+  {
+    "address": "984 Yuma Lane N, Plymouth, MN 55447",
+    "price_aud": "AUD $736,759",
+    "price_usd": "AUD $736,759",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584240"
+  },
+  {
+    "address": "10986 Thone Road, Woodbury, MN 55129",
+    "price_aud": "AUD $687,502",
+    "price_usd": "AUD $687,502",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-17T12:20:55.584335"
+  },
+  {
+    "address": "11495 75th Street NE, Otsego, MN 55301",
+    "price_aud": "AUD $491,173",
+    "price_usd": "AUD $491,173",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584427"
+  },
+  {
+    "address": "3388 Juliet Drive, Woodbury, MN 55125",
+    "price_aud": "AUD $421,005",
+    "price_usd": "AUD $421,005",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584520"
+  },
+  {
+    "address": "6256 Lynn Way, Woodbury, MN 55129",
+    "price_aud": "AUD $1,227,932",
+    "price_usd": "AUD $1,227,932",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-17T12:20:55.584611"
+  },
+  {
+    "address": "3096 Copper Oaks Draw, Woodbury, MN 55125",
+    "price_aud": "AUD $666,592",
+    "price_usd": "AUD $666,592",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-17T12:20:55.584702"
+  },
+  {
+    "address": "7277 100th Avenue SE, Clear Lake, MN 55319",
+    "price_aud": "AUD $631,508",
+    "price_usd": "AUD $631,508",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584794"
+  },
+  {
+    "address": "16920 61st Street NE, Otsego, MN 55330",
+    "price_aud": "AUD $589,267",
+    "price_usd": "AUD $589,267",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584899"
+  },
+  {
+    "address": "14260 Estates Avenue, Apple Valley, MN 55124",
+    "price_aud": "AUD $364,871",
+    "price_usd": "AUD $364,871",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.584995"
+  },
+  {
+    "address": "631 19th Street, Windom, MN 56101",
+    "price_aud": "AUD $238,429",
+    "price_usd": "AUD $238,429",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-17T12:20:55.585089"
+  },
+  {
+    "address": "1919 Sierra Drive, Hastings, MN 55033",
+    "price_aud": "AUD $399,885",
+    "price_usd": "AUD $399,885",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-08-17T12:20:55.585182"
+  }
+]
