@@ -1,30 +1,84 @@
 [
   {
+    "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+    "author": "Russell Brandom",
+    "date_time": "2026-08-18T11:00:00-07:00",
+    "summary": "N/A",
+    "content": "On Tuesday, OpenAI announced a new batch of security policies focused on containing security incidents while models are being tested. The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. “As models become more capable, the risks associated with developing and testing them internally also grow,” the company said in a blog post. “Our standards for monitoring, alignment, and security must stay ahead of those risks.” The new measures are one of the first public changes in OpenAI’s safety practices since the immediate aftermath of the Hugging Face incident, which was disclosed on July 21. OpenAI representatives said that the measures are not a direct response to the Hugging Face incident but were also provoked in part by the cybersecurity capabilities of the forthcoming Astra model, as well as the overall pace of progress in AI development. In the same post, OpenAI disclosed that it had paused reinforcement learning (RL) for two weeks following the Hugging Face incident but had since restarted many of the less-risky models. “Our largest planned frontier RL run remains on hold while we conduct smaller-scale training and evaluations to assess model behavior, validate our safeguards, and establish more evidence of alignment before proceeding,” the post reads. Speaking to reporters, OpenAI’s VP of research, Amelia Glaese, emphasized that the strictness of the controls would increase as models became more capable, with the largest models facing the greatest scrutiny. “We have put in place requirements and expectations for safe development,” Glaese told reporters. “Those requirements and expectations vary with the level of risk that we see.” OpenAI has been criticized for poor network security practices in the wake of the incident, which saw models escape their training environment by compromising a tool on its network that had access to the internet",
+    "article_link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "scraped_at": "2026-08-18T18:49:13.869356"
+  },
+  {
+    "headline": "Etched’s valuation doubles to $21B in a month",
+    "author": "Julie Bort",
+    "date_time": "2026-08-18T10:21:58-07:00",
+    "summary": "N/A",
+    "content": "Etched on Tuesday announced that it has raised another $700 million at a $21 billion valuation, led by Jane Street after the famed quant fund tested and bought the startup’s AI hardware. Even by AI standards, this valuation step-up is jaw-droppingly fast. Etched was valued at $5 billion in December. It raised a $300 million Series C at a $10.3 billion valuation in July. Now investors have doubled its valuation to $21 billion, up nearly $11 billion, in a month. Etched delivers its AI tech as full systems that it calls “frontier inference clusters.” (Etched competitor Nvidia calls its full systems AI factories.) Co-founder and COO Robert Wachen told TechCrunch that investors are so enthusiastic because Etched has designed two new components from scratch to speed up inference — the computing process that happens after a user submits a prompt. “Inference is built in two stages,” Wachen said, “prefill and decode.” In the mathematically and compute-intensive “prefill phase,” the system must understand the prompt, including context. In the memory-intensive “decode” phase, the system generates output tokens, meaning the actual answer the user sees. Etched created a prefill chip that operates at low voltage, allowing it to pack in more transistors without the typical heat problems of other high-end AI chips. It can therefore process more tokens faster. Etched created a new type of memory and an interconnect for the decode process that the company calls cluster-scale memory. “It allows many chips to connect together and use a shared memory pool at a very, very fast, low latency,” Wachen said. The result, Etched promises, is higher speeds and lower costs. Etched is still battling the perception from its early days that it etches a particular model into its chips, meaning that each chip is somehow custom-designed to run one frontier model. That was its original intention but is no longer the case. Etched’s systems can run any frontier model. In the blog post announcing the new ",
+    "article_link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "scraped_at": "2026-08-18T18:49:15.366434"
+  },
+  {
+    "headline": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "author": "Sarah Perez",
+    "date_time": "2026-08-18T09:19:10-07:00",
+    "summary": "N/A",
+    "content": "Camera-equipped AI wearables today have developed a bit of a reputation problem. Devices like Meta’s Ray-Bans raise concerns about people being recorded without their consent. So the idea that Apple is reportedly preparing to release AirPods with cameras in them seems to conflict with the iPhone maker’s desire to position itself as a privacy-focused tech company. But Apple’s now-leaked camera-equipped AirPods may not be as creepy as they first sound. The rumored cameras were reportedly confirmed via video footage found in Apple’s macOS 26.7 RC (short for “release candidate,” or the final test version of the software before it ships publicly). The footage, found by researcher Aaron Perris, shows a man holding up a book while wearing AirPods and apparently having a conversation with Siri about it. The audio track accompanying the video says: “With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.” The addition of cameras to the popular wireless earbuds is further confirmed through code that references a “Hair Detected” error, which would warn users when their hair is covering the AirPods’ camera. The launch of such a device could very easily backfire on Apple if not done right. Some additional info about AirPods Pro 4 with cameras, found in macOS 26.7 RC:If you have long hair that blocks the camera, there will be an error that is titled \"Hair Detected\" that says \"to get the most accurate information about things in your environment, make sure AirPods… https://t.co/hUbWovpsyc For a company whose brand is built on trust, this is a bigger gamble for Apple than one of its typical hardware refreshes. AirPods currently blend as a simple iPhone accessory that people wear all day without a second thought. A change like this could instead push them to the front of people’s minds, making them wonder whether the person opposite them is secretly recording. Apple appears to have thought this through, based on prior reporting",
+    "article_link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "scraped_at": "2026-08-18T18:49:17.076935"
+  },
+  {
+    "headline": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "author": "Russell Brandom",
+    "date_time": "2026-08-18T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "scraped_at": "2026-08-18T18:49:17.078850"
+  },
+  {
+    "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "author": "Sarah Perez",
+    "date_time": "2026-08-18T06:50:30-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "scraped_at": "2026-08-18T18:49:17.080315"
+  },
+  {
+    "headline": "Perplexity’s free AI offer left it with millions more users in India",
+    "author": "Jagmeet Singh",
+    "date_time": "2026-08-18T06:45:40-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "scraped_at": "2026-08-18T18:49:17.081774"
+  },
+  {
     "headline": "Anthropic’s annualized revenue surges to $65B",
     "author": "Marina Temkin",
     "date_time": "2026-08-17T16:56:26-07:00",
     "summary": "N/A",
-    "content": "Anthropic’s revenue continues to not only grow at an historic pace but also to accelerate. The model maker’s annualized revenue run rate — a projection of a full year’s revenue based on a recent, shorter period —surpassed $65 billion at the end of July, Bloomberg reported on Monday, up from $47 billion in May and just $9 billion at the end of last year. Anthropic didn’t immediately respond to our request for comment. The company’s investors expect it to continue to grow at approximately the same rate for the remainder of the year, finishing 2026 between $100 billion and $120 billion, the Financial Times reported. Meanwhile, rival OpenAI has doubled its revenue to $40 billion, up from $20 billion at the end of 2025, Bloomberg reported last week. The two companies may calculate their revenue metrics differently, but Anthropic’s growth rate has captivated investors far more than OpenAI’s has. Both companies have filed confidential IPO paperwork. Anthropic is expected to hit the public markets ahead of OpenAI — possibly as soon as this fall. Anthropic will be seeking a public valuation of $2 trillion or more, according to the Financial Times, which would make it the largest market debut on record. Anthropic was last valued at $965 billion in late May, when it raised a $65 billion round.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "scraped_at": "2026-08-18T06:55:17.343287"
+    "scraped_at": "2026-08-18T18:49:17.083286"
   },
   {
     "headline": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "author": "Lucas Ropek",
     "date_time": "2026-08-17T14:27:05-07:00",
     "summary": "N/A",
-    "content": "Relay, an AI-powered workflow automation tool that was launched in 2021 with the goal of becoming the new Zapier, is shutting down, and some of its staff — including its top executive — are joining Google’s Chrome team. Jacob Bank, Relay’s founder and CEO, shared a company announcement Monday that reveals the app will be shutting down access for paying customers on September 14. Free customers would have already lost access as of August 15. The app’s closure was initially announced in July. Bank, who previously spent a little over six years at Google, revealed that he would now be rejoining the tech giant as VP of Product for Google Chrome, where he will lead the product and developer relations teams for Chrome, according to his LinkedIn. “I’ve spent my whole career doing one thing: building tools that help people get more done with AI, without sacrificing their personal creativity or insights,” said Bank in a post on X. “And joining the Chrome team is an ideal opportunity to bring those experiences to many, many more people.” “We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,” he added. Bank originally joined Google in 2015 after his previous startup, a scheduling app called Timeful, was acquired by the search giant. At Google, he worked in a number of different areas, including as product lead for Gmail, Google Calendar, and Google Chat, before eventually leaving to launch Relay. Similar to Timeful, Relay offered users productivity upgrades via workflow automation, allowing businesses to streamline repetitive tasks like document drafting and copyediting, as well as various project management tasks. TechCrunch reached out to Google and to Relay for more information. Just how Bank and others plan to further integrate AI into Chrome is a hanging question, though Bank calls Chrome “a perfect place to collaborate with agents.” The move follows a steady path of AI integration into Google’s user e",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "scraped_at": "2026-08-18T06:55:19.393714"
+    "scraped_at": "2026-08-18T18:49:17.084744"
   },
   {
     "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "author": "Amanda Silberling",
     "date_time": "2026-08-17T09:38:44-07:00",
     "summary": "N/A",
-    "content": "Amazon is buying tons of rare books, cutting off their spines, and scanning them for AI training, according to 404 Media, which placed a tracking device in a rare book that ultimately arrived at an Amazon facility in Las Vegas. The facility, known as VGT3, identifies itself with a symbol of a dinosaur holding a book in its claws. Amazon told 404 Media in a statement that it “purchases books through commercial channels to improve the products and services customers use.” Companies like Amazon need unfathomably large amounts of text to train their LLMs, which have already ingested what they can from the internet (and, in Anthropic’s case, illegally pirated books). Rare books, especially ones that are out of print or impossible to find on the internet, offer a new source of coveted training data. These texts are especially valuable since there’s no chance that anything published before 2022 was written by an LLM. When LLMs train on AI-generated text, they risk “model collapse,” which can occur when the quality of an LLM’s outputs degrade after ingesting too much AI-generated text.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "scraped_at": "2026-08-18T06:55:20.585464"
+    "scraped_at": "2026-08-18T18:49:17.086243"
   },
   {
     "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -33,60 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "scraped_at": "2026-08-18T06:55:20.587647"
-  },
-  {
-    "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "author": "Tim De Chant",
-    "date_time": "2026-08-17T08:16:24-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "scraped_at": "2026-08-18T06:55:20.589175"
-  },
-  {
-    "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "author": "Ivan Mehta",
-    "date_time": "2026-08-17T06:10:05-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "scraped_at": "2026-08-18T06:55:20.590633"
-  },
-  {
-    "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-16T13:57:04-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "scraped_at": "2026-08-18T06:55:20.592147"
-  },
-  {
-    "headline": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-16T13:32:01-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "scraped_at": "2026-08-18T06:55:20.593647"
-  },
-  {
-    "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-16T09:53:51-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "scraped_at": "2026-08-18T06:55:20.595106"
-  },
-  {
-    "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-15T14:29:19-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "scraped_at": "2026-08-18T06:55:20.596591"
+    "scraped_at": "2026-08-18T18:49:17.087667"
   }
 ]
