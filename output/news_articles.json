@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Anthropic’s revenue continues to not only grow at an historic pace but also to accelerate. The model maker’s annualized revenue run rate — a projection of a full year’s revenue based on a recent, shorter period —surpassed $65 billion at the end of July, Bloomberg reported on Monday, up from $47 billion in May and just $9 billion at the end of last year. Anthropic didn’t immediately respond to our request for comment. The company’s investors expect it to continue to grow at approximately the same rate for the remainder of the year, finishing 2026 between $100 billion and $120 billion, the Financial Times reported. Meanwhile, rival OpenAI has doubled its revenue to $40 billion, up from $20 billion at the end of 2025, Bloomberg reported last week. The two companies may calculate their revenue metrics differently, but Anthropic’s growth rate has captivated investors far more than OpenAI’s has. Both companies have filed confidential IPO paperwork. Anthropic is expected to hit the public markets ahead of OpenAI — possibly as soon as this fall. Anthropic will be seeking a public valuation of $2 trillion or more, according to the Financial Times, which would make it the largest market debut on record. Anthropic was last valued at $965 billion in late May, when it raised a $65 billion round.",
     "article_link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "scraped_at": "2026-08-18T01:40:49.211510"
+    "scraped_at": "2026-08-18T06:55:17.343287"
   },
   {
     "headline": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Relay, an AI-powered workflow automation tool that was launched in 2021 with the goal of becoming the new Zapier, is shutting down, and some of its staff — including its top executive — are joining Google’s Chrome team. Jacob Bank, Relay’s founder and CEO, shared a company announcement Monday that reveals the app will be shutting down access for paying customers on September 14. Free customers would have already lost access as of August 15. The app’s closure was initially announced in July. Bank, who previously spent a little over six years at Google, revealed that he would now be rejoining the tech giant as VP of Product for Google Chrome, where he will lead the product and developer relations teams for Chrome, according to his LinkedIn. “I’ve spent my whole career doing one thing: building tools that help people get more done with AI, without sacrificing their personal creativity or insights,” said Bank in a post on X. “And joining the Chrome team is an ideal opportunity to bring those experiences to many, many more people.” “We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,” he added. Bank originally joined Google in 2015 after his previous startup, a scheduling app called Timeful, was acquired by the search giant. At Google, he worked in a number of different areas, including as product lead for Gmail, Google Calendar, and Google Chat, before eventually leaving to launch Relay. Similar to Timeful, Relay offered users productivity upgrades via workflow automation, allowing businesses to streamline repetitive tasks like document drafting and copyediting, as well as various project management tasks. TechCrunch reached out to Google and to Relay for more information. Just how Bank and others plan to further integrate AI into Chrome is a hanging question, though Bank calls Chrome “a perfect place to collaborate with agents.” The move follows a steady path of AI integration into Google’s user e",
     "article_link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "scraped_at": "2026-08-18T01:40:50.947902"
+    "scraped_at": "2026-08-18T06:55:19.393714"
   },
   {
     "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Amazon is buying tons of rare books, cutting off their spines, and scanning them for AI training, according to 404 Media, which placed a tracking device in a rare book that ultimately arrived at an Amazon facility in Las Vegas. The facility, known as VGT3, identifies itself with a symbol of a dinosaur holding a book in its claws. Amazon told 404 Media in a statement that it “purchases books through commercial channels to improve the products and services customers use.” Companies like Amazon need unfathomably large amounts of text to train their LLMs, which have already ingested what they can from the internet (and, in Anthropic’s case, illegally pirated books). Rare books, especially ones that are out of print or impossible to find on the internet, offer a new source of coveted training data. These texts are especially valuable since there’s no chance that anything published before 2022 was written by an LLM. When LLMs train on AI-generated text, they risk “model collapse,” which can occur when the quality of an LLM’s outputs degrade after ingesting too much AI-generated text.",
     "article_link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "scraped_at": "2026-08-18T01:40:52.702759"
+    "scraped_at": "2026-08-18T06:55:20.585464"
   },
   {
     "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "scraped_at": "2026-08-18T01:40:52.704464"
+    "scraped_at": "2026-08-18T06:55:20.587647"
   },
   {
     "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "scraped_at": "2026-08-18T01:40:52.705654"
+    "scraped_at": "2026-08-18T06:55:20.589175"
   },
   {
     "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "scraped_at": "2026-08-18T01:40:52.706804"
+    "scraped_at": "2026-08-18T06:55:20.590633"
   },
   {
     "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "scraped_at": "2026-08-18T01:40:52.707967"
+    "scraped_at": "2026-08-18T06:55:20.592147"
   },
   {
     "headline": "Why people aren’t buying Mark Zuckerberg’s AI future",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "scraped_at": "2026-08-18T01:40:52.709097"
+    "scraped_at": "2026-08-18T06:55:20.593647"
   },
   {
     "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "scraped_at": "2026-08-18T01:40:52.710222"
+    "scraped_at": "2026-08-18T06:55:20.595106"
   },
   {
     "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "scraped_at": "2026-08-18T01:40:52.711389"
+    "scraped_at": "2026-08-18T06:55:20.596591"
   }
 ]
