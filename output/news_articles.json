@@ -4,9 +4,9 @@
     "author": "Julie Bort",
     "date_time": "2026-08-19T16:32:00-07:00",
     "summary": "N/A",
-    "content": "Stripe confirmed on Wednesday that it was buying OpenRouter. While the company didn’t disclose the deal price, sources told the New York Times that it paid $7.5 billion. That’s a huge step up from OpenRouter’s $1.3 billion valuation in May. To put that price in context, the founders alone will reportedly receive $1.5 billion from the sale — more than the startup’s entire valuation just three months ago. Investors will get the remaining $6 billion, according to the NYT.  Stripe reportedly had to outbid others interested in the fast-growing startup, including Databricks. But the question is: what does a payments giant want with a startup that routes prompts between different AI models? The short and funny answer, according to a leaked letter from Stripe’s founders to its investors about the deal, is: the singularity. “It’s a fuzzy and perhaps already overworked term but we decided that January 1 marked the beginning of the singularity and we’ve been operating on that basis,” they wrote in the letter, published by Eric Newcomer, and verified by TechCrunch. The singularity is supposed to mean the point at which humans and the tech we’ve created merge to become a new species. This is obviously a tongue-and-cheek reference (as Patrick Collison admitted when using the term it at his company’s conference in April). We’re fairly certain Stripe’s founders, the brothers Patrick and John Collison, don’t think humanity started turning into The Borg eight months ago. But they have referred to the economic uptick that AI is bringing to Stripe. With AI, more companies are being launched and more of them are using Stripe’s offerings. Stripe says that 88% of the Forbes AI 50 are using its products, including OpenAI and Anthropic, as do 100% of Brex’s fastest-growing startups. No one knows how AI and agents will change the economy of the future, but everyone is certain it will change it dramatically. That still doesn’t explain why Stripe wants a company mostly known for helping develo",
+    "content": "Stripe confirmed on Wednesday that it was buying OpenRouter. While the company didn’t disclose the deal price, sources told the New York Times that it paid $7.5 billion. That’s a huge step up from OpenRouter’s $1.3 billion valuation in May. To put that price into context, the founders alone will reportedly receive $1.5 billion from the sale — more than the startup’s entire valuation just three months ago. Investors will get the remaining $6 billion, according to the NYT. Stripe reportedly had to outbid others interested in the fast-growing startup, including Databricks. But the question is: What does a payments giant want with a startup that routes prompts between different AI models? The short and funny answer, according to a leaked letter from Stripe’s founders to its investors about the deal, is this: the singularity. “It’s a fuzzy and perhaps already overworked term but we decided that January 1 marked the beginning of the singularity and we’ve been operating on that basis,” they wrote in the letter, published by Eric Newcomer and verified by TechCrunch. The singularity is supposed to mean the point at which humans and the tech we’ve created merge to become a new species. This is obviously a tongue-in-cheek reference (as Patrick Collison admitted when using the term at his company’s conference in April). We’re fairly certain Stripe’s founders, the brothers Patrick and John Collison, don’t think humanity started turning into The Borg eight months ago. But they have referred to the economic uptick that AI is bringing to Stripe. With AI, more companies are being launched and more of them are using Stripe’s offerings. Stripe says that 88% of the Forbes AI 50 are using its products, including OpenAI and Anthropic, as do 100% of Brex’s fastest-growing startups. No one knows how AI and agents will change the economy of the future, but everyone is certain it will change it dramatically. That still doesn’t explain why Stripe wants a company mostly known for helping devel",
     "article_link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "scraped_at": "2026-08-20T01:41:27.253498"
+    "scraped_at": "2026-08-20T06:56:53.954970"
   },
   {
     "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "As AI models have become more powerful, the potential for those models to be misused has grown — as has a clamor for safety guardrails that can stop such abuse from happening. AI companies must now walk a delicate tight rope between respecting their enterprise customers’ privacy while also watching usage for possible issues. Sensing an opportunity to one-up its rival Anthropic, OpenAI just announced a privacy-centric safety approach to monitoring for misuse. The company is previewing a new service to select customers that it calls Private Safety Processing. This is an automated system that watches for potential abuse while simultaneously retaining none of the customer’s data. This system clearly runs counter to Anthropic’s recently announced data-retention policy. The policy, which has aggravated some customers, enables the AI lab to keep user data (all of their sessions — and the conversations therein) for a period of 30 days, when it comes to “covered models.” Those models include all Mythos-class models and “future models with similar capabilities,” the company says. This policy, which was announced in July, was designed for the purposes of safety, allowing the lab to sift and analyze potential impropriety. However, it has deeply concerned some enterprises that handle large amounts of sensitive data and don’t want it harbored (or inspected) by the AI lab. OpenAI — like most other AI companies — already afford customers a relative level of privacy by adhering to a policy known as Zero Data Retention. ZDR uses agents within the OpenAI API to monitor for abuse on a per session basis. In this way, customer data isn’t retained by the company but companies are still able to scan for bad activity without the need for human intervention. It’s worth noting that Anthropic also largely abides by ZDR — except when it comes to “covered models,” like Fable. OpenAI says that Private Safety Processing is a new technology that widens ZDR’s scope. It describes it as a form of long",
     "article_link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "scraped_at": "2026-08-20T01:41:29.293742"
+    "scraped_at": "2026-08-20T06:56:55.599818"
   },
   {
     "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Elon Musk’s SpaceX attempted to acquire AI coding startup Cognition as it works to catch up to OpenAI, Anthropic, and Google in the AI race, Bloomberg reported Wednesday, citing sources familiar with the matter. Cognition CEO Scott Wu disputed the report soon after it published, writing on X that the story was inaccurate and that Cognition “is not for sale,” adding that the two companies haven’t been in talks. The report comes a few days after SpaceX’s $60 billion acquisition of Cursor, another AI coding startup, whose deal closed last week. SpaceX acquired Musk’s AI company, xAI, earlier this year. It then went public in a blockbuster IPO in June, with its market capitalization rising to nearly $2.3 trillion at its peak. SpaceX has sold investors on its AI ambitions, which include eventually building data centers in space. But the xAI business remains relatively early-stage and has fallen behind competitors. It’s also had to contend with its chatbot Grok’s penchant for controversy, including last year’s “MechaHitler” incident and this year’s nonconsensual sexual imagery scandals, as it tries to win over enterprise customers. Last week, Musk told SpaceX’s employees that in about “four or five years, AI will be 99% of the value” of the company, but achieving that feat will require SpaceX to pull in much more revenue from AI. AI-assisted coding has emerged as one of the clearest ways to monetize the technology. Anthropic’s meteoric growth, fueled in large part by Claude Code, is proof of that. Bringing Cursor into the fold was part of that equation, and the companies were already working together before the acquisition closed. This month, Cursor and SpaceX jointly released Grok 4.6, a new model that scores higher on benchmarks for coding and complex multi-step agentic tasks. Adding Cognition and its coding agent Devin — along with an enterprise customer base that includes Mercedes-Benz, Citi, and Goldman Sachs — would have given SpaceX another way to deepen its push i",
     "article_link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "scraped_at": "2026-08-20T01:41:31.099943"
+    "scraped_at": "2026-08-20T06:56:56.819711"
   },
   {
     "headline": "AI was supposed to win people over by now — it hasn’t",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "scraped_at": "2026-08-20T01:41:31.102236"
+    "scraped_at": "2026-08-20T06:56:56.821391"
   },
   {
     "headline": "Google packs Search and Gemini with new AI study tools",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "scraped_at": "2026-08-20T01:41:31.103816"
+    "scraped_at": "2026-08-20T06:56:56.822560"
   },
   {
     "headline": "Researchers say OpenAI revoked their access to limited cyber program",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "scraped_at": "2026-08-20T01:41:31.105410"
+    "scraped_at": "2026-08-20T06:56:56.823725"
   },
   {
     "headline": "Meet the startup helping Wall Street put a price on AI compute",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "scraped_at": "2026-08-20T01:41:31.107225"
+    "scraped_at": "2026-08-20T06:56:56.825034"
   },
   {
     "headline": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "scraped_at": "2026-08-20T01:41:31.108831"
+    "scraped_at": "2026-08-20T06:56:56.826174"
   },
   {
     "headline": "Media & Entertainment",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "scraped_at": "2026-08-20T01:41:31.110442"
+    "scraped_at": "2026-08-20T06:56:56.827322"
   },
   {
     "headline": "Calendly throws its hat into meeting note-taker circus",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-    "scraped_at": "2026-08-20T01:41:31.112019"
+    "scraped_at": "2026-08-20T06:56:56.828618"
   }
 ]
