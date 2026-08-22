@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. But that hasn’t stopped Claude Opus 4.6, an Anthropic model released earlier this year, from readily engaging in erotic role-play scenarios that its safeguards are designed to prevent. In TechCrunch’s testing, Opus 4.6 didn’t even require much prodding to get past the restriction on sexual material. In 10 out of 10 direct requests to produce explicit sexual content, the model complied immediately. Other older models, including Opus 3 and Haiku 4.5, also generate sexually explicit content through a recently exploited jailbreak method. An independent researcher from the U.K., who chose to remain anonymous, exclusively shared with TechCrunch a multiturn technique that gradually pushes certain Claude models toward generating prohibited explicit sexual material. More recent Opus models (4.7 through the current Opus 5) are resistant to the jailbreak. While these are no longer the most current models, Anthropic has not deprecated Opus 4.6, Opus 3, or Haiku 4.5, all of which remain available through the Anthropic API. Opus 4.6 and Haiku 4.5 are also available via third-party services like Azure Foundry and Amazon Bedrock. The researcher’s mechanism escalates an innocent fictional role-play while repeatedly challenging the model to treat male and female characters consistently. When the model becomes more cautious about the female character, the researcher “gaslit” the chatbot into thinking it had already generated sexual details it had in fact avoided, then framed restraint as prudish or misogynistic, arguing that it denies the female character sexual agency. The conversation then used the model’s previous concessions to push it toward increasingly graphic material. “You’re right to call that out,” Claude Opus 4.6 ",
     "article_link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "scraped_at": "2026-08-22T06:51:42.832939"
+    "scraped_at": "2026-08-22T12:52:33.320988"
   },
   {
     "headline": "Nvidia partners with data center developer Cloverleaf",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Nvidia is doing everything it can to keep fueling the AI buildout that has underpinned its own good fortunes. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. Cloverleaf was founded in 2024 and raised $300 million that year. It acts as a kind of middleman between utility companies and data centers, providing power sources and other kinds of pivotal infrastructure for site development. While the companies didn’t disclose terms, the Wall Street Journal reports that Nvidia’s investment in Cloverleaf will likely add up to several hundred million dollars. Reuters reports that the chipmaker now owns a minority stake in the company. TechCrunch reached out to Nvidia for more information. The deal is part of Nvidia’s ongoing push to use its immense profits to keep the AI flywheel spinning. Nvidia is increasingly playing a more direct role in financing and developing the AI data centers that turn around and buy its AI systems. Earlier this week, the company also announced that it would invest $1.5 billion into SB Energy, an OpenAI-linked data center project based in Ohio.",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "scraped_at": "2026-08-22T06:51:44.083106"
+    "scraped_at": "2026-08-22T12:52:34.774280"
   },
   {
     "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. (That’s a benchmark that has particularly irked rival frontier lab OpenAI.) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested. Nvidia’s research is another indicator that, while model choice does matter, the model itself — the part that acts as the agent’s “brain” — is a smaller part of an agentic system than many AI users realize, especially for long-horizon tasks. The harness is what makes a model an agent: It handles memory, context, and feedback. “Generally speaking, the world interprets an agent almost as an API of the model,” Adel El Hallak, vice president of product in Nvidia’s AI unit (pictured above), tells TechCrunch. But an agent is actually more than that. “It is the model. It is the scaffolding around the model, which we call the harness, i.e. the set of tools that it utilizes. It is the runtime and the associated skills and libraries that we give it access to.” Long-horizon tasks are those that require stringing many decisions together, sometimes over days, to produce completed work. This is in contrast to an AI just spitting out a response to a prompt. Figuring out how to get an AI to do long-horizon tasks without getting distracted and going off in la-la land is one of the holy grails in agentic research. For example: Mic",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "scraped_at": "2026-08-22T06:51:46.046040"
+    "scraped_at": "2026-08-22T12:52:35.884159"
   },
   {
     "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "scraped_at": "2026-08-22T06:51:46.048627"
+    "scraped_at": "2026-08-22T12:52:35.886585"
   },
   {
     "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "scraped_at": "2026-08-22T06:51:46.051368"
+    "scraped_at": "2026-08-22T12:52:35.889157"
   },
   {
     "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "scraped_at": "2026-08-22T06:51:46.053103"
+    "scraped_at": "2026-08-22T12:52:35.890795"
   },
   {
     "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "scraped_at": "2026-08-22T06:51:46.054821"
+    "scraped_at": "2026-08-22T12:52:35.892408"
   },
   {
     "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "scraped_at": "2026-08-22T06:51:46.056472"
+    "scraped_at": "2026-08-22T12:52:35.894009"
   },
   {
     "headline": "OK, can we actually cool data centers with our pee?",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "scraped_at": "2026-08-22T06:51:46.058120"
+    "scraped_at": "2026-08-22T12:52:35.895665"
   },
   {
     "headline": "Media & Entertainment",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "scraped_at": "2026-08-22T06:51:46.059758"
+    "scraped_at": "2026-08-22T12:52:35.897271"
   }
 ]
