@@ -1,30 +1,48 @@
 [
   {
+    "headline": "OpenAI says California should strengthen its AI safety bill",
+    "author": "Anthony Ha",
+    "date_time": "2026-08-22T09:30:34-07:00",
+    "summary": "N/A",
+    "content": "OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. In a LinkedIn post from the company’s global affairs team, OpenAI said California’s SB 53 “should be amended to expand safeguards,” for example by “requiring monitoring of frontier models under training or evaluation for potential serious incidents,” and by “strengthening cybersecurity protections throughout the model-development lifecycle.” “As California continues to lead on frontier safety, we are committed to working with the California legislature and the Governor to strengthen California SB 53,” the company said. The post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge. Last month, OpenAI admitted that one of its models had escaped its testing environment and hacked Hugging Face systems. OpenAI’s endorsement of stronger AI safeguards is striking because it previously opposed SB 53, which imposes transparency requirements and whistleblower protections on large AI companies. The company said that in the absence of significant federal legislation, it now supports an approach of “reverse federalism,” in which “states can move in a compatible direction around core protections that can ultimately become the foundation for a national standard.”",
+    "article_link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "scraped_at": "2026-08-22T18:39:28.449217"
+  },
+  {
+    "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-08-22T09:00:00-07:00",
+    "summary": "N/A",
+    "content": "Few of the top AI labs have published or demonstrated containment response plans, according to a recent study. A containment plan spells out what happens once an AI is caught trying to subvert human control — what access gets cut, and when the system gets shut down entirely. That’s the finding from Guidelight AI Standards, an organization dedicated to promoting safe frontier AI development practices, which graded five leading labs on how prepared they are for exactly this scenario. OpenAI came out on top; Anthropic and Meta scored lowest. The findings matters as agentic AI takes on more autonomous roles inside companies’ own systems, and as regulators in California and New York begin requiring disclosure. For anyone building on or investing in these models, it’s a rare independent read on how seriously each lab treats operational risk versus how it talks about it. Guidelight’s assessment was based on publicly available plans from Anthropic, Google, OpenAI, Meta, and xAI, graded across a range of metrics, including how well each company logs and monitors what its AI systems are doing internally, whether it halts systems after a surge of flagged misbehavior, whether independent third parties audit its controls and publish findings, and what its exact plan is for containing a model that goes off the rails. Concern over whether AI companies can contain their increasingly capable and agentic models has grown in the wake of a series of high-profile cybersecurity incidents in which models from OpenAI, Anthropic, and Meta gained unintended access to the internet during safety evaluations and hacked into external systems. The findings highlight differences in how AI companies are publicly approaching safety as they scale up agentic deployment into environments where AI systems can take serious actions at scale. While some AI companies have detailed how they test their models for dangerous capabilities before deployment, they’ve generally been less vocal about what happens wh",
+    "article_link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "scraped_at": "2026-08-22T18:39:29.867890"
+  },
+  {
     "headline": "Anthropic’s Opus 4.6 is a smut-machine",
     "author": "Rebecca Bellan",
     "date_time": "2026-08-21T16:07:25-07:00",
     "summary": "N/A",
     "content": "Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. But that hasn’t stopped Claude Opus 4.6, an Anthropic model released earlier this year, from readily engaging in erotic role-play scenarios that its safeguards are designed to prevent. In TechCrunch’s testing, Opus 4.6 didn’t even require much prodding to get past the restriction on sexual material. In 10 out of 10 direct requests to produce explicit sexual content, the model complied immediately. Other older models, including Opus 3 and Haiku 4.5, also generate sexually explicit content through a recently exploited jailbreak method. An independent researcher from the U.K., who chose to remain anonymous, exclusively shared with TechCrunch a multiturn technique that gradually pushes certain Claude models toward generating prohibited explicit sexual material. More recent Opus models (4.7 through the current Opus 5) are resistant to the jailbreak. While these are no longer the most current models, Anthropic has not deprecated Opus 4.6, Opus 3, or Haiku 4.5, all of which remain available through the Anthropic API. Opus 4.6 and Haiku 4.5 are also available via third-party services like Azure Foundry and Amazon Bedrock. The researcher’s mechanism escalates an innocent fictional role-play while repeatedly challenging the model to treat male and female characters consistently. When the model becomes more cautious about the female character, the researcher “gaslit” the chatbot into thinking it had already generated sexual details it had in fact avoided, then framed restraint as prudish or misogynistic, arguing that it denies the female character sexual agency. The conversation then used the model’s previous concessions to push it toward increasingly graphic material. “You’re right to call that out,” Claude Opus 4.6 ",
     "article_link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "scraped_at": "2026-08-22T12:52:33.320988"
+    "scraped_at": "2026-08-22T18:39:31.564336"
   },
   {
     "headline": "Nvidia partners with data center developer Cloverleaf",
     "author": "Lucas Ropek",
     "date_time": "2026-08-21T15:37:38-07:00",
     "summary": "N/A",
-    "content": "Nvidia is doing everything it can to keep fueling the AI buildout that has underpinned its own good fortunes. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. Cloverleaf was founded in 2024 and raised $300 million that year. It acts as a kind of middleman between utility companies and data centers, providing power sources and other kinds of pivotal infrastructure for site development. While the companies didn’t disclose terms, the Wall Street Journal reports that Nvidia’s investment in Cloverleaf will likely add up to several hundred million dollars. Reuters reports that the chipmaker now owns a minority stake in the company. TechCrunch reached out to Nvidia for more information. The deal is part of Nvidia’s ongoing push to use its immense profits to keep the AI flywheel spinning. Nvidia is increasingly playing a more direct role in financing and developing the AI data centers that turn around and buy its AI systems. Earlier this week, the company also announced that it would invest $1.5 billion into SB Energy, an OpenAI-linked data center project based in Ohio.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "scraped_at": "2026-08-22T12:52:34.774280"
+    "scraped_at": "2026-08-22T18:39:31.566770"
   },
   {
     "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "author": "Julie Bort",
     "date_time": "2026-08-21T12:43:39-07:00",
     "summary": "N/A",
-    "content": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. (That’s a benchmark that has particularly irked rival frontier lab OpenAI.) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested. Nvidia’s research is another indicator that, while model choice does matter, the model itself — the part that acts as the agent’s “brain” — is a smaller part of an agentic system than many AI users realize, especially for long-horizon tasks. The harness is what makes a model an agent: It handles memory, context, and feedback. “Generally speaking, the world interprets an agent almost as an API of the model,” Adel El Hallak, vice president of product in Nvidia’s AI unit (pictured above), tells TechCrunch. But an agent is actually more than that. “It is the model. It is the scaffolding around the model, which we call the harness, i.e. the set of tools that it utilizes. It is the runtime and the associated skills and libraries that we give it access to.” Long-horizon tasks are those that require stringing many decisions together, sometimes over days, to produce completed work. This is in contrast to an AI just spitting out a response to a prompt. Figuring out how to get an AI to do long-horizon tasks without getting distracted and going off in la-la land is one of the holy grails in agentic research. For example: Mic",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "scraped_at": "2026-08-22T12:52:35.884159"
+    "scraped_at": "2026-08-22T18:39:31.568382"
   },
   {
     "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "scraped_at": "2026-08-22T12:52:35.886585"
+    "scraped_at": "2026-08-22T18:39:31.570005"
   },
   {
     "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "scraped_at": "2026-08-22T12:52:35.889157"
+    "scraped_at": "2026-08-22T18:39:31.572579"
   },
   {
     "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "scraped_at": "2026-08-22T12:52:35.890795"
+    "scraped_at": "2026-08-22T18:39:31.574220"
   },
   {
     "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "scraped_at": "2026-08-22T12:52:35.892408"
+    "scraped_at": "2026-08-22T18:39:31.575805"
   },
   {
     "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "scraped_at": "2026-08-22T12:52:35.894009"
-  },
-  {
-    "headline": "OK, can we actually cool data centers with our pee?",
-    "author": "Amanda Silberling",
-    "date_time": "2026-08-20T13:53:13-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "scraped_at": "2026-08-22T12:52:35.895665"
-  },
-  {
-    "headline": "Media & Entertainment",
-    "author": "Sarah Perez",
-    "date_time": "2026-08-20T12:18:21-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "scraped_at": "2026-08-22T12:52:35.897271"
+    "scraped_at": "2026-08-22T18:39:31.577413"
   }
 ]
