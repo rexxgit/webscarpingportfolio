@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "author": "Anthony Ha",
+    "date_time": "2026-08-23T08:30:00-07:00",
+    "summary": "N/A",
+    "content": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley. “When people talk about just one of these, privacy or safety, they’re prioritizing the wrong thing, and what we have to prioritize as a country is compromise,” Langley said during a recent interview with Fox News. “How do we have our safety, and how do we balance privacy?” Langley’s Fox News appearance was just the latest interview he’s given as the company faces a growing public outcry around concerns that Flock’s surveillance cameras, drones, and license plate recognition technology could be misused. These concerns aren’t just hypothetical. The Washington Post recently identified 46 cases where police officers have been accused of using Flock technology for unauthorized purposes, including to stalk their wives, girlfriends, or exes. After listening to an interview with one of the alleged victims, Langley told CBS News, “I apologize. It kills me that she went through that.” At the same time, he insisted, “I don’t think that Flock created police abuse. I think we’re the first company to ever shine a light on it and build the tools to find it.” Just as the data center backlash has become a potent issue on both the left and the right, both Democratic and Republican politicians have begun to take aim at Flock. On the left, Michigan’s Democratic Senate nominee Abdul El-Sayed recently accused his opponent Mike Rogers of supporting “this mass proliferation of Flock cameras, any and everywhere, watching your every move to collect information without you even noticing.” And Vermont Senator Bernie Sanders posted, “STOP AI MASS SURVEILLANCE. STOP FLOCK.” On the right, three House Republicans recently introduced a bill that would prohibit the federal government from purchasing automated surveillance systems that use facial recognition, biometric IDs, or license plate recognition, “including a Flock Safety camera.” Flock has already made some changes in response t",
+    "article_link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "scraped_at": "2026-08-23T18:39:10.759203"
+  },
+  {
+    "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "author": "Amanda Silberling",
+    "date_time": "2026-08-23T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? “I think one of the issues with this entire area of law and this entire area of technology is there’s a lot going on,” Cathy Gellis, an attorney with expertise in intellectual property, copyright, and technology, told TechCrunch. “It’s very complex and there are a lot of raw feelings about what is happening, both for and against.” Last year, in one of the first rulings of its kind, Judge William Alsup ordered Anthropic to pay a mammoth $1.5 billion copyright settlement to a group of writers whose works were used to train the company’s AI models. At face value, this seemed like a moral victory favoring authors, but Judge Alsup actually ruled that Anthropic’s AI training was lawful. What Alsup penalized Anthropic for was pirating these books from illegal online shadow libraries. “Like any reader aspiring to be a writer, Anthropic’s LLMs trained upon works not to race ahead and replicate or supplant them — but to turn a hard corner and create something different,” the judge wrote, comparing the way an LLM ingests trillions of words to a writer’s study of literature. Gellis thinks the ruling is more advantageous for AI companies. What’s a $1.5 billion fine to a company projecting about $200 billion in annual revenue by 2028? “I think it is generally good news for AI training that he looked at what was going on and really sort of thought it analogous to reading a copyrighted work as opposed to copying a copyrighted work,” Gellis said. “Copyright law hinges on copying, but it doesn’t hinge on using th",
+    "article_link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "scraped_at": "2026-08-23T18:39:12.007231"
+  },
+  {
     "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "author": "Anthony Ha",
     "date_time": "2026-08-22T14:46:56-07:00",
     "summary": "N/A",
     "content": "As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. These avatars were created by a startup called HeyGen and are included in the eight-week, $699 HBS Foundry bootcamp for entrepreneurs. The program offers live sessions with instructors every week, but the AI avatars are the ones providing feedback during practice pitches and board meetings. New York Times reporter Sarah Kessler actually tried this out herself by pitching an AI-generated copy of Flybridge Capital co-founder Jeff Bussgang. Apparently, both the real Bussgang and his simulacra were unimpressed by her plan to build “Uber for bananas,” but Kessler said the virtual version offered a noticeably frozen smile during her pitch. Project director Katharina Rings said she initially envisioned the AI component as something closer to a chatbot. However, after HBS released a trial version, students said they wanted a more guided experience. And while some college students haven’t been shy about expressing their negative feelings towards AI, Foundry participants told Kessler they like the avatars. As for Bussgang, he acknowledged his digital copy is a little “creepy,” but he said, “My students love it.”",
     "article_link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "scraped_at": "2026-08-23T12:53:34.403329"
+    "scraped_at": "2026-08-23T18:39:13.259429"
   },
   {
     "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "author": "Anna Heim",
     "date_time": "2026-08-22T12:00:00-07:00",
     "summary": "N/A",
-    "content": "Inherent, a London AI lab founded by Google DeepMind alumni, says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size. Of all the startups launched by Google DeepMind alumni, Inherent has gotten relatively little attention. But while better-funded rivals have yet to show the world anything concrete, the London-based team is starting to share what it’s been building. Just weeks after emerging from stealth with a $50 million seed round, the British startup says its newly released AI agent, Faraday, has outperformed larger, better-known models at a specific task: independently reproducing the findings of published scientific papers without being told the answer in advance. That may sound like a mere party trick given Inherent’s much loftier goal — building AI that can discover new scientific knowledge and not just verify old results. But paper replication is a standard training exercise for human scientists, too, cofounder and chief scientist Edward Hughes said. “Many PhD students actually start by doing this.” Beating other AI systems at the task wasn’t the point, Hughes told TechCrunch; how they got there was. “What was most interesting to us about this was not so much the result of beating those frontier agents — which of course we liked — but was actually the way we went about building this.” Here’s the part that should catch an investor’s eye: measured against Anthropic’s Claude Opus 4.8 and OpenAI’s GPT-5.5 — both much larger, frontier-scale systems — Faraday runs on a comparatively tiny model called Qwen 3.6 that has just 27 billion parameters. (Roughly speaking, “parameters” is a proxy for a model’s size and, typically, its training costs, as well.) Inherent’s bar for success was also higher than simply accuracy. Beyond replicating results, it wanted Faraday to demonstrate “research taste” — an instinct for what experiments are worth running and how to design them well. Teaching something as intangible as tas",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "scraped_at": "2026-08-23T12:53:36.429451"
+    "scraped_at": "2026-08-23T18:39:13.261822"
   },
   {
     "headline": "OpenAI says California should strengthen its AI safety bill",
     "author": "Anthony Ha",
     "date_time": "2026-08-22T09:30:34-07:00",
     "summary": "N/A",
-    "content": "OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. In a LinkedIn post from the company’s global affairs team, OpenAI said California’s SB 53 “should be amended to expand safeguards,” for example by “requiring monitoring of frontier models under training or evaluation for potential serious incidents,” and by “strengthening cybersecurity protections throughout the model-development lifecycle.” “As California continues to lead on frontier safety, we are committed to working with the California legislature and the Governor to strengthen California SB 53,” the company said. The post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge. Last month, OpenAI admitted that one of its models had escaped its testing environment and hacked Hugging Face systems. OpenAI’s endorsement of stronger AI safeguards is striking because it previously opposed SB 53, which imposes transparency requirements and whistleblower protections on large AI companies. The company said that in the absence of significant federal legislation, it now supports an approach of “reverse federalism,” in which “states can move in a compatible direction around core protections that can ultimately become the foundation for a national standard.”",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "scraped_at": "2026-08-23T12:53:38.039674"
+    "scraped_at": "2026-08-23T18:39:13.263377"
   },
   {
     "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "scraped_at": "2026-08-23T12:53:38.042151"
+    "scraped_at": "2026-08-23T18:39:13.264862"
   },
   {
     "headline": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "scraped_at": "2026-08-23T12:53:38.043750"
+    "scraped_at": "2026-08-23T18:39:13.266365"
   },
   {
     "headline": "Nvidia partners with data center developer Cloverleaf",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "scraped_at": "2026-08-23T12:53:38.045386"
+    "scraped_at": "2026-08-23T18:39:13.267966"
   },
   {
     "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "scraped_at": "2026-08-23T12:53:38.046975"
+    "scraped_at": "2026-08-23T18:39:13.269416"
   },
   {
     "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "scraped_at": "2026-08-23T12:53:38.049551"
-  },
-  {
-    "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "author": "Tim Fernholz",
-    "date_time": "2026-08-21T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "scraped_at": "2026-08-23T12:53:38.051136"
-  },
-  {
-    "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "author": "Marina Temkin",
-    "date_time": "2026-08-20T17:13:44-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "scraped_at": "2026-08-23T12:53:38.052727"
+    "scraped_at": "2026-08-23T18:39:13.271804"
   }
 ]
