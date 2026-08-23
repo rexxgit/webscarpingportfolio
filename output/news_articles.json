@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. These avatars were created by a startup called HeyGen and are included in the eight-week, $699 HBS Foundry bootcamp for entrepreneurs. The program offers live sessions with instructors every week, but the AI avatars are the ones providing feedback during practice pitches and board meetings. New York Times reporter Sarah Kessler actually tried this out herself by pitching an AI-generated copy of Flybridge Capital co-founder Jeff Bussgang. Apparently, both the real Bussgang and his simulacra were unimpressed by her plan to build “Uber for bananas,” but Kessler said the virtual version offered a noticeably frozen smile during her pitch. Project director Katharina Rings said she initially envisioned the AI component as something closer to a chatbot. However, after HBS released a trial version, students said they wanted a more guided experience. And while some college students haven’t been shy about expressing their negative feelings towards AI, Foundry participants told Kessler they like the avatars. As for Bussgang, he acknowledged his digital copy is a little “creepy,” but he said, “My students love it.”",
     "article_link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "scraped_at": "2026-08-23T01:50:12.703712"
+    "scraped_at": "2026-08-23T06:53:06.041227"
   },
   {
     "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Inherent, a London AI lab founded by Google DeepMind alumni, says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size. Of all the startups launched by Google DeepMind alumni, Inherent has gotten relatively little attention. But while better-funded rivals have yet to show the world anything concrete, the London-based team is starting to share what it’s been building. Just weeks after emerging from stealth with a $50 million seed round, the British startup says its newly released AI agent, Faraday, has outperformed larger, better-known models at a specific task: independently reproducing the findings of published scientific papers without being told the answer in advance. That may sound like a mere party trick given Inherent’s much loftier goal — building AI that can discover new scientific knowledge and not just verify old results. But paper replication is a standard training exercise for human scientists, too, cofounder and chief scientist Edward Hughes said. “Many PhD students actually start by doing this.” Beating other AI systems at the task wasn’t the point, Hughes told TechCrunch; how they got there was. “What was most interesting to us about this was not so much the result of beating those frontier agents — which of course we liked — but was actually the way we went about building this.” Here’s the part that should catch an investor’s eye: measured against Anthropic’s Claude Opus 4.8 and OpenAI’s GPT-5.5 — both much larger, frontier-scale systems — Faraday runs on a comparatively tiny model called Qwen 3.6 that has just 27 billion parameters. (Roughly speaking, “parameters” is a proxy for a model’s size and, typically, its training costs, as well.) Inherent’s bar for success was also higher than simply accuracy. Beyond replicating results, it wanted Faraday to demonstrate “research taste” — an instinct for what experiments are worth running and how to design them well. Teaching something as intangible as tas",
     "article_link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "scraped_at": "2026-08-23T01:50:14.692245"
+    "scraped_at": "2026-08-23T06:53:07.712355"
   },
   {
     "headline": "OpenAI says California should strengthen its AI safety bill",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. In a LinkedIn post from the company’s global affairs team, OpenAI said California’s SB 53 “should be amended to expand safeguards,” for example by “requiring monitoring of frontier models under training or evaluation for potential serious incidents,” and by “strengthening cybersecurity protections throughout the model-development lifecycle.” “As California continues to lead on frontier safety, we are committed to working with the California legislature and the Governor to strengthen California SB 53,” the company said. The post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge. Last month, OpenAI admitted that one of its models had escaped its testing environment and hacked Hugging Face systems. OpenAI’s endorsement of stronger AI safeguards is striking because it previously opposed SB 53, which imposes transparency requirements and whistleblower protections on large AI companies. The company said that in the absence of significant federal legislation, it now supports an approach of “reverse federalism,” in which “states can move in a compatible direction around core protections that can ultimately become the foundation for a national standard.”",
     "article_link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "scraped_at": "2026-08-23T01:50:16.813219"
+    "scraped_at": "2026-08-23T06:53:09.694371"
   },
   {
     "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "scraped_at": "2026-08-23T01:50:16.815686"
+    "scraped_at": "2026-08-23T06:53:09.696915"
   },
   {
     "headline": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "scraped_at": "2026-08-23T01:50:16.817291"
+    "scraped_at": "2026-08-23T06:53:09.698296"
   },
   {
     "headline": "Nvidia partners with data center developer Cloverleaf",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "scraped_at": "2026-08-23T01:50:16.818936"
+    "scraped_at": "2026-08-23T06:53:09.699661"
   },
   {
     "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -60,16 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "scraped_at": "2026-08-23T01:50:16.820537"
-  },
-  {
-    "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "author": "Tim Fernholz",
-    "date_time": "2026-08-21T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "scraped_at": "2026-08-23T01:50:16.822161"
+    "scraped_at": "2026-08-23T06:53:09.700954"
   },
   {
     "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -78,7 +69,16 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "scraped_at": "2026-08-23T01:50:16.824751"
+    "scraped_at": "2026-08-23T06:53:09.703062"
+  },
+  {
+    "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "author": "Tim Fernholz",
+    "date_time": "2026-08-21T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "scraped_at": "2026-08-23T06:53:09.704326"
   },
   {
     "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "scraped_at": "2026-08-23T01:50:16.826364"
+    "scraped_at": "2026-08-23T06:53:09.705540"
   }
 ]
