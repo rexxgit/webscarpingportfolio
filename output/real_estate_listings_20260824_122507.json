@@ -1,0 +1,202 @@
+[
+  {
+    "address": "1820 Interlachen Alcove, Woodbury, MN 55125",
+    "price_aud": "AUD $837,289",
+    "price_usd": "AUD $837,289",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-24T12:25:07.141901"
+  },
+  {
+    "address": "2223 W 22nd St, Duluth, MN 55811",
+    "price_aud": "AUD $460,680",
+    "price_usd": "AUD $460,680",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.141984"
+  },
+  {
+    "address": "12309 Lever Street NE, Blaine, MN 55449",
+    "price_aud": "AUD $977,060",
+    "price_usd": "AUD $977,060",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-08-24T12:25:07.142054"
+  },
+  {
+    "address": "11398 Wonderland Park Circle, Brainerd, MN 56401",
+    "price_aud": "AUD $397,860",
+    "price_usd": "AUD $397,860",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-08-24T12:25:07.142122"
+  },
+  {
+    "address": "1701 Juliet Avenue, Saint Paul, MN 55105",
+    "price_aud": "AUD $725,920",
+    "price_usd": "AUD $725,920",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.142190"
+  },
+  {
+    "address": "6865 Sapphire Lane, Chanhassen, MN 55317",
+    "price_aud": "AUD $1,507,680",
+    "price_usd": "AUD $1,507,680",
+    "bedrooms": "5",
+    "bathrooms": "5",
+    "timestamp": "2026-08-24T12:25:07.142259"
+  },
+  {
+    "address": "6227 Annapolis Lane N, Maple Grove, MN 55311",
+    "price_aud": "AUD $558,386",
+    "price_usd": "AUD $558,386",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.142328"
+  },
+  {
+    "address": "930 County Road C E, Maplewood, MN 55109",
+    "price_aud": "AUD $1,102,840",
+    "price_usd": "AUD $1,102,840",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-08-24T12:25:07.142395"
+  },
+  {
+    "address": "15920 37th Avenue N, Plymouth, MN 55446",
+    "price_aud": "AUD $1,256,399",
+    "price_usd": "AUD $1,256,399",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "timestamp": "2026-08-24T12:25:07.142462"
+  },
+  {
+    "address": "7531 E 250th Street, Elko New Market, MN 55020",
+    "price_aud": "AUD $1,116,660",
+    "price_usd": "AUD $1,116,660",
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "timestamp": "2026-08-24T12:25:07.142529"
+  },
+  {
+    "address": "Parameter Road lot: 2, Deer River, MN 56636",
+    "price_aud": "AUD $24,430",
+    "price_usd": "AUD $24,430",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-24T12:25:07.142600"
+  },
+  {
+    "address": "Parameter Road lot: 1, Deer River, MN 56636",
+    "price_aud": "AUD $24,430",
+    "price_usd": "AUD $24,430",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-24T12:25:07.142671"
+  },
+  {
+    "address": "Parameter Road lot: 3, Deer River, MN 56636",
+    "price_aud": "AUD $24,430",
+    "price_usd": "AUD $24,430",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-24T12:25:07.142741"
+  },
+  {
+    "address": "4XXX Linwood Shores Road, Makinen, MN 55736",
+    "price_aud": "AUD $153,420",
+    "price_usd": "AUD $153,420",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-24T12:25:07.142816"
+  },
+  {
+    "address": "421 N 11th Ave W, Duluth, MN 55806",
+    "price_aud": "AUD $244,160",
+    "price_usd": "AUD $244,160",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-08-24T12:25:07.142912"
+  },
+  {
+    "address": "1205 16th Street SW, Willmar, MN 56201",
+    "price_aud": "AUD $374,966",
+    "price_usd": "AUD $374,966",
+    "bedrooms": "6",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.142983"
+  },
+  {
+    "address": "993 Fairmount Avenue, Saint Paul, MN 55105",
+    "price_aud": "AUD $977,186",
+    "price_usd": "AUD $977,186",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-08-24T12:25:07.143051"
+  },
+  {
+    "address": "145 7th Street NW, Milaca, MN 56353",
+    "price_aud": "AUD $390,740",
+    "price_usd": "AUD $390,740",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.143121"
+  },
+  {
+    "address": "2769 235th Avenue NW, Saint Francis, MN 55070",
+    "price_aud": "AUD $397,860",
+    "price_usd": "AUD $397,860",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.143188"
+  },
+  {
+    "address": "1516 Woodland Drive SW, Rochester, MN 55902",
+    "price_aud": "AUD $663,100",
+    "price_usd": "AUD $663,100",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-08-24T12:25:07.143255"
+  },
+  {
+    "address": "602 Main Street, Tower, MN 55790",
+    "price_aud": "AUD $523,500",
+    "price_usd": "AUD $523,500",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-08-24T12:25:07.143316"
+  },
+  {
+    "address": "1100 Lincoln Ave, Eveleth, MN 55734",
+    "price_aud": "AUD $263,844",
+    "price_usd": "AUD $263,844",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.143388"
+  },
+  {
+    "address": "9395 Larson Rd, Brookston, MN 55711",
+    "price_aud": "AUD $446,720",
+    "price_usd": "AUD $446,720",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.143455"
+  },
+  {
+    "address": "148 Cannonwood Drive, Red Wing, MN 55066",
+    "price_aud": "AUD $320,940",
+    "price_usd": "AUD $320,940",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-08-24T12:25:07.143524"
+  },
+  {
+    "address": "1145 Cove Circle, Minnetrista, MN 55364",
+    "price_aud": "AUD $1,884,460",
+    "price_usd": "AUD $1,884,460",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "timestamp": "2026-08-24T12:25:07.143593"
+  }
+]
