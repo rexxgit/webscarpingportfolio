@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "author": "Anthony Ha",
+    "date_time": "2026-08-23T13:01:36-07:00",
+    "summary": "N/A",
+    "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it. The free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designed for coding, sustained agentic work, and production workload.” On X, Stripe CEO Patrick Collison (whose company is acquiring OpenRouter) described Ox Alpha as “very impressive.” So who’s actually behind Ox Alpha? The OpenRouter listing described it as a “stealth model” and said it was “developed and operated by a third-party provider who has chosen to remain anonymous during this preview.” Unsurprisingly, much of the speculation has revolved around China. AI analyst Andrew Curran posted on Friday that the initial speculation focused on the GLM models developed by Chinese company Z.ai, but “this morning people seem less sure of anything.” Similarly, an article on Wccftech first suggested that the evidence pointed to GLM, but an update suggested that Ox Alpha could be an unreleased version of Microsoft’s MAI. And on Reddit, there’s at least one post declaring that Ox Alpha “can’t be the Chinese,” while another expressed “high confidence” that it is, in fact, Chinese.",
+    "article_link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "scraped_at": "2026-08-24T01:47:26.576186"
+  },
+  {
+    "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "author": "Lauren Forristal",
+    "date_time": "2026-08-23T12:14:08-07:00",
+    "summary": "N/A",
+    "content": "With back-to-school season approaching (or already here in some places), keeping track of everyone’s schedules can get pretty chaotic. Between work, school, appointments, sports, chores, and everything else going on, a regular paper calendar just doesn’t cut it. That’s where Linkdaze’s smart digital calendar comes in — a touchscreen tablet built specifically to organize a household rather than a single person. One of Linkdaze’s biggest strengths is its calendar compatibility. The system can synchronize calendars from popular services, including Google, iCloud, Outlook, Yahoo, and Cozi, which is a dedicated family-organizing app. This is particularly useful for families where different members use different platforms. Instead of asking everyone to switch to a single calendar app, Linkdaze brings multiple schedules together and uses color coding to make individual family members easy to identify. Launched last December, Linkdaze is available in 15.6-inch and 10.1-inch models, giving you some flexibility depending on how much wall space you have. Beyond calendars and appointments, you can use it for chores and rewards, meal planning, shopping lists, and other family organization. It can even double as a digital photo frame for displaying family photos. The most interesting feature, however, is Linkdaze’s AI meal planner with “Snap-to-Sync.” Instead of manually entering everything into a meal-planning app, you can take a photo of a paper recipe or your kid’s school lunch menu. Linkdaze will turn that information into a digital meal plan and generate a shopping list from it. While not an entirely new idea, it’s a useful feature that helps Linkdaze stand out from a basic digital calendar. Another big plus is that Linkdaze doesn’t require a monthly subscription for its main features. It’s an interesting choice in a category where recurring revenue has become the default. Skylight, a competing smart-calendar brand, offers additional features through its $79 per year subscri",
+    "article_link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "scraped_at": "2026-08-24T01:47:27.718859"
+  },
+  {
     "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
     "author": "Anthony Ha",
     "date_time": "2026-08-23T08:30:00-07:00",
     "summary": "N/A",
     "content": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley. “When people talk about just one of these, privacy or safety, they’re prioritizing the wrong thing, and what we have to prioritize as a country is compromise,” Langley said during a recent interview with Fox News. “How do we have our safety, and how do we balance privacy?” Langley’s Fox News appearance was just the latest interview he’s given as the company faces a growing public outcry around concerns that Flock’s surveillance cameras, drones, and license plate recognition technology could be misused. These concerns aren’t just hypothetical. The Washington Post recently identified 46 cases where police officers have been accused of using Flock technology for unauthorized purposes, including to stalk their wives, girlfriends, or exes. After listening to an interview with one of the alleged victims, Langley told CBS News, “I apologize. It kills me that she went through that.” At the same time, he insisted, “I don’t think that Flock created police abuse. I think we’re the first company to ever shine a light on it and build the tools to find it.” Just as the data center backlash has become a potent issue on both the left and the right, both Democratic and Republican politicians have begun to take aim at Flock. On the left, Michigan’s Democratic Senate nominee Abdul El-Sayed recently accused his opponent Mike Rogers of supporting “this mass proliferation of Flock cameras, any and everywhere, watching your every move to collect information without you even noticing.” And Vermont Senator Bernie Sanders posted, “STOP AI MASS SURVEILLANCE. STOP FLOCK.” On the right, three House Republicans recently introduced a bill that would prohibit the federal government from purchasing automated surveillance systems that use facial recognition, biometric IDs, or license plate recognition, “including a Flock Safety camera.” Flock has already made some changes in response t",
     "article_link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "scraped_at": "2026-08-23T18:39:10.759203"
+    "scraped_at": "2026-08-24T01:47:29.034189"
   },
   {
     "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "author": "Amanda Silberling",
     "date_time": "2026-08-23T08:00:00-07:00",
     "summary": "N/A",
-    "content": "You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? “I think one of the issues with this entire area of law and this entire area of technology is there’s a lot going on,” Cathy Gellis, an attorney with expertise in intellectual property, copyright, and technology, told TechCrunch. “It’s very complex and there are a lot of raw feelings about what is happening, both for and against.” Last year, in one of the first rulings of its kind, Judge William Alsup ordered Anthropic to pay a mammoth $1.5 billion copyright settlement to a group of writers whose works were used to train the company’s AI models. At face value, this seemed like a moral victory favoring authors, but Judge Alsup actually ruled that Anthropic’s AI training was lawful. What Alsup penalized Anthropic for was pirating these books from illegal online shadow libraries. “Like any reader aspiring to be a writer, Anthropic’s LLMs trained upon works not to race ahead and replicate or supplant them — but to turn a hard corner and create something different,” the judge wrote, comparing the way an LLM ingests trillions of words to a writer’s study of literature. Gellis thinks the ruling is more advantageous for AI companies. What’s a $1.5 billion fine to a company projecting about $200 billion in annual revenue by 2028? “I think it is generally good news for AI training that he looked at what was going on and really sort of thought it analogous to reading a copyrighted work as opposed to copying a copyrighted work,” Gellis said. “Copyright law hinges on copying, but it doesn’t hinge on using th",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "scraped_at": "2026-08-23T18:39:12.007231"
+    "scraped_at": "2026-08-24T01:47:29.036127"
   },
   {
     "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "author": "Anthony Ha",
     "date_time": "2026-08-22T14:46:56-07:00",
     "summary": "N/A",
-    "content": "As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. These avatars were created by a startup called HeyGen and are included in the eight-week, $699 HBS Foundry bootcamp for entrepreneurs. The program offers live sessions with instructors every week, but the AI avatars are the ones providing feedback during practice pitches and board meetings. New York Times reporter Sarah Kessler actually tried this out herself by pitching an AI-generated copy of Flybridge Capital co-founder Jeff Bussgang. Apparently, both the real Bussgang and his simulacra were unimpressed by her plan to build “Uber for bananas,” but Kessler said the virtual version offered a noticeably frozen smile during her pitch. Project director Katharina Rings said she initially envisioned the AI component as something closer to a chatbot. However, after HBS released a trial version, students said they wanted a more guided experience. And while some college students haven’t been shy about expressing their negative feelings towards AI, Foundry participants told Kessler they like the avatars. As for Bussgang, he acknowledged his digital copy is a little “creepy,” but he said, “My students love it.”",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "scraped_at": "2026-08-23T18:39:13.259429"
+    "scraped_at": "2026-08-24T01:47:29.037708"
   },
   {
     "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "scraped_at": "2026-08-23T18:39:13.261822"
+    "scraped_at": "2026-08-24T01:47:29.039211"
   },
   {
     "headline": "OpenAI says California should strengthen its AI safety bill",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "scraped_at": "2026-08-23T18:39:13.263377"
+    "scraped_at": "2026-08-24T01:47:29.040701"
   },
   {
     "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "scraped_at": "2026-08-23T18:39:13.264862"
+    "scraped_at": "2026-08-24T01:47:29.042185"
   },
   {
     "headline": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "scraped_at": "2026-08-23T18:39:13.266365"
+    "scraped_at": "2026-08-24T01:47:29.043620"
   },
   {
     "headline": "Nvidia partners with data center developer Cloverleaf",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "scraped_at": "2026-08-23T18:39:13.267966"
-  },
-  {
-    "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "author": "Julie Bort",
-    "date_time": "2026-08-21T12:43:39-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "scraped_at": "2026-08-23T18:39:13.269416"
-  },
-  {
-    "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "author": "Theresa Loconsolo\nAnthony Ha\nKirsten Korosec\nSean O'Kane",
-    "date_time": "2026-08-21T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "scraped_at": "2026-08-23T18:39:13.271804"
+    "scraped_at": "2026-08-24T01:47:29.045090"
   }
 ]
