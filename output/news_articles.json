@@ -1,30 +1,66 @@
 [
   {
+    "headline": "Claude Cowork finally remembers what you told the app in chat",
+    "author": "Sarah Perez",
+    "date_time": "2026-08-25T10:50:33-07:00",
+    "summary": "N/A",
+    "content": "A change to Claude’s memory system will eliminate one of the most annoying things about using agents — the constant need to rebrief the AI on things it already knows. On Tuesday, Anthropic announced it’s merging the memory system used by chat and Claude Cowork, which means that Claude will always remember what it learned in one area, even when you’re engaging with it in another. Anthropic is also exposing what Claude has retained in its memory, allowing users to read, edit, or delete information on any topic. The update will improve the experience for Claude’s users as it will allow them to more seamlessly move between the research phase and taking action. Before, you may have developed ideas for projects over time while chatting with Claude, but when it came time to actually enact the changes, you’d have to start over by telling Cowork all the details. This was incredibly frustrating. The update makes Claude now feel like one continuous assistant, rather than two separate products under one roof. Anthropic offers an example of someone needing to draft an update for their manager or an agenda for a conference, where Cowork would already understand the references because of the past conversations about the matter at hand. For instance, it would know the headcount, city, and speakers at the conference, so you wouldn’t have to re-input that information. In addition, Claude will now add topics to its memory as you chat, instead of summarizing a conversation when it ends. That makes it easier to move back and forth between chat and Cowork, as the new memories are more quickly updated and shared between the two experiences, even if the chat is ongoing. Anthropic says that, by default, Claude won’t store personal or sensitive information like your health data, race, ethnicity, religious beliefs, politics, gender identity, and more. However, users can opt to enable these things by toggling on “include sensitive topics in memory” if they prefer. The app will also notify user",
+    "article_link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "scraped_at": "2026-08-25T18:49:13.576127"
+  },
+  {
+    "headline": "Gamma acquires Accel-backed design startup Lica",
+    "author": "Ivan Mehta",
+    "date_time": "2026-08-25T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "Presentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has learned exclusively. Lica’s co-founders will lead the effort. Lica started off as an app that could turn screenshots and recordings into project presentations and videos. Founded by Priyaa Kalyanaraman and Purvanshi Mehta in 2023, the company a year later raised $4 million from investors including Accel, South Park Commons, and Village Global. Over the past couple of years, it has focused on working with e-commerce sites to create marketing videos that adhere to brand guidelines. Kalyanaraman said Lica wanted to build AI models around communication methods, including video and design, and the founders were familiar with Gamma’s CEO, Grant Lee, as both companies are backed by Accel and South Park Commons. Those conversations eventually led to the acquisition. “We have a very similar North Star vision of wanting to make visual communication easy. We focused a lot on frontier research and making sure that became accessible to users. But that’s just one part of the solution. Gamma had focused a lot on building distribution, taking the application to 100 million-plus users. Given how fast things are moving, we decided to join forces,” Kalyanaraman told TechCrunch. Gamma will continue to focus on helping people build presentations, but like other design companies, it’s also started offering image generation. The company says it now wants to explore different formats of communication with the new research division. “Presentations for us are today a core use case, but how do we expand what presentations look and feel like, and how do people engage with them in the future? What visuals are possible? How interactive are they? These [questions] all require us to think deeply about the core responsibility of communication. This is why we’re excited to invest in this area, because we don’t think anybody else is thinking at that level,” Lee sa",
+    "article_link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "scraped_at": "2026-08-25T18:49:15.320770"
+  },
+  {
+    "headline": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "author": "Russell Brandom",
+    "date_time": "2026-08-25T07:22:04-07:00",
+    "summary": "N/A",
+    "content": "At the Hot Chips conference on Tuesday, OpenAI shared a more detailed look at Jalapeño, including the first batch of benchmark results for the new system. Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the-art inference processors. “The bottom line is that the results show a very, very significant performance advance over state of the art,” said Richard Ho, OpenAI’s head of hardware, in a press call. “Jalapeño can serve more AI work per unit of power, while also returning responses more quickly. It’s very efficient to serve a lot of customers, but it can also be very low latency.” Notably, that comparison is against an Nvidia Blackwell system — but by the time Jalapeño reaches full deployment, the competition may have advanced significantly. Ho estimated that Jalapeño would deploy at the end of 2026 “in very small volumes,” with more significant deployment coming in 2027. First announced last October, Jalapeño was developed by OpenAI in close collaboration with Broadcom, with OpenAI’s own models assisting in the development process. The company plans to make Jalapeño a multigenerational platform, allowing AI products, models, chips, and memory all developed in concert. Because of that full-stack approach, OpenAI was able to address specific phases in the inference process that often cause friction during inference processing. In particular, Jalapeño is designed to minimize delays during the prefill and communication phases of processing, which OpenAI says often act as bottlenecks. “We designed Jalapeño to minimize data movement and communication delays,” the company said in a blog post presenting the results. “This means that model state, including the KV cache used while generating a response, can be explicitly placed and kept local while the system activates the right combination of compute, memory, and networking for each inference phase.”",
+    "article_link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "scraped_at": "2026-08-25T18:49:16.687643"
+  },
+  {
+    "headline": "Accel-backed Keenable is indexing the web for AI agents",
+    "author": "Anna Heim",
+    "date_time": "2026-08-25T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "scraped_at": "2026-08-25T18:49:16.689689"
+  },
+  {
     "headline": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
     "author": "Tim Fernholz",
     "date_time": "2026-08-25T05:00:00-07:00",
     "summary": "N/A",
-    "content": "Users of OpenAI’s software engineering tool Codex might know Thibault Sottiaux as the guy who resets their token limits whenever the product hits a growth milestone. Now, OpenAI is trying to bring that dopamine hit to the rest of us with ChatGPT Work, a platform for white collar workers to leverage AI agents. I spoke to Sottiaux for our feature on the product and its challenges, but we wanted to share more of that conversation with our readers. Here’s a lightly edited and condensed version of our interview about winning over skeptics, discovery as a product design philosophy, and the cost of intelligence. TechCrunch: I know you’re a member of the technical staff. Is it right to say that you’re the product lead for Codex and Work? Sottiaux: I lead all of core products—that is API, agent infrastructure, enterprise, all of ChatGPT, which includes ChatGPT Work, but also ChatGPT classic, and then everything that is Codex as well. Q: Am I right in thinking you report to Greg Brockman? Sottiaux: Yeah, Greg. I like to say that everyone reports to Greg at the end of the day. Q: Why is ChatGPT Work so important to OpenAI? Sottiaux: We wanted to bring the power of coding agents to everyone, and so this is an exercise in taking something that was made for technical people, and then packaging it in a way that is like safe and delightful to use, but also you can use on the go on mobile, on web, and making it available to as broad of a population as possible. This is why we launched it as part of the Plus plan as well, which is only $20 a month, and the amount of value you get out of it is quite incredible. So it’s like that’s like what we were pursuing. It’s like “make this technology available to the broadest population possible.” Q: Analysts say that there’s an important economic motivation here, that OpenAI needs to own the application relationship with the user. Sottiaux: The more value and the more utility that we generate for users, the more they will be willing to also pay",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "scraped_at": "2026-08-25T13:00:12.691233"
+    "scraped_at": "2026-08-25T18:49:16.690809"
   },
   {
     "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "author": "Lucas Ropek",
     "date_time": "2026-08-24T17:23:12-07:00",
     "summary": "N/A",
-    "content": "Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month. The company, led by twentysomething OpenAI alum Leopold Aschenbrenner, went all-in on a variety of AI investments and, for a period, enjoyed phenomenal growth. Then, at the end of July, a downturn in AI stocks erased billions of dollars in value at the firm. Now, federal regulators are reportedly probing the company as well. The New York Times reports that the Securities and Exchange Commission has been subpoenaing banks that did business with the hedge fund. The subpoenas focus on the banks that supervised the fund’s trading and that channeled funding to support it, the outlet says. The government reportedly warned the banks to “preserve any information” about the hedge fund, though it noted that Situational Awareness has not been accused of any wrongdoing. Situational Awareness did not respond to TechCrunch’s request for comment but told the Times that scrutiny of high-profile funds is to be expected, and that it would “cooperate to the fullest extent with any regulatory request.” The company, which very publicly hitched its wagon to AI’s star, may serve as a cautionary tale about the industry’s supposedly unstoppable trajectory.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "scraped_at": "2026-08-25T13:00:14.083026"
+    "scraped_at": "2026-08-25T18:49:16.691948"
   },
   {
     "headline": "N/A",
     "author": "Sean O'Kane",
     "date_time": "2026-08-24T14:24:17-07:00",
     "summary": "N/A",
-    "content": "President Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters, two weeks after the record-setting IPO of Elon Musk’s company. It’s not clear what price Trump paid for the shares, but by that point they had fallen from their highs of over $200. SpaceX shares were trading in the mid-$150 range on June 23. At the end of trading on Monday, shares closed at the IPO price of $135, possibly putting the president’s stake underwater. Trump and Musk are close, despite a brief falling out last summer that involved the businessman accusing the president of withholding the Department of Justice’s files on Jeffrey Epstein because of how often Trump’s name appears in them. SpaceX has been hoovering up an increasing amount of government contracts and benefiting from the Trump administration’s deregulatory stance, according to a recent Wall Street Journal analysis. White House spokesman Davis Ingle told Reuters that the president’s stock portfolio is managed by third-party financial institutions and replicate “recognized indexes, such as the Schwab ​1000.” SpaceX lobbied popular indexes to change their rules to allow for faster inclusion ahead of its IPO, which means many people likely own some of the company’s stock even if they don’t know it.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "scraped_at": "2026-08-25T13:00:15.177905"
+    "scraped_at": "2026-08-25T18:49:16.693082"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-08-25T13:00:15.180192"
+    "scraped_at": "2026-08-25T18:49:16.694187"
   },
   {
     "headline": "Instinct’s powerful AI assistant is raising privacy and security concerns",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "scraped_at": "2026-08-25T13:00:15.181649"
+    "scraped_at": "2026-08-25T18:49:16.695275"
   },
   {
     "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "scraped_at": "2026-08-25T13:00:15.183089"
-  },
-  {
-    "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "author": "Tim Fernholz",
-    "date_time": "2026-08-24T08:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "scraped_at": "2026-08-25T13:00:15.184533"
-  },
-  {
-    "headline": "Hugging Face reportedly in talks to be acquired for $13B",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-08-24T06:47:26-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "scraped_at": "2026-08-25T13:00:15.185974"
-  },
-  {
-    "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-23T13:01:36-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "scraped_at": "2026-08-25T13:00:15.187441"
-  },
-  {
-    "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "author": "Lauren Forristal",
-    "date_time": "2026-08-23T12:14:08-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "scraped_at": "2026-08-25T13:00:15.188872"
+    "scraped_at": "2026-08-25T18:49:16.696367"
   }
 ]
