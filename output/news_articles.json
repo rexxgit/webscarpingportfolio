@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "author": "Lucas Ropek",
+    "date_time": "2026-08-24T17:23:12-07:00",
+    "summary": "N/A",
+    "content": "Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month. The company, led by twentysomething OpenAI alum Leopold Aschenbrenner, went all-in on a variety of AI investments and, for a period, enjoyed phenomenal growth. Then, at the end of July, a downturn in AI stocks erased billions of dollars in value at the firm. Now, federal regulators are reportedly probing the company as well. The New York Times reports that the Securities and Exchange Commission has been subpoenaing banks that did business with the hedge fund. The subpoenas focus on the banks that supervised the fund’s trading and that channeled funding to support it, the outlet says. The government reportedly warned the banks to “preserve any information” about the hedge fund, though it noted that Situational Awareness has not been accused of any wrongdoing. Situational Awareness did not respond to TechCrunch’s request for comment but told the Times that scrutiny of high-profile funds is to be expected, and that it would “cooperate to the fullest extent with any regulatory request.” The company, which very publicly hitched its wagon to AI’s star, may serve as a cautionary tale about the industry’s supposedly unstoppable trajectory.",
+    "article_link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "scraped_at": "2026-08-25T01:41:45.485085"
+  },
+  {
+    "headline": "N/A",
+    "author": "Sean O'Kane",
+    "date_time": "2026-08-24T14:24:17-07:00",
+    "summary": "N/A",
+    "content": "President Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters, two weeks after the record-setting IPO of Elon Musk’s company. It’s not clear what price Trump paid for the shares, but by that point they had fallen from their highs of over $200. SpaceX shares were trading in the mid-$150 range on June 23. At the end of trading on Monday, shares closed at the IPO price of $135, possibly putting the president’s stake underwater. Trump and Musk are close, despite a brief falling out last summer that involved the businessman accusing the president of withholding the Department of Justice’s files on Jeffrey Epstein because of how often Trump’s name appears in them. SpaceX has been hoovering up an increasing amount of government contracts and benefiting from the Trump administration’s deregulatory stance, according to a recent Wall Street Journal analysis. White House spokesman Davis Ingle told Reuters that the president’s stock portfolio is managed by third-party financial institutions and replicate “recognized indexes, such as the Schwab ​1000.” SpaceX lobbied popular indexes to change their rules to allow for faster inclusion ahead of its IPO, which means many people likely own some of the company’s stock even if they don’t know it.",
+    "article_link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "scraped_at": "2026-08-25T01:41:47.256372"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-08-24T12:54:19-07:00",
+    "summary": "N/A",
+    "content": "LAST CHANCE: Save up to $300 on your Disrupt ticket. Register here. Bring your community with up to 30% discount. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. SVP, Devices, Alexa & Leo\nAmazon",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-08-25T01:41:49.312442"
+  },
+  {
     "headline": "Instinct’s powerful AI assistant is raising privacy and security concerns",
     "author": "Sarah Perez",
     "date_time": "2026-08-24T11:03:55-07:00",
     "summary": "N/A",
-    "content": "Everyone is buzzing about Instinct, an AI personal assistant still in private access, not only for its incredible capabilities, but also for its potential privacy concerns. The agent, a veritable taskmaster, has been praised as feeling “like magic” and being one of the “most exciting launches” since OpenClaw. However, some testers have also raised concerns about the AI agent’s security model and its worrisome terms of service. To be fair, Instinct is still in private testing for now, so these concerns haven’t yet scaled to the wider public at this time. Created by a small team led by former Sierra research scientist Noah Shinn, San Francisco-based Instinct is operated by Spear Street Technology, per its terms and California business filings. It’s currently operating in stealth, per PitchBook. The AI agent itself works by connecting to your applications and devices, including your email, messaging apps, calendar, and your device’s audio, location, screen, and more. You can text the agent or call it via text message or WhatsApp, asking it to perform various tasks for you, like booking your appointments and reservations, scheduling a ride to the airport, cleaning up your inbox, organizing important information, handling your shopping, finding you cheap flights, and much more. Though Instinct is described by testers as outperforming their expectations, some have also raised concerns about the company’s approach to customer privacy and security. This raises a timely question: are the trade-offs of giving AI this level of access and autonomy actually worth it? For instance, several people are circulating screenshots from the company’s Terms of Service, which grant Instinct a broad “perpetual and irrevocable” license to “access, use, host, cache, store, reproduce, transmit, display, publish, distribute, and modify” any of the user’s materials, including for training its AI models. The terms also detail how Instinct can receive information from users’ devices, including scr",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "scraped_at": "2026-08-24T18:50:48.764093"
+    "scraped_at": "2026-08-25T01:41:49.314913"
   },
   {
     "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "author": "Rebecca Bellan",
     "date_time": "2026-08-24T08:24:18-07:00",
     "summary": "N/A",
-    "content": "New York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter. Existing investors including Khosla Ventures and General Catalyst are also participating in the round. The fresh funds would come just weeks after General Intuition raised $320 million at a $2.3 billion valuation. The news confirms earlier reporting on the deal for what is becoming one of the hottest startups tackling physical AI. CEO Pim de Witte spun out General Intuition last October from his video game clip-sharing platform Medal, using its hundreds of millions of hours of gameplay and “action labels” — records of which buttons a player pressed and when — as an initial dataset. First sneak peak in the WSJ on how GI’s large action models work! https://t.co/6fuOcu9fkb Investor Vinod Khosla recently told TechCrunch that he believes those action labels will be a key part of the “emergence of intuition,” or the ability for a model to truly generalize across tasks that it wasn’t explicitly trained on. General Intuition is still finalizing the round, and a source close to the deal said that it is oversubscribed as the startup continues to field interest from investors. The company intends to use the funds to focus to improve its general model with a focus on robotic embodiments. That means spending more on compute infrastructure (the company has a partnership with neolab CoreWeave) and hiring more talent. Valor Equity Partners is known for backing SpaceX. TechCrunch has reached out to confirm its investment in General Intuition, which would be the first AI lab the fund has invested in since SpaceX. This story is developing. Please check back in for updates.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "scraped_at": "2026-08-24T18:50:50.813703"
+    "scraped_at": "2026-08-25T01:41:49.316540"
   },
   {
     "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
     "author": "Tim Fernholz",
     "date_time": "2026-08-24T08:00:00-07:00",
     "summary": "N/A",
-    "content": "How much control are you willing to give an LLM over your digital life? Getting the most value from a model means giving it the keys. For a control freak or the AI-hesitant, it seems like a lot. For Andrew Ambrosino, the lead engineer for OpenAI’s desktop app, it’s the only way to test the future, which is why that app now has access to, and control over, his inbox, his Slack account, his phone, apps like Notion and Figma, and more. “If I’m asking it to write a document, is there a possibility that it’s going to pull from a private DM on that subject and not know that it’s not supposed to share some info? Yes,” Ambrosino told TechCrunch. “I’ll do it for the job. I will take the personal hit here and there if I have to. And I haven’t had to.” Ambrosino works on OpenAI’s biggest bet, ChatGPT Work, which was released last month and is available on the company’s lowest subscription tier, for $20 a month. The product is intended to allow white-collar workers to field AI agents — hooking LLMs up to the digital workflows used by accountants, investors, doctors, and everyone else whose day-to-day is dominated by their computer. OpenAI’s marketing copy puts the goal succinctly: A world where “where [artificial] intelligence goes beyond answering questions to helping everyone turn their biggest ideas into reality.” For software developers, that shift is already happening, but it’s been slow to spread to other departments. ChatGPT Work is a modified version of the company’s Codex coding tool. It’s meant to give non-engineers a version of the same functionality that software engineers already get from agents: an AI tool that doesn’t just answer questions, but completes multistep projects on its own. “In this new factor, ChatGPT can actually do entire, very complicated tasks for you all autonomously in a way that is delightful and safe,” Thibault Sottiaux, who leads OpenAI’s core product work, including Work, told TechCrunch. “It’s the very mission of OpenAI — to bring everyone ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "scraped_at": "2026-08-24T18:50:52.057123"
+    "scraped_at": "2026-08-25T01:41:49.318187"
   },
   {
     "headline": "Hugging Face reportedly in talks to be acquired for $13B",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "scraped_at": "2026-08-24T18:50:52.059475"
+    "scraped_at": "2026-08-25T01:41:49.319832"
   },
   {
     "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "scraped_at": "2026-08-24T18:50:52.061050"
+    "scraped_at": "2026-08-25T01:41:49.321487"
   },
   {
     "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "scraped_at": "2026-08-24T18:50:52.062531"
+    "scraped_at": "2026-08-25T01:41:49.323115"
   },
   {
     "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "scraped_at": "2026-08-24T18:50:52.063991"
-  },
-  {
-    "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "author": "Amanda Silberling",
-    "date_time": "2026-08-23T08:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "scraped_at": "2026-08-24T18:50:52.065447"
-  },
-  {
-    "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "author": "Anthony Ha",
-    "date_time": "2026-08-22T14:46:56-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "scraped_at": "2026-08-24T18:50:52.066934"
-  },
-  {
-    "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "author": "Anna Heim",
-    "date_time": "2026-08-22T12:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "scraped_at": "2026-08-24T18:50:52.068394"
+    "scraped_at": "2026-08-25T01:41:49.324747"
   }
 ]
