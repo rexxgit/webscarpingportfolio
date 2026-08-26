@@ -1,92 +1,92 @@
 [
   {
+    "headline": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "author": "Sarah Perez",
+    "date_time": "2026-08-26T12:37:34-07:00",
+    "summary": "N/A",
+    "content": "Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands. But there’s a ridiculousness here: Google has given every Gemini AI feature under the sun its own branding, which undercuts that very message. In the Gemini app, users can switch between chat, Spark, and Daily Brief — three separate features, each with its own icon and place in the app’s navigation. This clutters up what could otherwise be a more straightforward consumer experience, and it suggests that Gemini is still struggling to find a killer feature. Take Daily Brief, for example. The feature comes across as the kind of thing an AI engineer, not an everyday user, would think is clever. It’s essentially an AI-enabled agenda that offers “proactive, personalized updates” using data pulled from Google’s apps, like Gmail and Calendar. In practice, though, the Brief can’t tell the difference between what information is urgent, actionable, or needs to be remembered, and what are just unsolicited pushes to follow through on other things — like prompting you to continue research started in the chatbot, or worse, reminding you of prior Google searches. That second part doesn’t feel useful; it feels creepy. So what if I had been researching college scholarships or animal rescues on Google? That doesn’t mean I want an AI tapping me on the shoulder about them later. Spark has the opposite problem. It’s one of the more useful aspects of Gemini’s app — an AI agent that can take action on your behalf —  but Google has packaged it as its own standalone brand, which it doesn’t need to be. Sure, internally, Google engineers may want to be on the Spark team, and that’s fine — but a mainstream AI app user definitely does not need to think about which “side” of the AI",
+    "article_link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "scraped_at": "2026-08-26T19:56:26.835991"
+  },
+  {
+    "headline": "How do we explain OpenAI’s executive exodus?",
+    "author": "Tim Fernholz",
+    "date_time": "2026-08-26T12:34:04-07:00",
+    "summary": "N/A",
+    "content": "OpenAI is the original frontier lab. Its latest publicly released model, GPT-5.6, is one of the most capable and efficient on the market. Its desktop app for agentic coding and workplace tasks has seen its user base grow by about 15 million subscribers in the last two months. OpenAI has also already filed to go public. So why are all the executives heading out the door? Since the turn of the year, more than a dozen executives have departed, including CEO Sam Altman’s top deputy, the chief operating officer, a chief revenue officer, its chief marketing officer, as well as several different team leads. Yesterday, news broke that Chris Malone, the company’s head of data centers, left the company last week after joining in March 2024. Some of those departures have come due to health issues, and others are were due to reorganization that occurred as Altman sought to cut expensive “side projects” and focus on revenue-generating opportunities. Still, Malone’s unexplained departure is striking, if only because OpenAI’s primary advantage over rivals like Anthropic or SpaceX is its investment in compute. OpenAI told TechCrunch that the departure stemmed from a reorganization of the company’s infrastructure team, led by vice president Sachin Katti and reporting to president Greg Brockman. It’s not surprising that a senior executive might leave a company if he suddenly finds himself several rungs further down the ladder. The frontier lab declined to comment on broader changes at the company, but it seems apparent that Brockman is reasserting his leadership at the company; as cofounder and president, he played important roles building OpenAI’s early infrastructure, but he was relieved of most management responsibilities in 2019, when Altman became CEO. After that, Brockman played a disruptive role at the company, according to Karen Hao’s book “Empire of AI.” His contributions to individual projects like GPT-4 were undeniable, but he also seeded internal rivalries that helped kic",
+    "article_link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "scraped_at": "2026-08-26T19:56:28.286746"
+  },
+  {
+    "headline": "OpenAI releases its official report on the Hugging Face breach",
+    "author": "Russell Brandom",
+    "date_time": "2026-08-26T12:05:22-07:00",
+    "summary": "N/A",
+    "content": "OpenAI released its official report Wednesday on the Hugging Face breach, offering the clearest picture yet of how an unusual chain of events allowed an AI model to escape its testing environment and triggered a sprawling cybersecurity incident. The report, released more than a month after the incident became public, spans several discrete cybersecurity compromises. “This incident reflects misaligned behavior in an outlier scenario involving a rare and unexpected confluence of events: the presence of impossible tasks in the ExploitGym evaluation, model persistence over long task horizons, and messages to peer models that caused those models to deviate from their goal,” the report reads. Many of the details in OpenAI’s report were previously made public in a Black Hat presentation on August 6, but OpenAI’s official report gives a more thorough accounting of the incident, including more detail on the testing that initiated it. The report also gives critical new detail into how OpenAI aims to prevent future incidents, including chain-of-thought monitoring and a more advanced system for halting rogue agents.” METR and Redwood Research also conducted third-party assessments of the models’ behavior during the incident; both groups are planning to publish their own reports on the incident on it. In broad strokes, the report describes how an OpenAI model was presented with an unsolvable problem in testing and proceeded to chain together previously undiscovered exploits in order to bypass security measures and complete its task. The model initially compromised the Artifactory package management tool in order to gain access to the internet, then compromised various systems across OpenAI, Hugging Face, and other vendors. The report gives critical new details about the models that carried out the breach. The primary model was from the same family as OpenAI’s forthcoming Astra model, although the report emphasizes that it was “a distinct model with different post-training, where",
+    "article_link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "scraped_at": "2026-08-26T19:56:30.098219"
+  },
+  {
+    "headline": "Media & Entertainment",
+    "author": "Sarah Perez",
+    "date_time": "2026-08-26T08:47:28-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "scraped_at": "2026-08-26T19:56:30.100915"
+  },
+  {
+    "headline": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "author": "Lucas Ropek",
+    "date_time": "2026-08-26T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "scraped_at": "2026-08-26T19:56:30.102578"
+  },
+  {
+    "headline": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "author": "Russell Brandom",
+    "date_time": "2026-08-26T07:37:01-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "scraped_at": "2026-08-26T19:56:30.104182"
+  },
+  {
+    "headline": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-08-26T07:19:29-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "scraped_at": "2026-08-26T19:56:30.105804"
+  },
+  {
+    "headline": "Robot brain builders are pushing out of their GPT-2 era",
+    "author": "Tim Fernholz",
+    "date_time": "2026-08-26T06:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "scraped_at": "2026-08-26T19:56:30.107375"
+  },
+  {
     "headline": "QueryStory wants you to believe what AI is telling you",
     "author": "Tim Fernholz",
     "date_time": "2026-08-26T06:00:00-07:00",
     "summary": "N/A",
-    "content": "Shapor Naghibzadeh learned the value of a good story in 2009 as a Google sysops engineer. When hackers backed by China set their sights on the search giant as part of an effort dubbed Operation Aurora, he was called into a hastily assembled war room to explain what exactly was going on in the company’s servers. Tracing cyberattacks through disparate networks taught Naghibzadeh the value of verified knowledge. But it was a costly and time-consuming task. He thinks that LLMs can bring that same functionality to databases of all kinds in a fraction of the time. Naghibzadeh would spend the next six years focused on the nexus of data and cybersecurity, using Google’s resources to build tools that allowed security analysts to query complex data. In 2016, he co-founded a startup in Google’s X Labs called Chronicle that would bring that same functionality to other companies. Last year, as large language models took a larger role in data analysis, Naghibzadeh saw a new opportunity to take the techniques he developed for cybersecurity and apply them to a variety of analytics. He co-founded QueryStory, where he is CEO, alongside CTO Stanley Yang, a former Google colleague and lead engineer at EvolutionIQ, and CPO David Glusic, an Accenture veteran. The startup emerged from stealth today. “You get this pattern of an investigation — you ask a bunch of questions of the data, and after you have been able to ask a number of questions, you assemble that together into a narrative,” Naghibzadeh said. “That became the genesis for the name QueryStory. It’s about telling stories with data, right? Putting a narrative together that’s grounded in truth.” QueryStory raised a $6 million seed round in late 2025 from Brightmind Ventures and New York Life Ventures at a valuation of $60 million, and has spent the intervening time developing and piloting its product with customers. QueryStory is aimed squarely at large enterprises that manage big, proprietary databases; it serves as a platform to ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "scraped_at": "2026-08-26T13:05:57.276562"
+    "scraped_at": "2026-08-26T19:56:30.108908"
   },
   {
-    "headline": "Arga is building a better way to train enterprise AI agents",
+    "headline": "Arga Labs is building a better way to train enterprise AI agents",
     "author": "Russell Brandom",
     "date_time": "2026-08-26T05:55:28-07:00",
     "summary": "N/A",
-    "content": "Making AI agents work is turning out to be a lot harder than many companies expected. Luckily for them, there’s help on the way: A new crop of startups is finding better ways to test and train agents before they are deployed, particularly on the complexities of the modern enterprise. Arga is one such company. The startup on Wednesday said it had raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel. Arga builds training environments for enterprise software like Salesforce, Workday, and email clients. Where most testing environments offer a stateless API endpoint, Arga builds a full-scale digital twin of the program, effectively cloning the entire software with permission systems and web hooks intact. The result is a more robust way to train agents across multiple systems. The startup’s CEO and co-founder Philip Li illustrated his product with the example of a prospective client creating a lead in Salesforce while a colleague reaches out separately through Hubspot. “Can the agent correctly identify that these two are the same company?” Li says, “Are they able to check whether or not they’ve only sent the email once? Are they able to identify who to send the email to out of the two opportunities?” Agentic systems still struggle with this kind of ambiguity, and Li sees Arga’s tools as critical to helping them improve. Normally, an AI agent could be trained for a task like this through reinforcement learning (RL): running the scenario tens of thousands of times and letting only the successful strategies through. But the nature of enterprise software makes that scale of testing nearly impossible. There’s no easy way to “reset” a system like Salesforce or Outlook when you need to run the same scenario again, much less clone it. Arga’s solution is to digitally recreate that software by replicating its structure the way a crash test dummy is supposed to stand in for a person. Because ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "scraped_at": "2026-08-26T13:05:58.565450"
-  },
-  {
-    "headline": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "author": "Aisha Malik",
-    "date_time": "2026-08-26T05:00:00-07:00",
-    "summary": "N/A",
-    "content": "Hearing loss affects an estimated 50 million adults in the United States, but only around 20% of those with diagnosed hearing loss seek treatment. Legato, a new hearing tech company, aims to close that gap. The startup is emerging from stealth on Wednesday with $12 million in funding and a first look at its AI hearing glasses, the company told TechCrunch exclusively. The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames. Legato Frames are expected to launch later this fall. Legato was founded by Mehul Trivedi and Steve Romine, who bring extensive experience in wearables and hearing care from Bose, where Trivedi led the creation of Bose Frames and Romine ran the hearing aids division. Trivedi left Bose to work at EssilorLuxottica, where he led smart eyewear efforts and worked on the Meta Ray-Bans, while Romine went on to serve as COO of hearing care company Audicus. After spending years at larger companies, Trivedi took some time off to explore the intersection of hearing technology and smart eyewear. During that time, Trivedi came across technology he believed could bring the two together, so he contacted Romine and the pair founded Legato in late 2024. “Our goal is to make hearing as ubiquitous as vision,” Trivedi said in an interview with TechCrunch. “It’s kind of a no-brainer that you go to an eye exam, you get your glasses, you wear your glasses, and you’re happy, and you do that for the rest of your life — and the idea of it being blurry again where you would just stop wearing them is not a consideration. I think that’s what we want to do with hearing: just make it something that people address and almost forget about.” Legato is targeting people with mild to moderate hearing loss, which represents the largest segment of the hearing-loss population, the startup says. The company started with the goal of making hearing care more accessible by addressing the cost, comfort, and stigma asso",
-    "article_link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "scraped_at": "2026-08-26T13:05:59.886829"
-  },
-  {
-    "headline": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "author": "Jagmeet Singh",
-    "date_time": "2026-08-26T04:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "scraped_at": "2026-08-26T13:05:59.888626"
-  },
-  {
-    "headline": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "author": "Ivan Mehta",
-    "date_time": "2026-08-25T20:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "scraped_at": "2026-08-26T13:05:59.889598"
-  },
-  {
-    "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "author": "Marina Temkin",
-    "date_time": "2026-08-25T17:40:59-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "scraped_at": "2026-08-26T13:05:59.890654"
-  },
-  {
-    "headline": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "author": "Lucas Ropek",
-    "date_time": "2026-08-25T17:06:20-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "scraped_at": "2026-08-26T13:05:59.891686"
-  },
-  {
-    "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "author": "Lucas Ropek",
-    "date_time": "2026-08-25T12:03:47-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "scraped_at": "2026-08-26T13:05:59.892734"
-  },
-  {
-    "headline": "Claude Cowork finally remembers what you told the app in chat",
-    "author": "Sarah Perez",
-    "date_time": "2026-08-25T10:50:33-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "scraped_at": "2026-08-26T13:05:59.893756"
-  },
-  {
-    "headline": "Gamma acquires Accel-backed design startup Lica",
-    "author": "Ivan Mehta",
-    "date_time": "2026-08-25T08:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "scraped_at": "2026-08-26T13:05:59.894725"
+    "scraped_at": "2026-08-26T19:56:30.110463"
   }
 ]
