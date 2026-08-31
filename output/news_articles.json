@@ -1,30 +1,75 @@
 [
   {
-    "headline": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "headline": "The Pentagon now has its own version of ChatGPT and Grok",
+    "author": "Kirsten Korosec",
+    "date_time": "2026-08-31T13:13:45-07:00",
+    "summary": "N/A",
+    "content": "The Pentagon has launched versions of OpenAI’s ChatGPT and xAI’s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to “warfighter needs.” ChatGPT Mil and Grok for Government — custom versions of the popular consumer generative AI tools — are now part of GenAI.mil, a centralized, secure portal launched last year. GenAI.mil, which offered Google Gemini when it first launched, is designed to give Department of Defense employees access to commercial frontier AI models without sending sensitive government data through ordinary consumer channels. In particular, the official military version is exempt from the data collection that is difficult to avoid in consumer tech products. And according to the Department of Defense, the generative AI portal has proven popular. GenAI.mil has already onboarded more than 1.7 million unique users out of the department’s 3 million personnel, according to the department. These latest additions are part of the Pentagon’s broader effort to use AI tools to accelerate work and give the Department of Defense an edge without sacrificing security. They also highlight the absence of Anthropic’s Claude model and the Pentagon’s effort to work with other companies following its dispute with the frontier lab. Anthropic was labeled a supply-chain risk by the Trump administration — a designation that it is currently fighting in court — after it refused to give the Pentagon unrestricted use of its AI tools and instead insisted on certain safety guardrails. ChatGPT Mil, which came out of the company’s OpenAI for Government program, will offer an experience familiar to commercial ChatGPT users. The tool will focus on chat, files, projects, and custom GPTs, according to the Defense Department. The tool will also support document-heavy, routine unclassified work such as administrative tasks, logistics, planning, and policy. Other features will be added over time. The Pentagon positioned Grok’s capabi",
+    "article_link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "scraped_at": "2026-08-31T22:43:34.995679"
+  },
+  {
+    "headline": "Instagram puts new limits on undisclosed AI profiles",
+    "author": "Lauren Forristal",
+    "date_time": "2026-08-31T12:16:59-07:00",
+    "summary": "N/A",
+    "content": "Instagram announced Monday that it’s changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so. The platform says it’s renaming its existing “AI creator” label to “AI-generated profile,” which Instagram says should make the disclosure easier to understand. The new label is meant to tell users that the person featured on a profile was generated or substantially created with AI. Under the new policy, creators who don’t properly label an AI-generated profile could see their reach reduced. Creators who use the new label, on the other hand, won’t be penalized simply for having an AI-generated person as their profile subject. The label also isn’t meant for every use of AI. Instagram says people who use AI to edit photos, polish captions, create graphics, or make other creative tweaks don’t need to use the AI-generated profile label. Instagram says the change comes partly in response to users who have stumbled across profiles that looked like they belonged to real people, only to find out later that the person was completely AI-generated. “As generative AI becomes a bigger part of how people create, we’ve heard that people don’t like seeing a profile that seems human, only to find out later that the person featured is AI-generated,” Instagram wrote. “They want to know when a profile features an AI-generated person.” The timing is notable. Frustration over AI-generated content has been growing as AI influencers become more common across social media platforms. For instance, earlier this year, the gay dating app Goose became the subject of a Wired investigation after a network of apparently AI-generated male influencers promoted the app on Instagram. Wired found more than two dozen accounts that appeared to feature AI influencers, some of which reportedly reached out to potential users through direct messages to get them to sign up. Health and wellness content is another particularly worrying",
+    "article_link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "scraped_at": "2026-08-31T22:43:36.161593"
+  },
+  {
+    "headline": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "author": "Marina Temkin",
+    "date_time": "2026-08-31T11:35:11-07:00",
+    "summary": "N/A",
+    "content": "David Lawrence was a Harvard Law student when an on-campus shooting involving a police officer sparked intense controversy over police conduct. Realizing that most policing errors occur when officers lack instant access to department rules, Lawrence dropped out to tackle the problem with AI. He teamed up with co-founders Amit Patankar, a Harvard MBA and former Google engineer, and Michael Gropman, a retired Boston police deputy chief, to launch Blue Voice — a Boston-based AI startup that provides real-time policy guidance to officers in the field. Three years later, Blue Voice is coming out of stealth with $6 million in funding led by SignalFire and Las Olas VC. Officers at 225 county agencies across 25 states now rely on the tool daily to ensure their actions follow department protocol — a platform Lawrence likens to Harvey, the AI tool widely used by lawyers, or OpenEvidence, which is a similar tool for doctors. “When an officer makes a decision, they do so from memory or best guess, based on thousands of pages of law, policy, municipal ordinances, and state laws that they’ve internalized and keep in their head,” Lawrence told TechCrunch. Before Blue Voice, an officer who couldn’t recall a specific protocol — like the exact seventh step required at a crime scene — had few good options: Flip through a 15,000-page manual, wake up a supervisor in the middle of the night, or search generic tools like Google or ChatGPT that lack police-specific training. The problem was that traditional methods took too much time, while consumer AI models delivered incorrect answers up to 30% of the time, Lawrence said. Blue Voice says it solves this issue because it is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can’t access on the public internet. The platform also gives officers instant access to detailed school maps on their phones during active-shooter emergencies. Today, Blue Voice answers a question every minute.",
+    "article_link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "scraped_at": "2026-08-31T22:43:37.895058"
+  },
+  {
+    "headline": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "author": "Kate Park",
+    "date_time": "2026-08-31T09:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "scraped_at": "2026-08-31T22:43:37.897142"
+  },
+  {
+    "headline": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-08-31T08:15:25-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "scraped_at": "2026-08-31T22:43:37.898760"
+  },
+  {
+    "headline": "Meeting note-taker Circleback adds a free tier to attract more customers",
     "author": "Ivan Mehta",
     "date_time": "2026-08-31T05:56:46-07:00",
     "summary": "N/A",
-    "content": "The meeting note-taker market is a crowded space. Just in the last few weeks, dictation app Wispr launched its own note-taker and scheduling app, and Calendly added a similar tool to its stack. Dedicated meeting note-takers like Granola, Read AI, and Fireflies have raised millions of dollars in funding. Likely in reaction to the intensifying competition, Y Combinator-backed Circleback is introducing a free subscription tier to allow users to get a taste of its product. The new plan lets users transcribe an unlimited number of meetings though they can only access their history for the last 30 days (Granola added a similar tier a few months ago). The free plan lets users record meetings, access mobile and Apple Watch apps, use AI to query transcripts, and integrate the app with Linear and Slack. If customers want all integrations, unlimited meeting history, and full API and MCP access, the subscription plans start at $14 per month (paid annually). Prior to this change, Circleback didn’t have any free tier, and its plans started at $20.83 per month. Founded in 2023 by Ali Haghani and Kevin Jacyna, Circleback raised $2.5 million in 2024. The company says it has been profitable since then, and has been clocking run-rate revenue of over $1 million per employee with a team of eight people, which roughly translates to a run-rate of about $8 million. Haghani said due to the previously limited trial period, the company saw a big drop-off in users, which is why it is introducing a free plan. “If we just open the gates and allow more people to use the product, that’s gonna bring Circleback in front of more people. Then we’re very good at making the product good and monetizing those users,” he said. The company says it doesn’t spend on Google Ads or Meta Ads, and this free tier will serve as marketing expenses. Haghani said the company is not immediately looking to raise funds despite interest, as it doesn’t see any bottlenecks in its growth trajectory. “We are consistently comp",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "scraped_at": "2026-08-31T13:24:56.152870"
+    "scraped_at": "2026-08-31T22:43:37.900401"
   },
   {
-    "headline": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
     "author": "Kate Park",
     "date_time": "2026-08-30T19:34:00-07:00",
     "summary": "N/A",
-    "content": "In July and August, Washington tightened restrictions on foreign-made advanced robotic systems and imposed steep tariffs on imported drones and their components, both moves citing national-security concerns. The drone tariffs take effect in September, with additional component tariffs following in 2027. These moves are part of a broader U.S. effort to restrict foreign technology in strategically important industries. The FCC’s Covered List, established in 2021, initially targeted telecommunications and surveillance equipment from companies including Huawei, ZTE and Hikvision before expanding to foreign-made drones and, most recently, to advanced robotic devices. The latest move comes as Chinese manufacturers have built commanding positions in both drones and humanoid robots, often competing at prices U.S. and European rivals struggle to match. Taken together, the restrictions are raising a bigger question for the global robotics industry: If Chinese drones and humanoids are increasingly shut out of the U.S., where does the competition move next? The restrictions may protect parts of the American market, but they don’t directly address China’s global manufacturing scale and cost advantages. Industry analysts and executives who spoke with TechCrunch said the result may be less a clean U.S.-China split than a more fragmented global market, with Chinese companies expanding elsewhere while U.S. and allied manufacturers compete in markets where security requirements matter more. The U.S. and Chinese robotics industries remain deeply connected, but the two countries enter the competition with very different advantages. Unlike semiconductors, robotics does not hinge on a single technology that one country can easily control, said Ankur Saxena, an investment director at TDK Ventures. China dominates global humanoid robot manufacturing, with global shipments hitting 22,000 units in the first half of this year — the vast majority from Chinese manufacturers — according to a rep",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "scraped_at": "2026-08-31T13:24:58.199773"
+    "scraped_at": "2026-08-31T22:43:37.902042"
   },
   {
     "headline": "Musk’s faster path to more gas turbines comes with pollution problem",
     "author": "Connie Loizos",
     "date_time": "2026-08-30T09:54:25-07:00",
     "summary": "N/A",
-    "content": "Elon Musk says he’s found a way to solve one of AI’s biggest bottlenecks by making a hard-to-manufacture turbine part himself. On Saturday, Musk confirmed what a secret foundry SpaceX has been building in Bastrop, Texas, is for — an apparent response to a story that was already closing in on the details. Earlier in the day, The Information published a report citing job listings that explicitly mention a “blades and vanes foundry,” plus findings from Corey Trinetti, a due diligence specialist who authors detailed reviews of AI infrastructure sites in his newsletter and who’d reported that SpaceX had bought roughly 830 acres near its existing Starlink factory in Bastrop between March and June. “SpaceX and Tesla are each building 100GW/year of solar production capacity as fast as possible,” Musk wrote on X on Saturday, “but natural gas will still be needed to supplement and bootstrap solar for several years. The limiting factor for nat gas turbine production is casting the blades & vanes. By doing in-house casting at SpaceX, we can accelerate nat gas turbines coming online by up to 18 months, which is a profound game-changer.” The “why” of all this goes back to one of the biggest challenges facing the AI industry right now. GPU shortages are still an issue — Nvidia’s newest Blackwell chips are still running lead times of several months, for example — but a second constraint has emerged alongside it, which is the physical power grid. The International Energy Agency projects global data center electricity use will roughly double by 2030, and gas turbine maker GE Vernova says it’s essentially sold out of production capacity through 2030 due largely to AI infrastructure demand. That shortage is why building private gas-fired plants next to data centers, instead of waiting on the grid, has become a ubiquitous strategy for so-called hyperscalers, including Amazon, Google, Meta, OpenAI, and Microsoft. After years of prioritizing wind and solar, they’re all now betting on natu",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "scraped_at": "2026-08-31T13:25:00.211072"
+    "scraped_at": "2026-08-31T22:43:37.903711"
   },
   {
     "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
@@ -33,60 +78,15 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "scraped_at": "2026-08-31T13:25:00.213605"
+    "scraped_at": "2026-08-31T22:43:37.905342"
   },
   {
-    "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "headline": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
     "author": "Kirsten Korosec",
     "date_time": "2026-08-29T11:41:59-07:00",
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "scraped_at": "2026-08-31T13:25:00.215474"
-  },
-  {
-    "headline": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-    "author": "Connie Loizos",
-    "date_time": "2026-08-29T10:36:47-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "scraped_at": "2026-08-31T13:25:00.217300"
-  },
-  {
-    "headline": "Nvidia’s AI advantage is moving beyond the GPU",
-    "author": "Russell Brandom",
-    "date_time": "2026-08-29T06:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "scraped_at": "2026-08-31T13:25:00.218972"
-  },
-  {
-    "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-08-28T13:24:11-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "scraped_at": "2026-08-31T13:25:00.220541"
-  },
-  {
-    "headline": "Will TikTok and YouTube follow Meta’s new rules for teens?",
-    "author": "Kirsten Korosec\nSean O'Kane\nRebecca Bellan",
-    "date_time": "2026-08-28T12:41:42-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/podcast/will-tiktok-and-youtube-follow-metas-new-rules-for-teens/",
-    "scraped_at": "2026-08-31T13:25:00.222665"
-  },
-  {
-    "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "author": "Russell Brandom",
-    "date_time": "2026-08-28T12:30:38-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "scraped_at": "2026-08-31T13:25:00.224087"
+    "scraped_at": "2026-08-31T22:43:37.906992"
   }
 ]
