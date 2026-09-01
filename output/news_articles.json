@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "In its lawsuit against OpenAI, Apple filed what it calls “shocking evidence” to bolster its allegations that former employees stole trade secrets for OpenAI’s benefit. These new details emerged after the legal counsel for former Apple employee Chang Liu — who now works at OpenAI — handed over Liu’s old Apple work laptop for investigation earlier this month. Apple now alleges that Liu used a confidential Apple circuit schematic in his work at OpenAI, as well as a tool that shares a name with an internal Apple engineering application. The company claims that OpenAI was “well-aware” of Liu’s access to Apple data, and that Liu enlisted OpenAI colleague Yu-Ting Peng to help destroy evidence in June when he learned that Apple was investigating him. “The MacBook represents the very limited information Defendants provided so far (and only after weeks of delay), and shows Apple is not conducting ‘fishing expeditions’ but that its trade secrets are being used and evidence is being destroyed,” the filing reads. While this new evidence is redacted from public view, past filings from Apple have included text messages from Liu — which he punctuated with “crying laughing” emojis — showing he was aware that he still had access to Apple files. OpenAI has previously defended Liu by saying that he only accessed Apple files after he stopped working there in order to help former colleagues who asked for his assistance. “Apple now tries to shift the blame to ‘residual access,’ but they also don’t disclose that this is a common issue with Apple which is caused by them failing to properly manage system access when people leave,” OpenAI wrote in a blog post earlier this month. But Apple claims that Liu had continued access because he “exploited a rare, previously unknown authentication bug.” TechCrunch has requested comment from OpenAI on Apple’s newest allegations. Apple is seeking a preliminary injunction — a court order that would block OpenAI from working on hardware based on Apple’s te",
     "article_link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "scraped_at": "2026-09-01T04:46:22.658588"
+    "scraped_at": "2026-09-01T11:30:42.504811"
   },
   {
     "headline": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "The Pentagon has launched versions of OpenAI’s ChatGPT and xAI’s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to “warfighter needs.” ChatGPT Mil and Grok for Government — custom versions of the popular consumer generative AI tools — are now part of GenAI.mil, a centralized, secure portal launched last year. GenAI.mil, which offered Google Gemini when it first launched, is designed to give Department of Defense employees access to commercial frontier AI models without sending sensitive government data through ordinary consumer channels. In particular, the official military version is exempt from the data collection that is difficult to avoid in consumer tech products. And according to the Department of Defense, the generative AI portal has proven popular. GenAI.mil has already onboarded more than 1.7 million unique users out of the department’s 3 million personnel, according to the department. These latest additions are part of the Pentagon’s broader effort to use AI tools to accelerate work and give the Department of Defense an edge without sacrificing security. They also highlight the absence of Anthropic’s Claude model and the Pentagon’s effort to work with other companies following its dispute with the frontier lab. Anthropic was labeled a supply-chain risk by the Trump administration — a designation that it is currently fighting in court — after it refused to give the Pentagon unrestricted use of its AI tools and instead insisted on certain safety guardrails. ChatGPT Mil, which came out of the company’s OpenAI for Government program, will offer an experience familiar to commercial ChatGPT users. The tool will focus on chat, files, projects, and custom GPTs, according to the Defense Department. The tool will also support document-heavy, routine unclassified work such as administrative tasks, logistics, planning, and policy. Other features will be added over time. The Pentagon positioned Grok’s capabi",
     "article_link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "scraped_at": "2026-09-01T04:46:24.426771"
+    "scraped_at": "2026-09-01T11:30:44.265317"
   },
   {
     "headline": "Instagram puts new limits on undisclosed AI profiles",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Instagram announced Monday that it’s changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so. The platform says it’s renaming its existing “AI creator” label to “AI-generated profile,” which Instagram says should make the disclosure easier to understand. The new label is meant to tell users that the person featured on a profile was generated or substantially created with AI. Under the new policy, creators who don’t properly label an AI-generated profile could see their reach reduced. Creators who use the new label, on the other hand, won’t be penalized simply for having an AI-generated person as their profile subject. The label also isn’t meant for every use of AI. Instagram says people who use AI to edit photos, polish captions, create graphics, or make other creative tweaks don’t need to use the AI-generated profile label. Instagram says the change comes partly in response to users who have stumbled across profiles that looked like they belonged to real people, only to find out later that the person was completely AI-generated. “As generative AI becomes a bigger part of how people create, we’ve heard that people don’t like seeing a profile that seems human, only to find out later that the person featured is AI-generated,” Instagram wrote. “They want to know when a profile features an AI-generated person.” The timing is notable. Frustration over AI-generated content has been growing as AI influencers become more common across social media platforms. For instance, earlier this year, the gay dating app Goose became the subject of a Wired investigation after a network of apparently AI-generated male influencers promoted the app on Instagram. Wired found more than two dozen accounts that appeared to feature AI influencers, some of which reportedly reached out to potential users through direct messages to get them to sign up. Health and wellness content is another particularly worrying",
     "article_link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "scraped_at": "2026-09-01T04:46:25.601649"
+    "scraped_at": "2026-09-01T11:30:45.844657"
   },
   {
     "headline": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "scraped_at": "2026-09-01T04:46:25.603540"
+    "scraped_at": "2026-09-01T11:30:45.846719"
   },
   {
     "headline": "Clipto uses AI to search terabytes of video and is now valued at $250M",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "scraped_at": "2026-09-01T04:46:25.604697"
+    "scraped_at": "2026-09-01T11:30:45.848038"
   },
   {
     "headline": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "scraped_at": "2026-09-01T04:46:25.605830"
+    "scraped_at": "2026-09-01T11:30:45.849320"
   },
   {
     "headline": "Meeting note-taker Circleback adds a free tier to attract more customers",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "scraped_at": "2026-09-01T04:46:25.606951"
+    "scraped_at": "2026-09-01T11:30:45.850587"
   },
   {
     "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "scraped_at": "2026-09-01T04:46:25.608063"
+    "scraped_at": "2026-09-01T11:30:45.851878"
   },
   {
     "headline": "Musk’s faster path to more gas turbines comes with pollution problem",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "scraped_at": "2026-09-01T04:46:25.609166"
+    "scraped_at": "2026-09-01T11:30:45.853181"
   },
   {
     "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "scraped_at": "2026-09-01T04:46:25.610271"
+    "scraped_at": "2026-09-01T11:30:45.854478"
   }
 ]
