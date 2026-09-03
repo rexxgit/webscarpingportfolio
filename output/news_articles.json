@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "author": "Sarah Perez",
+    "date_time": "2026-09-03T09:09:01-07:00",
+    "summary": "N/A",
+    "content": "For an AI assistant to become truly useful, it first has to know a lot about you. Ollie, a personal assistant for everyday life, is betting that doesn’t mean you have to hand over all your data and sacrifice your privacy in the process. While some enterprise-focused AI assistants have data privacy protections in place, Ollie is among the first mainstream, family-focused AI to achieve SOC 2 compliance — a framework that allows a company to demonstrate, through an independent audit, that it has formal controls in place to protect customer data and operate its systems securely. Achieving this was an important milestone for Ollie’s team, as it signals to potential users that the assistant isn’t trying to scoop up your personal data for other purposes, like AI training. “We fundamentally think that trust and privacy are absolutely imperative, and that’s why our business model is a subscription, because we want our users to know that Ollie works for you,” explained Ollie co-founder and CEO Bill Lennon in an interview with TechCrunch. “We’re not sharing your data with anyone,” he stressed. There are many personal AI assistants positioning themselves as consumer-friendly solutions focused on integrating with users’ daily lives via text messages, which is why Ollie’s privacy angle could prove a significant differentiator. Today, Ollie competes with other existing text-based assistants like Poke (acquired by Cognition), Fambot, Ohai, Folk, Saner.ai, and Tomo. There are also a number of assistants focused more on work, calendar management and email, like Town, Lindy and Reclaim.ai. And of course, there’s Instinct, the AI assistant that just landed $350 million in funding at a $2.5 billion valuation before it even launched. To say the space is heating up is putting it mildly, in other words. By comparison, San Diego-based Ollie has raised a much more modest $7.5 million seed round, largely from Khosla Ventures, along with AI House. Despite the utility these assistants provide, ",
+    "article_link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "scraped_at": "2026-09-03T16:17:11.540969"
+  },
+  {
+    "headline": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "author": "Tim Fernholz",
+    "date_time": "2026-09-03T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "Scientists at Google DeepMind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding into weather information users see in search, Google Maps, and Gemini, as well as being available to users and researchers on Google’s cloud platforms. “This is going to be the first time that some of the core variables feed and power a lot of the Google products,” Samier Merchant, a Google senior staff engineer, told TechCrunch. The new model has already proven to be the most accurate among leading contenders tested on Operational WeatherBench, a utility for comparing AI forecasts built by the startup Brightband. It looks at metrics like temperature, windspeed, and humidity. As well as beating out other deep-learning models built by Google, Microsoft, Nvidia, and the European Center for Medium-Range Weather Forecasting (ECMWF), it also beats traditional forecasts from the U.S. National Weather service and the ECMWF. Most weather forecasts come from government-owned supercomputers laboriously churning through mathematical equations written to describe the physics of weather; while these systems have become remarkably accurate, they are expensive and comparatively slow. After the ECMWF released more than half a century of weather data produced by these systems in 2018, deep learning researchers began training models that could make predictions far more quickly and with comparable accuracy to government tools. “Weather is chaotic, and so small differences really start to perturb massively…Machine learning targets the problem we are really solving, which is approximate noisy physics from incomplete information and finite compute, and so it learns patterns from a lot of data,” said Ferran Alet, a staff research scientist ma",
+    "article_link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "scraped_at": "2026-09-03T16:17:13.585390"
+  },
+  {
+    "headline": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "author": "Ivan Mehta",
+    "date_time": "2026-09-03T05:42:45-07:00",
+    "summary": "N/A",
+    "content": "After weeks of swirling rumors, Nvidia confirmed today that it has acquired Hugging Face for $12.93 billion. Hugging Face’s platform hosts three million models, one million applications used by over 18 million developers, and half a million datasets. In a blog post, Nvidia’s CEO Jensen Huang said that Hugging Face will continue to support open source and open-weight models and will work on expanding developer access. “Hugging Face will remain an open platform for the entire AI ecosystem. Developers will choose the models they want, the frameworks they want, the clouds and inference service providers they want and the computing platforms they want. Nvidia compute will not be required to build on or deploy through Hugging Face,” said Huang. Huang touted Nvidia’s contributions and said that the chip company has released more than 500 models and 250 open datasets on Hugging Face. He argued that the company builds open models to get developers across the world to use them. For a company like Nvidia, which is a dominant hardware platform for AI development and inference, an open ecosystem that it controls is beneficial as it can create a platform suited for its chips. Plus, as TechCrunch wrote earlier, Nvidia will be able to sell its unused capacity to enterprise customers packaged with Hugging Face’s offering. Hugging Face was founded in 2016 and has raised over $395 million in funding to date, according to Crunchbase. The company’s last round was in 2023, when it raised $235 million led by Salesforce Ventures, with investments from Google, Amazon, IBM, and Nvidia. In a post on X, Hugging Face CEO Clem Delangue thanked the community for showing the company could be an alternative to closed-source APIs. “But for it to happen at [a] larger scale, it needs more compute, more support, more collaboration, and more visibility. That’s why we went to talk to Jensen, who offered to do exactly that with us,” said Delangue. Hugging Face has risen in prominence, with more models bei",
+    "article_link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "scraped_at": "2026-09-03T16:17:14.926336"
+  },
+  {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-09-02T16:01:00-07:00",
     "summary": "N/A",
-    "content": "October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. SVP, Devices, Alexa & Leo\nAmazon What Comes After the Smartphone?",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-03T11:02:39.976210"
+    "scraped_at": "2026-09-03T16:17:14.928616"
   },
   {
     "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "author": "Marina Temkin",
     "date_time": "2026-09-02T15:44:56-07:00",
     "summary": "N/A",
-    "content": "Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks, according to two people with knowledge of the deal. The companies officially announced the acquisition on Tuesday but didn’t reveal terms of the deal. Since its founding in 2024, Console has raised $29 million across two rounds: a $6.2 million seed led by Thrive Capital and a $23 million Series A co-led by DST Global and Thrive. Before the sale, Console was valued at $157 million, according to PitchBook, delivering a rapid return for investors including SV Angel, Abstract Ventures, and notably Palo Alto Networks CEO Nikesh Arora, who participated as an angel investor. Palo Alto Networks declined to comment. The cybersecurity giant said that it will integrate Console into Cortex, its platform that uses AI to automatically detect and neutralize threats. Console’s agentic functionality will allow security teams to investigate and resolve alerts using natural language, giving Cortex “the arms and legs to deliver autonomous security outcomes across the entire enterprise,” as Arora described in a statement. Console was founded by Andrei Serban, coming shortly after his previous startup — code-security platform Fuzzbuzz — was acquired by Rippling. The startup, whose customers included Ramp, Flock Safety, and Scale AI, automated tasks like password resets, granted access to apps like Figma and Miro, and performed routine troubleshooting without direct human involvement. As a startup, Console competed primarily with Serval, another ServiceNow challenger that hit a $1 billion valuation after raising a $75 million Series B round led by Sequoia last December. Serval started as an AI tech support tool and quickly expanded to provide AI assistance for human resources, legal, and finance departments. Console’s acquisition leaves Serval as the category-leader-to-watch among startups automating IT service management, one invest",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "scraped_at": "2026-09-03T11:02:41.672873"
+    "scraped_at": "2026-09-03T16:17:14.930120"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-09-02T15:24:09-07:00",
     "summary": "N/A",
-    "content": "October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. SVP, Devices, Alexa & Leo\nAmazon What Comes After the Smartphone?",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-03T11:02:43.797442"
+    "scraped_at": "2026-09-03T16:17:14.931581"
   },
   {
     "headline": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "scraped_at": "2026-09-03T11:02:43.799901"
+    "scraped_at": "2026-09-03T16:17:14.933032"
   },
   {
     "headline": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "scraped_at": "2026-09-03T11:02:43.801798"
+    "scraped_at": "2026-09-03T16:17:14.934699"
   },
   {
     "headline": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "scraped_at": "2026-09-03T11:02:43.803878"
+    "scraped_at": "2026-09-03T16:17:14.936587"
   },
   {
     "headline": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "scraped_at": "2026-09-03T11:02:43.805486"
-  },
-  {
-    "headline": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "author": "Ram Iyer",
-    "date_time": "2026-09-02T09:04:10-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "scraped_at": "2026-09-03T11:02:43.807086"
-  },
-  {
-    "headline": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "author": "Jagmeet Singh",
-    "date_time": "2026-09-02T09:01:48-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "scraped_at": "2026-09-03T11:02:43.808711"
-  },
-  {
-    "headline": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "author": "Ram Iyer",
-    "date_time": "2026-09-02T08:01:23-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "scraped_at": "2026-09-03T11:02:43.810303"
+    "scraped_at": "2026-09-03T16:17:14.938033"
   }
 ]
