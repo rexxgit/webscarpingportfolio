@@ -1,12 +1,21 @@
 [
   {
+    "headline": "The sameness problem behind those unappetizing AI-generated menus",
+    "author": "Amanda Silberling",
+    "date_time": "2026-09-03T21:21:03-07:00",
+    "summary": "N/A",
+    "content": "When it first happens to you, you think you’re crazy. You wander into a cafe and look at a menu with a variety of bagel sandwiches, but each illustration looks eerily flawless, precisely symmetrical, and oddly smooth, eliciting a visceral sensation that something isn’t right. You might think you’re paranoid, but you’re not losing your mind. Generative AI menus have hit the restaurant business courtesy of models trained on a narrow, “pleasing” aesthetic that feels wrong even when you can’t articulate why. Sometimes, these illustrations are egregiously fake, like a burrito with cheese so bubbly and melty that it looks more like avant garde art than lunch. More often, they’re so ordinary looking that you only notice something is wrong when you take a second to look more closely. “It’s almost like an alien trying to make a pizza without understanding its core principles,” Reality Defender CTO Alex Lisle told TechCrunch. (Reality Defender itself is part of a growing category of startups selling AI-detection and content-verification tools — a business that exists in part because of issues like this one.) Throw a rock in NYC and you’ll hit a mildly off putting AI food advertisement. pic.twitter.com/lLXVkFIFoG Lisle says that the way these models are built can help explain why illustrations seem to embrace such a specific aesthetic — one where every ice cream scoop is perfectly round, and where shrimp seem to have been genetically modified to eat their own tails, creating new “Lovecraftian food horrors.” Large language models (LLMs) and diffusion models — the kinds of AI models that make seemingly omniscient chatbots and image generators like ChatGPT and Midjourney possible — are trained on vast quantities of data. The models then identify patterns in the datasets to predict what a user is looking for when they ask something like, “Make me a menu for a burger restaurant.” “A lot of this stuff looks like a Chili’s menu from 2015, and there’s a reason for that,” Lisle said. “",
+    "article_link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "scraped_at": "2026-09-04T11:03:38.538792"
+  },
+  {
     "headline": "Crusoe reportedly raises $3B at a  $30B valuation",
     "author": "Marina Temkin",
     "date_time": "2026-09-03T17:48:42-07:00",
     "summary": "N/A",
     "content": "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported. The deal is being co-led by Atreides Management and Valor Equity Partners, and includes participation from Mubadala Capital, the asset management subsidiary of Abu Dhabi’s sovereign wealth fund Mubadala. The company recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported. The fresh fundraise comes 10 months after Crusoe raised a $1.38 billion round at a $10 billion valuation last October. Launched in 2018 as a crypto mining operation powered by flared natural gas, Crusoe has since pivoted into a major AI infrastructure and cloud provider that is best known for developing hyperscale data center campuses for clients like Oracle and OpenAI. The company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential near-term IPO, Axios reported last month.",
     "article_link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "scraped_at": "2026-09-04T04:09:54.499207"
+    "scraped_at": "2026-09-04T11:03:40.479879"
   },
   {
     "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday. Existing backer Accel is in talks to lead the fundraise, according to our source and The Information’s reporting. The new round, if it is completed, would value the company below the $50 billion valuation that Thinking Machines reportedly sought to secure late last year. Thinking Machines’ annual revenue run rate stands at over $100 million, according to a source with knowledge of the company’s financials. At that revenue figure, a $40 billion valuation reflects an extraordinarily high revenue multiple. Accel and Thinking Machines didn’t immediately respond to a request for comment. In July, the company introduced Inkling, an open-weight model that generates revenue by charging usage-based compute fees for adapting models on proprietary data on its Tinker platform. The startup’s prior fundraise — a $2 billion round that stands among the largest seed financings in history — valued the company at $12 billion. Andreessen Horowitz led the investment, joined by Nvidia, GV, Lightspeed, and Conviction Partners. Investors backed the round largely on the pedigree of Murati and the former OpenAI researchers who joined her. Thinking Machines has since had several high-profile departures, with some of the co-founders, including Lilian Weng and Luke Metz, going back to OpenAI.",
     "article_link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "scraped_at": "2026-09-04T04:09:56.162563"
+    "scraped_at": "2026-09-04T11:03:41.803963"
   },
   {
     "headline": "Abliteration.ai is making a business out of removing AI guardrails",
     "author": "Rebecca Bellan",
     "date_time": "2026-09-03T11:37:57-07:00",
     "summary": "N/A",
-    "content": "It just became much easier to access one of the world’s most capable open-weight AI models, stripped of its guardrails and refusals to perform harmful tasks. Named after a technique that removes a model’s tendency to refuse harmful requests, startup Abliteration.ai has turned that removal into a service. The platform hosts modified versions of open-weight models with their guardrails removed, including Z.ai’s recently released GLM-5.3, which users can query from a web browser or access through an API. The company said in a recent social media post that its goal is to enable others to perform “offensive cyber, red-teaming, and agent testing work other models refuse to do.” The logic is familiar in security work: You can’t defend against a behavior you can’t reproduce, and a model that refuses to write working exploit code can’t help a red team defend against attackers. But those same removals make other potentially dangerous tasks easier, too. Abliteration is a long-standing technique among open source models. Researchers and developers have been removing refusals from open-weight models for years, and Hugging Face hosts thousands of abliterated models on its platform. Founded late last year but officially incorporated in March, Abliteration.ai moves the technique from an underground open source practice into a commercial, readily available service. By hosting the model, Abliteration reduces the friction for people who would otherwise have to download their own pre-abliterated models and secure the compute needed to run it. Using the service, TechCrunch was able to quickly create an account and start querying an abliterated version of GLM-5.3 for free through a web browser. We asked it to write a Python program that steals saved Chrome passwords and a detailed protocol for culturing a dangerous human pathogen at home, and it readily complied. Abliteration.ai co-founder Devon says the startup has several deals with major cloud providers, which it’s able to afford pure",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "scraped_at": "2026-09-04T04:09:58.049174"
+    "scraped_at": "2026-09-04T11:03:41.805880"
   },
   {
     "headline": "Meta is paying to peek at how you use their latest AI model",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "scraped_at": "2026-09-04T04:09:58.051572"
+    "scraped_at": "2026-09-04T11:03:41.807035"
   },
   {
     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "scraped_at": "2026-09-04T04:09:58.053197"
+    "scraped_at": "2026-09-04T11:03:41.808186"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-04T04:09:58.054870"
+    "scraped_at": "2026-09-04T11:03:41.809351"
   },
   {
     "headline": "Ollie is betting its focus on privacy can help it win the AI assistant race",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "scraped_at": "2026-09-04T04:09:58.056492"
+    "scraped_at": "2026-09-04T11:03:41.810510"
   },
   {
     "headline": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "scraped_at": "2026-09-04T04:09:58.058109"
+    "scraped_at": "2026-09-04T11:03:41.811650"
   },
   {
     "headline": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "scraped_at": "2026-09-04T04:09:58.059721"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-02T16:01:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-04T04:09:58.061352"
+    "scraped_at": "2026-09-04T11:03:41.812787"
   }
 ]
