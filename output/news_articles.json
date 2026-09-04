@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "author": "Theresa Loconsolo\nKirsten Korosec\nSean O'Kane",
+    "date_time": "2026-09-04T09:04:08-07:00",
+    "summary": "N/A",
+    "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy relationships that recently turned something as small as a map label into a very public balancing act. All of which raises an obvious question: what does the Ternus era look like, and how much rope will shareholders give him to figure it out?  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec and Sean O’Kane unpack what Ternus is walking into, why he may actually be better positioned to make progress on software than hardware in this new AI era, and more of the week’s news. Listen to the full episode to hear more about: Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify, and all the casts. You can also follow Equity on X and Threads at @EquityPod.",
+    "article_link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "scraped_at": "2026-09-04T16:11:59.378760"
+  },
+  {
+    "headline": "Google’s Gemini Spark can now manage your Google Photos library",
+    "author": "Sarah Perez",
+    "date_time": "2026-09-04T07:47:11-07:00",
+    "summary": "N/A",
+    "content": "Google is integrating more of its services with AI, as the company announced that its personal agent, Gemini Spark, can now manage your Google Photos library. That means you can ask Gemini Spark to execute tasks in Google Photos, like editing images, curating albums, automatically creating shared albums with your favorite shots, turning concert flyer photos into calendar appointments, running workflows, and more. On Thursday evening, Google Photos lead Shimrit Ben-Yair shared the new capabilities in a post on X, noting that the new capabilities would roll out over the next few weeks to eligible Gemini AI Pro and Ultra subscribers in the U.S. in English. The company didn’t say if or when it would roll out more broadly to international markets. For a while now, I’ve relied on @GeminiApp and @antigravity agents across a wide range of use cases—spanning creativity, productivity, and analysis. But I’ve always dreamed of having a power agent to help me get the most out of my 143,206 photos and videos. And that day has come!… pic.twitter.com/WbnkYpattQ The addition is yet another example of Google attempting to find product-market fit in terms of making AI appealing to consumers — in this case, by automating tedious tasks and helping people manage what are now often sizable photo libraries. The move comes at a time when the AI industry is reckoning with the fact that it hasn’t properly sold the promise of AI to consumers. This week, OpenAI CEO Sam Altman told Bloomberg that the industry has “done a terrible job” communicating the benefits of technology, which has led to backlash from communities around the world. Announcements like this from Google are part of the problem. While they may make certain tasks easier, on their own, such features don’t seem revolutionary or even, really, necessary. (It’s not that difficult to make a photo album after all.) But the competitive nature of the AI industry is pushing companies to promote every AI-infused upgrade, no matter how small",
+    "article_link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "scraped_at": "2026-09-04T16:12:00.868151"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-04T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. SVP, Devices, Alexa & Leo\nAmazon What Comes After the Smartphone?",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-04T16:12:02.760775"
+  },
+  {
     "headline": "The sameness problem behind those unappetizing AI-generated menus",
     "author": "Amanda Silberling",
     "date_time": "2026-09-03T21:21:03-07:00",
     "summary": "N/A",
-    "content": "When it first happens to you, you think you’re crazy. You wander into a cafe and look at a menu with a variety of bagel sandwiches, but each illustration looks eerily flawless, precisely symmetrical, and oddly smooth, eliciting a visceral sensation that something isn’t right. You might think you’re paranoid, but you’re not losing your mind. Generative AI menus have hit the restaurant business courtesy of models trained on a narrow, “pleasing” aesthetic that feels wrong even when you can’t articulate why. Sometimes, these illustrations are egregiously fake, like a burrito with cheese so bubbly and melty that it looks more like avant garde art than lunch. More often, they’re so ordinary looking that you only notice something is wrong when you take a second to look more closely. “It’s almost like an alien trying to make a pizza without understanding its core principles,” Reality Defender CTO Alex Lisle told TechCrunch. (Reality Defender itself is part of a growing category of startups selling AI-detection and content-verification tools — a business that exists in part because of issues like this one.) Throw a rock in NYC and you’ll hit a mildly off putting AI food advertisement. pic.twitter.com/lLXVkFIFoG Lisle says that the way these models are built can help explain why illustrations seem to embrace such a specific aesthetic — one where every ice cream scoop is perfectly round, and where shrimp seem to have been genetically modified to eat their own tails, creating new “Lovecraftian food horrors.” Large language models (LLMs) and diffusion models — the kinds of AI models that make seemingly omniscient chatbots and image generators like ChatGPT and Midjourney possible — are trained on vast quantities of data. The models then identify patterns in the datasets to predict what a user is looking for when they ask something like, “Make me a menu for a burger restaurant.” “A lot of this stuff looks like a Chili’s menu from 2015, and there’s a reason for that,” Lisle said. “",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "scraped_at": "2026-09-04T11:03:38.538792"
+    "scraped_at": "2026-09-04T16:12:02.763162"
   },
   {
     "headline": "Crusoe reportedly raises $3B at a  $30B valuation",
     "author": "Marina Temkin",
     "date_time": "2026-09-03T17:48:42-07:00",
     "summary": "N/A",
-    "content": "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported. The deal is being co-led by Atreides Management and Valor Equity Partners, and includes participation from Mubadala Capital, the asset management subsidiary of Abu Dhabi’s sovereign wealth fund Mubadala. The company recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported. The fresh fundraise comes 10 months after Crusoe raised a $1.38 billion round at a $10 billion valuation last October. Launched in 2018 as a crypto mining operation powered by flared natural gas, Crusoe has since pivoted into a major AI infrastructure and cloud provider that is best known for developing hyperscale data center campuses for clients like Oracle and OpenAI. The company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential near-term IPO, Axios reported last month.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "scraped_at": "2026-09-04T11:03:40.479879"
+    "scraped_at": "2026-09-04T16:12:02.764712"
   },
   {
     "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "author": "Marina Temkin",
     "date_time": "2026-09-03T12:36:29-07:00",
     "summary": "N/A",
-    "content": "Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday. Existing backer Accel is in talks to lead the fundraise, according to our source and The Information’s reporting. The new round, if it is completed, would value the company below the $50 billion valuation that Thinking Machines reportedly sought to secure late last year. Thinking Machines’ annual revenue run rate stands at over $100 million, according to a source with knowledge of the company’s financials. At that revenue figure, a $40 billion valuation reflects an extraordinarily high revenue multiple. Accel and Thinking Machines didn’t immediately respond to a request for comment. In July, the company introduced Inkling, an open-weight model that generates revenue by charging usage-based compute fees for adapting models on proprietary data on its Tinker platform. The startup’s prior fundraise — a $2 billion round that stands among the largest seed financings in history — valued the company at $12 billion. Andreessen Horowitz led the investment, joined by Nvidia, GV, Lightspeed, and Conviction Partners. Investors backed the round largely on the pedigree of Murati and the former OpenAI researchers who joined her. Thinking Machines has since had several high-profile departures, with some of the co-founders, including Lilian Weng and Luke Metz, going back to OpenAI.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "scraped_at": "2026-09-04T11:03:41.803963"
+    "scraped_at": "2026-09-04T16:12:02.766250"
   },
   {
     "headline": "Abliteration.ai is making a business out of removing AI guardrails",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "scraped_at": "2026-09-04T11:03:41.805880"
+    "scraped_at": "2026-09-04T16:12:02.767714"
   },
   {
     "headline": "Meta is paying to peek at how you use their latest AI model",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "scraped_at": "2026-09-04T11:03:41.807035"
+    "scraped_at": "2026-09-04T16:12:02.769146"
   },
   {
     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "scraped_at": "2026-09-04T11:03:41.808186"
+    "scraped_at": "2026-09-04T16:12:02.770588"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-04T11:03:41.809351"
-  },
-  {
-    "headline": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "author": "Sarah Perez",
-    "date_time": "2026-09-03T09:09:01-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "scraped_at": "2026-09-04T11:03:41.810510"
-  },
-  {
-    "headline": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "author": "Tim Fernholz",
-    "date_time": "2026-09-03T08:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "scraped_at": "2026-09-04T11:03:41.811650"
-  },
-  {
-    "headline": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "author": "Ivan Mehta",
-    "date_time": "2026-09-03T05:42:45-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "scraped_at": "2026-09-04T11:03:41.812787"
+    "scraped_at": "2026-09-04T16:12:02.772099"
   }
 ]
