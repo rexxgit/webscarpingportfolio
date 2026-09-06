@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI. A lawsuit filed by The Seattle Times and Newsday argued that with the advent of AI, the journalism industry could become “broken beyond repair.” The lawsuit described generative AI as “a snake eating its own tail” that could “destroy the very organizations” that produce the content it’s trained on. “AI products like ChatGPT and CoPilot are touted as producers of content, but in fact they are rapacious consumers, devouring human-authored content and delivering back to the world copies and derivative imitations of that same original content they consumed to achieve their commercial objectives,” the lawsuit said. Back in 2023, The New York Times sued OpenAI and its partner/investor Microsoft over alleged copyright infringement; other publications have followed suit as the case continued. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships. A Microsoft spokesperson told GeekWire that the company is “surprised by the lawsuit” but is “always happy to sit down and explore solutions to this type of dispute.”",
     "article_link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "scraped_at": "2026-09-06T04:14:04.981975"
+    "scraped_at": "2026-09-06T10:44:18.919388"
   },
   {
     "headline": "Hikers rescued after using Google Gemini for planning",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Three hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune. A report from the Siskiyou County sheriff’s office said that three young men set off on their hike at 3am and — although hikers are told to turn around if they haven’t reached the summit by noon — they made it to the top at 7pm. The trio then tried to descend in the dark, called the sheriff’s office to ask for directions, and spent the night in Mud Creek Canyon before being rescued the next morning by Forest Service rangers and volunteers. While it’s not clear whether Gemini can take all the blame for these bad decisions, the sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required, especially when their planned 8-hour ascent became a multiday ordeal.” “It is always advisable to call the local USFS Mount Shasta ranger station ahead of your trip to ensure you have the most accurate information, and to never rely solely on AI for your trip planning,” the sheriff’s office said.",
     "article_link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "scraped_at": "2026-09-06T04:14:06.575993"
+    "scraped_at": "2026-09-06T10:44:20.511091"
   },
   {
     "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum. The company also said it’s “past time” to “define standards” around how it shares information around incidents where its technology behaves in unexpected ways. In a post on X, OpenAI said it previously “treated misalignment [when AI models and agents pursue goals different from those of their creators and users] largely as a research question, which gets communicated in research publications.” But as misalignment has “caused new types of real-world impact,” the company said its approach needs “to expand for this new phase of model capabilities.” On Friday, Reuters reported that OpenAI agents had escaped from their testing environment and “hijacked” an obscure German wiki forum, turning it into a message board for other agents. It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate incident where OpenAI agents hacked Hugging Face servers. (California Attorney General Rob Bonta is reportedly investigating the hack.) A company spokesperson told Reuters that OpenAI could not “meaningfully respond to claims or findings on a report that we have not had an opportunity to review,” but they insisted that the company’s legal team had not discouraged an investigation. In its more recent social media post, OpenAI said it had considered the “wiki incident” to be “an instance of misalignment similar” to others that it had already shared. The company contrasted this with “the Hugging Face incident,” where it “followed a traditional security incident response playbook.” During a media briefing this week, Jacob Steinhardt, founder and CEO of nonprofit research lab Transluce, told reporters that the tools being developed and tested by AI labs are “fundamentally difficult to control and have significant risk of leaking out of the lab.” So Steinhardt argued, “We need to hold this ",
     "article_link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "scraped_at": "2026-09-06T04:14:08.419001"
+    "scraped_at": "2026-09-06T10:44:22.037507"
   },
   {
     "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "scraped_at": "2026-09-06T04:14:08.421012"
+    "scraped_at": "2026-09-06T10:44:22.039567"
   },
   {
     "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "scraped_at": "2026-09-06T04:14:08.422648"
+    "scraped_at": "2026-09-06T10:44:22.041152"
   },
   {
     "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "scraped_at": "2026-09-06T04:14:08.424346"
+    "scraped_at": "2026-09-06T10:44:22.042798"
   },
   {
     "headline": "What will Apple’s John Ternus era look like?",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "scraped_at": "2026-09-06T04:14:08.426140"
+    "scraped_at": "2026-09-06T10:44:22.044613"
   },
   {
     "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "scraped_at": "2026-09-06T04:14:08.427728"
+    "scraped_at": "2026-09-06T10:44:22.046217"
   },
   {
     "headline": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "scraped_at": "2026-09-06T04:14:08.430164"
+    "scraped_at": "2026-09-06T10:44:22.048563"
   },
   {
     "headline": "Google’s Gemini Spark can now manage your Google Photos library",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "scraped_at": "2026-09-06T04:14:08.431763"
+    "scraped_at": "2026-09-06T10:44:22.050181"
   }
 ]
