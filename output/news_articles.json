@@ -1,12 +1,21 @@
 [
   {
+    "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "author": "Anthony Ha",
+    "date_time": "2026-09-06T13:47:37-07:00",
+    "summary": "N/A",
+    "content": "Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. Anthropic settled a copyright class action suit last year, after a judge ruled that training AI models on copyrighted material is legal under fair use doctrine, but pirating that material was not. The deal received final approval in July, allowing the payments to move forward. Under the terms of the settlement, the authors of nearly 500,000 titles will be paid $3,000 for each pirated work. If the book is still in-print with a traditional publisher, the money will be split 50-50 between author and publisher. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out-of-print, then the author should get the entire payment. But writers have been posting on social media that publishers seem to be claiming more than their fair share of some payments. For example, mystery and thriller author April Henry asked, “WTF is HarperCollins playing at? They claimed one of my books on the Anthropic Settlement that reverted back at least 17 years ago AND on the same day I got a credit alert saying they had been added as my employer! (which they never were).” At the popular blog Writers Beware, Victoria Strauss wrote that she’s been receiving author complaints that fall into two broad categories: one where publishers are seeking payment for works that they no longer have a legitimate claim on (because the rights have reverted), and another where publishers are seeking a full 100% payment when they’re only entitled to 50%. In both cases, Strauss said she’s “reluctant to attribute to malice what can be plausibly explained by poor recordkeeping” — and she noted that some publishers have already said this is a mistake that they’ve asked Anthropic to fix. Similarly, Authors Guild CEO Mary Rasenberger told The New York Times that s",
+    "article_link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "scraped_at": "2026-09-07T04:13:18.031162"
+  },
+  {
     "headline": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
     "author": "Anthony Ha",
     "date_time": "2026-09-06T09:45:00-07:00",
     "summary": "N/A",
     "content": "Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz. But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do. Now a story in the Financial Times offers more details about Atoms’ goals. The startup is reportedly preparing for a hiring spree, as well as acquisitions, that could make it a major player in the autonomous vehicle industry. In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. (Uber has already partnered with a long list of autonomous vehicle companies.) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch. While sources emphasized that robotaxis don’t represent the entirety of Atoms’ plans, this direction seems consistent with Kalanick’s description of the round as “unfinished business.” It also fits with Atoms’ acquisition of Pronto, an autonomous mining startup led by Uber’s former self-driving chief Anthony Levandowski. (Levandowski was convicted of stealing trade secrets and sentenced to 18 months in prison, but was then pardoned by President Donald Trump.)",
     "article_link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "scraped_at": "2026-09-06T20:17:34.725431"
+    "scraped_at": "2026-09-07T04:13:19.692324"
   },
   {
     "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI. A lawsuit filed by The Seattle Times and Newsday argued that with the advent of AI, the journalism industry could become “broken beyond repair.” The lawsuit described generative AI as “a snake eating its own tail” that could “destroy the very organizations” that produce the content it’s trained on. “AI products like ChatGPT and CoPilot are touted as producers of content, but in fact they are rapacious consumers, devouring human-authored content and delivering back to the world copies and derivative imitations of that same original content they consumed to achieve their commercial objectives,” the lawsuit said. Back in 2023, The New York Times sued OpenAI and its partner/investor Microsoft over alleged copyright infringement; other publications have followed suit as the case continued. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships. A Microsoft spokesperson told GeekWire that the company is “surprised by the lawsuit” but is “always happy to sit down and explore solutions to this type of dispute.”",
     "article_link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "scraped_at": "2026-09-06T20:17:35.932960"
+    "scraped_at": "2026-09-07T04:13:21.388519"
   },
   {
     "headline": "Hikers rescued after using Google Gemini for planning",
     "author": "Anthony Ha",
     "date_time": "2026-09-05T12:35:24-07:00",
     "summary": "N/A",
-    "content": "Three hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune. A report from the Siskiyou County sheriff’s office said that three young men set off on their hike at 3am and — although hikers are told to turn around if they haven’t reached the summit by noon — they made it to the top at 7pm. The trio then tried to descend in the dark, called the sheriff’s office to ask for directions, and spent the night in Mud Creek Canyon before being rescued the next morning by Forest Service rangers and volunteers. While it’s not clear whether Gemini can take all the blame for these bad decisions, the sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required, especially when their planned 8-hour ascent became a multiday ordeal.” “It is always advisable to call the local USFS Mount Shasta ranger station ahead of your trip to ensure you have the most accurate information, and to never rely solely on AI for your trip planning,” the sheriff’s office said.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "scraped_at": "2026-09-06T20:17:37.458526"
+    "scraped_at": "2026-09-07T04:13:21.390970"
   },
   {
     "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "scraped_at": "2026-09-06T20:17:37.460485"
+    "scraped_at": "2026-09-07T04:13:21.392571"
   },
   {
     "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "scraped_at": "2026-09-06T20:17:37.461787"
+    "scraped_at": "2026-09-07T04:13:21.394154"
   },
   {
     "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "scraped_at": "2026-09-06T20:17:37.462922"
+    "scraped_at": "2026-09-07T04:13:21.395752"
   },
   {
     "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "scraped_at": "2026-09-06T20:17:37.464094"
+    "scraped_at": "2026-09-07T04:13:21.397377"
   },
   {
     "headline": "What will Apple’s John Ternus era look like?",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "scraped_at": "2026-09-06T20:17:37.465328"
+    "scraped_at": "2026-09-07T04:13:21.399106"
   },
   {
     "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "scraped_at": "2026-09-06T20:17:37.466455"
-  },
-  {
-    "headline": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "author": "Theresa Loconsolo\nKirsten Korosec\nSean O'Kane",
-    "date_time": "2026-09-04T09:04:08-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "scraped_at": "2026-09-06T20:17:37.468112"
+    "scraped_at": "2026-09-07T04:13:21.400678"
   }
 ]
