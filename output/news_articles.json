@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "AI is rewriting the world and, at the same time, inventing a whole new language to describe how it’s doing it. Sit in on any product meeting, pitch, or panel these days, and you’ll hear people toss around LLMs, RAG, RLHF — and, as of last week, terms like “opaque recurrence,” the reasoning technique in OpenAI’s new Astra model that’s got AI safety researchers rattled. The vocabulary moves fast enough to make even very smart people in the tech world feel a little insecure. This glossary is our attempt to fix that: plain-English definitions of the AI terms you’re most likely to see, whether you’re building with this stuff, investing in it, or just trying to keep up by reading TechCrunch or listening to related podcasts. We update it regularly as the field evolves, so consider it a living document, much like the AI systems it describes. Artificial general intelligence, or AGI, is a nebulous term. But it generally refers to AI that’s more capable than the average human at many, if not most, tasks. OpenAI CEO Sam Altman once described AGI as the “equivalent of a median human that you could hire as a co-worker.” Meanwhile, OpenAI’s charter defines AGI as “highly autonomous systems that outperform humans at most economically valuable work.” Google DeepMind’s understanding differs slightly from these two definitions; the lab views AGI as “AI that’s at least as capable as humans at most cognitive tasks.” Confused? Not to worry — so are experts at the forefront of AI research. An AI agent refers to a tool that uses AI technologies to perform a series of tasks on your behalf — beyond what a more basic AI chatbot could do — such as filing expenses, booking tickets or a table at a restaurant, or even writing and maintaining code. However, as we’ve explained before, there are lots of moving pieces in this emergent space, so “AI agent” might mean different things to different people. Infrastructure is also still being built out to deliver on its envisaged capabilities. But the bas",
     "article_link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "scraped_at": "2026-09-08T04:14:14.960787"
+    "scraped_at": "2026-09-08T11:03:40.066833"
   },
   {
     "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. Anthropic settled a copyright class action suit last year, after a judge ruled that training AI models on copyrighted material is legal under fair use doctrine, but pirating that material was not. The deal received final approval in July, allowing the payments to move forward. Under the terms of the settlement, the authors of nearly 500,000 titles will be paid $3,000 for each pirated work. If the book is still in print with a traditional publisher, the money will be split 50-50 between author and publisher. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out of print, then the author should get the entire payment. But writers have been posting on social media that publishers seem to be claiming more than their fair share of some payments. For example, mystery and thriller author April Henry asked, “WTF is HarperCollins playing at? They claimed one of my books on the Anthropic Settlement that reverted back at least 17 years ago AND on the same day I got a credit alert saying they had been added as my employer! (which they never were).” At the popular blog Writers Beware, Victoria Strauss wrote that she’s been receiving author complaints that fall into two broad categories: one where publishers are seeking payment for works that they no longer have a legitimate claim on (because the rights have reverted), and another where publishers are seeking a full 100% payment when they’re only entitled to 50%. In both cases, Strauss said she’s “reluctant to attribute to malice what can be plausibly explained by poor recordkeeping” — and she noted that some publishers have already said this is a mistake that they’ve asked Anthropic to fix. Similarly, Authors Guild CEO Mary Rasenberger told The New York Times that s",
     "article_link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "scraped_at": "2026-09-08T04:14:16.081078"
+    "scraped_at": "2026-09-08T11:03:41.464003"
   },
   {
     "headline": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz. But even after raising that mega-round, the Uber founder remained a bit cagey about what he was actually aiming to do. Now a story in the Financial Times offers more details about Atoms’ goals. The startup is reportedly preparing for a hiring spree, as well as acquisitions, that could make it a major player in the autonomous vehicle industry. In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. (Uber has already partnered with a long list of autonomous vehicle companies.) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch. While sources emphasized that robotaxis don’t represent the entirety of Atoms’ plans, this direction seems consistent with Kalanick’s description of the round as “unfinished business.” It also fits with Atoms’ acquisition of Pronto, an autonomous mining startup led by Uber’s former self-driving chief Anthony Levandowski. (Levandowski was convicted of stealing trade secrets and sentenced to 18 months in prison but was pardoned by President Donald Trump.)",
     "article_link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "scraped_at": "2026-09-08T04:14:18.161100"
+    "scraped_at": "2026-09-08T11:03:43.502389"
   },
   {
     "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "scraped_at": "2026-09-08T04:14:18.163332"
+    "scraped_at": "2026-09-08T11:03:43.505047"
   },
   {
     "headline": "Hikers rescued after using Google Gemini for planning",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "scraped_at": "2026-09-08T04:14:18.164976"
+    "scraped_at": "2026-09-08T11:03:43.506683"
   },
   {
     "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "scraped_at": "2026-09-08T04:14:18.166590"
+    "scraped_at": "2026-09-08T11:03:43.508345"
   },
   {
     "headline": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "scraped_at": "2026-09-08T04:14:18.168209"
+    "scraped_at": "2026-09-08T11:03:43.509946"
   },
   {
     "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "scraped_at": "2026-09-08T04:14:18.169840"
+    "scraped_at": "2026-09-08T11:03:43.511519"
   },
   {
     "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "scraped_at": "2026-09-08T04:14:18.171496"
+    "scraped_at": "2026-09-08T11:03:43.513136"
   },
   {
     "headline": "What will Apple’s John Ternus era look like?",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "scraped_at": "2026-09-08T04:14:18.173264"
+    "scraped_at": "2026-09-08T11:03:43.514882"
   }
 ]
