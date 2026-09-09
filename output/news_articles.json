@@ -6,16 +6,16 @@
     "summary": "N/A",
     "content": "October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. SVP, Devices, Alexa & Leo\nAmazon What Comes After the Smartphone?",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-09T04:20:20.140744"
+    "scraped_at": "2026-09-09T11:08:26.460093"
   },
   {
     "headline": "Hackers are stealing Claude tokens from subscribers",
     "author": "Julie Bort",
     "date_time": "2026-09-08T14:10:27-07:00",
     "summary": "N/A",
-    "content": "On August 4, Grant De Swardt, an independent AI consultant in East Sussex, U.K., noticed something strange going on with his Claude Max 20x account. He hadn’t been working that day, yet his token usage was climbing. The next day, he disabled everything he had attached to Claude and did not work with it. Token consumption again increased. “In the clearest controlled interval, it increased from 45% to 55% while I performed no work, scheduled Cowork tasks were paused or completed, Dispatch/cloud execution was disabled, and there was no corresponding active local Claude Code task,” De Swardt told TechCrunch. What was eating up his token allowance? He had no idea, so he contacted Anthropic and asked for an itemized list. Anthropic didn’t provide one, but it agreed something was off. It suspended his paid account, invalidated all of his sessions and server-side Claude Code tokens, and issued him a partial refund of £44.49 for the remaining time on his $200-per-month subscription. The suspension wreaked havok on his business, he told TechCrunch. His job is to help small and mid-size businesses set up agents — a sort of forward-deployed engineer for hire — for tasks like automatically loading purchase-order data from emails into the accounting software. As a sole proprietor, he relies on agents throughout his whole business, too: daily admin tasks, website design, coding. “Like everything is just running through AI these days,” he said. After investigating, Anthropic told De Swardt it found the culprit: A compromised Claude session key was used to mint unauthorized Claude Code OAuth tokens. The company told him the account “appeared to have been used by an unauthorized-looking third-party service to handle activity for other people, but they could not determine how it obtained access,” he told TechCrunch. “They say the evidence is consistent either with credentials/session data being taken without my knowledge, or with the account having been connected to an outside service",
+    "content": "On August 4, Grant De Swardt, an independent AI consultant in East Sussex, U.K., noticed something strange going on with his Claude Max 20x account. He hadn’t been working that day, yet his token usage was climbing. The next day, he disabled everything he had attached to Claude and did not work with it. Token consumption again increased. “In the clearest controlled interval, it increased from 45% to 55% while I performed no work, scheduled Cowork tasks were paused or completed, Dispatch/cloud execution was disabled, and there was no corresponding active local Claude Code task,” De Swardt told TechCrunch. What was eating up his token allowance? He had no idea, so he contacted Anthropic and asked for an itemized list. Anthropic didn’t provide one, but it agreed something was off. It suspended his paid account, invalidated all of his sessions and server-side Claude Code tokens, and issued him a partial refund of £44.49 for the remaining time on his $200-per-month subscription. The suspension wreaked havoc on his business, he told TechCrunch. His job is to help small and mid-size businesses set up agents — a sort of forward-deployed engineer for hire — for tasks like automatically loading purchase-order data from emails into the accounting software. As a sole proprietor, he relies on agents throughout his whole business, too: daily admin tasks, website design, coding. “Like everything is just running through AI these days,” he said. After investigating, Anthropic told De Swardt it found the culprit: A compromised Claude session key was used to mint unauthorized Claude Code OAuth tokens. The company told him the account “appeared to have been used by an unauthorized-looking third-party service to handle activity for other people, but they could not determine how it obtained access,” he told TechCrunch. “They say the evidence is consistent either with credentials/session data being taken without my knowledge, or with the account having been connected to an outside service",
     "article_link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "scraped_at": "2026-09-09T04:20:21.825544"
+    "scraped_at": "2026-09-09T11:08:27.919480"
   },
   {
     "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Cognition, the startup developing coding assistant Devin, announced it raised $2 billion at a $48 billion valuation. The round, which comes just four months after Cognition’s previous fundraise at a $26 billion valuation, was led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst, and Avenir. The startup’s soaring valuation signals that VCs still see room for multiple major players to capture meaningful market share in AI coding, one of the technology’s most significant applications. Cognition said that since announcing its last fundraise in May, its annualized run-rate revenue has grown from $492 million to $900 million. While the startup didn’t explain how it calculates that run-rate revenue, the metric is usually defined as a month’s top line multiplied by 12. Cursor, another popular coding assistant, was in talks in April to raise capital at a $50 billion valuation before agreeing to sell to SpaceX for $60 billion later that month. At the time of the funding talks, Cursor’s annualized revenue had surpassed $2 billion. This means Cognition currently commands a higher revenue multiple than Cursor did in the spring. Cursor ultimately sold to SpaceX largely because it was severely compute-constrained, according to investors familiar with its financials. It is unclear whether Cognition will face similar compute shortages. Cognition leases an Nvidia server cluster that costs hundreds of millions of dollars annually, which could push its total cash burn to $800 million this year, The Information reported. Like Cursor did before joining SpaceX, Cognition is training its own model based on open source alternatives. Over time, reducing its reliance on expensive third-party models from OpenAI and Anthropic will help cut costs and bring the company closer to breakeven. Cognition is expected to reach $4 billion to $5 billion in annualized revenue by the end of 2026, according to The Information. By comparison, TechCrunch reported in the spring that Cursor was on ",
     "article_link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "scraped_at": "2026-09-09T04:20:23.590222"
+    "scraped_at": "2026-09-09T11:08:29.665284"
   },
   {
     "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "scraped_at": "2026-09-09T04:20:23.592655"
+    "scraped_at": "2026-09-09T11:08:29.667657"
   },
   {
     "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "scraped_at": "2026-09-09T04:20:23.594305"
+    "scraped_at": "2026-09-09T11:08:29.669271"
   },
   {
     "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "scraped_at": "2026-09-09T04:20:23.595917"
+    "scraped_at": "2026-09-09T11:08:29.670925"
   },
   {
     "headline": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "scraped_at": "2026-09-09T04:20:23.597528"
+    "scraped_at": "2026-09-09T11:08:29.672533"
   },
   {
     "headline": "Mistral raises €3B as sovereign AI becomes big business",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "scraped_at": "2026-09-09T04:20:23.599135"
+    "scraped_at": "2026-09-09T11:08:29.674143"
   },
   {
     "headline": "Opaque recurrence, and other AI terms that you should probably know",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "scraped_at": "2026-09-09T04:20:23.601532"
+    "scraped_at": "2026-09-09T11:08:29.676483"
   },
   {
     "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "scraped_at": "2026-09-09T04:20:23.603261"
+    "scraped_at": "2026-09-09T11:08:29.678052"
   }
 ]
