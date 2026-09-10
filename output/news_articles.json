@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Listen Labs, a market research startup that uses voice AI to conduct customer interviews, recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation, with Menlo Ventures set to lead the round, according to several people with knowledge of the matter. But that round never closed, the people said. Listen Labs walked away from the signed term sheet, a rare occurrence in the venture world and one that is generally frowned upon, according to VCs. The financing likely collapsed because of acquisition talks with Salesforce. The CRM giant has recently held talks to buy Listen Labs for around $2 billion, Business Insider reported. The discussions are not finalized, however, and may not result in a deal, the outlet notes. Listen Labs is one of the leading startups in the rapidly growing field of automating customer research with AI. The three-year-old startup has about $30 million in annualized revenue, about three times more than Simile, a competing startup that predicts human behavior, according to two people familiar with the companies’ financials. In late July, Simile announced that it had closed a $200 million Series B at a $2 billion valuation led by Greenoaks — likely setting a new valuation benchmark for Listen Labs, one person said. If talks with Salesforce collapse, several VCs told TechCrunch that they expect Listen Labs to return to market and target a valuation of $2 billion or higher. While acquiring Listen Labs could strengthen Salesforce’s AI capabilities by using the startup’s AI to help predict customer needs, the CRM giant may ultimately decide that paying a 67 times revenue multiple is too steep a valuation, according to a person with experience negotiating exits to Salesforce. Listen Labs, Salesforce, Menlo Ventures, and Simile did not immediately respond to requests for comment. Listen Labs was co-founded in 2023 by Florian Jüngermann, a former German national champion in competitive computer programming, and Alfred Wahlforss, w",
     "article_link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "scraped_at": "2026-09-10T04:17:36.158767"
+    "scraped_at": "2026-09-10T11:04:47.074146"
   },
   {
     "headline": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Paul Christiano, an influential AI researcher focused on keeping AI systems aligned with human interests and under human control, is joining the OpenAI Foundation board, the frontier lab said Wednesday. “I now believe there is a meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss of control in the very near term,” Christiano wrote in a social media post. “I do not think that the AI industry in general, including OpenAI, is currently on track to reduce this risk to an acceptable level. I’m joining because I believe that if OpenAI rises to the occasion we could significantly reduce risk.” Christiano wrote that using AI models to train subsequent AI systems could result in an explosion of capabilities that their creators can’t control. He joins the board as OpenAI faces renewed scrutiny over its safety procedures, following a series of incidents in which AI agents broke out of restraints and penetrated outside computer systems without the knowledge of OpenAI’s researchers. On Tuesday, Anthropic researcher Jacob Coxon resigned his position to call attention to what he considers irresponsible AI development — and it seems to have worked. Christiano will join the board’s Safety and Security Committee, led by Carnegie Mellon University professor Zico Kolter. The committee has the final say on whether OpenAI releases new models, like Astra, which was deployed last week. Kolter has not commented publicly on the recent security incidents. OpenAI has not responded to TechCrunch’s request for Kolter’s perspective on the company’s approach to safety following those incidents. Christiano is one of the people behind reinforcement learning (RL) from human feedback, a key technique for training large language models that he developed while working at OpenAI. He left the lab in 2021, subsequently founding the Alignment Research Center to focus on how to determine if an AI model could threaten its human creators. “We currently train o",
     "article_link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "scraped_at": "2026-09-10T04:17:37.911374"
+    "scraped_at": "2026-09-10T11:04:48.984908"
   },
   {
     "headline": "Massachusetts hits data centers with new clean power rules",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Massachusetts became the latest state to force data centers to bring their own power, but this time there’s a twist. A new state mandate would require developers building data centers larger than 25 megawatts to provide clean power or pay into a ratepayer protection fund. Gov. Maura Healey’s executive order is the latest example of states turning against data centers. Just a few years ago, tech companies and data center developers were showered with incentives to locate facilities in a particular state. Now they’re fighting a groundswell of public opposition as politicians seek to show voters they’re addressing their concerns. Under Healey’s order, data centers larger than 25 megawatts of peak demand will have to bring their own power and guarantee that it adheres to the state’s clean energy requirements. Healey would prefer that they generate the clean power on-site, too. If not, they’ll need to fund the construction of new generation nearby or pay into a ratepayer protection fund. Massachusetts is also directing communities to “avoid signing non-disclosure agreements,” according to the executive order. To give regulators time to implement the new restrictions, the governor is pausing applications for a data center sales tax exemption that went into effect last month. Healey said data centers must meet the Massachusetts clean energy standard enshrined in state law, although it comes with some added strength. The state’s clean energy standard dictates that industry only generate a portion of their power using approved sources like wind, solar, and hydro. In 2030, for example, those sources must contribute at least 40% of the total. The amount varies by year, and it ratchets up over time. But the governor’s office clarified that data centers will be required to meet 100% of its electricity demand with clean energy generation. With the new restrictions, Massachusetts becomes the third state in as many months to rein in data center development. In August, Texas governo",
     "article_link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "scraped_at": "2026-09-10T04:17:39.963516"
+    "scraped_at": "2026-09-10T11:04:50.667499"
   },
   {
     "headline": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "scraped_at": "2026-09-10T04:17:39.965412"
+    "scraped_at": "2026-09-10T11:04:50.669585"
   },
   {
     "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "scraped_at": "2026-09-10T04:17:39.966582"
+    "scraped_at": "2026-09-10T11:04:50.671181"
   },
   {
     "headline": "The hinge for Apple’s new foldable phone was built with AI",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "scraped_at": "2026-09-10T04:17:39.967970"
+    "scraped_at": "2026-09-10T11:04:50.672819"
   },
   {
     "headline": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "scraped_at": "2026-09-10T04:17:39.969125"
+    "scraped_at": "2026-09-10T11:04:50.674448"
   },
   {
     "headline": "Apple has a new way to prove your iPhone photos aren’t AI slop",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "scraped_at": "2026-09-10T04:17:39.970274"
+    "scraped_at": "2026-09-10T11:04:50.676035"
   },
   {
     "headline": "Apple CEO John Ternus says the best AI device is still the iPhone",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "scraped_at": "2026-09-10T04:17:39.971403"
+    "scraped_at": "2026-09-10T11:04:50.677618"
   },
   {
     "headline": "Superintelligence is coming. Should we let it?",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "scraped_at": "2026-09-10T04:17:39.972720"
+    "scraped_at": "2026-09-10T11:04:50.679525"
   }
 ]
