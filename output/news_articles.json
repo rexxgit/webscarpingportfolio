@@ -1,30 +1,66 @@
 [
   {
+    "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "author": "Julie Bort",
+    "date_time": "2026-09-10T14:51:59-07:00",
+    "summary": "N/A",
+    "content": "Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of next year. There’s been endless hand-wringing over whether Nvidia’s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own), as well as from newly public competitor Cerebras and startups such as Etched. “Most people think Nvidia builds a chip. I mean, you need airplanes to ship what we build,” Huang said, adding that the company continues to battle a perception from its early days. Nvidia invented the GPU, which back then were largely sold to consumers to improve PC gaming. “One GPU now is not $399. It’s $8.5 million dollars. That’s one GPU, all connected with NVLink, 2 million parts, right? 250,000 kilowatts. That’s a GPU, and we ship thousands of them.” He added that orders for just one product, a computer system that combines 36 Grace CPUs with 72 Blackwell GPUs, is currently experiencing 27% month-to-month sales growth. Huang didn’t limit his bullish view to current sales though. He took the opportunity to reiterate Nvidia’s revenue outlook for next year — guidance the company provided last month when it reported yet another record-breaking revenue quarter. That’s when he first said revenue could grow by 70% next year. “I think we could grow 70% year over year. We’re confident about that,” Huang said again on Thursday. Analysts expect the company to end its current fiscal year at about $400 billion in revenue. So 70% growth would mean around $680 billion next year. Huang explained why he’s confident: His company is so embedded in every area of AI that he believes he can see the future. “Nvidia runs every model. Every single lab can u",
+    "article_link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "scraped_at": "2026-09-11T04:17:04.190816"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-10T14:35:00-07:00",
+    "summary": "N/A",
+    "content": "October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. CEO and Co-founder\nCerebras Systems AI, Surveillance, and the Future of Public Safety",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-11T04:17:06.272306"
+  },
+  {
+    "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "author": "Sarah Perez",
+    "date_time": "2026-09-10T13:59:51-07:00",
+    "summary": "N/A",
+    "content": "Demand for OpenAI’s newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure. The move was announced on X by OpenAI’s product leader, Thibault (Tibo) Sottiaux, who leads core products like Codex and ChatGPT at the AI lab. He said that the Pro plan puts the most strain on its systems, which is why sign-ups for this service tier are now being disabled. “We wanted to take the smallest step that allows us to continue giving the broadest access possible,” Sottiaux wrote. He added that the company’s other plans, including the API and lower-cost Go and Plus plans, remain available. The company warned on Wednesday that such a change might come. At the time, Sottiaux wrote, “Demand for Astra is really unprecedented. We’re pulling all the levers possible to sustain the demand, but I’ve not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.” OpenAI hasn’t said how long sign-ups to the Pro tier may be disabled, or how many people are signing up daily, to give an idea of the scale of the demand. The company raised usage limits for Codex users as recently as last month, suggesting the strain is a recent phenomenon. Launched on September 3, Astra has been rolling out across OpenAI’s plans, including Pro, Plus, Enterprise, and Business accounts, in addition to its AI. The model promises a major leap forward in areas like AI reasoning, coding, and computer use — all areas of steep competition. OpenAI even heralded Astra as the beginning of the “AGI era,” and a generational leap, stoking demand even more.",
+    "article_link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "scraped_at": "2026-09-11T04:17:08.306905"
+  },
+  {
+    "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "author": "Russell Brandom",
+    "date_time": "2026-09-10T13:57:30-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "scraped_at": "2026-09-11T04:17:08.309271"
+  },
+  {
     "headline": "Meta’s AI agent Muse is now the No. 2 app in the US",
     "author": "Sarah Perez",
     "date_time": "2026-09-10T12:50:04-07:00",
     "summary": "N/A",
-    "content": "Meta is beginning to win over Wall Street following Tuesday’s launch of its new AI app, Muse. The tech giant’s push into agentic AI is also a hot topic on X among industry players. Now, early numbers offer better insight into how popular Muse actually is among its target market of U.S. consumers. According to new data provided by the market intelligence firm Sensor Tower, Muse has been downloaded north of 83,000 times on iOS in the United States. (The app is currently limited to the U.S. for now.) While this pushed Muse into the No. 2 position on the App Store’s Top Charts, its launch pales when compared with other recent app debuts from Meta, like Threads and Meta AI, the data indicates. For instance, Threads was downloaded more than 4.3 million times in the U.S. on its launch day, and the Meta AI app saw 108,000 U.S. downloads during its debut. Muse is also further behind when compared with another notable consumer AI app’s launch: ChatGPT. In less than a week after its arrival, ChatGPT had topped half a million installs in the U.S., which was also its only market at the time. If that spread was divided evenly, that would mean ChatGPT was seeing an average of 83,300 downloads daily at its debut — a number that it took Muse twice the time to achieve. None of this necessarily means that the Muse launch is going poorly — it may just be taking off at a slightly slower pace. The app is still climbing the charts on iOS, having moved up from the fourth position on the U.S. App Store on Wednesday to now No. 2 as of today. Its Android counterpart, however, is faring less well. Muse has only achieved a rank of No. 338 in the Productivity category on Google Play’s app marketplace. (Its Android download numbers aren’t yet available.) Muse is also available via the web and through WhatsApp, neither of which are being counted in these estimates. Still, Muse’s numbers, while early, are worth watching as the app represents one of Meta’s bigger bets to date. In short, the company ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "scraped_at": "2026-09-10T20:44:43.527301"
+    "scraped_at": "2026-09-11T04:17:08.310875"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-09-10T11:00:00-07:00",
     "summary": "N/A",
-    "content": "October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future. CEO and Co-founder\nCerebras Systems AI, Surveillance, and the Future of Public Safety",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-10T20:44:45.050423"
+    "scraped_at": "2026-09-11T04:17:08.312473"
   },
   {
     "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
     "author": "Tim Fernholz",
     "date_time": "2026-09-10T10:54:44-07:00",
     "summary": "N/A",
-    "content": "Anthropic’s latest report about agentic misbehavior offers plenty to be concerned about — its Mythos 5 model gained unauthorized access to the internet and uploaded a malicious software package to a public database — but it also offers some levity: AI agents hate CAPTCHA. In April, Anthropic was testing the model’s hacking abilities by tasking it to break into a system and retrieve a target; this was supposed to take place in a sandbox but the evaluators left the barn door open. The model decided the best way to get its target would be to place an exploit in a Python package that it believed users of the system it wanted to access would download. First, though, it had to register a user account for PyPI, an online index of Python software. And that meant getting by a CAPTCHA — a Completely Automated Public Turing test to tell Computers and Humans Apart, those picture-identifying mosaics that can frustrate even biological agents. And because Anthropic shared an extensive transcript of the model’s chain of thought, we can see that the CAPTCHA test really did throw it for a loop. In fact, most of the model’s chain of thought — hundreds of pages in the 1,022-page transcript — was spent dealing with that obstacle. The sheer amount of effort directed at getting around anti-bot protections was flagged by Colin Fraser, a data scientist. Writing the exploit and poisoning the package was easy, but it just could not get the hang of this CAPTCHA test. 1. There’s a “Please confirm that your email address is …” modal with Confirm/Cancel buttons — a confirm dialed appeared on submit. 2. There’s an hCaptcha “I am human” checkbox at the bottom! The agent (wondering frequently if it is still in a simulation) figures out a workflow to activate the CAPTCHA and meet its requirements. After clicking the “I’m human” button, it was faced with an image to read. Now the POST triggered a **Fastly image CAPTCHA**: “Enter the characters seen in the image below” — the image shows characters: V y",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "scraped_at": "2026-09-10T20:44:47.070160"
+    "scraped_at": "2026-09-11T04:17:08.314028"
   },
   {
     "headline": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "scraped_at": "2026-09-10T20:44:47.072264"
+    "scraped_at": "2026-09-11T04:17:08.315620"
   },
   {
     "headline": "AI agents are flooding public services with new requests",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "scraped_at": "2026-09-10T20:44:47.073769"
+    "scraped_at": "2026-09-11T04:17:08.317176"
   },
   {
     "headline": "Maven Robotics wants to steal your robot deployment deal",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "scraped_at": "2026-09-10T20:44:47.075258"
-  },
-  {
-    "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "author": "Marina Temkin",
-    "date_time": "2026-09-09T17:00:37-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "scraped_at": "2026-09-10T20:44:47.080570"
-  },
-  {
-    "headline": "OpenAI adds a prominent AI doomer to its board of directors",
-    "author": "Tim Fernholz",
-    "date_time": "2026-09-09T15:25:22-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "scraped_at": "2026-09-10T20:44:47.082105"
-  },
-  {
-    "headline": "Massachusetts hits data centers with new clean power rules",
-    "author": "Tim De Chant",
-    "date_time": "2026-09-09T14:43:34-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "scraped_at": "2026-09-10T20:44:47.083567"
-  },
-  {
-    "headline": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "author": "Sarah Perez",
-    "date_time": "2026-09-09T13:24:48-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "scraped_at": "2026-09-10T20:44:47.085003"
+    "scraped_at": "2026-09-11T04:17:08.318744"
   }
 ]
