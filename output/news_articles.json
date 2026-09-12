@@ -1,30 +1,48 @@
 [
   {
+    "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "author": "Anthony Ha",
+    "date_time": "2026-09-12T13:19:16-07:00",
+    "summary": "N/A",
+    "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack, as well as broader discussions about AI safety, Shontell asked whether OpenAI still feels pressure to “move really fast” due to its IPO plans. “We’re not rushing into an IPO,” Altman said. “I actually think that given everything happening with safety, right now would be an ill-advised moment to go public.” Instead, he insisted that OpenAI will go public “when we’re ready, which is when the business is ready, when we feel ready from what the moment is like in society with this technology.” When pressed on whether that means the IPO isn’t happening in 2026, Altman replied, “I would say not 2026, yeah. We’ve got a lot of stuff to do.” The New York Times reported in June that although OpenAI had hired bankers and lawyers with the goal of going public in the third or fourth quarter of 2026, the company was leaning toward 2027 due to the volatility of tech stocks and its own financial challenges.",
+    "article_link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "scraped_at": "2026-09-12T20:26:55.601561"
+  },
+  {
+    "headline": "Anthropic CEO outlines plan to slow AI development",
+    "author": "Anthony Ha",
+    "date_time": "2026-09-12T12:34:44-07:00",
+    "summary": "N/A",
+    "content": "We’ve been seeing increasingly dire warnings from AI researchers about the dangers of artificial intelligence, and even comments from OpenAI CEO Sam Altman that it may be time to “pace” AI development. But what would that actually look like? In a new blog post, Anthropic CEO Dario Amodei not only echoed the call to “pace the frontier,” but also outlined three broad strategies for doing so. And he said Anthropic is “unilaterally committing” to one of them, with Altman chiming in to say OpenAI will follow suit. The debate over AI safety and alignment intensified this week after researcher Jacob Coxon wrote that he’s resigning from Anthropic over concerns that the leading AI companies are “gambling with our lives” while the people building the technology “earnestly believe it could kill us all by the end of the decade,” a claim repeated by others at Anthropic. Amodei’s post doesn’t didn’t explicitly mention Coxon’s resignation or his concerns, but the CEO wrote that two things convinced him it’s time to take a more cautious approach to AI development: the OpenAI-HuggingFace hack, and the fact that “AI has been advancing drastically faster” in recent months, particularly with its “growing ability to build the next generation of AI.” “We must slow the pace at which we improve the capabilities of AI models,” Amodei wrote. “Progress will still seem fast, and we must make wise use of the time we gain.” Other AI executives seem to have reacted positively to Amodei’s post, with Altman writing, “I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we’ve had at OpenAI in recent weeks.” And SpaceX CEO Elon Musk posted, “Dario is right.” Amodei’s proposed first step would involve “embedded evaluators” from third-party organizations like METR — evaluators who can verify that AI companies are actually following their pacing and safety commitments and can also ensure that safety incidents get reported. (OpenAI was recently criticized for",
+    "article_link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "scraped_at": "2026-09-12T20:26:56.859388"
+  },
+  {
     "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "author": "Marina Temkin",
     "date_time": "2026-09-11T15:58:17-07:00",
     "summary": "N/A",
     "content": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal. The new financing comes just three months after Mecka announced that it raised $60 million in a round led by Framework Ventures that included participation from Menlo Ventures, SV Angel, and Kindred Ventures. TechCrunch has not learned the precise size of the new round. The terms of the deal are not final and could still change. Mecka AI didn’t respond to a request for comment. Sequoia declined to comment. Mecka AI was co-founded in 2024 by four entrepreneurs, including Canadians Josh Gao and Mogen Cheng, who previously built a restaurant fintech startup, and Jason Chong, who joined Coinbase after it acquired his crypto exchange. Duy Nguyen, the only non-Canadian on the team, focuses on operations at Mecka. The four co-founders don’t have backgrounds in robotics. But they did recognize that there was a dearth of physical-world data and realized that capturing real-world interactions was the primary bottleneck holding back general-purpose robots, including humanoids. Mecka, which derives its name from “mecha,” a fictional giant robot controlled by humans, set out to do for robotics what Scale AI, Mercor, Surge, and other human data companies have done for LLMs. The startup pays people to record themselves performing everyday tasks — like making coffee or fixing cars — using body sensors and smartphones. As of early June, Mecka was projecting that it would end 2026 at an annual run rate of $100 million, Gao told Fortune when the startup announced its previous fundraise. While Mecka AI hasn’t publicly disclosed its customer list, many robotics companies and AI labs rely on real-world data captured through this “egocentric” approach, alongside other physical data collection methods like teleoperation, to build their models. Othe",
     "article_link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "scraped_at": "2026-09-12T15:24:48.219118"
+    "scraped_at": "2026-09-12T20:26:58.781857"
   },
   {
     "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "author": "Julie Bort",
     "date_time": "2026-09-11T13:59:47-07:00",
     "summary": "N/A",
-    "content": "When it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping regulators stay out of it. In fact, he thinks U.S. AI labs should perhaps play the same game. “I would do nothing,” he told CNBC in an interview earlier this week. “We could argue that there should be an American distillation regime.” He elaborated to TechCrunch that this means he wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese. Distillation is when a model maker extensively prompts another model in order to learn how it works and reasons. It is commonly, and legitimately, used by AI labs to help train new models. Anthropic this week released its second report alleging that Chinese labs are engaged in “illicit distillation attacks,” hiding their identities to distill without permission and relying on fraud and stolen credentials to do so. Anthropic CEO Dario Amodei had previously publicly called on U.S. regulators to crack down on distillation. It’s notable that the commander of Silicon Valley’s prestigious and prolific startup accelerator doesn’t agree. To be clear, Tan isn’t advocating for American AI labs to use stolen credentials to distill. He wants them to be free to come in the front door. In fact, his argument is twofold. He feels it’s an overreach for AI labs to dictate what their customers can do with the information their models share with them. He also notes that the proprietary AI labs didn’t ask permission when they vacuumed up as much human knowledge as they could to train their models. They famously ingested plenty of copyrighted material without the permission of those intellectual property holders. “Controlling what users and customers do with API calls to closed weight models feels constraining, and there’s a role government can play here to normalize the f",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "scraped_at": "2026-09-12T15:24:49.327193"
+    "scraped_at": "2026-09-12T20:26:58.784323"
   },
   {
     "headline": "OpenAI’s feud with mathematicians is only escalating",
     "author": "Tim Fernholz",
     "date_time": "2026-09-11T13:57:36-07:00",
     "summary": "N/A",
-    "content": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Each signatory has been awarded the Fields Medal, considered the most prestigious prize in mathematics. This week, NYU professor Tristan Buckmaster accused OpenAI of pressuring him not to credit a collaborator who works for Anthropic for solving an important math problem, and wondered if the company had used their work with Codex to produce its own groundbreaking proof over a marathon weekend of inference. On Thursday, OpenAI withdrew its sponsorship of a math event at CalTech after the company was criticized by researchers at the university. While the ability of AI models to solve the world’s outstanding mathematical challenges could be a boon to humanity, the signatories of the new letter argue that will only be the case if those solutions can be understood and communicated by the math community and, ultimately, the rest of the world. “Often these solutions are announced in a rush, leaving no time for a proper writeup, the isolation of new methods and ideas, and citing relevant previous work of others,” they wrote — and OpenAI’s proof remains unverified. “As in all creative professions, this raises severe attribution and plagiarism questions. Moreover, without the willing mathematicians who must take care of their development and integration into the mathematical canon, AI-conceived ideas would never become fully alive and the crucial human transmission chain between mathematicians would be lost.” With other mathematicians growing paranoid and wondering if their Codex use was in turn fed into OpenAI’s new models, there is real fear that the culture of open research will be threatened. Today, if frontier labs see a useful path to a discovery, they can spend tens of millions of dollars using LLMs to beat the original researchers to a proof — a dynamic that will incentivize secr",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "scraped_at": "2026-09-12T15:24:50.525016"
+    "scraped_at": "2026-09-12T20:26:58.786078"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-12T15:24:50.527177"
+    "scraped_at": "2026-09-12T20:26:58.787728"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-12T15:24:50.528565"
+    "scraped_at": "2026-09-12T20:26:58.789319"
   },
   {
     "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "scraped_at": "2026-09-12T15:24:50.529955"
+    "scraped_at": "2026-09-12T20:26:58.790947"
   },
   {
     "headline": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "scraped_at": "2026-09-12T15:24:50.532164"
+    "scraped_at": "2026-09-12T20:26:58.793492"
   },
   {
     "headline": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "scraped_at": "2026-09-12T15:24:50.533550"
-  },
-  {
-    "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "author": "Julie Bort",
-    "date_time": "2026-09-10T14:51:59-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "scraped_at": "2026-09-12T15:24:50.534859"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-10T14:35:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-12T15:24:50.536192"
+    "scraped_at": "2026-09-12T20:26:58.795129"
   }
 ]
