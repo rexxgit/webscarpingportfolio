@@ -1,92 +1,92 @@
 [
   {
+    "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "author": "Amanda Silberling",
+    "date_time": "2026-09-14T13:44:14-07:00",
+    "summary": "N/A",
+    "content": "OpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from The Wall Street Journal. The company, founded in 2019 and based in Los Altos, California, had previously raised about $30 million in funding from investors. Glass Imaging was founded by Ziv Attar and Tom Bishop, a pair of former Apple engineers who previously led the team that developed Apple’s Portrait Mode. This background directly informs the work they now do at Glass Imaging, where they use AI to overcome the physical size constraints of smartphone cameras. Rather than using AI to edit a photo after it’s been taken, Glass Imaging uses neural networks to learn about individual camera systems — like the different cameras on various smartphone models — to yield better images from the moment the shutter clicks. OpenAI did not immediately respond to a request for comment. The ChatGPT maker is rumored to be working on its own hardware, like smartphones, earbuds, and AI companion devices. In 2025, OpenAI CEO Sam Altman and famed Apple designer Jony Ive revealed that they had been working together on a device startup called io, when OpenAI bought Ive’s company for $6.5 billion.",
+    "article_link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "scraped_at": "2026-09-14T21:43:29.328254"
+  },
+  {
+    "headline": "With iOS 27, I’m actually using Siri again",
+    "author": "Ivan Mehta",
+    "date_time": "2026-09-14T10:10:30-07:00",
+    "summary": "N/A",
+    "content": "For years, I barely used Siri for anything beyond menial tasks like setting timers or alarms. That has changed with iOS 27, as I now repeatedly use Siri for complex requests and to make sense of on-screen context. While Siri is clearly front and center in this software update by Apple, I also enjoy many of the other quality-of-life updates. I have been using iOS 27 on my main device since the public beta version was released, and on another device through the developer beta before that. I have really enjoyed using the new Siri, often trying to find new use cases for it — and that’s possibly the biggest win for Apple, given that I, like many people, had given up on Siri before this update. Over two years ago, Apple introduced Apple Intelligence and teased an advanced version of Siri. And after multiple delays, the company is finally shipping it, and it doesn’t disappoint. Built on the back of Google’s Gemini models, Siri is much smarter than its previous version, which was built on extended knowledge and a shaky ChatGPT integration. It also has a new logo and transition animation. For starters, I asked Siri about several different things in the area of sports, ranging from World Cup matches to team lineups and scores. There were some hiccups in the earlier developer versions, but most of the information was correct. Siri can also take complex, multistep directions. For instance, I asked it to find small or hidden and useful features for iOS 27 and add them to a note, and it did a good job of that. Plus, Siri can draft a message for you and send it to someone. And because Siri can fetch context from your files, messages, and email, you can also ask it to look up a conversation, like one related to a delivery, and have it create a message for returns. Siri’s on-screen context was a big blessing, too. I could ask trivial questions like who was the oldest player on the pitch when I was looking at lineups for two teams in the World Cup, or have it read the text on-screen ",
+    "article_link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "scraped_at": "2026-09-14T21:43:30.896321"
+  },
+  {
+    "headline": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "author": "Lauren Forristal",
+    "date_time": "2026-09-14T10:00:00-07:00",
+    "summary": "N/A",
+    "content": "Daydream, an AI-powered fashion discovery app, launched two new features on Monday to let iPhone users turn saved outfit photos into shoppable results and search for clothing and accessories through Siri, without opening the app. The new features were built using Apple’s iOS 27 developer tools, which officially rolled out today. To use either feature, you’ll need an iPhone running iOS 27 with Siri AI enabled, along with the Daydream app installed. The app is free to download on iOS devices. The first feature uses Apple’s image-context capabilities, letting users shop from images already saved in their Photos app. Daydream analyzes the outfit in the image, identifies its individual pieces, and automatically surfaces shoppable matches and similar styles from Daydream’s catalog of roughly 3 million products. That means a screenshot of an outfit found on Instagram or Pinterest could become the starting point for a shopping search. Daydream can break down the image into relevant items, such as a sweater, pants, shoes, or accessories, and match them with products available through its collection. If the exact item in the photo is still available, Daydream can match the image back to the retailer selling it. If it’s no longer available, the app will instead surface similar options. It can also handle requests for variations on what appears in an image. “I like this sweater but want it in red,” for example, is the kind of request Daydream can understand, Julie Bornstein, co-founder and CEO of Daydream, explained to TechCrunch. The second feature is a Siri-powered natural-language search function. Users can make requests by voice or text through Siri without having to open Daydream’s app. A user could say, “Hey, Siri, search Daydream for a cool blazer for my board meeting on Monday,” and Daydream then provides results personalized to them. Bornstein adds that the experience can be more tailored if users have set up Daydream’s “Style Passport,” which asks for details such as ",
+    "article_link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "scraped_at": "2026-09-14T21:43:32.111050"
+  },
+  {
+    "headline": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "author": "Russell Brandom",
+    "date_time": "2026-09-14T09:27:53-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "scraped_at": "2026-09-14T21:43:32.113517"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-14T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-14T21:43:32.115140"
+  },
+  {
+    "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "author": "Ivan Mehta",
+    "date_time": "2026-09-14T07:45:44-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "scraped_at": "2026-09-14T21:43:32.116768"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-14T07:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-14T21:43:32.118391"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-14T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-14T21:43:32.120007"
+  },
+  {
+    "headline": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "author": "Ivan Mehta",
+    "date_time": "2026-09-14T06:55:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+    "scraped_at": "2026-09-14T21:43:32.121611"
+  },
+  {
     "headline": "What’s behind the AI industry’s latest warnings of doom?",
     "author": "Anthony Ha",
     "date_time": "2026-09-13T12:40:15-07:00",
     "summary": "N/A",
-    "content": "The AI industry seems to be having its loudest debate yet about whether its technology poses an existential threat to humanity. The current discussion began after AI researcher Jacob Coxon said that he’s resigned from Anthropic because he’s worried that the leading AI companies are “gambling with our lives.” Then Anthropic’s alignment lead chimed in with a post declaring, “We really do earnestly believe AI could kill all humans!” adding that he personally thinks the chance is “>10% within the next decade.” On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the latest apocalyptic warnings. I tried to articulate why I’m skeptical of many AI doomer narratives, while Kirsten asked if this was “just a weird way of flexing to show how far advanced their company’s AI model is,” particularly as these companies prepare to go public. And Sean wondered how these concerns might show up in Anthropic’s S-1 filing for its IPO: “Are there junior lawyers right now who are going through and having to rewrite that entire section of the S-1 filing to say, ‘It’s a officially Anthropic’s position that there’s a more than 10% chance that we could develop something that would eradicate all of humanity and that would be materially bad for our business’?” Keep reading for a preview of our conversation, edited for length and clarity. (Note: We recorded this episode before Anthropic CEO Dario Amodei published his plan for more cautious AI development.) Sean O’Kane: I’m hard-pressed to think of something that blew up so fast. Not only did this warning shot come out from this young researcher who has also worked at OpenAI, but also was immediately shared on X by the alignment lead at Anthropic — who, in what might go down as one of the best misplaced exclamation marks ever, shared Coxon’s post and and thread and said, “We really do earnestly believe AI could kill all humans!” Exclamation mark! What a weird vibe. That was just a ton of accelerant o",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "scraped_at": "2026-09-14T12:29:22.581869"
-  },
-  {
-    "headline": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-13T09:30:00-07:00",
-    "summary": "N/A",
-    "content": "Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety, according to The New York Times. Obama made these comments on Thursday, at Democratic fundraising event where he was interviewed by House Minority Leader Hakeem Jeffries. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI. In response, Obama said that once Democrats regain the House majority, they need to “put together a framework for a very public conversation.” “This is something that is moving very fast in private hands, and if we don’t get on top of it, I think can be dangerous,” Obama added. “If we do get on top of it, I do think it’s beneficial. I genuinely think it’s going to accelerate, for example, drug development in ways that can help us cure diseases.” In a statement, Jeffries said the former president “is correct that decisive action must be taken on artificial intelligence.” Jeffries also said that “Republicans have abdicated their responsibility to govern on behalf of the American people.” The NYT also reports that Obama has offered himself as a “sounding board” to AI executives and has spoken to both Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman. His comments come amidst growing concern around AI safety, particularly after an AI researcher resigned from Anthropic and claimed the leading AI companies are “racing straight to self-improving superintelligence and gambling with our lives.” On Saturday, Amodei outlined a broad approach to “pacing the frontier,” which would include giving independent safety evaluators access to leading AI companies and models, as well as developing “common safety standards” between companies. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with",
-    "article_link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "scraped_at": "2026-09-14T12:29:23.785374"
-  },
-  {
-    "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-12T13:19:16-07:00",
-    "summary": "N/A",
-    "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack, as well as broader discussions about AI safety, Shontell asked whether OpenAI still feels pressure to “move really fast” due to its IPO plans. “We’re not rushing into an IPO,” Altman said. “I actually think that given everything happening with safety, right now would be an ill-advised moment to go public.” Instead, he insisted that OpenAI will go public “when we’re ready, which is when the business is ready, when we feel ready from what the moment is like in society with this technology.” When pressed on whether that means the IPO isn’t happening in 2026, Altman replied, “I would say not 2026, yeah. We’ve got a lot of stuff to do.” The New York Times reported in June that although OpenAI had hired bankers and lawyers with the goal of going public in the third or fourth quarter of 2026, the company was leaning toward 2027 due to the volatility of tech stocks and its own financial challenges.",
-    "article_link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "scraped_at": "2026-09-14T12:29:25.799297"
-  },
-  {
-    "headline": "Anthropic CEO outlines plan to slow AI development",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-12T12:34:44-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "scraped_at": "2026-09-14T12:29:25.801678"
-  },
-  {
-    "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "author": "Marina Temkin",
-    "date_time": "2026-09-11T15:58:17-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "scraped_at": "2026-09-14T12:29:25.803301"
-  },
-  {
-    "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "author": "Julie Bort",
-    "date_time": "2026-09-11T13:59:47-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "scraped_at": "2026-09-14T12:29:25.804931"
-  },
-  {
-    "headline": "OpenAI’s feud with mathematicians is only escalating",
-    "author": "Tim Fernholz",
-    "date_time": "2026-09-11T13:57:36-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "scraped_at": "2026-09-14T12:29:25.806516"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-11T13:33:18-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-14T12:29:25.808133"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-11T13:30:17-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-14T12:29:25.809750"
-  },
-  {
-    "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "author": "Russell Brandom",
-    "date_time": "2026-09-11T12:35:54-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "scraped_at": "2026-09-14T12:29:25.811363"
+    "scraped_at": "2026-09-14T21:43:32.123231"
   }
 ]
