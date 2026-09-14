@@ -1,0 +1,202 @@
+[
+  {
+    "address": "2006 7th Avenue SE, Austin, MN 55912",
+    "price_aud": "AUD $294,582",
+    "price_usd": "AUD $294,582",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "timestamp": "2026-09-14T17:12:50.640175"
+  },
+  {
+    "address": "11012 Edgewood Avenue N, Champlin, MN 55316",
+    "price_aud": "AUD $560,968",
+    "price_usd": "AUD $560,968",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.640319"
+  },
+  {
+    "address": "1810 Howell Street N, Falcon Heights, MN 55113",
+    "price_aud": "AUD $771,524",
+    "price_usd": "AUD $771,524",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-09-14T17:12:50.640450"
+  },
+  {
+    "address": "11249 Laura Circle, Becker, MN 55308",
+    "price_aud": "AUD $462,774",
+    "price_usd": "AUD $462,774",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.640599"
+  },
+  {
+    "address": "3720 Alexander Rd, Hermantown, MN 55811",
+    "price_aud": "AUD $645,134",
+    "price_usd": "AUD $645,134",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.640733"
+  },
+  {
+    "address": "135 Davis Street S, Cambridge, MN 55008",
+    "price_aud": "AUD $385,762",
+    "price_usd": "AUD $385,762",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.640864"
+  },
+  {
+    "address": "604 S Shore Drive, Detroit Lakes, MN 56501",
+    "price_aud": "AUD $1,353,673",
+    "price_usd": "AUD $1,353,673",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-09-14T17:12:50.641001"
+  },
+  {
+    "address": "648 85th Avenue NW, Coon Rapids, MN 55433",
+    "price_aud": "AUD $392,776",
+    "price_usd": "AUD $392,776",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.641129"
+  },
+  {
+    "address": "113 Timberwolf Court, Mankato, MN 56001",
+    "price_aud": "AUD $596,037",
+    "price_usd": "AUD $596,037",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.641257"
+  },
+  {
+    "address": "15227 Germanium Circle NW, Ramsey, MN 55303",
+    "price_aud": "AUD $546,940",
+    "price_usd": "AUD $546,940",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.641385"
+  },
+  {
+    "address": "18546 Langly Avenue N, Marine On Saint Croix, MN 55047",
+    "price_aud": "AUD $792,565",
+    "price_usd": "AUD $792,565",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.641530"
+  },
+  {
+    "address": "5721 103rd Avenue N, Brooklyn Park, MN 55443",
+    "price_aud": "AUD $750,342",
+    "price_usd": "AUD $750,342",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-09-14T17:12:50.641661"
+  },
+  {
+    "address": "218 Augusta Avenue SE, Willmar, MN 56201",
+    "price_aud": "AUD $238,331",
+    "price_usd": "AUD $238,331",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.641789"
+  },
+  {
+    "address": "10729 Terrace Road NE, Blaine, MN 55434",
+    "price_aud": "AUD $546,940",
+    "price_usd": "AUD $546,940",
+    "bedrooms": "6",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.641922"
+  },
+  {
+    "address": "63503 370th Street, Watkins, MN 55389",
+    "price_aud": "AUD $596,177",
+    "price_usd": "AUD $596,177",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "timestamp": "2026-09-14T17:12:50.642049"
+  },
+  {
+    "address": "5240 Polaris Lane, Plymouth, MN 55446",
+    "price_aud": "AUD $1,738,848",
+    "price_usd": "AUD $1,738,848",
+    "bedrooms": "6",
+    "bathrooms": "5",
+    "timestamp": "2026-09-14T17:12:50.642175"
+  },
+  {
+    "address": "1204 Harmon Place, Minneapolis, MN 55403",
+    "price_aud": "AUD $140,277",
+    "price_usd": "AUD $140,277",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "timestamp": "2026-09-14T17:12:50.642304"
+  },
+  {
+    "address": "629 3rd St, Nashwauk, MN 55769",
+    "price_aud": "AUD $238,331",
+    "price_usd": "AUD $238,331",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.642431"
+  },
+  {
+    "address": "103 2nd Avenue S, Dent, MN 56528",
+    "price_aud": "AUD $237,068",
+    "price_usd": "AUD $237,068",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.642587"
+  },
+  {
+    "address": "2100 Valkyrie Drive NW, Rochester, MN 55901",
+    "price_aud": "AUD $308,469",
+    "price_usd": "AUD $308,469",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.642723"
+  },
+  {
+    "address": "3116 Emerson Avenue N, Minneapolis, MN 55411",
+    "price_aud": "AUD $576,398",
+    "price_usd": "AUD $576,398",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-09-14T17:12:50.642852"
+  },
+  {
+    "address": "52473 County Highway 14, New York Mills, MN 56567",
+    "price_aud": "AUD $266,526",
+    "price_usd": "AUD $266,526",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.642978"
+  },
+  {
+    "address": "25253 W Comfort Drive, Forest Lake, MN 55025",
+    "price_aud": "AUD $841,522",
+    "price_usd": "AUD $841,522",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.643103"
+  },
+  {
+    "address": "7xx Heather Drive, Shoreview, MN 55126",
+    "price_aud": "AUD $1,336,562",
+    "price_usd": "AUD $1,336,562",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "timestamp": "2026-09-14T17:12:50.643228"
+  },
+  {
+    "address": "2108 Blake Avenue, Lester Prairie, MN 55354",
+    "price_aud": "AUD $490,970",
+    "price_usd": "AUD $490,970",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "timestamp": "2026-09-14T17:12:50.643351"
+  }
+]
