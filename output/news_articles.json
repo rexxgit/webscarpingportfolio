@@ -1,92 +1,92 @@
 [
   {
+    "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-09-15T08:47:03-07:00",
+    "summary": "N/A",
+    "content": "Chris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg. Lehane is reportedly in Washington to work with U.S. lawmakers addressing catastrophic risks associated with AI. The revelation comes in the wake of Anthropic CEO Dario Amodei’s essay, published Saturday, which called for the industry to work together to slow the pace of frontier AI and avoid catastrophic risks. AI leaders across the industry, including OpenAI’s Sam Altman, Google’s Demis Hassabis, and SpaceXAI’s Elon Musk, supported Amodei’s letter and call to action, with Altman saying that OpenAI would join Anthropic in embedding third-party evaluators into the company to monitor for safety. On Tuesday, Lehane admitted that the three companies have been in talks for several weeks regarding AI safety. Some, including Altman, have noted that such talks could put the companies at risk of violating antitrust law if the coordination is found to suppress competition. Amodei’s essay proposed a narrow government waiver allowing such safety coordination, but Lehane reportedly said the firms don’t need one. The news confirms earlier reporting and hints that the companies were working together. In an interview with Fortune late last week, Altman hinted that he had been in private discussions with other AI leaders. This week, The Information reported that the three companies have been working together to create a standards body for the AI industry — something Altman reportedly told staff would need to happen without the support of the U.S. government. Hassabis called on the U.S. in July to establish a new standards body to act as an AI watchdog, with the power to screen the world’s most advanced models and coordinate industrywide slowdowns if dangers progressed. President Trump, for his part, has dismissed safety concerns as a hoax and pushed back on the need for tighter regul",
+    "article_link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "scraped_at": "2026-09-15T16:46:42.463193"
+  },
+  {
+    "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "author": "Dominic-Madori Davis",
+    "date_time": "2026-09-15T08:22:48-07:00",
+    "summary": "N/A",
+    "content": "Profound, which builds marketing software to help brands appear in AI search results, on Tuesday said it has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C. Sequoia and Kleiner Perkins led the round, and existing investors — including Lightspeed Venture Partners, Khosla Ventures, and South Park Commons — also participated. Launched two years ago, Profound started as an analytics platform, and has since expanded to help companies research and create marketing strategies. The startup helps businesses understand how AI helps consumers discover their brands. It’s part of a wave of startups in the GEO/AEO space (generative engine optimization and answer engine optimization, respectively), where companies try to find ways to surface their products in the AI systems customers are increasingly using for search. The company says its revenue has increased by 3x in the past six months, and it now has more than 1,000 enterprise customers, which include Comcast, The Estée Lauder Companies, and Walmart.",
+    "article_link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "scraped_at": "2026-09-15T16:46:44.037692"
+  },
+  {
+    "headline": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "author": "Ivan Mehta",
+    "date_time": "2026-09-15T07:42:37-07:00",
+    "summary": "N/A",
+    "content": "Companies have been increasingly using AI’s image generation chops to teach people photography skills. Google last year released a feature called Camera Coach on Pixel phones to guide users about framing and composition, and in July, Adobe released a new feature in its experimental camera app to use AI to critique photos and suggest changes for capture. On the same slant, two former TikTok employees, Melody Chu and Jing Liu, are launching a new iOS app called Superpose that uses an AI guide to teach people how to pose for pictures. Superpose essentially is a camera app. Users can take a selfie or photo of a friend, and the app will generate four potential poses using AI. Some of the poses are extravagant, and, at times, the generation seems uncanny. Users can save generated poses, or use the match-pose feature to try to place themselves in the frame based on its suggestions. Prior to founding Superpose, Chu worked in various product roles in companies like Meta, Nextdoor, Roblox, TikTok, and Slack. Meanwhile, Liu was a founding engineer at a 3D face-scanning startup, and later worked on image and video models at TikTok. Chu said that the idea for the app stemmed from a personal problem: her husband wasn’t able to take good photos of her. “My husband just takes awful photos of me. It was a true pain point in our marriage where I don’t understand how he gets me to look just so terrible all the time. And I thought to myself, there has to be a way to solve this problem with advancements in computer vision and generative AI. And I decided to set out on my own,” Chu told TechCrunch. Superpose was launched in July, and has been downloaded over 22,000 times so far. The company says its users have generated more than 190,000 poses. The app gives users five generations for free every day, but they can buy a pack of five additional generations for $2.99, or 20 generations for $9.99. While Chu acknowledged that other companies are also entering the AI-guided photography space, ",
+    "article_link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "scraped_at": "2026-09-15T16:46:45.657286"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-15T07:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-15T16:46:45.659561"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-15T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-15T16:46:45.661072"
+  },
+  {
+    "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "author": "Julie Bort",
+    "date_time": "2026-09-15T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "scraped_at": "2026-09-15T16:46:45.662563"
+  },
+  {
+    "headline": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "author": "Julie Bort",
+    "date_time": "2026-09-15T05:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "scraped_at": "2026-09-15T16:46:45.664038"
+  },
+  {
     "headline": "Jensen Huang took a call from Trump, and showed off something else, too",
     "author": "Connie Loizos",
     "date_time": "2026-09-14T18:50:48-07:00",
     "summary": "N/A",
-    "content": "Correction: An earlier version of this piece identified the phone Jensen Huang used to take President Trump’s call as Apple’s iPhone Duo. That was incorrect — the device appears to be a different foldable. The piece has been updated to remove references to the iPhone Duo and the conclusions that were based on that error. Jensen Huang made headlines Monday at the All-In conference in L.A. when President Trump called him, live, on stage. But there was something else worth noting about his appearance. Huang, dressed in his now-signature alligator leather jacket, was handed a foldable phone to answer it. Once he got Trump on speaker, the conversation turned to AI safety, and the two seemed to agree that mounting fears about AI equate to what Trump called a “hoax.” Trump argued that the real winners of the AI panic are China and “political people,” and that the technology is too big — “bigger than the internet,” he said — to slow down over. (“Did you hear that? Thousands of people are clapping,” said Huang to Trump during this same exchange.) Whether Huang truly shares that same view or isn’t in a position to say otherwise, we’ll never know. Nvidia’s business model depends largely on AI labs buying more chips, so downplaying existential risk is the only move if he cares about his company’s share price. (It’s still up 33% for the past year but fell a few percentage points today.)",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "scraped_at": "2026-09-15T11:33:12.146825"
+    "scraped_at": "2026-09-15T16:46:45.665520"
   },
   {
     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "author": "Amanda Silberling",
     "date_time": "2026-09-14T14:51:02-07:00",
     "summary": "N/A",
-    "content": "While Nvidia CEO Jensen Huang was onstage at the All-In Summit on Monday morning in Los Angeles, he got a phone call that he couldn’t send to voicemail — it was from President Donald Trump. “I’m onstage with the besties,” Huang told Trump, referring to the venture capitalists who host the podcast All-In, including tech investors Chamath Palihapitiya, Jason Calacanis, and White House advisers David Friedberg and David Sacks. In a move that will spark night terrors for public relations professionals everywhere, Huang flaunted his comfort with the president by putting Trump on speaker for conference attendees to hear. Holy crap POTUS just phoned in @JensenHuang live on stage at All In SummitWe will not lose the ai race! And whatever Dario said this weekend won’t stop our progressThis made my morning!$NVDA pic.twitter.com/Sr4wV9kMfz “The great thing about life is Jensen can develop the most complex computer chip in the world … but he can’t figure out how to put you on speaker,” Trump said on the phone. (Huang is likely aware of how speakerphones work; he was asking stagehands for an extra microphone so that he could project the call to the audience.) Onstage, Huang and the All-In hosts had been discussing Anthropic CEO Dario Amodei’s call to “slow the pace at which we improve the capabilities of AI.” SpaceX CEO Elon Musk and OpenAI CEO Sam Altman have publicly said they agree with Amodei, while Huang’s views have diverged. “They’re just playing right in the hands of a lot of people that don’t want to see it happen,” Trump said. “That could be political people. It could also be China. And we’re not going to let that happen. It’s a hoax.” “You’re right. We’re not going to let that happen, sir,” Huang replied as the crowd broke into applause. Trump and his allies, like Y Combinator CEO Garry Tan, have stated their belief that the growing sentiment against data center construction is part of an international psyop to stifle American economic growth. But the source of the pu",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "scraped_at": "2026-09-15T11:33:14.049375"
+    "scraped_at": "2026-09-15T16:46:45.666990"
   },
   {
     "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
     "author": "Amanda Silberling",
     "date_time": "2026-09-14T13:44:14-07:00",
     "summary": "N/A",
-    "content": "OpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from The Wall Street Journal. The company, founded in 2019 and based in Los Altos, California, had previously raised about $30 million in funding from investors. Glass Imaging was founded by Ziv Attar and Tom Bishop, a pair of former Apple engineers who previously led the team that developed Apple’s Portrait Mode. This background directly informs the work they now do at Glass Imaging, where they use AI to overcome the physical size constraints of smartphone cameras. Rather than using AI to edit a photo after it’s been taken, Glass Imaging uses neural networks to learn about individual camera systems — like the different cameras on various smartphone models — to yield better images from the moment the shutter clicks. OpenAI did not immediately respond to a request for comment. The ChatGPT maker is rumored to be working on its own hardware, like smartphones, earbuds, and AI companion devices. In 2025, OpenAI CEO Sam Altman and famed Apple designer Jony Ive revealed that they had been working together on a device startup called io, when OpenAI bought Ive’s company for $6.5 billion.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "scraped_at": "2026-09-15T11:33:15.511931"
-  },
-  {
-    "headline": "With iOS 27, I’m actually using Siri again",
-    "author": "Ivan Mehta",
-    "date_time": "2026-09-14T10:10:30-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "scraped_at": "2026-09-15T11:33:15.513549"
-  },
-  {
-    "headline": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "author": "Lauren Forristal",
-    "date_time": "2026-09-14T10:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "scraped_at": "2026-09-15T11:33:15.514679"
-  },
-  {
-    "headline": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "author": "Russell Brandom",
-    "date_time": "2026-09-14T09:27:53-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "scraped_at": "2026-09-15T11:33:15.515804"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-14T08:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-15T11:33:15.516939"
-  },
-  {
-    "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "author": "Ivan Mehta",
-    "date_time": "2026-09-14T07:45:44-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "scraped_at": "2026-09-15T11:33:15.518046"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-14T07:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-15T11:33:15.519152"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-14T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-15T11:33:15.520270"
+    "scraped_at": "2026-09-15T16:46:45.668467"
   }
 ]
