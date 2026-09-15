@@ -4,9 +4,9 @@
     "author": "Connie Loizos",
     "date_time": "2026-09-14T18:50:48-07:00",
     "summary": "N/A",
-    "content": "Correction: An earlier version of this piece identified the phone Jensen Huang used to take President Trump’s call as Apple’s iPhone Duo. That was incorrect — the device appears to be a Samsung Galaxy Fold 8. The piece has been updated to remove references to the iPhone Duo and the conclusions that were based on that error. Jensen Huang made headlines Monday at the All-In conference in L.A. when President Trump called him, live, on stage. But there was something else worth noting about his appearance. Huang, dressed in his now-signature alligator leather jacket, was handed a foldable phone to answer it. Once he got Trump on speaker, the conversation turned to AI safety, and the two seemed to agree that mounting fears about AI equate to what Trump called a “hoax.” Trump argued that the real winners of the AI panic are China and “political people,” and that the technology is too big — “bigger than the internet,” he said — to slow down over. (“Did you hear that? Thousands of people are clapping,” said Huang to Trump during this same exchange.) Whether Huang truly shares that same view or isn’t in a position to say otherwise, we’ll never know. Nvidia’s business model depends largely on AI labs buying more chips, so downplaying existential risk is the only move if he cares about his company’s share price. (It’s still up 33% for the past year but fell a few percentage points today.)",
+    "content": "Correction: An earlier version of this piece identified the phone Jensen Huang used to take President Trump’s call as Apple’s iPhone Duo. That was incorrect — the device appears to be a different foldable. The piece has been updated to remove references to the iPhone Duo and the conclusions that were based on that error. Jensen Huang made headlines Monday at the All-In conference in L.A. when President Trump called him, live, on stage. But there was something else worth noting about his appearance. Huang, dressed in his now-signature alligator leather jacket, was handed a foldable phone to answer it. Once he got Trump on speaker, the conversation turned to AI safety, and the two seemed to agree that mounting fears about AI equate to what Trump called a “hoax.” Trump argued that the real winners of the AI panic are China and “political people,” and that the technology is too big — “bigger than the internet,” he said — to slow down over. (“Did you hear that? Thousands of people are clapping,” said Huang to Trump during this same exchange.) Whether Huang truly shares that same view or isn’t in a position to say otherwise, we’ll never know. Nvidia’s business model depends largely on AI labs buying more chips, so downplaying existential risk is the only move if he cares about his company’s share price. (It’s still up 33% for the past year but fell a few percentage points today.)",
     "article_link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "scraped_at": "2026-09-15T04:35:13.876894"
+    "scraped_at": "2026-09-15T11:33:12.146825"
   },
   {
     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "While Nvidia CEO Jensen Huang was onstage at the All-In Summit on Monday morning in Los Angeles, he got a phone call that he couldn’t send to voicemail — it was from President Donald Trump. “I’m onstage with the besties,” Huang told Trump, referring to the venture capitalists who host the podcast All-In, including tech investors Chamath Palihapitiya, Jason Calacanis, and White House advisers David Friedberg and David Sacks. In a move that will spark night terrors for public relations professionals everywhere, Huang flaunted his comfort with the president by putting Trump on speaker for conference attendees to hear. Holy crap POTUS just phoned in @JensenHuang live on stage at All In SummitWe will not lose the ai race! And whatever Dario said this weekend won’t stop our progressThis made my morning!$NVDA pic.twitter.com/Sr4wV9kMfz “The great thing about life is Jensen can develop the most complex computer chip in the world … but he can’t figure out how to put you on speaker,” Trump said on the phone. (Huang is likely aware of how speakerphones work; he was asking stagehands for an extra microphone so that he could project the call to the audience.) Onstage, Huang and the All-In hosts had been discussing Anthropic CEO Dario Amodei’s call to “slow the pace at which we improve the capabilities of AI.” SpaceX CEO Elon Musk and OpenAI CEO Sam Altman have publicly said they agree with Amodei, while Huang’s views have diverged. “They’re just playing right in the hands of a lot of people that don’t want to see it happen,” Trump said. “That could be political people. It could also be China. And we’re not going to let that happen. It’s a hoax.” “You’re right. We’re not going to let that happen, sir,” Huang replied as the crowd broke into applause. Trump and his allies, like Y Combinator CEO Garry Tan, have stated their belief that the growing sentiment against data center construction is part of an international psyop to stifle American economic growth. But the source of the pu",
     "article_link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "scraped_at": "2026-09-15T04:35:15.646555"
+    "scraped_at": "2026-09-15T11:33:14.049375"
   },
   {
     "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "OpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from The Wall Street Journal. The company, founded in 2019 and based in Los Altos, California, had previously raised about $30 million in funding from investors. Glass Imaging was founded by Ziv Attar and Tom Bishop, a pair of former Apple engineers who previously led the team that developed Apple’s Portrait Mode. This background directly informs the work they now do at Glass Imaging, where they use AI to overcome the physical size constraints of smartphone cameras. Rather than using AI to edit a photo after it’s been taken, Glass Imaging uses neural networks to learn about individual camera systems — like the different cameras on various smartphone models — to yield better images from the moment the shutter clicks. OpenAI did not immediately respond to a request for comment. The ChatGPT maker is rumored to be working on its own hardware, like smartphones, earbuds, and AI companion devices. In 2025, OpenAI CEO Sam Altman and famed Apple designer Jony Ive revealed that they had been working together on a device startup called io, when OpenAI bought Ive’s company for $6.5 billion.",
     "article_link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "scraped_at": "2026-09-15T04:35:17.460567"
+    "scraped_at": "2026-09-15T11:33:15.511931"
   },
   {
     "headline": "With iOS 27, I’m actually using Siri again",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "scraped_at": "2026-09-15T04:35:17.463283"
+    "scraped_at": "2026-09-15T11:33:15.513549"
   },
   {
     "headline": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "scraped_at": "2026-09-15T04:35:17.465046"
+    "scraped_at": "2026-09-15T11:33:15.514679"
   },
   {
     "headline": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "scraped_at": "2026-09-15T04:35:17.466806"
+    "scraped_at": "2026-09-15T11:33:15.515804"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-15T04:35:17.468584"
+    "scraped_at": "2026-09-15T11:33:15.516939"
   },
   {
     "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "scraped_at": "2026-09-15T04:35:17.470330"
+    "scraped_at": "2026-09-15T11:33:15.518046"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-15T04:35:17.472024"
+    "scraped_at": "2026-09-15T11:33:15.519152"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-15T04:35:17.473721"
+    "scraped_at": "2026-09-15T11:33:15.520270"
   }
 ]
