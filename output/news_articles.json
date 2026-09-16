@@ -1,12 +1,21 @@
 [
   {
+    "headline": "Amazon launches Alexa+ in India with Hindi support",
+    "author": "Ivan Mehta",
+    "date_time": "2026-09-16T03:34:47-07:00",
+    "summary": "N/A",
+    "content": "Amazon today announced that its Alexa+ conversational assistant is available in India with Hindi support. The new assistant can hold conversations for longer and maintain context while doing so. The feature is available to all customers in the country in Early Access in Hindi and English. After the early testing period, the company will make the assistant free for Prime customers. For non-Prime customers, the price would be ₹2,000 per month ($20.85). The company said that the new Alexa has a more expressive voice and can handle complex multi-step tasks, including ordering groceries from Amazon’s quick commerce service Amazon Now and turning on/off smart home devices. Users can switch between English and Hindi mid-sentence. Amazon added that Alexa+ is integrated with India-based services such as food delivery service Swiggy, Zomato’s ticket booking platform District, travel websites like TripAdvisor and MakeMyTrip, and restaurant reservation app EazyDiner. The upgraded assistant is also integrated with music streaming services such as Amazon Music and JioSaavn. In June, TechCrunch reported that the company had invited users to enroll in a testing program for Alexa+, through which they could have conversations with the assistant in Hindi. After that, the company also started testing an English version of Alexa+. Amazon launched Alexa in India in English in 2017 and added Hindi support in 2019. The country has more than 600 million Hindi speakers, and Amazon is trying to tap into that market with its smart devices and new features. The company didn’t give absolute numbers, but said that its smart home devices have grown by 20% from last year. Amazon initially announced gen AI-powered Alexa+ in 2025 and made it available to all U.S.-based users in 2026. This year, the company has also launched its new assistant in markets such as the U.K., Canada, Brazil, Mexico, Italy, and Germany with local language context.",
+    "article_link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "scraped_at": "2026-09-16T11:19:22.286900"
+  },
+  {
     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
     "author": "Julie Bort",
     "date_time": "2026-09-15T17:20:39-07:00",
     "summary": "N/A",
     "content": "Nvidia founder and CEO Jensen Huang made his position on the dangers AI poses very clear while speaking at Salesforce’s Dreamforce conference on Tuesday. To him, AI isn’t some new form of “alien mind,” as at least one OpenAI safety researcher has described it. It’s just hardware and software, he says, built by humans. That means, in his view, it can be controlled by humans and existing laws. “Safety is an engineering problem, not a legal one,” he said. “We’re developing software after all. We’re developing computing systems after all. It’s a complicated computing system, but it’s ultimately a computing system.” Therefore, there’s no need for new laws or regulations to govern it, he argues. In fact, Huang sees little need for new laws at all. The free market, he argues, will be enough to pressure companies not to release unsafe products. “If we’re not confident about the safety of the products, like all companies, like you and I, all the companies here, if you build a product or a service, and you’re not confident in its functionality, capability, or safety, then don’t release it. And so that’s a very obvious thing to do,” he said. He continued: “You pace yourself until you are confident you’re releasing something that the market would appreciate. The market forces are already there. We don’t need any new laws. We don’t need new regulations. We just need companies to decide that when [to] run as fast as they can. I think innovation, speed, and safe products … it’s a false choice. You could definitely have both at the same time. So run as fast as you can. But if you feel at any given point in time the company’s out of control, or the product’s not going to be safe, you know, take a pause and make sure you get it right.” In some ways, this is a comforting thought. If anyone in the world knows AI, it is Nvidia’s founder, who’s been building the hardware brains of AI since well before ChatGPT existed and now runs a company that also makes open source models, agents, harn",
     "article_link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "scraped_at": "2026-09-16T04:30:45.641613"
+    "scraped_at": "2026-09-16T11:19:23.939495"
   },
   {
     "headline": "The AI data center boom is colliding with cities scarred by big industry",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Across the country, Americans are debating how their lives might change if new AI data centers are built in their backyards. Data center companies and their customers are promising new jobs and economic growth, but that pitch hasn’t won over a majority of Americans who oppose data center construction in their area, often over environmental and energy concerns. For activist Shawmar Pitts, these concerns aren’t theoretical. He knows better than anyone what it’s like to live in the shadow of American industrialization. A lifelong resident of the Grays Ferry neighborhood in Southwest Philadelphia, Pitts grew up next to what was then the East Coast’s largest oil refinery, which shut down after an explosion in 2019. Though many of his friends and family suffered from chronic health conditions, he didn’t realize what might have caused these illnesses until he encountered the environmental justice group Philly Thrive, which was tabling in his neighborhood in 2018 about a proposed oil refinery expansion. “I read the information they had on the table about how living near the refinery affects you, and I’m looking at all the sicknesses on this paper, and I’m like, ‘My mother has this, my sister has that, my next-door neighbor suffers from this’ — every house, someone has something on that list,” Pitts told TechCrunch. “From that point, I was all the way in.” Pitts, who is now the managing co-director of that same organization, is among those leading the charge for a data center moratorium in Philadelphia. While there have been no formal proposals for construction yet, city officials have identified two potential sites: one in Northeast Philadelphia and the other in Pitts’ Grays Ferry neighborhood. Data center opposition from local residents isn’t unique to Philadelphia. Residents across the United States have pushed back against new data center construction, particularly those living in cities and towns with finite resources. But the pushback has been particularly swift from p",
     "article_link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "scraped_at": "2026-09-16T04:30:47.459356"
+    "scraped_at": "2026-09-16T11:19:25.972511"
   },
   {
     "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
     "author": "Sarah Perez",
     "date_time": "2026-09-15T13:12:53-07:00",
     "summary": "N/A",
-    "content": "Alongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and manage WhatsApp Business messaging, the service that allows companies to connect with customers through WhatsApp conversations. As Meta explains, this process was previously a bit more cumbersome, as it required developers to move between different tools and services, including the Developer Console, Meta’s Business Manager, the API reference, and their editor. Now, they can instead ask their preferred AI agent to set up WhatsApp Business messaging by chatting with it and describing what needs to be done. This is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform. The move sees Meta expanding its existing lineup of MCP servers beyond those for managing ads and monitoring app configurations, and other social technologies to one specifically designed to help onboard businesses to WhatsApp. Many other tech companies also offer MCP servers that allow AI agents to securely interact with their services, including PayPal, Stripe, GitHub, Notion, Slack, Salesforce, Atlassian, X, Google, Microsoft, and others. In Meta’s case, the AI agent will handle much of the busywork involved in the WhatsApp Business setup process, like creating the company’s WhatsApp Business account, adding and verifying its phone number, registering it for access to the Cloud API, checking the business’ Terms of Service, and more. Businesses will also be able to use the AI agent for other tasks, like describing a messaging template they want the AI to create or having the agent edit an existing template. Plus, they can test messages and webhooks and monitor things that may previously have quietly failed, like the Terms of Service, payment method, and Business Verification. During setup and configuration",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "scraped_at": "2026-09-16T04:30:49.234206"
+    "scraped_at": "2026-09-16T11:19:25.974790"
   },
   {
     "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "scraped_at": "2026-09-16T04:30:49.236518"
+    "scraped_at": "2026-09-16T11:19:25.976378"
   },
   {
     "headline": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "scraped_at": "2026-09-16T04:30:49.238061"
+    "scraped_at": "2026-09-16T11:19:25.978017"
   },
   {
     "headline": "AI agents now have a place to snitch",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "scraped_at": "2026-09-16T04:30:49.239543"
+    "scraped_at": "2026-09-16T11:19:25.979616"
   },
   {
     "headline": "Meta expands subscription push with new AI-focused plans",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "scraped_at": "2026-09-16T04:30:49.241039"
+    "scraped_at": "2026-09-16T11:19:25.981237"
   },
   {
     "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "scraped_at": "2026-09-16T04:30:49.242523"
+    "scraped_at": "2026-09-16T11:19:25.982853"
   },
   {
     "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "scraped_at": "2026-09-16T04:30:49.244061"
-  },
-  {
-    "headline": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "author": "Ivan Mehta",
-    "date_time": "2026-09-15T07:42:37-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "scraped_at": "2026-09-16T04:30:49.245544"
+    "scraped_at": "2026-09-16T11:19:25.984498"
   }
 ]
