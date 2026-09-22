@@ -1,12 +1,21 @@
 [
   {
+    "headline": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "author": "Jagmeet Singh",
+    "date_time": "2026-09-21T16:44:28-07:00",
+    "summary": "N/A",
+    "content": "While Silicon Valley is spending billions to make AI agents shop for us, the man who pioneered Apple’s retail stores thinks the industry is overestimating how much of shopping people will hand over to machines — and believes physical stores will continue to thrive. Ron Johnson, 66, has heard predictions about the demise of physical retail before. He joined Apple in 2000 to build its retail business as online shopping was beginning to take off, and went on to help create a store network that became central to how Apple sells its products and connects with customers. “AI is a new technology that will improve the online shopping experience,” Johnson said in an interview. “But I don’t know that it’s going to change which way we shop.” Johnson’s view comes as some of the world’s biggest tech companies are trying to push AI deeper into shopping, betting that agents can automate more of how we find and buy items — a concept commonly called agentic commerce. Google is making that push with its Universal Commerce Protocol, a standard designed to help AI agents take consumers from product discovery to checkout. OpenAI, meanwhile, is turning ChatGPT into a shopping destination where users can research, compare, and, in some cases, even buy products without leaving the chatbot. Asked whether he could imagine someone letting an agent choose and buy a $1,000 or $2,000 laptop without ever visiting a website or store, Johnson was unequivocal: “Honestly, nobody’s going to do that.” Buying a laptop, he argued, is too personal a purchase to simply delegate to an AI agent. Buyers want to feel its weight, see the display and decide which size works for them. AI may narrow the choices, Johnson told TechCrunch. He added that many consumers would still want to experience the product themselves before spending that kind of money. “AI will never be able to have you physically experience a product,” Johnson said. Instead, he expects agents to better inform consumers before they walk into a st",
+    "article_link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "scraped_at": "2026-09-22T04:31:21.385443"
+  },
+  {
     "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "author": "Aditya Mehta",
     "date_time": "2026-09-21T13:15:58-07:00",
     "summary": "N/A",
     "content": "On Monday, OpenAI announced a new independent advisory group hosted at the Institute for Advanced Study in Princeton, New Jersey. Called the Advisory Group on Mathematics and Artificial Intelligence, the group is meant to give mathematicians more input into the company’s math-oriented research. “This group will serve as a bridge to the mathematical community and broader public, giving mathematicians a voice in how we move forward,” the post reads. The announcement comes after the abrupt publication of a solution to the Navier-Stokes Millennium Prize problem. As part of the announcement of the new group, OpenAI also claims that the same internal model has resolved more than 100 additional open problems across most areas of mathematics. Many prominent mathematicians have taken issue with the frenzied pace of those results. Earlier this month, 25 Fields Medal-winning mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. True to its name, OpenAI’s new group will mostly serve in an advisory capacity, assessing the significance of new results and coordinating their release. While members won’t be paid, they can offer unsolicited advice, go public with their views, and control their own membership, giving them a measure of independence from the company. However, the group won’t be given leeway to slow down or redirect OpenAI’s ongoing mathematical research. As the blog post puts it, “the group will not be responsible for advising us on how to pace our internal progress on mathematics.” The Institute for Advanced Study emphasized this point in its own announcement. “Although we will give advice, we do not have decision making power at any AI company, and the responsibility for the decisions made by any company will rest with that company,” said the institute in a press release. Nine prominent mathematicians have been named as initial members of the group. No",
     "article_link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "scraped_at": "2026-09-21T21:54:26.049719"
+    "scraped_at": "2026-09-22T04:31:23.363131"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Last day to save up to $200 + 50% off a second pass ends Sept 25, 11:59 p.m. PT. REGISTER HERE Bring your community with up to 30% discount. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future.",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-21T21:54:28.566219"
+    "scraped_at": "2026-09-22T04:31:24.907754"
   },
   {
     "headline": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
     "author": "Sarah Perez",
     "date_time": "2026-09-21T12:19:21-07:00",
     "summary": "N/A",
-    "content": "Meta’s latest AI app, Muse, could be the social giant’s next major hit, new data suggests. According to just- released estimates from market intelligence provider Apptopia, Muse’s app on mobile devices has been downloaded more times during its first 12 days on the market than ChatGPT was in the 12 days after its debut. (This data compares the U.S. and Canada markets only.) Muse also has more daily active users than ChatGPT had at the time, the firm found. Until now, it had been difficult to make an exact apples-to-apples comparison between these two apps, given that they had pursued different launch strategies. When ChatGPT arrived on mobile, it was made available globally, but only on iOS. Muse, meanwhile, is available across both Apple’s App Store and Google Play, but only in the U.S. and Canada. To better align the numbers for comparison, Apptopia looked only at the iOS data for the U.S. and Canada for both apps during the first 12 days of their respective launches. In this subset of the data, Muse has now seen 1.8 million downloads to ChatGPT’s 1.3 million. Overall, Muse has seen 2.8 million total installs globally in its first 12 days, the firm also said. Its growth hasn’t yet stagnated, either; Muse has moved up from its original position as No. 2 overall on the U.S. App Store immediately after its launch to now No. 1, as Business Insider reported on Friday. That jump put the app higher than ChatGPT, the outlet noted. Another firm, Appfigures, said at the time that Muse had then crossed 1 million downloads. In addition, Apptopia’s data indicates that Muse’s U.S. daily active users are now higher than they were for ChatGPT at the same point after its launch. When comparing just the U.S. mobile app daily active users, Muse comes in higher with 642,000 daily users compared with 231,000 for ChatGPT at the time. To be fair to the fact that Muse is available across both iOS and Android, while ChatGPT launched on iOS only, Apptopia narrowed the comparison to iOS alon",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "scraped_at": "2026-09-21T21:54:30.259346"
+    "scraped_at": "2026-09-22T04:31:24.910087"
   },
   {
     "headline": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "scraped_at": "2026-09-21T21:54:30.261517"
+    "scraped_at": "2026-09-22T04:31:24.911740"
   },
   {
     "headline": "With Tabby, a former accountant is using AI to make accountants obsolete",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "scraped_at": "2026-09-21T21:54:30.263121"
+    "scraped_at": "2026-09-22T04:31:24.913406"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-21T21:54:30.264791"
+    "scraped_at": "2026-09-22T04:31:24.915043"
   },
   {
     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "scraped_at": "2026-09-21T21:54:30.266396"
+    "scraped_at": "2026-09-22T04:31:24.916654"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-21T21:54:30.267974"
+    "scraped_at": "2026-09-22T04:31:24.918232"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-21T21:54:30.269578"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-20T14:41:08-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-21T21:54:30.271158"
+    "scraped_at": "2026-09-22T04:31:24.919862"
   }
 ]
