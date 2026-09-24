@@ -1,30 +1,75 @@
 [
   {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-24T12:15:00-07:00",
+    "summary": "N/A",
+    "content": "Last day to save up to $200 + 50% off a second pass ends Sept 25, 11:59 p.m. PT. REGISTER HERE Bring your community with up to 30% discount. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future.",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-24T21:24:58.994169"
+  },
+  {
+    "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "author": "Julie Bort",
+    "date_time": "2026-09-24T12:00:42-07:00",
+    "summary": "N/A",
+    "content": "The AI Lab PrismML — founded by Caltech researchers and advised by UC Berkeley’s Ion Stoica — has created a version of its tiny language models for smart glasses running on Qualcomm’s Snapdragon chips. On Wednesday, at Qualcomm’s Snapdragon Summit, the chipmaker showcased PrismML’s 1-bit Bonsai LLM, which can be run locally on AI smart glasses built on the Snapdragon AR1 Gen 1 Platform. As TechCrunch previously reported, PrismML’s claim to fame is that it shrinks larger models substantially (in this case, by 4x), while retaining almost all of their performance on standard benchmarks. The smart glasses version is a 2-billion-parameter model tuned for vision and language, so wearers can ask what they’re looking at in real time. Prism’s larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have. The startup pitches this as an alternative to depending on the privacy promises of proprietary AI labs and their insatiable need for more compute. Releasing a model for Qualcomm’s chip is a step toward that vision. But no smart glasses running PrismML have been announced yet.",
+    "article_link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "scraped_at": "2026-09-24T21:25:00.959263"
+  },
+  {
+    "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+    "author": "Aditya Mehta",
+    "date_time": "2026-09-24T11:11:44-07:00",
+    "summary": "N/A",
+    "content": "Oracle has sent a force majeure notice to the developer of Project Jupiter, a Stargate data center campus in New Mexico, Bloomberg first reported Thursday. Force majeure clauses, common in energy and commodities contracts, excuse a party from contractual obligations when events outside its control get in the way. Oracle is not seeking to exit as the campus’s main tenant, according to Bloomberg’s sources. Instead, the notice would allow the company to delay payments should the facility miss its 2028 target to come online. The notice also comes as AI data center construction faces growing scrutiny nationally, and as developers take on steep costs to build capacity for customers like OpenAI. Oracle maintains that it does not expect a delay. “Project Jupiter remains on our planned schedule,” Oracle said in a statement to CNBC. “We are fully committed to New Mexico and confident in our path forward.” Blue Owl Capital, whose unit received the notice, said in its own statement to CNBC that “this notice does not change the financial commitments to this multi-year project.” Neither Oracle nor Blue Owl immediately responded to TechCrunch’s requests for comment. Still, the notice follows a string of setbacks at the site, many of them tied to its energy supply. The campus, designed to handle 2.45 gigawatts, is meant to run on gas-powered fuel cells from Bloom Energy, which makes a reliable gas supply central to its timeline. An Energy Transfer pipeline intended to deliver gas to the site has also been delayed nearly six months, to February 1, 2027, after regulators repeatedly denied permits for the line. In August, Bloomberg reported that the pipeline’s route had been changed following those rejections. A separate air-quality permit for the fuel cell system that would power the campus is also pending. The state’s environment department faces a November 23 deadline to decide. Project Jupiter is one of the flagship sites of Stargate, the AI infrastructure initiative Oracle, OpenA",
+    "article_link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "scraped_at": "2026-09-24T21:25:02.438898"
+  },
+  {
+    "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+    "author": "Sarah Perez",
+    "date_time": "2026-09-24T10:39:24-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "scraped_at": "2026-09-24T21:25:02.440819"
+  },
+  {
+    "headline": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+    "author": "Sarah Perez",
+    "date_time": "2026-09-24T10:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "scraped_at": "2026-09-24T21:25:02.441942"
+  },
+  {
     "headline": "TechCrunch Founder Summit 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-09-24T09:46:47-07:00",
     "summary": "N/A",
-    "content": "Ticket savings of up to $190 end June 26, 11:59 p.m. PT. REGISTER HERE. TechCrunch returns to Boston, MA with TC Founder Summit (formerly TC Early Stage and TC All Stage), a full-day gathering where founders of every stage connect with top VCs and gain tactical, how-to knowledge for building and scaling companies. Wondering how to nail that pitch meeting and raise VC funding? Or how to build a high-octane sales team? What about recruiting early team members who will fuel future growth? Managing the finances of a new company while also wondering about your own personal finances as a founder? Legal? Marketing? PR? Being a great leader? TechCrunch Founder Summit will answer every one of these questions. Grab your ticket at the lowest rate. Hear from accomplished startup leaders in panel-led breakout sessions as they reveal the secrets to their success. These main-stage sessions offer unparalleled access to the journeys, insights, and tips that can help take your startup to the next level. Participate in immersive sessions where startup pioneers and peers come together to discuss challenges, share stories, and build connections that drive success. Expand your network, connect with founders, share insights, and form valuable relationships that inspire growth through networking opportunities. Meet the leading voices in scaling who have taken the stage over the years, sharing candid insights with thousands of founders and VCs.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-09-24T16:58:43.402919"
+    "scraped_at": "2026-09-24T21:25:02.443059"
   },
   {
-    "headline": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+    "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
     "author": "Connie Loizos",
     "date_time": "2026-09-24T09:35:13-07:00",
     "summary": "N/A",
-    "content": "ElevenLabs builds the voice layer of AI, the models that turn text into speech that sounds human. Most people encounter it when they’re talking with customer service — often without realizing it. Klarna runs first-line phone support for 35 million U.S. customers on it, for example. So do Deutsche Telekom, Cisco, Adobe, and a growing list of governments. ElevenLabs also sells to creators, who use its platform for audiobooks, dubbing, and music. It’s not alone in what it does. In fact, it’s increasingly bumping into customers, including Decagon, a conversational AI platform that trained its voice product on ElevenLabs and now competes with it. But its investors don’t seem too concerned. The company, which says it’s pacing at $600 million in annual recurring revenue, is now reportedly valued at $22 billion by its backers, despite being just four years old. To understand more, I interviewed ElevenLabs co-founder and CEO, Mati Staniszewski, at Nrth in Toronto, a local entrepreneurship conference formerly known as Elevate. We covered a range of topics in a short time, including whether businesses should tell customers when they’re talking to an AI (he thinks they should), and whether he could discuss the company’s gross margins. Unsurprisingly, Staniszewski said he couldn’t discuss them in any detail, but he was clear that he doesn’t mind them getting squeezed even further if it means expanding the company’s market share. Our conversation follows, condensed and lightly edited. You can check out the full conversation here. You joined us at TechCrunch Disrupt last year, where you said audio models would be commoditized within a couple of years. How would you rate that prediction now? There is still a lot of work to be done, and the quality delta you can achieve just on the model level is still significant. If we think longer term, probably three, five years from now, those differences will be smaller. What we’d love to do, and be the first ones to do, is pass the Turing tes",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-    "scraped_at": "2026-09-24T16:58:45.085248"
+    "scraped_at": "2026-09-24T21:25:02.444161"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-09-24T09:03:36-07:00",
     "summary": "N/A",
-    "content": "Last day to save up to $200 + 50% off a second pass ends Sept 25, 11:59 p.m. PT. REGISTER HERE Bring your community with up to 30% discount. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders. Gain practical strategies, peer insights, and tools to scale operations effectively. Explore breakthrough ideas, emerging tech, and connections shaping the future.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-24T16:58:46.378481"
+    "scraped_at": "2026-09-24T21:25:02.445270"
   },
   {
     "headline": "Google tests letting Gemini call businesses for you",
@@ -33,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-    "scraped_at": "2026-09-24T16:58:46.379918"
+    "scraped_at": "2026-09-24T21:25:02.446385"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -42,51 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-24T16:58:46.380586"
-  },
-  {
-    "headline": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-    "author": "Ivan Mehta",
-    "date_time": "2026-09-24T07:43:25-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "scraped_at": "2026-09-24T16:58:46.381230"
-  },
-  {
-    "headline": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "author": "Dominic-Madori Davis",
-    "date_time": "2026-09-24T07:31:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "scraped_at": "2026-09-24T16:58:46.381860"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-24T07:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-24T16:58:46.382478"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-24T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-24T16:58:46.383108"
-  },
-  {
-    "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "author": "Aditya Mehta\nZack Whittaker",
-    "date_time": "2026-09-24T05:54:19-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "scraped_at": "2026-09-24T16:58:46.383833"
+    "scraped_at": "2026-09-24T21:25:02.447477"
   }
 ]
