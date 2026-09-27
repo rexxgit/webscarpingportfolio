@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+    "author": "Anthony Ha",
+    "date_time": "2026-09-27T13:34:28-07:00",
+    "summary": "N/A",
+    "content": "Anthropic CEO Dario Amodei seems to be everywhere this weekend: He was lampooned on the season premiere of Saturday Night Live, and tonight, he’s set to have dinner with President Donald Trump at the White House. Axios first broke the news of Amodei’s dinner plans, which TechCrunch subsequently confirmed with a source familiar with his plans. This will be the first one-on-one meeting between the two men, who recently found themselves on opposite sides of the AI safety debate. Amodei released a plan to slow AI development (or at least proceed with more caution), while Trump has insisted, without evidence, that the AI backlash is a Democratic hoax; he also wants to rebrand the technology as “super intelligence.” Even before the current back-and-forth, Amodei and Anthropic have to had a fraught relationship with Trump’s administration. Earlier this year, the Pentagon designated Anthropic a supply-chain risk in response to the company’s attempt to put guardrails around the use of its technology (Anthropic has been fighting the designation in court), although other administration officials have been friendlier.",
+    "article_link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "scraped_at": "2026-09-27T21:13:46.729222"
+  },
+  {
+    "headline": "Can Muse overcome Meta’s trust issues?",
+    "author": "Anthony Ha",
+    "date_time": "2026-09-27T12:57:30-07:00",
+    "summary": "N/A",
+    "content": "Meta’s new AI agent Muse took the spotlight at the company’s annual Connect event, where CEO Mark Zuckerberg made it clear that Facebook’s parent company plans to push AI features everywhere. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed Meta’s AI announcements seemed to steal the spotlight during a week of new model launches from OpenAI and Anthropic. With other big AI companies focused on coding and enterprise tools, it was a little surprising to see Meta move in the opposite direction, with a consumer focus and a cute, Tamagotchi-style AI device that Meta insists is for adults only. But as Kirsten noted, this could be playing to Meta’s strengths. Sean tried Muse for himself, and while he was pleased that the agent actually found him some unclaimed money, he described the feature as more “a party-trick type thing,” rather than something that will drive ongoing usage. Plus, there’s the question of whether users can trust Meta’s AI with sensitive information. “Meta’s business is to sell you ads,” Sean said. “And yes, they’ll make the argument that the more they know about you, the more accurate and interesting the ads will be — wake me up when we get to that fever dream.” Keep reading for a preview of our full conversation, edited for length and clarity. Kirsten Korosec: So how do you put Muse, which is this new personal AI agent that’s just been released by Meta and [is] clearly a bet on consumer — how does that fit into what you just described, at least with other frontier AI model companies seeing opportunity and business within enterprise? Because Meta Connect, which is their big annual event, just happened, and they are all-in on Muse, that is very clear. Anthony Ha: That was definitely very head spinning for me, because it certainly feels like what we’ve been talking about has been this shift towards enterprise — not exclusively, but certainly that’s where the money, the attention is going. Maybe some of th",
+    "article_link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "scraped_at": "2026-09-27T21:13:48.640384"
+  },
+  {
     "headline": "Anthropic’s Dario Amodei gets the SNL treatment",
     "author": "Anthony Ha",
     "date_time": "2026-09-27T09:30:00-07:00",
     "summary": "N/A",
-    "content": "Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei. Weekend Update host Michael Che — who sounded a little uncertain about how to pronounce Amodei’s last name — kicked the segment off by describing the CEO as having “stumbled through a press tour” where he seemingly agreed with a former employee’s claim that artificial intelligence might destroy humanity. Wickline’s version of Amodei sported an impressive wig and delivered halting answers that occasionally devolved into full-on Gollum-style exchanges with their dark side, at one point confessing, “AI is the devil and I its maker.” Wickline-as-Amodei assured the audiences that AI executives “are all on the same page here: We do not condone what we are doing.” “AI is not a weapon, it’s a tool: A tool for building weapons,” she declared. “And I urge you to urge me to stop.” As for the technology’s supposed benefits, like potentially curing cancer, the fictional Amodei said, “Put it this way: In 10 years, there’s about a 10% chance that cancer won’t be a problem for anyone.”",
+    "content": "Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei. Weekend Update host Michael Che — who sounded a little uncertain about how to pronounce Amodei’s last name — kicked the segment off by describing the CEO as having “stumbled through a press tour” where he seemingly agreed with a former employee’s claim that artificial intelligence might destroy humanity. Wickline’s version of Amodei sported an impressive wig and delivered halting answers that occasionally devolved into full-on Gollum-style exchanges with her dark side, at one point confessing, “AI is the devil and I its maker.” Wickline-as-Amodei assured the audiences that AI executives “are all on the same page here: We do not condone what we are doing.” “AI is not a weapon, it’s a tool: A tool for building weapons,” she declared. “And I urge you to urge me to stop.” As for the technology’s supposed benefits, like potentially curing cancer, the fictional Amodei said, “Put it this way: In 10 years, there’s about a 10% chance that cancer won’t be a problem for anyone.”",
     "article_link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "scraped_at": "2026-09-27T16:49:32.825031"
+    "scraped_at": "2026-09-27T21:13:49.860781"
   },
   {
     "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "author": "Jagmeet Singh",
     "date_time": "2026-09-26T18:30:00-07:00",
     "summary": "N/A",
-    "content": "Google has started testing a way for shoppers in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode, as the search giant looks to expand its AI services from product discovery into transactions. Users in the test see a “Buy” button on select Flipkart product listings appearing in Gemini and Google’s AI Mode, which takes them directly to a Flipkart checkout flow without leaving the AI interface, according to people familiar with the matter and an experience seen by TechCrunch. The early test is limited to some users and a small selection of products, including smartphones, electronics, and mobile accessories, the people told TechCrunch. Other users continue to see regular product listings from Flipkart in Gemini and AI Mode without the option to buy them directly from the AI interface. Google plans to roll out the experience more broadly later in October, ahead of India’s festive shopping season, one of the people said. The test comes as Google and rivals including OpenAI are adding commerce capabilities to their AI offerings, striving to move beyond answering shopping queries and recommending products to playing a more direct role in online purchases. Asked about the Flipkart test, a Google spokesperson told TechCrunch the company is “always testing new features and experiences to help people discover and connect with businesses more easily.” The company regularly runs experiments and has no further details to share, the spokesperson added. Google has separately been building technology aimed at making purchases possible through its AI services. Earlier this year, it introduced the Universal Commerce Protocol (UCP) as an open standard designed to let AI agents interact with retailers across the shopping journey, including checkout. Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The company has since expanded UCP with oth",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "scraped_at": "2026-09-27T16:49:34.280903"
+    "scraped_at": "2026-09-27T21:13:49.861983"
   },
   {
     "headline": "Insurers claim AI is already increasing healthcare costs",
     "author": "Anthony Ha",
     "date_time": "2026-09-26T14:02:06-07:00",
     "summary": "N/A",
-    "content": "Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association. The BCBSA analysis found “a sharp increase in patients being documented as having complex conditions,” but argued there is a “clear disconnect between [medical] coding and treatment,” as there’s “no evidence of corresponding change in care delivered.” The New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. While battles between hospitals and insurers over treatments and payments are nothing new, the NYT said the use of AI on both sides seems to be making it worse. Dr. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to “a horrible dystopic future nobody wants to live in,” with “bots fighting bots, agents fighting agents.” But Rao said it might also reduce tensions and cut costs. And the BCBSA’s senior vice president Luke Chalker resisted characterizing the situation as a battle, claiming, “It’s not a war. It’s a completely one-sided blood bath,” with insurers on the losing side.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "scraped_at": "2026-09-27T16:49:35.489444"
+    "scraped_at": "2026-09-27T21:13:49.862617"
   },
   {
     "headline": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "scraped_at": "2026-09-27T16:49:35.490258"
+    "scraped_at": "2026-09-27T21:13:49.863167"
   },
   {
     "headline": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "scraped_at": "2026-09-27T16:49:35.490871"
+    "scraped_at": "2026-09-27T21:13:49.863753"
   },
   {
     "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "scraped_at": "2026-09-27T16:49:35.491470"
+    "scraped_at": "2026-09-27T21:13:49.864343"
   },
   {
     "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "scraped_at": "2026-09-27T16:49:35.492057"
+    "scraped_at": "2026-09-27T21:13:49.864923"
   },
   {
     "headline": "Meta opens early access program for new Muse features",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "scraped_at": "2026-09-27T16:49:35.492685"
-  },
-  {
-    "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "author": "Aditya Mehta",
-    "date_time": "2026-09-25T12:13:38-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "scraped_at": "2026-09-27T16:49:35.493265"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-09-25T11:48:33-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-09-27T16:49:35.493851"
+    "scraped_at": "2026-09-27T21:13:49.865531"
   }
 ]
