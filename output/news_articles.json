@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Anthropic CEO Dario Amodei seems to be everywhere this weekend: He was lampooned on the season premiere of Saturday Night Live, and tonight, he’s set to have dinner with President Donald Trump at the White House. Axios first broke the news of Amodei’s dinner plans, which TechCrunch subsequently confirmed with a source familiar with his plans. This will be the first one-on-one meeting between the two men, who recently found themselves on opposite sides of the AI safety debate. Amodei released a plan to slow AI development (or at least proceed with more caution), while Trump has insisted, without evidence, that the AI backlash is a Democratic hoax; he also wants to rebrand the technology as “super intelligence.” Even before the current back-and-forth, Amodei and Anthropic have to had a fraught relationship with Trump’s administration. Earlier this year, the Pentagon designated Anthropic a supply-chain risk in response to the company’s attempt to put guardrails around the use of its technology (Anthropic has been fighting the designation in court), although other administration officials have been friendlier.",
     "article_link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "scraped_at": "2026-09-28T05:01:37.599048"
+    "scraped_at": "2026-09-28T13:35:55.569619"
   },
   {
     "headline": "Can Muse overcome Meta’s trust issues?",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Meta’s new AI agent Muse took the spotlight at the company’s annual Connect event, where CEO Mark Zuckerberg made it clear that Facebook’s parent company plans to push AI features everywhere. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed Meta’s AI announcements seemed to steal the spotlight during a week of new model launches from OpenAI and Anthropic. With other big AI companies focused on coding and enterprise tools, it was a little surprising to see Meta move in the opposite direction, with a consumer focus and a cute, Tamagotchi-style AI device that Meta insists is for adults only. But as Kirsten noted, this could be playing to Meta’s strengths. Sean tried Muse for himself, and while he was pleased that the agent actually found him some unclaimed money, he described the feature as more “a party-trick type thing,” rather than something that will drive ongoing usage. Plus, there’s the question of whether users can trust Meta’s AI with sensitive information. “Meta’s business is to sell you ads,” Sean said. “And yes, they’ll make the argument that the more they know about you, the more accurate and interesting the ads will be — wake me up when we get to that fever dream.” Keep reading for a preview of our full conversation, edited for length and clarity. Kirsten Korosec: So how do you put Muse, which is this new personal AI agent that’s just been released by Meta and [is] clearly a bet on consumer — how does that fit into what you just described, at least with other frontier AI model companies seeing opportunity and business within enterprise? Because Meta Connect, which is their big annual event, just happened, and they are all-in on Muse, that is very clear. Anthony Ha: That was definitely very head spinning for me, because it certainly feels like what we’ve been talking about has been this shift towards enterprise — not exclusively, but certainly that’s where the money, the attention is going. Maybe some of th",
     "article_link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "scraped_at": "2026-09-28T05:01:39.030968"
+    "scraped_at": "2026-09-28T13:35:57.376337"
   },
   {
     "headline": "Anthropic’s Dario Amodei gets the SNL treatment",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei. Weekend Update host Michael Che — who sounded a little uncertain about how to pronounce Amodei’s last name — kicked the segment off by describing the CEO as having “stumbled through a press tour” where he seemingly agreed with a former employee’s claim that artificial intelligence might destroy humanity. Wickline’s version of Amodei sported an impressive wig and delivered halting answers that occasionally devolved into full-on Gollum-style exchanges with her dark side, at one point confessing, “AI is the devil and I its maker.” Wickline-as-Amodei assured the audiences that AI executives “are all on the same page here: We do not condone what we are doing.” “AI is not a weapon, it’s a tool: A tool for building weapons,” she declared. “And I urge you to urge me to stop.” As for the technology’s supposed benefits, like potentially curing cancer, the fictional Amodei said, “Put it this way: In 10 years, there’s about a 10% chance that cancer won’t be a problem for anyone.”",
     "article_link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "scraped_at": "2026-09-28T05:01:40.717595"
+    "scraped_at": "2026-09-28T13:35:58.594600"
   },
   {
     "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "scraped_at": "2026-09-28T05:01:40.719139"
+    "scraped_at": "2026-09-28T13:35:58.596513"
   },
   {
     "headline": "Insurers claim AI is already increasing healthcare costs",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "scraped_at": "2026-09-28T05:01:40.720067"
+    "scraped_at": "2026-09-28T13:35:58.597862"
   },
   {
     "headline": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "scraped_at": "2026-09-28T05:01:40.720863"
+    "scraped_at": "2026-09-28T13:35:58.598895"
   },
   {
     "headline": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "scraped_at": "2026-09-28T05:01:40.721743"
+    "scraped_at": "2026-09-28T13:35:58.600001"
   },
   {
     "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "scraped_at": "2026-09-28T05:01:40.722675"
+    "scraped_at": "2026-09-28T13:35:58.601159"
   },
   {
     "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "scraped_at": "2026-09-28T05:01:40.723519"
+    "scraped_at": "2026-09-28T13:35:58.602271"
   },
   {
     "headline": "Meta opens early access program for new Muse features",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "scraped_at": "2026-09-28T05:01:40.724423"
+    "scraped_at": "2026-09-28T13:35:58.603470"
   }
 ]
