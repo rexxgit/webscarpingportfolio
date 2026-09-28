@@ -1,92 +1,92 @@
 [
   {
-    "headline": "Anthropic’s CEO is about to have dinner with President Trump",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-27T13:34:28-07:00",
+    "headline": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "author": "Marina Temkin",
+    "date_time": "2026-09-28T14:29:18-07:00",
     "summary": "N/A",
-    "content": "Anthropic CEO Dario Amodei seems to be everywhere this weekend: He was lampooned on the season premiere of Saturday Night Live, and tonight, he’s set to have dinner with President Donald Trump at the White House. Axios first broke the news of Amodei’s dinner plans, which TechCrunch subsequently confirmed with a source familiar with his plans. This will be the first one-on-one meeting between the two men, who recently found themselves on opposite sides of the AI safety debate. Amodei released a plan to slow AI development (or at least proceed with more caution), while Trump has insisted, without evidence, that the AI backlash is a Democratic hoax; he also wants to rebrand the technology as “super intelligence.” Even before the current back-and-forth, Amodei and Anthropic have to had a fraught relationship with Trump’s administration. Earlier this year, the Pentagon designated Anthropic a supply-chain risk in response to the company’s attempt to put guardrails around the use of its technology (Anthropic has been fighting the designation in court), although other administration officials have been friendlier.",
-    "article_link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "scraped_at": "2026-09-28T13:35:55.569619"
+    "content": "AI inference infrastructure provider Modal Labs is nearing a $750 million funding round led by Accel at a $15.75 billion valuation that includes the investment, according to a source with knowledge of the funding. The size of the round has not been previously reported, though Axios and Bloomberg have reported other details of the deal. The new round would more than triple Modal’s valuation from the $4.65 billion it reached when it announced its $355 million previous fundraise just four months ago. Modal Labs declined to comment. The deal comes amid soaring demand for inference services, the process of running an AI model that’s already been trained to generate outputs, particularly from customers relying on open-source models. Other inference startups are also in talks to raise fresh capital at much higher valuations. Baseten is nearing an infusion of capital at a $26 billion valuation, doubling what it was worth in June, Bloomberg reported. Meanwhile, Fireworks and Fal, a startup providing inference for video and image generation, have also talked to investors about new rounds that would significantly increase their valuations, according to The Information. Although revenue for these companies has been growing rapidly, their margins are thin, largely because the cost of acquiring or leasing compute remains very high. Fireworks announced in July that its annualized revenue had hit $1 billion, a fivefold increase from the year before. Multiple inference-focused startups are expected to reach the same revenue milestone by year’s end, according to our source. Modal was founded in 2021 by CEO Erik Bernhardsson and CTO Akshat Bubna. Bernhardsson, who is Swedish, spent more than 15 years building data teams at companies including Spotify, where he helped build the music-streaming service’s recommendation system, and Better.com, the online mortgage lender, where he served as chief technology officer. Bubna studied math and computer science at MIT and was an early staff eng",
+    "article_link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "scraped_at": "2026-09-28T23:09:51.679417"
   },
   {
-    "headline": "Can Muse overcome Meta’s trust issues?",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-27T12:57:30-07:00",
-    "summary": "N/A",
-    "content": "Meta’s new AI agent Muse took the spotlight at the company’s annual Connect event, where CEO Mark Zuckerberg made it clear that Facebook’s parent company plans to push AI features everywhere. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed Meta’s AI announcements seemed to steal the spotlight during a week of new model launches from OpenAI and Anthropic. With other big AI companies focused on coding and enterprise tools, it was a little surprising to see Meta move in the opposite direction, with a consumer focus and a cute, Tamagotchi-style AI device that Meta insists is for adults only. But as Kirsten noted, this could be playing to Meta’s strengths. Sean tried Muse for himself, and while he was pleased that the agent actually found him some unclaimed money, he described the feature as more “a party-trick type thing,” rather than something that will drive ongoing usage. Plus, there’s the question of whether users can trust Meta’s AI with sensitive information. “Meta’s business is to sell you ads,” Sean said. “And yes, they’ll make the argument that the more they know about you, the more accurate and interesting the ads will be — wake me up when we get to that fever dream.” Keep reading for a preview of our full conversation, edited for length and clarity. Kirsten Korosec: So how do you put Muse, which is this new personal AI agent that’s just been released by Meta and [is] clearly a bet on consumer — how does that fit into what you just described, at least with other frontier AI model companies seeing opportunity and business within enterprise? Because Meta Connect, which is their big annual event, just happened, and they are all-in on Muse, that is very clear. Anthony Ha: That was definitely very head spinning for me, because it certainly feels like what we’ve been talking about has been this shift towards enterprise — not exclusively, but certainly that’s where the money, the attention is going. Maybe some of th",
-    "article_link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "scraped_at": "2026-09-28T13:35:57.376337"
-  },
-  {
-    "headline": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-27T09:30:00-07:00",
-    "summary": "N/A",
-    "content": "Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei. Weekend Update host Michael Che — who sounded a little uncertain about how to pronounce Amodei’s last name — kicked the segment off by describing the CEO as having “stumbled through a press tour” where he seemingly agreed with a former employee’s claim that artificial intelligence might destroy humanity. Wickline’s version of Amodei sported an impressive wig and delivered halting answers that occasionally devolved into full-on Gollum-style exchanges with her dark side, at one point confessing, “AI is the devil and I its maker.” Wickline-as-Amodei assured the audiences that AI executives “are all on the same page here: We do not condone what we are doing.” “AI is not a weapon, it’s a tool: A tool for building weapons,” she declared. “And I urge you to urge me to stop.” As for the technology’s supposed benefits, like potentially curing cancer, the fictional Amodei said, “Put it this way: In 10 years, there’s about a 10% chance that cancer won’t be a problem for anyone.”",
-    "article_link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "scraped_at": "2026-09-28T13:35:58.594600"
-  },
-  {
-    "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "author": "Jagmeet Singh",
-    "date_time": "2026-09-26T18:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "scraped_at": "2026-09-28T13:35:58.596513"
-  },
-  {
-    "headline": "Insurers claim AI is already increasing healthcare costs",
-    "author": "Anthony Ha",
-    "date_time": "2026-09-26T14:02:06-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "scraped_at": "2026-09-28T13:35:58.597862"
-  },
-  {
-    "headline": "I created an interactive digital avatar of myself — and you can talk to it",
-    "author": "Dominic-Madori Davis",
-    "date_time": "2026-09-26T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "scraped_at": "2026-09-28T13:35:58.598895"
-  },
-  {
-    "headline": "At Meta Connect, the company’s smart glasses were everywhere",
-    "author": "Lucas Ropek",
-    "date_time": "2026-09-25T18:08:57-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "scraped_at": "2026-09-28T13:35:58.600001"
-  },
-  {
-    "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "author": "Kirsten Korosec",
-    "date_time": "2026-09-25T16:11:10-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "scraped_at": "2026-09-28T13:35:58.601159"
-  },
-  {
-    "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "headline": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
     "author": "Tim Fernholz",
-    "date_time": "2026-09-25T15:20:47-07:00",
+    "date_time": "2026-09-28T13:39:33-07:00",
     "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "scraped_at": "2026-09-28T13:35:58.602271"
+    "content": "AMD is acquiring World Labs, one of the leading developers of deep learning models intended to understand physical reality, in a $8.2 billion deal, the two companies said today. World Labs justified the deal in a statement saying that AI development required “close collaboration across model research, systems and compute.” AMD, in turn, says that understanding frontier workloads, like those created at World Labs, will shape its chip-making roadmap. The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist. AMD and World Labs formed an inference optimization-and-training partnership last year, and ties have remained close. Notably, Li was a guest at AMD’s CES presentation earlier this year. Li, a Stanford computer science professor, is considered a pioneer in AI, particularly computer vision, for her work building the ImageNet database and the AI competitions it inspired. In 2024, Li founded World Labs to develop deep learning models with a more robust understanding of the physical world, arguing that true general intelligence required a grounding in physics and the ability to understand and reason about data beyond text. In a post announcing the deal, Li described the partnership as the result of a desire to scale World Labs’ technical breakthroughs beyond the lab. “Now that we have tangible proof of the possibilities, we want to do everything we can to accelerate the future,” Li wrote in the post. “To do this requires scaling our efforts, widening our reach, and getting closer to the hardware.” “World model” remains a loosely defined term, encompassing everything from language models trained to understand visual inputs, to models capable of generating and sustaining a high-fidelity simulation of reality. World Labs’ first product, Marble, is pitched as a tool for creating entertainment experiences, but also for creating simulated environments for robot training. The acquisition is likely to help AMD compete with",
+    "article_link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "scraped_at": "2026-09-28T23:09:53.570147"
   },
   {
-    "headline": "Meta opens early access program for new Muse features",
+    "headline": "Shopify opens checkout to browser-based AI agents",
     "author": "Sarah Perez",
-    "date_time": "2026-09-25T13:34:53-07:00",
+    "date_time": "2026-09-28T12:33:57-07:00",
+    "summary": "N/A",
+    "content": "While some retailers, like Amazon (and Adidas, apparently!), are blocking AI agents from making purchases on users’ behalf on their respective platforms, e-commerce platform Shopify has moved in the other direction. On Monday, the company announced that browser-based AI agents can now complete purchases on Shopify merchants’ sites, extending their capabilities beyond just searching for products and adding items to carts. Shopify previously supported WebMCP for its storefronts and carts, allowing browser-based AI agents to comb through a Shopify retailer’s inventory, search for products, and add them to a cart. The addition of WebMCP support for checkout, including Shop Pay, means these agents can now read the checkout screen, update it, and submit the transaction with the buyer’s authorization, without relying on screenshots or scraping webpages, the company said. This update introduces three new tools — get_checkout, update_checkout, and complete_checkout — that allow agents to inspect a checkout, change things like the customer’s address or delivery option, and then place an order after the buyer authorizes it. The feature is rolling out to all eligible Shopify merchants, said Gil Greenberg, a staff product manager who works on agentic commerce at Shopify, in a post on X. Shopping with an agent shouldn’t feel like watching paint dry. 🥱 Today, we’re launching WebMCP support for checkout, including Shop Pay, for all eligible Shopify merchants. Learn how it works, where UCP fits, and what the data shows: https://t.co/U96VtJaeyc Shopify already offers a hosted Model Context Protocol (MCP) server, which allows agents to work server-to-server. The proposed standard WebMCP, meanwhile, is designed for agents that work inside the buyer’s browser. Both leverage Shopify’s Universal Commerce Protocol (UCP), which provides a common way to search for and discover products, build carts, and check out. Top AI agents like Muse and Instinct already have direct partnerships with Sho",
+    "article_link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "scraped_at": "2026-09-28T23:09:55.115641"
+  },
+  {
+    "headline": "Nvidia launches new platform for reining in rogue AI agents",
+    "author": "Kirsten Korosec",
+    "date_time": "2026-09-28T11:31:23-07:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "scraped_at": "2026-09-28T13:35:58.603470"
+    "article_link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "scraped_at": "2026-09-28T23:09:55.117189"
+  },
+  {
+    "headline": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "author": "Lucas Ropek",
+    "date_time": "2026-09-28T11:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "scraped_at": "2026-09-28T23:09:55.118053"
+  },
+  {
+    "headline": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "author": "Sarah Perez",
+    "date_time": "2026-09-28T10:29:50-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "scraped_at": "2026-09-28T23:09:55.118913"
+  },
+  {
+    "headline": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "author": "Russell Brandom",
+    "date_time": "2026-09-28T10:09:02-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "scraped_at": "2026-09-28T23:09:55.119770"
+  },
+  {
+    "headline": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "author": "Aisha Malik",
+    "date_time": "2026-09-28T09:52:38-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "scraped_at": "2026-09-28T23:09:55.120678"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-09-28T08:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-09-28T23:09:55.121536"
+  },
+  {
+    "headline": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "author": "Connie Loizos",
+    "date_time": "2026-09-28T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "scraped_at": "2026-09-28T23:09:55.122374"
   }
 ]
