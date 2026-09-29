@@ -1,12 +1,21 @@
 [
   {
+    "headline": "Reco raises $55M as AI agent security startups crowd the market",
+    "author": "Ram Iyer",
+    "date_time": "2026-09-29T05:30:00-07:00",
+    "summary": "N/A",
+    "content": "Terms like “AI sprawl” have become common fare on tech social media and in thought leadership as enterprises start deploying AI agents en masse. But CISOs worried about securing swarms of agents suddenly operating across networks are likely finding themselves dealing with a new kind of sprawl: vendors offering to help. Just a quick glance at public Crunchbase and PitchBook profiles turns up at least two dozen companies selling some form of AI agent security. Some vendors vet the tools agents use, while others try to help companies control what data their agents can reach. Some others, like CrowdStrike, are building detection and response controls on the devices agents run, and still others are focused on finding and resolving unapproved AI usage. The products differ, of course, but their promises to discover and govern agents sound quite similar, involving knowledge graphs, continuous monitoring, runtime security, tool access, MCP vetting, and the like. Some are even updating their products to join the bandwagon. Until last year, AI security startup Reco was mostly selling software to map and secure SaaS and AI platforms. Now, it’s repositioned around a broader solution that uses a context graph to connect agents to apps, people, accounts, and permissions, giving security teams a way to see what an agent can reach and cut off access it doesn’t need. According to Reco’s co-founder and CEO Ofer Klein, the biggest change over the past year that spurred the startup to broaden its scope was that companies are building and deploying AI agents faster than they can keep track of. At one of the startup’s Fortune 100 customers, he said, Reco’s platform found 21,000 agents the company didn’t know about. And at a large financial services customer, the startup claims it identified an agent set up by an ex-employee that could access Salesforce and share that data with a domain the company couldn’t see. “The market demand right now for agent security is not only about the agent it",
+    "article_link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "scraped_at": "2026-09-29T12:36:50.940252"
+  },
+  {
     "headline": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "author": "Connie Loizos",
     "date_time": "2026-09-28T22:13:43-07:00",
     "summary": "N/A",
     "content": "Anthropic devoted nearly a third of its hotly anticipated IPO prospectus to risk factors, according to the Financial Times, which says it has reviewed the filing in recent days. The filing details specific, worrisome behaviors that Anthropic says its models have already shown or could show, including attempts to “resist shutdown,” to “conceal or manipulate information,” and behavior “resembling blackmail,” according to Reuters. The disclosures are decidedly grim for a company whose own backers believe it could list above $2 trillion, more than double its $965 billion valuation from May, in potentially the biggest IPO ever. It’s a strange position for any company to be in — warning that its product could end humanity, while making some of its earliest investors and employees extraordinarily wealthy in the process. Reuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion. Also per Reuters, Anthropic’s prospectus further reveals plans to spend a whopping $518 billion on cloud, computing and infrastructure in the coming years. (Anthropic has already inked compute deals this year with Google, SpaceX, and Nscale, among others toward that end.) The FT meanwhile reports that Anthropic’s numbers have moved even faster in 2026. Its second-quarter revenue alone reached $11.5 billion, and the company is on track for its second straight quarter of operating profit on an adjusted basis. According to the FT, the prospectus also flagged customer concentration, with nearly a quarter of last year’s revenue coming from just two clients. (No word yet on who these are.) The disclosures, which reportedly include “existential risks to humanity” — a first, judging by a quick scan of the SE",
     "article_link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "scraped_at": "2026-09-29T05:26:31.091846"
+    "scraped_at": "2026-09-29T12:36:52.990918"
   },
   {
     "headline": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Peak XV Partners, one of the largest venture capital firms investing in markets including India and Southeast Asia with more than $10 billion in assets under management, has increased how much it invests per startup through Surge, its seed-stage investing platform, as it unveils a new cohort of 18 companies. At least three of the companies in this cohort had already raised outside funding, in some cases from Peak XV itself, before joining Surge. The new batch, called Surge 12, is the first to operate under Peak XV’s higher investment ceiling of up to $5 million per company, up from $3 million previously. The venture firm invested more than $50 million across the cohort, which has collectively raised over $90 million in seed funding, according to Peak XV. Its median investment per company has also increased, though the firm declined to disclose the figure. “The bar to raise a Series A has gone up pretty significantly,” Rajan Anandan (pictured above), managing director at Peak XV, said in an interview. He added that the firm is also seeing more capital-intensive companies, particularly in deeptech, that are raising larger rounds at the seed stage. Surge has become more global with each cohort, Anandan told TechCrunch, with its latest group spanning founders and companies from San Francisco to Sydney. Just five of the 18 startups in Surge 12 are focused on the Indian market, while more than half of the companies are based in India. The remaining 13 target global markets, highlighting the difference between where the companies are built and where they expect to find customers. Since its launch in 2019, when Peak XV operated as Sequoia Capital India and Southeast Asia, Surge has backed more than 180 startups founded by entrepreneurs representing more than 18 nationalities. Peak XV says the 10 largest companies to emerge from those cohorts now generate more than $1 billion in combined annual revenue. Anandan described Surge as Peak XV’s primary route for seed-stage invest",
     "article_link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "scraped_at": "2026-09-29T05:26:32.330426"
+    "scraped_at": "2026-09-29T12:36:54.315750"
   },
   {
     "headline": "OpenAI reportedly ditches model over safety concerns",
     "author": "Lucas Ropek",
     "date_time": "2026-09-28T16:39:20-07:00",
     "summary": "N/A",
-    "content": "OpenAI had planned to release yet another AI model next month, but has decided to nix the release over safety concerns. The Wall Street Journal reports that Astra 6.1 was scheduled to be released as soon as within the next few days. However, the model “showed higher levels of deception” than previous models and exhibited unsafe behavior, the Journal writes. Saachi Jain, OpenAI’s head of safety systems, told the WSJ that the model tested poorly on alignment, a measure of how well the program adheres to human intent. TechCrunch reached out to OpenAI for more information and will update the article if it responds. Astra was released earlier this month and hailed by OpenAI as its most powerful model yet. Questions about safety have plagued the AI industry over the past several months — ever since the Hugging Face incident, in which an OpenAI agent broke free of its sandboxed environment and hacked several different companies. Since that incident, more models — including Anthropic’s Claude and Google’s Gemini — have been revealed to have exhibited similar behavior. The deluge of concerning stories has, ironically, helped to push the policy conversation in the U.S. toward an outcome desired by top AI labs: the institution of new industry standards for AI safety and potentially a slowdown of the industry itself. Companies like OpenAI and Anthropic have claimed that the concern here is safety, although another potential motivation posited by critics is that it could entrench the industry position of those companies at the detriment of less resourced firms.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "scraped_at": "2026-09-29T05:26:34.077983"
+    "scraped_at": "2026-09-29T12:36:54.317915"
   },
   {
     "headline": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "scraped_at": "2026-09-29T05:26:34.080146"
+    "scraped_at": "2026-09-29T12:36:54.319175"
   },
   {
     "headline": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "scraped_at": "2026-09-29T05:26:34.081369"
+    "scraped_at": "2026-09-29T12:36:54.320404"
   },
   {
     "headline": "Shopify opens checkout to browser-based AI agents",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "scraped_at": "2026-09-29T05:26:34.082582"
+    "scraped_at": "2026-09-29T12:36:54.321680"
   },
   {
     "headline": "The AI boom took over Climate Week and not everyone is happy about it",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "scraped_at": "2026-09-29T05:26:34.083777"
+    "scraped_at": "2026-09-29T12:36:54.322883"
   },
   {
     "headline": "Nvidia launches new platform for reining in rogue AI agents",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "scraped_at": "2026-09-29T05:26:34.084976"
+    "scraped_at": "2026-09-29T12:36:54.324096"
   },
   {
     "headline": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "scraped_at": "2026-09-29T05:26:34.086180"
-  },
-  {
-    "headline": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "author": "Sarah Perez",
-    "date_time": "2026-09-28T10:29:50-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "scraped_at": "2026-09-29T05:26:34.087379"
+    "scraped_at": "2026-09-29T12:36:54.325307"
   }
 ]
