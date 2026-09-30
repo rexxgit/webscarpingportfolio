@@ -1,202 +1,402 @@
 [
   {
-    "job_title": "Director of Engagement and Coalitions",
+    "job_title": "Manager: Government Relations",
     "company": "New",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "14 minutes ago",
+    "posted_time": "an hour ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.897899"
+    "scraped_at": "2026-09-30T17:30:26.126391"
   },
   {
-    "job_title": "Operations Coordinator",
+    "job_title": "Vice President of Philanthropy",
     "company": "New",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "17 hours ago",
+    "posted_time": "3 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.898130"
+    "scraped_at": "2026-09-30T17:30:26.126618"
   },
   {
-    "job_title": "Policy Advisor",
+    "job_title": "Principal Associate, Field Operations",
     "company": "New",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
     "posted_time": "a day ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.898365"
+    "scraped_at": "2026-09-30T17:30:26.126824"
   },
   {
-    "job_title": "Operations Manager",
-    "company": "Washington, District of Columbia, United States",
-    "location": "Washington, District of Columbia, United States",
+    "job_title": "Policy & Outreach Manager",
+    "company": "New",
+    "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "Sep 21, 2026",
-    "is_new": false,
+    "posted_time": "a day ago",
+    "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.898616"
+    "scraped_at": "2026-09-30T17:30:26.127031"
   },
   {
-    "job_title": "Senior Director of Membership Growth and Engagement",
-    "company": "Alexandria, VA, USA",
-    "location": "Alexandria, VA, USA",
-    "salary": "Not Listed",
-    "posted_time": "Sep 21, 2026",
-    "is_new": false,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.898887"
-  },
-  {
-    "job_title": "Director of Advocacy and Communications",
-    "company": "Alexandria, VA",
-    "location": "Alexandria, VA",
-    "salary": "Not Listed",
-    "posted_time": "Sep 21, 2026",
-    "is_new": false,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.899355"
-  },
-  {
-    "job_title": "Senior Director of Development and Executive Initiatives",
-    "company": "Alexandria, VA",
-    "location": "Alexandria, VA",
-    "salary": "Not Listed",
-    "posted_time": "Sep 21, 2026",
-    "is_new": false,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.899633"
-  },
-  {
-    "job_title": "Director of Operations",
+    "job_title": "Development Manager",
     "company": "Washington, DC, USA",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "Sep 18, 2026",
+    "posted_time": "Sep 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.899867"
+    "scraped_at": "2026-09-30T17:30:26.127273"
   },
   {
-    "job_title": "Winter Internship ($18/hour)",
-    "company": "New",
+    "job_title": "Global Health Fellow",
+    "company": "Washington, DC, USA",
     "location": "Washington, DC, USA",
-    "salary": "$18",
-    "posted_time": "a day ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.900068"
-  },
-  {
-    "job_title": "U.S. Congressional Liaison Officer",
-    "company": "New",
-    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
+    "posted_time": "Sep 29, 2026",
+    "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.900289"
+    "scraped_at": "2026-09-30T17:30:26.127540"
   },
   {
-    "job_title": "Manager, Federal Government Relations",
-    "company": "New",
-    "location": "Washington, DC",
+    "job_title": "Director, Health Policy",
+    "company": "Washington, DC, USA",
+    "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
+    "posted_time": "Sep 29, 2026",
+    "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.900487"
+    "scraped_at": "2026-09-30T17:30:26.127773"
   },
   {
-    "job_title": "Manager, Government Affairs",
-    "company": "New",
-    "location": "Washington, DC",
-    "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.900680"
-  },
-  {
-    "job_title": "Associate, Federal Government Relations",
-    "company": "New",
-    "location": "Washington, DC",
-    "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.900872"
-  },
-  {
-    "job_title": "Director, Federal Government Relations",
-    "company": "New",
-    "location": "Washington, District of Columbia, United States",
-    "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.901064"
-  },
-  {
-    "job_title": "Government Affairs Intern",
-    "company": "New",
-    "location": "Washington, District of Columbia, United States",
-    "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.901306"
-  },
-  {
-    "job_title": "Manager of Government Affairs",
-    "company": "New",
-    "location": "Washington, District of Columbia, United States",
-    "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.901508"
-  },
-  {
-    "job_title": "Congressional Lead",
-    "company": "New",
-    "location": "Washington, DC",
-    "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
-    "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.901702"
-  },
-  {
-    "job_title": "Government Relations Associate",
-    "company": "New",
+    "job_title": "Vice President of Media Engagement",
+    "company": "Washington, D.C.",
     "location": "Washington, D.C.",
     "salary": "Not Listed",
-    "posted_time": "3 hours ago",
-    "is_new": true,
+    "posted_time": "Sep 28, 2026",
+    "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.901892"
+    "scraped_at": "2026-09-30T17:30:26.128003"
   },
   {
-    "job_title": "Senior Manager, U.S. Federal Government Relations Advocacy",
+    "job_title": "Senior Associate, Broadband Initiative",
+    "company": "Washington, DC, USA",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Sep 28, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.128229"
+  },
+  {
+    "job_title": "Manager Government Relations & Grassroots Advocacy",
+    "company": "Washington, DC, USA",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Sep 28, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.128477"
+  },
+  {
+    "job_title": "Director - U.S. Public Policy",
+    "company": "New",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.128675"
+  },
+  {
+    "job_title": "Spring 2027 Legislative Internship",
+    "company": "New",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.128870"
+  },
+  {
+    "job_title": "Government Affairs Manager",
+    "company": "New",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.129065"
+  },
+  {
+    "job_title": "Vice President, Federal Government Affairs",
     "company": "New",
     "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "3 hours ago",
+    "posted_time": "4 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.902084"
+    "scraped_at": "2026-09-30T17:30:26.129264"
   },
   {
-    "job_title": "Global Public Policy and Strategy Manager",
+    "job_title": "Sr Manager, State Government Affairs",
+    "company": "New",
+    "location": "Remote Hybrid within Central Region, Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.129475"
+  },
+  {
+    "job_title": "Director, Government Relations - Regulatory",
+    "company": "New",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.129675"
+  },
+  {
+    "job_title": "Director of Government Affairs",
     "company": "New",
     "location": "N/A",
     "salary": "Not Listed",
-    "posted_time": "3 hours ago",
+    "posted_time": "4 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-09-23T15:59:16.902476"
+    "scraped_at": "2026-09-30T17:30:26.130215"
+  },
+  {
+    "job_title": "Manager, Federal Government Relations (Legislative Branch)",
+    "company": "New",
+    "location": "N/A",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.130486"
+  },
+  {
+    "job_title": "Manager, Federal Government Relations - (Washington, DC-based role)",
+    "company": "New",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.130687"
+  },
+  {
+    "job_title": "Government Relations Intern",
+    "company": "New",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "4 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:26.130885"
+  },
+  {
+    "job_title": "National Security Paralegal",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.516720"
+  },
+  {
+    "job_title": "Chief Strategy and External Affairs Officer",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.516967"
+  },
+  {
+    "job_title": "Counterproliferation All-Source Intelligence Analyst",
+    "company": "Reston, VA",
+    "location": "Reston, VA",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.517246"
+  },
+  {
+    "job_title": "Communications Coordinator",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.517496"
+  },
+  {
+    "job_title": "Space Defense Mission Analyst",
+    "company": "Arlington, VA",
+    "location": "Arlington, VA",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.517770"
+  },
+  {
+    "job_title": "Director, Individual Giving",
+    "company": "Washington",
+    "location": "Washington",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.518000"
+  },
+  {
+    "job_title": "Manager for Development Operations",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.518231"
+  },
+  {
+    "job_title": "Development Assistant",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.518486"
+  },
+  {
+    "job_title": "Program Associate",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 4, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.518716"
+  },
+  {
+    "job_title": "Special Assistant",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 1, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.518945"
+  },
+  {
+    "job_title": "Senior Policy Advisor",
+    "company": "Washington, DC, USA",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Aug 31, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.519178"
+  },
+  {
+    "job_title": "Executive Assistant and Operation Manager",
+    "company": "Washington, DC, USA",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Aug 31, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.519422"
+  },
+  {
+    "job_title": "Manager, Federal Government Relations",
+    "company": "Washington, District of Columbia, United States",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.519655"
+  },
+  {
+    "job_title": "SVP, Government Relations",
+    "company": "Washington, District of Columbia, United States",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.519880"
+  },
+  {
+    "job_title": "Director, Government Relations",
+    "company": "Herndon",
+    "location": "N/A",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.520148"
+  },
+  {
+    "job_title": "Director of Congressional Affairs",
+    "company": "Washington",
+    "location": "Washington",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.520456"
+  },
+  {
+    "job_title": "Manager of Government Affairs",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.520695"
+  },
+  {
+    "job_title": "VP, Government Affairs",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.520925"
+  },
+  {
+    "job_title": "Director, Government Relations",
+    "company": "Herndon, VA",
+    "location": "Herndon, VA",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.521192"
+  },
+  {
+    "job_title": "Political Programs Content Manager",
+    "company": "Arlington, VA",
+    "location": "Arlington, VA",
+    "salary": "Not Listed",
+    "posted_time": "Sep 3, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-09-30T17:30:30.521477"
   }
 ]

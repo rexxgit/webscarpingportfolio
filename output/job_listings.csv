@@ -1,21 +1,41 @@
 job_title,company,location,salary,posted_time,is_new,job_url,scraped_at
-Director of Engagement and Coalitions,New,"Washington, DC, USA",Not Listed,14 minutes ago,True,,2026-09-23T15:59:16.897899
-Operations Coordinator,New,"Washington, DC, USA",Not Listed,17 hours ago,True,,2026-09-23T15:59:16.898130
-Policy Advisor,New,"Washington, DC, USA",Not Listed,a day ago,True,,2026-09-23T15:59:16.898365
-Operations Manager,"Washington, District of Columbia, United States","Washington, District of Columbia, United States",Not Listed,"Sep 21, 2026",False,,2026-09-23T15:59:16.898616
-Senior Director of Membership Growth and Engagement,"Alexandria, VA, USA","Alexandria, VA, USA",Not Listed,"Sep 21, 2026",False,,2026-09-23T15:59:16.898887
-Director of Advocacy and Communications,"Alexandria, VA","Alexandria, VA",Not Listed,"Sep 21, 2026",False,,2026-09-23T15:59:16.899355
-Senior Director of Development and Executive Initiatives,"Alexandria, VA","Alexandria, VA",Not Listed,"Sep 21, 2026",False,,2026-09-23T15:59:16.899633
-Director of Operations,"Washington, DC, USA","Washington, DC, USA",Not Listed,"Sep 18, 2026",False,,2026-09-23T15:59:16.899867
-Winter Internship ($18/hour),New,"Washington, DC, USA",$18,a day ago,True,,2026-09-23T15:59:16.900068
-U.S. Congressional Liaison Officer,New,"Washington, DC",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.900289
-"Manager, Federal Government Relations",New,"Washington, DC",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.900487
-"Manager, Government Affairs",New,"Washington, DC",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.900680
-"Associate, Federal Government Relations",New,"Washington, DC",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.900872
-"Director, Federal Government Relations",New,"Washington, District of Columbia, United States",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.901064
-Government Affairs Intern,New,"Washington, District of Columbia, United States",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.901306
-Manager of Government Affairs,New,"Washington, District of Columbia, United States",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.901508
-Congressional Lead,New,"Washington, DC",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.901702
-Government Relations Associate,New,"Washington, D.C.",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.901892
-"Senior Manager, U.S. Federal Government Relations Advocacy",New,"Washington, DC",Not Listed,3 hours ago,True,,2026-09-23T15:59:16.902084
-Global Public Policy and Strategy Manager,New,N/A,Not Listed,3 hours ago,True,,2026-09-23T15:59:16.902476
+Manager: Government Relations,New,"Washington, DC, USA",Not Listed,an hour ago,True,,2026-09-30T17:30:26.126391
+Vice President of Philanthropy,New,"Washington, DC, USA",Not Listed,3 hours ago,True,,2026-09-30T17:30:26.126618
+"Principal Associate, Field Operations",New,"Washington, DC, USA",Not Listed,a day ago,True,,2026-09-30T17:30:26.126824
+Policy & Outreach Manager,New,"Washington, DC, USA",Not Listed,a day ago,True,,2026-09-30T17:30:26.127031
+Development Manager,"Washington, DC, USA","Washington, DC, USA",Not Listed,"Sep 29, 2026",False,,2026-09-30T17:30:26.127273
+Global Health Fellow,"Washington, DC, USA","Washington, DC, USA",Not Listed,"Sep 29, 2026",False,,2026-09-30T17:30:26.127540
+"Director, Health Policy","Washington, DC, USA","Washington, DC, USA",Not Listed,"Sep 29, 2026",False,,2026-09-30T17:30:26.127773
+Vice President of Media Engagement,"Washington, D.C.","Washington, D.C.",Not Listed,"Sep 28, 2026",False,,2026-09-30T17:30:26.128003
+"Senior Associate, Broadband Initiative","Washington, DC, USA","Washington, DC, USA",Not Listed,"Sep 28, 2026",False,,2026-09-30T17:30:26.128229
+Manager Government Relations & Grassroots Advocacy,"Washington, DC, USA","Washington, DC, USA",Not Listed,"Sep 28, 2026",False,,2026-09-30T17:30:26.128477
+Director - U.S. Public Policy,New,"Washington, District of Columbia, United States",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.128675
+Spring 2027 Legislative Internship,New,"Washington, District of Columbia, United States",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.128870
+Government Affairs Manager,New,"Washington, District of Columbia, United States",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.129065
+"Vice President, Federal Government Affairs",New,"Washington, DC",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.129264
+"Sr Manager, State Government Affairs",New,"Remote Hybrid within Central Region, Washington, DC",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.129475
+"Director, Government Relations - Regulatory",New,"Washington, District of Columbia, United States",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.129675
+Director of Government Affairs,New,N/A,Not Listed,4 hours ago,True,,2026-09-30T17:30:26.130215
+"Manager, Federal Government Relations (Legislative Branch)",New,N/A,Not Listed,4 hours ago,True,,2026-09-30T17:30:26.130486
+"Manager, Federal Government Relations - (Washington, DC-based role)",New,"Washington, District of Columbia, United States",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.130687
+Government Relations Intern,New,"Washington, DC",Not Listed,4 hours ago,True,,2026-09-30T17:30:26.130885
+National Security Paralegal,"Washington, DC","Washington, DC",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.516720
+Chief Strategy and External Affairs Officer,"Washington, DC","Washington, DC",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.516967
+Counterproliferation All-Source Intelligence Analyst,"Reston, VA","Reston, VA",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.517246
+Communications Coordinator,"Washington, DC","Washington, DC",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.517496
+Space Defense Mission Analyst,"Arlington, VA","Arlington, VA",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.517770
+"Director, Individual Giving",Washington,Washington,Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.518000
+Manager for Development Operations,"Washington, DC","Washington, DC",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.518231
+Development Assistant,"Washington, DC","Washington, DC",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.518486
+Program Associate,"Washington, DC","Washington, DC",Not Listed,"Sep 4, 2026",False,,2026-09-30T17:30:30.518716
+Special Assistant,"Washington, DC","Washington, DC",Not Listed,"Sep 1, 2026",False,,2026-09-30T17:30:30.518945
+Senior Policy Advisor,"Washington, DC, USA","Washington, DC, USA",Not Listed,"Aug 31, 2026",False,,2026-09-30T17:30:30.519178
+Executive Assistant and Operation Manager,"Washington, DC, USA","Washington, DC, USA",Not Listed,"Aug 31, 2026",False,,2026-09-30T17:30:30.519422
+"Manager, Federal Government Relations","Washington, District of Columbia, United States","Washington, District of Columbia, United States",Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.519655
+"SVP, Government Relations","Washington, District of Columbia, United States","Washington, District of Columbia, United States",Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.519880
+"Director, Government Relations",Herndon,N/A,Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.520148
+Director of Congressional Affairs,Washington,Washington,Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.520456
+Manager of Government Affairs,"Washington, DC","Washington, DC",Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.520695
+"VP, Government Affairs","Washington, DC","Washington, DC",Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.520925
+"Director, Government Relations","Herndon, VA","Herndon, VA",Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.521192
+Political Programs Content Manager,"Arlington, VA","Arlington, VA",Not Listed,"Sep 3, 2026",False,,2026-09-30T17:30:30.521477
