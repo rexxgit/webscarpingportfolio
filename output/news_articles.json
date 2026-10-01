@@ -1,12 +1,21 @@
 [
   {
+    "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-01T05:00:00-07:00",
+    "summary": "N/A",
+    "content": "The way Rama Afullo tells it, he saw orbital data centers coming. The Kenyan American engineer previously worked in Google’s cloud computing business before a brief stint at SpaceX’s Starlink communications network in 2024. His experiences convinced him that there was untapped potential for computers in space. “When I was at SpaceX, I tried to pitch this internally. They said no. When I was at Google, I tried to pitch this internally. They said no,” he tells TechCrunch. So he left SpaceX and co-founded Satlyt, a new company with headquarters in Sunnyvale, California, and Nairobi, to build software for satellites that he hopes will let many satellites share the work of large computing jobs in space. The company has raised an $8 million seed round, Afullo exclusively told TechCrunch. The timing looks good for him. SpaceX has since gone all-in on orbital data centers, and Satlyt’s software is set to launch Thursday on a SpaceX rocket alongside the first prototype for Google’s space data center effort, Project Suncatcher. Unlike SpaceX, Google, or startups like Starcloud and Cowboy Space Company, Satlyt isn’t planning to build its own spacecraft. Afullo’s team is building the software to operate AI models on satellites, comparing his approach to VMWare and Snowflake—companies whose platforms let users run complex software without worrying about the underlying infrastructure. “The folks like SpaceX who are doing orbital data centers—if they are the iPhone, we’ll build Android as a horizontally integrated, open ecosystem,” he said. In other words, Satlyt wants to offer software that works across many companies’ satellites. Satlyt has already flown its software on two demonstration missions. The initial focus is finding operational efficiencies for spacecraft, which typically depend on flight controllers on the ground to solve any problems that arise. Sending data back to Earth, known as downlink, is expensive and often slow, so using AI to make decisions on the spacecraft",
+    "article_link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "scraped_at": "2026-10-01T12:57:19.452083"
+  },
+  {
     "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "author": "Lucas Ropek",
     "date_time": "2026-09-30T16:43:07-07:00",
     "summary": "N/A",
     "content": "Google parent company Alphabet has launched Gemini 4 Argon, a new AI model built to handle a variety of tasks such as coding, research, and writing. But it’s cybersecurity that Gemini 4 Argon is supposed to have a particular knack for, according to Google. Argon is only being rolled out to a select group of the company’s cyber partners through its Fairwind Program, Google’s security initiative. The model was trained specifically for defensive cyber work, and the company says it can “autonomously find, validate, and patch critical software vulnerabilities.” Argon is also said to be good at coding and engineering, with the company noting that its own staff have already been using the model for their daily work, including debugging and codebase migrations. Google also touts Argon’s ability to parse visuals — whether that’s analyzing the contents of long videos or charts. “Built to sustain deep reasoning across complex, long-horizon workflows, Argon is fundamentally changing the way we work and build at Google,” the company said in a blog post Wednesday. Top AI labs have rushed to release increasingly powerful models, attempting to outdo each other even as those very same firms warn that AI could spin out of control. Not long ago, OpenAI released Astra — which it hailed as its best model yet. Earlier this year, Anthropic’s Fable was also released with similar rhetoric from the company. Firms have done their best to market their services as superior to their competitors. In its blog, Google claims that Argon scored significantly higher than OpenAI’s GPT-6 Astra and Anthropic’s Fable and Opus models across a variety of AI benchmarks. It cites Vals — an increasingly popular AI benchmarking startup — to show that Argon is currently the leading model on the company’s AI model index. Once considered “behind” in the AI race, Google has recently enjoyed success with Gemini. The company announced in August that its app had over a billion users per month, a metric that makes it c",
     "article_link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "scraped_at": "2026-10-01T05:29:05.766978"
+    "scraped_at": "2026-10-01T12:57:20.602611"
   },
   {
     "headline": "The AI race won’t wait, and neither will this TechCrunch Disrupt 25% discount",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Every founder building in AI right now is asking the same question: Are we moving fast enough, and effectively enough? TechCrunch Disrupt 2026 puts you in the same room as the people wrestling with that existential question at the highest levels. From October 13-15 in San Francisco, leaders from OpenAI, Nvidia, Anthropic, Microsoft, and more will share their insights as thousands of startup community members network. For a limited time, get 25% off your pass with code DISRUPT25 at checkout. Prices go up as the event gets closer, so this is the moment to lock in your registration. The AI race isn’t slowing down, but the founders often winning it aren’t the loudest — they’re the ones building something that holds up past the initial ideas and demos. Disrupt is where you find those breakthroughs before everyone else does, and where you figure out what building sustainably actually looks like when the underlying technology is changing every quarter. For founders, this means incredible learning and networking opportunities. For Investors, it’s a chance to get in ahead in the tech ecosystem. And for startup operators and nascent entrepreneurs, the connections that can create your next opportunity await. Programming runs across six industry stages, roundtables, and breakout sessions, with 250+ of our headlining Disrupt speakers — including Replit CEO Amjad Masad, Rivian CEO RJ Scaringe, Amazon SVP of Devices and Services Panos Panay, and Mark Wahlberg — providing insights and reveals you can only find at Disrupt this year. The AI Stage is where many of the more utility-focused conversations will take place. Anthropic’s Head of Applied AI Cat de Jong will take a deep dive into AI in the enterprise, Okta and NanoCo will lead a session on AI security, and more. That’s on top of the Real World AI and Smart Systems Stages for additional AI expertise. Across three days, you get more than 200 sessions and 250 speakers spanning AI, fintech, biotech, robotics, climate tech, and cyb",
     "article_link": "https://techcrunch.com/2026/09/30/the-ai-race-wont-wait-and-neither-will-this-techcrunch-disrupt-25-discount/",
-    "scraped_at": "2026-10-01T05:29:07.261575"
+    "scraped_at": "2026-10-01T12:57:22.415090"
   },
   {
     "headline": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "author": "Julie Bort",
     "date_time": "2026-09-30T14:07:40-07:00",
     "summary": "N/A",
-    "content": "Flow Engineering, a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners (best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s companies and others like AI chipmaker Cerebras). Sequoia Capital, which led Flow’s Series A round last October, also participated, as did former Sequoia partner Roelof Botha, who invested as an individual investor. Botha has joined Flow’s board, too. Three-year-old, San Francisco-based Flow is tackling the difficulties of hardware design by offering AI agents that automatically align CAD drawings with product requirements, simulation results, and other testing. It names Anduril, Rivian, Joby Aviation, General Motors PPU (a joint venture between General Motors and TWG Motorsports), RV Tech (a Rivian and Volkswagen joint venture), Stoke Space, and others, as customers.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "scraped_at": "2026-10-01T05:29:08.874254"
+    "scraped_at": "2026-10-01T12:57:22.417239"
   },
   {
     "headline": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "scraped_at": "2026-10-01T05:29:08.875814"
+    "scraped_at": "2026-10-01T12:57:22.418425"
   },
   {
     "headline": "AI voice startup ElevenLabs doubles valuation to $22B",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "scraped_at": "2026-10-01T05:29:08.876715"
+    "scraped_at": "2026-10-01T12:57:22.419685"
   },
   {
     "headline": "Reddit is killing RSS feeds and ending public API access because of AI bots",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "scraped_at": "2026-10-01T05:29:08.877562"
+    "scraped_at": "2026-10-01T12:57:22.420883"
   },
   {
     "headline": "The ugly economics of consumer AI",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "scraped_at": "2026-10-01T05:29:08.878416"
+    "scraped_at": "2026-10-01T12:57:22.422078"
   },
   {
     "headline": "Meta disputes claim that Muse read a user’s private messages without permission",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "scraped_at": "2026-10-01T05:29:08.879260"
+    "scraped_at": "2026-10-01T12:57:22.423325"
   },
   {
     "headline": "DoorDash launches an AI agent you can text to order food",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "scraped_at": "2026-10-01T05:29:08.880147"
-  },
-  {
-    "headline": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "author": "Tim Fernholz",
-    "date_time": "2026-09-30T09:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "scraped_at": "2026-10-01T05:29:08.881036"
+    "scraped_at": "2026-10-01T12:57:22.424597"
   }
 ]
