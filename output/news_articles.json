@@ -1,30 +1,39 @@
 [
   {
+    "headline": "Meta wants your next gadget to be Muse-infused",
+    "author": "Kirsten Korosec",
+    "date_time": "2026-10-02T17:45:39-07:00",
+    "summary": "N/A",
+    "content": "Meta’s Muse, a personal AI agent that books travel, fills out forms, and shops on a user’s behalf, has already proven popular with the masses, but a new side project could be particularly alluring to tinkerers and hackers. On Friday, the company introduced Muse Gadgets, an open-source project that lets developers build their own hardware that connects to Muse. Meta is providing open-source firmware (the low-level software that runs a device), and a Linux software development kit (SDK), along with a few project ideas to get users started. These include giving Muse a color e-ink display or loading it onto a stick that plugs into a TV’s HDMI port. There don’t appear to be many limits, either. Users can set up a low-cost hobbyist computer like a Raspberry Pi or an off-the-shelf ESP32 board, and then connect Muse “to your displays, buttons, sensors, actuators, and whatever else you’ve got lying on your workbench,” Meta notes. The company has also set up a Discord channel to support users. Meta has already tried the code itself, naturally. Nat Friedman, head of product at Meta’s Superintelligence Labs, said in a post on X that the company built a gadget called Muse Home Link. The USB-C-powered device lets Muse connect to a home network and talk to the smart devices on it, including speakers and smart TVs. Meta made 5,000 of these Home Links, in fact, and is giving them away for free to Muse subscribers while supplies last, according to Friedman. Considering Friedman’s post about Home Link received nearly 30,000 views in a few hours, we’re guessing those freebies have been claimed. Friedman said Home Link would be ready to ship a few weeks. Muse Gadgets may not have wide appeal, but it fits nicely into Meta’s all-in strategy to make Muse more than a standalone chatbot. Meta isn’t content to push Muse on everyday consumers; it’s also trying to woo small businesses and enterprises. The company earlier this week introduced Muse for Small Business, which is free with usage lim",
+    "article_link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "scraped_at": "2026-10-03T04:59:50.157853"
+  },
+  {
     "headline": "Sean Parker is rebuilding Stability AI around music",
     "author": "Connie Loizos",
     "date_time": "2026-10-02T14:09:14-07:00",
     "summary": "N/A",
     "content": "Sean Parker, the Napster co-founder, has jumped back into the music industry, and he tells The Information that he’s playing by the rules this time. (Asking for forgiveness rather than permission didn’t work out so well last time around, he readily concedes.) Two years ago, he joined an $80 million rescue of Stability AI, the image-generator startup that nearly collapsed after overspending and internal turmoil led to founder Emad Mostaque’s ouster. Now Parker and his longtime friend Prem Akkaraju, who became CEO, are taking the wraps off what they’ve been building. The big idea, Parker says, is to turn Stability into the go-to AI toolmaker for music professionals. Toward that end, in late August, the company announced $76 million in funding from, among others, Sony, Warner, and Universal, which also licensed their catalogs for training as part of the deal. Stability has since released three new audio models and AI music-editing software. The AI can generate whole instrumental tracks or short snippets from text prompts. Parker says an upcoming update will let users hum a melody or beatbox a drum pattern to steer it.",
     "article_link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "scraped_at": "2026-10-02T22:04:02.002954"
+    "scraped_at": "2026-10-03T04:59:52.151112"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-10-02T12:15:51-07:00",
     "summary": "N/A",
-    "content": "Get your exhibit table before today ends. Be at the center of the startup ecosystem & 10K tech leaders. Book here. Get your exhibit table by Oct. 2. Be at the center of the startup ecosystem and 10K tech leaders. Book here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Choose the ticket type that fits you before all prices increase at the door on October 13 Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders.",
+    "content": "Save up to $100 on your pass. Get a second pass at 50% off. Register here. Save up to $100 on your pass. Get a second pass at 50% off. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Choose the ticket type that fits you before all prices increase at the door on October 13 Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders.",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-02T22:04:03.892519"
+    "scraped_at": "2026-10-03T04:59:53.985822"
   },
   {
     "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "author": "Sarah Perez",
     "date_time": "2026-10-02T11:11:27-07:00",
     "summary": "N/A",
-    "content": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — a claim that Meta disputed — Apple announced that it’s introducing additional controls around a setting called “Full Disk Access” on macOS. The feature was designed to allow backups to function properly, but AI agents have now increased “the risks associated with this level of access,” Apple said. Apple’s statement comes shortly after Inc. columnist Jason Aten reported that Muse knew the content of his private messages — even though he claimed to have not given the AI agent permission. The report raised questions about the level of security and trust users have in desktop-based AI, which can control things on their systems and read their files and messages. The decision to limit the Mac feature also comes after a Wired report cited that a flaw in ChatGPT’s Mac app could have allowed hackers to access sensitive data. AI agents that run on the desktop allow users to provide their respective apps with greater access to the files, messages, and other personal content on their computers by adjusting macOS settings. In Muse’s case, the AI optionally allows users to enable Full Disk Access. This setting, Apple explains, gives an app permission to access files, mail, messages, and even browsing history. “Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems…without users’ full knowledge and understanding,” Apple said in a new blog post aimed at developers. The company says that, going forward, it will introduce new controls aimed at ensuring that users who “genuinely wish to grant an app this extraordinary level of access” can do so only with “very explicit user action.” “Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "scraped_at": "2026-10-02T22:04:05.392235"
+    "scraped_at": "2026-10-03T04:59:53.987972"
   },
   {
     "headline": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "scraped_at": "2026-10-02T22:04:05.394946"
+    "scraped_at": "2026-10-03T04:59:53.989942"
   },
   {
     "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "scraped_at": "2026-10-02T22:04:05.396330"
+    "scraped_at": "2026-10-03T04:59:53.991391"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-02T22:04:05.397528"
+    "scraped_at": "2026-10-03T04:59:53.992650"
   },
   {
     "headline": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-    "scraped_at": "2026-10-02T22:04:05.398723"
+    "scraped_at": "2026-10-03T04:59:53.993883"
   },
   {
     "headline": "Pope Leo XIV is not a fan of AI-generated art",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "scraped_at": "2026-10-02T22:04:05.399970"
+    "scraped_at": "2026-10-03T04:59:53.995204"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-02T22:04:05.401144"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-10-02T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-02T22:04:05.402340"
+    "scraped_at": "2026-10-03T04:59:53.996440"
   }
 ]
