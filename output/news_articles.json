@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-04T13:31:07-07:00",
+    "summary": "N/A",
+    "content": "Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year. Last year, TechCrunch reported that cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software. In posts on X and the program website, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027. According to Tom’s Hardware, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations. “This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said. In the meantime, participants are encouraged to consider Google’s other bug bounty programs.",
+    "article_link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "scraped_at": "2026-10-04T21:11:16.701317"
+  },
+  {
+    "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-04T13:08:34-07:00",
+    "summary": "N/A",
+    "content": "President Donald Trump hosted many of the biggest names in artificial intelligence this week — in part to announce that the U.S. government isn’t calling it artificial intelligence anymore. Now it’s super intelligence. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the motivation behind the meeting and what effect it might have on the AI industry. We were all pretty skeptical that the “Joint Commitment on Frontier Responsibilities” that the executives signed will amount to much, especially since — as Sean noted — it’s “deeply non-binding,” at least from a legal prospective. (Instead, Trump said he considers it “morally binding.”) Kirsten suggested that the meeting’s real significance may have been as “a rebranding effort around AI.” (An effort that continued this weekend with Trump’s announcement of a new Super Intelligence Force.) For her, the big message was, “AI is going to kill us, it’s scary, it is going to take jobs — but super intelligence is not.” Keep reading for a preview of our conversation, edited for length and clarity. Anthony Ha: Officially, by order of the president of the United States, it’s not artificial intelligence anymore, it’s super intelligence. We were talking about this last week, because this is something [Trump has] been hinting at — he doesn’t do hints, he’s been saying [it] for a while. But now it’s signed into executive order. If you’re an official U.S. representative, you are supposed to say super intelligence, not artificial intelligence. And this was also part of this broader announcement around AI safety, which I think is both interesting for this pact that was announced, but also the fact that it happened at all. It seemed to have come together fairly quickly, because just two weeks ago, a week ago, President Trump was saying, “We don’t need any of this, we need to lead in AI, we can’t constrain it in any way, we don’t need any regulation, anyone who’s saying that there’s any da",
+    "article_link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "scraped_at": "2026-10-04T21:11:18.179113"
+  },
+  {
+    "headline": "Trump unveils his new Super Intelligence Force",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-04T08:15:10-07:00",
+    "summary": "N/A",
+    "content": "As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration. “The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans,” Trump said in a Sunday morning post on his social network Truth Social. Back in September, in response to an AI safety debate that the president has largely dismissed as a hoax created by “Radical Left Dumocrats,” Trump said he would nevertheless form an AI Force and appoint an AI czar (“Only High I.Q. individuals need apply!”). Since then, Trump signed an executive order seeking to rebrand AI as “super intelligence,” a term seemingly embraced, with some stumbles, by the tech executives who gathered at the White House this week to sign a non-binding safety pledge. (The pledge included an impressive typo.) So it’s only natural that Trump’s new task force is named in accordance with this new branding. The Wall Street Journal reports that Clayton will chair the Super Intelligence Force, effectively making him the new AI/SI czar, with Federal Trade Commission Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor serving as vice chairs. The task force will reportedly have 120 days to create a report on the risks and opportunities presented by AI. Clayton, who previously said that it would be irresponsible for the United States to “back away” from AI while countries like China advance, made similar comments to the WSJ, insisting that one of the biggest risks is “not being first.” The task force’s charter reportedly says that it will “develop plans for responding t",
+    "article_link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "scraped_at": "2026-10-04T21:11:19.406360"
+  },
+  {
     "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
     "author": "Anthony Ha",
     "date_time": "2026-10-03T11:43:57-07:00",
     "summary": "N/A",
-    "content": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers. Garman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities. NDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.” As a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States. “If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.” Garman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities. Pointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.” Nvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore th",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "scraped_at": "2026-10-04T12:10:30.022029"
+    "scraped_at": "2026-10-04T21:11:19.408432"
   },
   {
     "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "author": "Anthony Ha",
     "date_time": "2026-10-03T09:30:01-07:00",
     "summary": "N/A",
-    "content": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job. In an essay published in The Atlantic, Robinson said he led the writing of safety reports that accompanied OpenAI’s major product launches. He also said that with three-and-a-half years at OpenAI, he is “among the longest-tenured employees at the company.” Now he’s quitting, because in his view, the company’s “culture is broken.” In some ways, Robinson’s comments echo those of Jacob Coxon, who worked as a researcher at both OpenAI and Anthropic before quitting and declaring that these companies are “gambling with our lives.” Coxon’s comments led to a broader debate about AI safety, with Anthropic CEO Dario Amodei unveiling a plan for more cautious AI development; AI executives met with President Donald Trump this week and signed what appeared to be hastily written, non-binding  pledge to implement more safety controls. But in Robinson’s view, the debate needs to go beyond “specific rules or new laws,” addressing the overall culture at these companies. And while much of the reporting around OpenAI has focused on how the company’s CEO Sam Altman lost the trust of former colleagues, Robinson’s essay suggests that OpenAI’s culture issues are the same as those of Silicon Valley at large. “OpenAI has thrived by trial and error (which it calls ‘iterative deployment’), looking for problems and improving its guardrails in response,” he wrote. “But this approach, by its very nature, guarantees periodic failures — and the scale of those failures is growing as systems get more capable.” Pointing to the recent breach of Hugging Face systems by OpenAI agents, as well as continuing revelations of OpenAI discovering more rogue agents, Robinson argued, “An environment where things like this can happen is no place to grow artificial minds that could be smarter than we are and that might not do what we want them to.” Given the i",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "scraped_at": "2026-10-04T12:10:31.851870"
+    "scraped_at": "2026-10-04T21:11:19.409681"
   },
   {
     "headline": "All the AI agents that can live in your text messages",
     "author": "Lauren Forristal",
     "date_time": "2026-10-03T07:00:00-07:00",
     "summary": "N/A",
-    "content": "Rather than downloading another app, a growing number of agents can simply be texted like an ordinary person. You text it what you need, and it can remember context, connect to the apps and services you already use, and complete tasks on your behalf. That can mean scheduling an appointment, organizing a calendar, researching a trip, sending an email, making a reservation, shopping online, or reminding you about something days later. While Instinct is one of the buzziest AI agents at present, thanks to its $10 billion valuation after its latest funding round of $1 billion, there are many others also making a play for this space. Below are some of the most notable options so far, from general-purpose personal assistants to agents designed for families, travel, and work. Caddy is an AI assistant that turns the information scattered across your phone into things you can actually act on. It lives in iMessage for iPhone users and RCS for Android users, so there’s no separate app or inbox to constantly check. For instance, an email contains an appointment that needs to be added to your calendar or a friend sends a list of things to pick up. Instead of worrying about all the details getting buried, Caddy connects to your calendars and conversations, then identifies things that may require action. It can add events to your calendar, set reminders, keep track of follow-ups, and even do research for you. Caddy has been available in public beta since April 2026. Fambot is an AI-powered “chief of staff” for families, designed to bring together the many moving parts of family life, including school communications, sports activities, meal planning, calendars, and other day-to-day responsibilities, and turn them into an organized plan. The service is designed to work across both an app and text messages. Fambot is available on iOS devices, Android devices, and the web, and families can also interact with it directly over SMS. Every night, Fambot automatically sends a summary of the",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "scraped_at": "2026-10-04T12:10:33.328084"
+    "scraped_at": "2026-10-04T21:11:19.410930"
   },
   {
     "headline": "Meta wants your next gadget to be Muse-infused",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "scraped_at": "2026-10-04T12:10:33.330134"
+    "scraped_at": "2026-10-04T21:11:19.412161"
   },
   {
     "headline": "Sean Parker is rebuilding Stability AI around music",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "scraped_at": "2026-10-04T12:10:33.331412"
+    "scraped_at": "2026-10-04T21:11:19.413459"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-04T12:10:33.332617"
+    "scraped_at": "2026-10-04T21:11:19.414684"
   },
   {
     "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "scraped_at": "2026-10-04T12:10:33.333845"
-  },
-  {
-    "headline": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "author": "Theresa Loconsolo\nAnthony Ha\nSean O'Kane\nKirsten Korosec",
-    "date_time": "2026-10-02T10:56:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "scraped_at": "2026-10-04T12:10:33.335746"
-  },
-  {
-    "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "author": "Theresa Loconsolo",
-    "date_time": "2026-10-02T10:48:16-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "scraped_at": "2026-10-04T12:10:33.337146"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-10-02T10:32:05-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-04T12:10:33.338371"
+    "scraped_at": "2026-10-04T21:11:19.415930"
   }
 ]
