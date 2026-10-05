@@ -1,0 +1,202 @@
+[
+  {
+    "address": "2500 5th Avenue SW, Austin, MN 55912",
+    "price_aud": "AUD $488,239",
+    "price_usd": "AUD $488,239",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-10-05T19:54:57.996777"
+  },
+  {
+    "address": "1657 Century Ridge Lane NE, Rochester, MN 55906",
+    "price_aud": "AUD $897,763",
+    "price_usd": "AUD $897,763",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.996943"
+  },
+  {
+    "address": "5201 W 84th Street, Bloomington, MN 55437",
+    "price_aud": "AUD $538,658",
+    "price_usd": "AUD $538,658",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.997074"
+  },
+  {
+    "address": "3152 Webster Avenue S, Saint Louis Park, MN 55416",
+    "price_aud": "AUD $415,125",
+    "price_usd": "AUD $415,125",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-05T19:54:57.997211"
+  },
+  {
+    "address": "9745 31st Street NE, Saint Michael, MN 55376",
+    "price_aud": "AUD $560,060",
+    "price_usd": "AUD $560,060",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.997342"
+  },
+  {
+    "address": "3087 Jandura Avenue NE, Saint Michael, MN 55376",
+    "price_aud": "AUD $693,647",
+    "price_usd": "AUD $693,647",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.997469"
+  },
+  {
+    "address": "4227 Mangy Moose Trail NW Unit 10, Backus, MN 56435",
+    "price_aud": "AUD $157,863",
+    "price_usd": "AUD $157,863",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-10-05T19:54:57.997599"
+  },
+  {
+    "address": "1693 Eastburn Road NE, Outing, MN 56672",
+    "price_aud": "AUD $696,664",
+    "price_usd": "AUD $696,664",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-05T19:54:57.997727"
+  },
+  {
+    "address": "6771 Bullseye Drive SW, Alexandria, MN 56308",
+    "price_aud": "AUD $215,319",
+    "price_usd": "AUD $215,319",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-10-05T19:54:57.997880"
+  },
+  {
+    "address": "5354 Highway 212, Granite Falls, MN 56241",
+    "price_aud": "AUD $251,374",
+    "price_usd": "AUD $251,374",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-10-05T19:54:57.998017"
+  },
+  {
+    "address": "14930 Waco Street NW, Ramsey, MN 55303",
+    "price_aud": "AUD $632,025",
+    "price_usd": "AUD $632,025",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.998145"
+  },
+  {
+    "address": "18064 84th Avenue N, Maple Grove, MN 55311",
+    "price_aud": "AUD $718,066",
+    "price_usd": "AUD $718,066",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.998271"
+  },
+  {
+    "address": "15 Hemlock Cir, Babbitt, MN 55706",
+    "price_aud": "AUD $172,370",
+    "price_usd": "AUD $172,370",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-10-05T19:54:57.998399"
+  },
+  {
+    "address": "13485 County Road 43, Cologne, MN 55322",
+    "price_aud": "AUD $349,050",
+    "price_usd": "AUD $349,050",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-10-05T19:54:57.998528"
+  },
+  {
+    "address": "422 2nd Street SW, Clara City, MN 56222",
+    "price_aud": "AUD $215,463",
+    "price_usd": "AUD $215,463",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "timestamp": "2026-10-05T19:54:57.998650"
+  },
+  {
+    "address": "8106 Groveland Road, Mounds View, MN 55112",
+    "price_aud": "AUD $639,207",
+    "price_usd": "AUD $639,207",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.998772"
+  },
+  {
+    "address": "816 Whitetail Lane, Detroit Lakes, MN 56501",
+    "price_aud": "AUD $659,317",
+    "price_usd": "AUD $659,317",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-05T19:54:57.998948"
+  },
+  {
+    "address": "1593 Schmitz Rd., Carlton, MN 55718",
+    "price_aud": "AUD $617,517",
+    "price_usd": "AUD $617,517",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.999079"
+  },
+  {
+    "address": "16497 Franklin Trail SE, Prior Lake, MN 55372",
+    "price_aud": "AUD $545,696",
+    "price_usd": "AUD $545,696",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-05T19:54:57.999205"
+  },
+  {
+    "address": "3809 28th Avenue S, Minneapolis, MN 55406",
+    "price_aud": "AUD $883,384",
+    "price_usd": "AUD $883,384",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-10-05T19:54:57.999329"
+  },
+  {
+    "address": "11020 Yalta Street NE, Blaine, MN 55449",
+    "price_aud": "AUD $481,201",
+    "price_usd": "AUD $481,201",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-05T19:54:57.999452"
+  },
+  {
+    "address": "3925 40th Avenue S, Minneapolis, MN 55406",
+    "price_aud": "AUD $1,256,724",
+    "price_usd": "AUD $1,256,724",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-10-05T19:54:57.999579"
+  },
+  {
+    "address": "191st Avenue, Columbus, MN 55025",
+    "price_aud": "AUD $314,576",
+    "price_usd": "AUD $314,576",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-10-05T19:54:57.999709"
+  },
+  {
+    "address": "2530 E 34th Street, Minneapolis, MN 55406",
+    "price_aud": "AUD $323,195",
+    "price_usd": "AUD $323,195",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-05T19:54:57.999853"
+  },
+  {
+    "address": "304 Cedar Lane, Montevideo, MN 56265",
+    "price_aud": "AUD $304,521",
+    "price_usd": "AUD $304,521",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-05T19:54:57.999980"
+  }
+]
