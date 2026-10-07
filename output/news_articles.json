@@ -1,30 +1,75 @@
 [
   {
+    "headline": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "author": "Marina Temkin",
+    "date_time": "2026-10-06T15:34:03-07:00",
+    "summary": "N/A",
+    "content": "Melius, an AI platform for generating ad campaigns, images, and videos, announced on Tuesday that it raised a total of $25 million in funding, including a $20 million Series A led by CRV and a $5 million seed round led by General Catalyst. While the startup claims to have hit more than $1 million in annualized revenue within two months of coming out of stealth in July, co-founder Joowon Kim (pictured on right) admits that Melius didn’t hit it out of the park initially. When the New York-based company first launched over a year ago, Kim and his co-founders, Young Kim (pictured on left) and Arnav Ramu (pictured center) set out to build an AI-powered performance marketing tool. The three knew each other from working as engineers at Ramp, the corporate spending and finance software company. More than six months after building the product, the co-founders decided their original idea didn’t “have legs,” Joowon Kim told TechCrunch. Instead of helping marketers manage and optimize ad spend, the team chose to focus on what it saw as a much larger opportunity: building the tools that generate the creative assets and campaigns themselves. “We scrapped the entire codebase; we burned all of it,” Kim said. Melius quickly went to work on an entirely new product. Nearly a year after its initial launch, it revealed a platform that it describes as an “agents lab for creative work.” Melius is far from the only startup helping ad agencies, marketers, and brands generate creative assets and campaigns with AI. Competitors include rapidly growing Higgsfield, which was valued at $5.4 billion in August, as well as other small startups, including Krea and Flora AI. Kim isn’t concerned about the competition. He acknowledged that Higgsfield, a three-year-old company that has hit over $700 million in annualized revenue, “is growing like mad,” but according to Kim, the size of the market is so large that it can support multiple competitors. “There are a lot of players, which is pretty exciting,”",
+    "article_link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "scraped_at": "2026-10-07T05:35:06.019495"
+  },
+  {
+    "headline": "How AI decision models could change content moderation",
+    "author": "Russell Brandom",
+    "date_time": "2026-10-06T13:35:20-07:00",
+    "summary": "N/A",
+    "content": "As decision models spread across the industry, a company called Musubi has a new idea for how to put them to work: moderating content. On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights. The idea is to take a content policy written in plain English and apply it to messages in under 50 milliseconds. Musubi’s model is designed to be similar in cost and speed to the AI classifier systems that power moderation on most social platforms — but because it has the flexibility of a modern LLM, it can apply complex policies without special training. Even more important, the model won’t need new training when the policy changes, allowing for human policy-setters to iterate as much as they need. As Musubi co-founder and chief AI officer Filip Jankovic sees it, it gives platform managers a way to label content proactively. “Product teams just want a better understanding of what’s happening on their platform, especially as the amount of content is exponentially increasing,” Jankovic says. “Being able to label all of that in a very scalable, customizable way is extremely useful.” Decision models have become a hot topic in the AI world since the release of TypeSafe AI’s Jev in September, which was shortly followed by competing decision models from OpenAI and Amazon. Instead of outputting text, a decision model outputs outcome probabilities, though in this case the model outputs a binary judgement: Either the content is in the category or it isn’t. By limiting the model’s output to a set of predetermined choices, decision models are able to run faster and cheaper than large language models, while still maintaining the flexibility of the transformer architecture. One early use case is reining in misbehavior by AI agents — so it’s only natural to apply the same technology to human misbehavior. Notably, Jankovic says his interest in decision models predates Jev, tracing it back to a 2024 project called",
+    "article_link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "scraped_at": "2026-10-07T05:35:07.793762"
+  },
+  {
+    "headline": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-10-06T13:00:30-07:00",
+    "summary": "N/A",
+    "content": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, much of that increase appears to be driven by a $35 billion commitment from one company: Anthropic, which signed a deal with Lambda in late August. That means Lambda’s valuation, which has climbed significantly since its 2025 funding round, could be leaning heavily on Anthropic’s ability to keep paying. Still, with reliable GPU capacity so scarce, investors are clearly still willing to bet on companies that provide it, especially ones with large contracts with a major AI lab. For neoclouds like Lambda, demand isn’t so much the problem as is the cost of meeting it. Data center buildouts are largely funded by debt — of which Lambda just raised an additional $1 billion last week — and lenders are getting choosier about who they offer cash to and under what circumstances. Lambda’s decision to raise more now not only sets the tone for its IPO pricing, but also gives it access to more capital before the scrutiny of public markets arrives. If and when Lambda does IPO — the company was reportedly meant to debut this year, but has pushed that back amid market uncertainty — it will join other Nvidia-backed neoclouds, like CoreWeave and Nebius, that now depend on the health of their stock to fund their data center buildouts. British neocloud Nscale filed for an IPO last month and is expected to begin trading soon. Lambda, Coatue, and Blackstone did not immediately respond to a request for comment.",
+    "article_link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "scraped_at": "2026-10-07T05:35:09.267895"
+  },
+  {
+    "headline": "The next hurdle for AI agents: getting websites to let them in",
+    "author": "Sarah Perez",
+    "date_time": "2026-10-06T12:56:50-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "scraped_at": "2026-10-07T05:35:09.270672"
+  },
+  {
+    "headline": "Hark releases an AI personal assistant with a focus on privacy",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-06T11:22:45-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "scraped_at": "2026-10-07T05:35:09.272343"
+  },
+  {
     "headline": "Mirror Particle is building a ‘world model’ of human behavior",
     "author": "Rebecca Bellan",
     "date_time": "2026-10-06T09:35:00-07:00",
     "summary": "N/A",
-    "content": "Startups that promise to predict how humans will behave are having a moment. Over the past year, Simile raised $200 million at a $2 billion valuation; Aaru raised $88 million at a $1 billion valuation; and Humans&, an AI startup that announced a massive $480 million seed round in January at a $4.48 billion valuation, launched Persimmon to model human behavior. The status quo for human behavior prediction today relies heavily on large language models (LLMs) that are prompted or fine-tuned to role-play as a target demographic. But two-year-old, San Francisco-based Mirror Particle thinks that approach is fundamentally broken. “It’s like bringing a super soaker to Niagara Falls,” says Abhivyakti Ahuja, co-founder and CEO of Mirror Particle, which provides brands with an AI engine that predicts consumer behavior and the reasons behind it. “LLMs have been trained on hundreds of billions of data points. How much can you influence its behavior by [fine-tuning] with such a small amount of data? It’s still stuck in the past.” Ahuja doesn’t think LLMs see the world the way a human does. “LLMs are modeling written language, but humans are made of visual perception, spatial reasoning, social intelligence.” Relying on them, she says, means getting insights based on what humans don’t notice, which is beside the point when trying to predict human behavior. Mirror Particle is taking another approach: building a foundation model, or as Ahuja describes it, a world model built from scratch that simulates why humans do what they do and how human behavior changes over time. “We don’t want to capture the static person,” Ahuja said. “We want to capture the changing person. That means capturing the longitudinal data on how people are changing, what triggers are changing them and to what degree.” If they aren’t changing, she added, “that’s also a signal.” Mirror Particle has already raised an angel round and says it’s close to closing its first venture round. The company is also competing ne",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-    "scraped_at": "2026-10-06T18:14:47.318648"
+    "scraped_at": "2026-10-07T05:35:09.273768"
   },
   {
     "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
     "author": "Russell Brandom",
     "date_time": "2026-10-06T09:00:00-07:00",
     "summary": "N/A",
-    "content": "On Tuesday, Anthropic announced an expansion of its Claude for Startups program, offering subsidized access to its AI models and a variety of other benefits to qualifying companies. The new version of the program, which launched as part of Anthropic’s SF Tech Week event, provides a free year of Claude Team, Anthropic’s paid plan for groups, with up to five premium seats, as well as $1,000 in API credits for building with Claude. Companies will also get access to Claude Marketplace, which lets them build plug-ins for the service. Companies can also book virtual office hours with Anthropic’s Applied AI team. “We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone,” Anthropic said in an announcement. “That makes partnering closely with founders and developers central to our mission.” Companies are eligible if they were founded in the last five years or received funding in the last two years. Interested companies can apply through the Claude for Startups program page.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "scraped_at": "2026-10-06T18:14:49.279992"
+    "scraped_at": "2026-10-07T05:35:09.275158"
   },
   {
     "headline": "LibreOffice says ‘no AI’ is now a software feature",
     "author": "Zack Whittaker",
     "date_time": "2026-10-06T08:25:00-07:00",
     "summary": "N/A",
-    "content": "If you’re looking for a document editor that doesn’t use artificial intelligence, LibreOffice may be just the software for you. The Document Foundation, the nonprofit software maker behind the open source document editor LibreOffice, said in a blog post this week that while it does not reject AI out of hand, it “will not add” AI to its software for the foreseeable future. The blog post comes weeks after the release of the latest version of LibreOffice in late August, in which the nonprofit reiterated that the software “contains no generative AI features.” LibreOffice said at the time that this was a “deliberate design position” to ensure that users’ documents are not uploaded to a server for processing and that no part of the software requires a network connection to function. The nonprofit added that its software is used by tens of millions of people and organizations, and that users should retain control over their data. “Any organisation handling confidential, legally privileged or personal data needs to know where that data goes, and the only assurance that survives an audit is that it does not leave the machine,” the organization said. LibreOffice says users can still choose to use AI tools by installing software extensions that connect the document editor to local AI models. The decision to eschew including AI features bucks the trend of many software makers today that try to pack in as much AI as possible, even to the detriment of the user experience. The so-called “enshittification” of modern software by packing in unnecessary and bloated features, like chatbots and AI assistants, prompted some developers to create or include features that block or remove AI features altogether. AI tools often require the users’ data to be uploaded and processed on a remote server, which the user has no control over how the data is stored or for how long. LibreOffice said that there is currently “no integration” that meets all of its requirements, such as ensuring that the u",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-    "scraped_at": "2026-10-06T18:14:51.113875"
+    "scraped_at": "2026-10-07T05:35:09.276419"
   },
   {
     "headline": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
@@ -33,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-    "scraped_at": "2026-10-06T18:14:51.116038"
+    "scraped_at": "2026-10-07T05:35:09.277667"
   },
   {
     "headline": "Pinterest’s AI now turns beauty Pins into action plans",
@@ -42,51 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-    "scraped_at": "2026-10-06T18:14:51.117318"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-10-06T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-06T18:14:51.118539"
-  },
-  {
-    "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "author": "Lauren Forristal",
-    "date_time": "2026-10-06T01:56:43-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/06/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "scraped_at": "2026-10-06T18:14:51.119773"
-  },
-  {
-    "headline": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "author": "Aditya Mehta",
-    "date_time": "2026-10-05T13:36:48-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "scraped_at": "2026-10-06T18:14:51.120982"
-  },
-  {
-    "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-10-05T12:33:53-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "scraped_at": "2026-10-06T18:14:51.122183"
-  },
-  {
-    "headline": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-05T11:54:30-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "scraped_at": "2026-10-06T18:14:51.123396"
+    "scraped_at": "2026-10-07T05:35:09.278971"
   }
 ]
