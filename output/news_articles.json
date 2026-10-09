@@ -1,92 +1,92 @@
 [
   {
+    "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "author": "Marina Temkin",
+    "date_time": "2026-10-09T14:41:29-07:00",
+    "summary": "N/A",
+    "content": "TypeSafe AI, the developer of Jev, a new type of AI model that gained rapid popularity after launching just a few weeks ago, has raised $870 million at a $7.5 billion valuation. The round was led by Andreessen Horowitz, with participation from Sequoia and existing investor DCVC. The massive fundraise comes as little surprise given Jev went viral almost instantly after its Sept. 15 release. The startup claims that a third of Fortune 500 companies are already using the model, a remarkably swift adoption by enterprises. Jev is based on a transformer architecture, but it is not a large language model (LLM). It doesn’t output text, but instead produces probabilities, or what the company calls “calibrated decisions.” What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. The company positions its approach as uniquely suited for automating tasks rather than generating text or code. “We have been super good at human language for four years, but it’s not useful for automation because computers speak a different language,” TypeSafe co-founder Diogo Almeida told TechCrunch last month. Along with Almeida, who was previously a researcher at OpenAI, TypeSafe was co-founded in 2024 by former Meta research engineer Sasha Sheng and Erik Gafni, an engineer and entrepreneur.",
+    "article_link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "scraped_at": "2026-10-09T22:31:22.851571"
+  },
+  {
+    "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "author": "Amanda Silberling",
+    "date_time": "2026-10-09T12:36:56-07:00",
+    "summary": "N/A",
+    "content": "An Anthropic AI model submitted a false tip about an unsolved murder to the Philadelphia police. The AI reportedly submitted this incorrect information to a public Philadelphia Police Department (PPD) tip line on July 18, but Anthropic didn’t discover the behavior until September 28. The police had not seen the tip because it was marked as spam. Anthropic notified the PPD about the incident on Wednesday and met with the department the following day. “The company must strengthen its safeguards to prevent similar incidents from impacting city systems without the city’s knowledge. The two-month delay in detecting and reporting the incident to the City is unacceptable,” the PPD said in a statement to 6abc. Anthropic did not immediately respond to a request for comment, but the PPD elaborated on the incident in an emailed press release shared with TechCrunch. “According to Anthropic, its model was conducting a test involving interactions with randomly selected websites when it accessed PhillyUnsolvedMurders.com and submitted false information concerning an unsolved homicide. The submission, dated July 18, 2026, at 11:27 p.m., purported to come from someone who might have information about the case,” the PPD said. As autonomous AI agents are increasingly made available to consumers, this incident highlights the danger of giving AI the ability to carry out tasks without any human supervision. Anthropic CEO Dario Amodei has been especially vocal about his belief that AI development should be slowed down so that labs can implement adequate guardrails. Perhaps this stance was informed, in part, by witnessing his company’s tools submit false homicide tips. These issues are not exclusive to Anthropic. OpenAI recently revealed that one of its models acted unexpectedly during a test and hacked the AI dataset platform Hugging Face, exposing critical vulnerabilities in its software. As AI models continue to be granted unchecked access to people’s computers and login credentials, th",
+    "article_link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "scraped_at": "2026-10-09T22:31:24.755182"
+  },
+  {
+    "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "author": "Theresa Loconsolo",
+    "date_time": "2026-10-09T09:56:42-07:00",
+    "summary": "N/A",
+    "content": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access to their inboxes, files, and credit cards — if they can get websites to let them in. On this episode of TechCrunch’s Equity podcast, Anthony Ha, Sean O’Kane, and Rebecca Bellan dig into whether ditching NDAs will change how data center deals get done, why trust may be the real product for personal AI startups, plus a couple of deals of the week. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You can also follow Equity on X and Threads, at @EquityPod.",
+    "article_link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "scraped_at": "2026-10-09T22:31:26.791559"
+  },
+  {
+    "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "author": "Theresa Loconsolo\nAnthony Ha\nRebecca Bellan\nSean O'Kane",
+    "date_time": "2026-10-09T09:53:02-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "scraped_at": "2026-10-09T22:31:26.793679"
+  },
+  {
+    "headline": "Danu Robotics’ fight to build a better recycling robot",
+    "author": "Russell Brandom",
+    "date_time": "2026-10-09T09:45:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "scraped_at": "2026-10-09T22:31:26.794602"
+  },
+  {
+    "headline": "We can’t help treating AI like it’s human. But should we?",
+    "author": "Amanda Silberling",
+    "date_time": "2026-10-09T09:40:14-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "scraped_at": "2026-10-09T22:31:26.795473"
+  },
+  {
+    "headline": "a16z’s Olivia Moore on the state of consumer AI",
+    "author": "Russell Brandom",
+    "date_time": "2026-10-09T08:43:33-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "scraped_at": "2026-10-09T22:31:26.796337"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-10-09T07:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-10-09T22:31:26.797220"
+  },
+  {
     "headline": "Media & Entertainment",
     "author": "Amanda Silberling",
     "date_time": "2026-10-08T14:00:00-07:00",
     "summary": "N/A",
-    "content": "With over a thousand emails, slides, texts, and documents unveiled during the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to be the chief executive of Theranos before everything came crashing down. (Every day, I am grateful to the American legal system for making the discovery process public.) i built a website where you can sit at elizabeth holmes’ deskopen her macbook, scroll her iphone, run the theranos edison machineher texts, emails, slides, documents, and theranos machine records are real, sourced from exhibits in the united states v. holmes criminal trial pic.twitter.com/5At9T5m3UV The environment that Lau created is ambitiously detailed, taking you right back to 2016, a time when iPhones had home buttons, and you had to slide your finger across the screen to unlock it. Even the MacBook Air is running OS X El Capitan. You can click around the environment, which lets you look through the documents made public from the court case on Holmes’ iPhone and laptop screens. You can even run the Theranos Edison machine, the company’s ill-fated device that was supposed to be able to extract large amounts of health data from one drop of blood. The project seems like it was mostly made for laughs, but it’s actually an interesting way to peruse the documents from one of the most infamous court cases in tech history — it’s a lot easier to navigate this than to source thousands of PDFs from court websites. There’s another agenda, though. Lau is promoting a watch party that her company is throwing for Nathan Fielder’s upcoming documentary about Elizabeth Holmes, “You Can See Everything.” Also, of course, she’s promoting the company itself. So, what exactly does Extend do? Apparently, it can “parse, extract, and split your hardest documents with unmatched accuracy.” (I’m not really sure what that means, but if it makes something like this Holmes desk simulator possible, then I guess that means I’",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "scraped_at": "2026-10-09T13:01:17.451489"
+    "scraped_at": "2026-10-09T22:31:26.798076"
   },
   {
     "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
     "author": "Rebecca Bellan",
     "date_time": "2026-10-08T13:04:26-07:00",
     "summary": "N/A",
-    "content": "Jasmine Wang, Tomek Korbak, and Mikita Balesni, the three safety researchers that OpenAI fired last week, have published an open letter denying the firm’s claims that they mishandled sensitive information outside of established company procedures and warned that their dismissal signals a chilling effect that will have ripple effects across the company’s culture. “We have become concerned that internal and external communications around our firing have made our former colleagues afraid to speak and operate in ways that, until last week, were an integral part of working at OpenAI,” the researchers wrote Thursday in an open letter to OpenAI’s Safety and Security Committee, Safety Advisory Group, and Mission Advisory Council. The researchers were dismissed last week after allegedly sharing confidential company information with a third-party AI safety organization. OpenAI said they violated the company’s policies by “accessing and handling sensitive company information.” “AI is not a normal technology, and OpenAI is not a normal company,” Wang, Korbak, and Balesni wrote. “Those of us who work on safety see risks before anyone else, and we rely on close collaboration with outside experts to work out how to address them. The freedom to do so without fear, and to have well-defined internal procedures that enable this work, is itself an essential safety mechanism.” They said that their firing represents a broader shift in the culture of OpenAI, one that used to encourage workers to “raise safety concerns and disagree openly.” They said employees are now “unclear on where they stand” when behavior that was allegedly normal a month ago is now suddenly grounds for dismissal. “Given the significant safety concerns surrounding the development of AI, employees must not be left working in an environment where fear and unclear rules stymie AI safety work and weaken third-party accountability,” they wrote. “Terminations such as ours, executed and communicated so abruptly, are chillin",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "scraped_at": "2026-10-09T13:01:19.451928"
-  },
-  {
-    "headline": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-08T11:20:32-07:00",
-    "summary": "N/A",
-    "content": "They cast the wrong lead in “Good Will Hunting,” apparently, because it’s Ben Affleck who is the secret genius, as it turns out. The actor who earlier this year sold his AI filmmaking startup to Netflix for a reported $587 million has gone viral this week for demonstrating his understanding of AI technology, neural networks, machine learning, and the like, across multiple video clips of his recent interviews. He can even write a little Python, he says. The movie star delved into his interest in technology most recently on an episode of GQ’s “One More Question” series this week, where he humbly started with “I’ve always been kind of into computers since I was young,” before nerding out on the development of AI as it relates to filmmaking, while using AI terminology like machine learning, neural networks, transformers, tensors, GPUs, inference, and more. In a clip that’s making the rounds, Affleck explains to the impressed interviewer, Zach Baron, that he got into the space when analog film moved to digital. As he spoke, he kept defining terms so the interviewer could understand what he was talking about. “I became more interested in that aspect of it, and the visual effects workflow for many years has included machine learning,” Affleck began. “So I can write, like, pretty shitty Python scripts and stuff like that. Because with convolutional neural networks — which were the sort of precursors to what the transformer can do — which is just much more computation simultaneously — you would do things like, look at what’s called a tensor — which is just the numerical translation of a visual image, in numbers like the batch number, the frame number, the red, green, and blue values of each pixel in each frame, and how many? It’s just that simple, right?” No, Ben Affleck, it is not just that simple, which is why this video is going viral. The actor then went into how neural networks were used to identify patterns and do edge detection or feature extraction, which he describe",
-    "article_link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "scraped_at": "2026-10-09T13:01:21.480166"
-  },
-  {
-    "headline": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "author": "Julie Bort",
-    "date_time": "2026-10-08T11:19:45-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "scraped_at": "2026-10-09T13:01:21.482143"
-  },
-  {
-    "headline": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-    "author": "Lucas Ropek",
-    "date_time": "2026-10-08T11:19:42-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "scraped_at": "2026-10-09T13:01:21.483424"
-  },
-  {
-    "headline": "Google brings agentic AI to Gemini, starting with businesses",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-08T11:18:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "scraped_at": "2026-10-09T13:01:21.484605"
-  },
-  {
-    "headline": "Anthropic changes usage policy to ban model abuse and election interference",
-    "author": "Russell Brandom",
-    "date_time": "2026-10-08T11:16:24-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "scraped_at": "2026-10-09T13:01:21.485850"
-  },
-  {
-    "headline": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-    "author": "Tim Fernholz",
-    "date_time": "2026-10-08T11:10:55-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "scraped_at": "2026-10-09T13:01:21.487136"
-  },
-  {
-    "headline": "Natura’s $99 smart ring puts AI agents on your finger",
-    "author": "Aisha Malik",
-    "date_time": "2026-10-08T09:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "scraped_at": "2026-10-09T13:01:21.488352"
-  },
-  {
-    "headline": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-    "author": "Aditya Mehta",
-    "date_time": "2026-10-08T09:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-    "scraped_at": "2026-10-09T13:01:21.489543"
+    "scraped_at": "2026-10-09T22:31:26.798928"
   }
 ]
