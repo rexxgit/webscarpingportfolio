@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "With over a thousand emails, slides, texts, and documents unveiled during the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to be the chief executive of Theranos before everything came crashing down. (Every day, I am grateful to the American legal system for making the discovery process public.) i built a website where you can sit at elizabeth holmes’ deskopen her macbook, scroll her iphone, run the theranos edison machineher texts, emails, slides, documents, and theranos machine records are real, sourced from exhibits in the united states v. holmes criminal trial pic.twitter.com/5At9T5m3UV The environment that Lau created is ambitiously detailed, taking you right back to 2016, a time when iPhones had home buttons, and you had to slide your finger across the screen to unlock it. Even the MacBook Air is running OS X El Capitan. You can click around the environment, which lets you look through the documents made public from the court case on Holmes’ iPhone and laptop screens. You can even run the Theranos Edison machine, the company’s ill-fated device that was supposed to be able to extract large amounts of health data from one drop of blood. The project seems like it was mostly made for laughs, but it’s actually an interesting way to peruse the documents from one of the most infamous court cases in tech history — it’s a lot easier to navigate this than to source thousands of PDFs from court websites. There’s another agenda, though. Lau is promoting a watch party that her company is throwing for Nathan Fielder’s upcoming documentary about Elizabeth Holmes, “You Can See Everything.” Also, of course, she’s promoting the company itself. So, what exactly does Extend do? Apparently, it can “parse, extract, and split your hardest documents with unmatched accuracy.” (I’m not really sure what that means, but if it makes something like this Holmes desk simulator possible, then I guess that means I’",
     "article_link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "scraped_at": "2026-10-09T05:48:56.200044"
+    "scraped_at": "2026-10-09T13:01:17.451489"
   },
   {
     "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Jasmine Wang, Tomek Korbak, and Mikita Balesni, the three safety researchers that OpenAI fired last week, have published an open letter denying the firm’s claims that they mishandled sensitive information outside of established company procedures and warned that their dismissal signals a chilling effect that will have ripple effects across the company’s culture. “We have become concerned that internal and external communications around our firing have made our former colleagues afraid to speak and operate in ways that, until last week, were an integral part of working at OpenAI,” the researchers wrote Thursday in an open letter to OpenAI’s Safety and Security Committee, Safety Advisory Group, and Mission Advisory Council. The researchers were dismissed last week after allegedly sharing confidential company information with a third-party AI safety organization. OpenAI said they violated the company’s policies by “accessing and handling sensitive company information.” “AI is not a normal technology, and OpenAI is not a normal company,” Wang, Korbak, and Balesni wrote. “Those of us who work on safety see risks before anyone else, and we rely on close collaboration with outside experts to work out how to address them. The freedom to do so without fear, and to have well-defined internal procedures that enable this work, is itself an essential safety mechanism.” They said that their firing represents a broader shift in the culture of OpenAI, one that used to encourage workers to “raise safety concerns and disagree openly.” They said employees are now “unclear on where they stand” when behavior that was allegedly normal a month ago is now suddenly grounds for dismissal. “Given the significant safety concerns surrounding the development of AI, employees must not be left working in an environment where fear and unclear rules stymie AI safety work and weaken third-party accountability,” they wrote. “Terminations such as ours, executed and communicated so abruptly, are chillin",
     "article_link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "scraped_at": "2026-10-09T05:48:58.068883"
+    "scraped_at": "2026-10-09T13:01:19.451928"
   },
   {
     "headline": "Ben Affleck is an AI nerd, and the internet is impressed",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "They cast the wrong lead in “Good Will Hunting,” apparently, because it’s Ben Affleck who is the secret genius, as it turns out. The actor who earlier this year sold his AI filmmaking startup to Netflix for a reported $587 million has gone viral this week for demonstrating his understanding of AI technology, neural networks, machine learning, and the like, across multiple video clips of his recent interviews. He can even write a little Python, he says. The movie star delved into his interest in technology most recently on an episode of GQ’s “One More Question” series this week, where he humbly started with “I’ve always been kind of into computers since I was young,” before nerding out on the development of AI as it relates to filmmaking, while using AI terminology like machine learning, neural networks, transformers, tensors, GPUs, inference, and more. In a clip that’s making the rounds, Affleck explains to the impressed interviewer, Zach Baron, that he got into the space when analog film moved to digital. As he spoke, he kept defining terms so the interviewer could understand what he was talking about. “I became more interested in that aspect of it, and the visual effects workflow for many years has included machine learning,” Affleck began. “So I can write, like, pretty shitty Python scripts and stuff like that. Because with convolutional neural networks — which were the sort of precursors to what the transformer can do — which is just much more computation simultaneously — you would do things like, look at what’s called a tensor — which is just the numerical translation of a visual image, in numbers like the batch number, the frame number, the red, green, and blue values of each pixel in each frame, and how many? It’s just that simple, right?” No, Ben Affleck, it is not just that simple, which is why this video is going viral. The actor then went into how neural networks were used to identify patterns and do edge detection or feature extraction, which he describe",
     "article_link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "scraped_at": "2026-10-09T05:48:59.362191"
+    "scraped_at": "2026-10-09T13:01:21.480166"
   },
   {
     "headline": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "scraped_at": "2026-10-09T05:48:59.364038"
+    "scraped_at": "2026-10-09T13:01:21.482143"
   },
   {
     "headline": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "scraped_at": "2026-10-09T05:48:59.365364"
+    "scraped_at": "2026-10-09T13:01:21.483424"
   },
   {
     "headline": "Google brings agentic AI to Gemini, starting with businesses",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "scraped_at": "2026-10-09T05:48:59.366556"
+    "scraped_at": "2026-10-09T13:01:21.484605"
   },
   {
     "headline": "Anthropic changes usage policy to ban model abuse and election interference",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "scraped_at": "2026-10-09T05:48:59.367796"
+    "scraped_at": "2026-10-09T13:01:21.485850"
   },
   {
     "headline": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "scraped_at": "2026-10-09T05:48:59.369004"
+    "scraped_at": "2026-10-09T13:01:21.487136"
   },
   {
     "headline": "Natura’s $99 smart ring puts AI agents on your finger",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "scraped_at": "2026-10-09T05:48:59.370194"
+    "scraped_at": "2026-10-09T13:01:21.488352"
   },
   {
     "headline": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-    "scraped_at": "2026-10-09T05:48:59.371391"
+    "scraped_at": "2026-10-09T13:01:21.489543"
   }
 ]
