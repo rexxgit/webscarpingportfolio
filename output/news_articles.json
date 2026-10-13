@@ -1,92 +1,92 @@
 [
   {
+    "headline": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "author": "Sarah Perez",
+    "date_time": "2026-10-13T13:36:44-07:00",
+    "summary": "N/A",
+    "content": "A judge has ruled that Apple will gain expedited access to OpenAI’s hiring materials in the trade secrets-focused lawsuit the iPhone maker filed against OpenAI in July. Specifically, the court will allow Apple to view documents associated with OpenAI’s interviews with former Apple employees who applied for roles within its consumer hardware and robotics groups ahead of the rumored launch of OpenAI’s first hardware device. These documents could include interview checklists, guides, instructions, manuals, and scripts, as well as technical presentations and records showing that interview discussions had included references to Apple technology or components. The court gave OpenAI five days to turn over materials it has already collected and 14 days for any other materials related to this request, agreeing with Apple that these documents should be expedited. The case comes as OpenAI develops a consumer hardware device that could one day potentially rival the iPhone — or smartphones more generally — if the AI device becomes a central part of consumers’ lives and how they engage with software and services. In its lawsuit, Apple accused OpenAI of a pattern of theft, which includes direct complaints about former employees using Apple laptops to download confidential material and files that contained information about unannounced technologies, features, and products, including technical specifications, engineering presentations, and proprietary project data. Apple also said that former Apple employees at OpenAI coached others considering leaving Apple for OpenAI on what information to bring to their interviews, among other allegations. U.S. District Judge Edward Davila didn’t greenlight all of Apple’s requests for expedited access to OpenAI documents and messages relevant to the case. But he did rule that Apple could access the interview materials, alongside private LINE messages (from a messaging app) between individuals named in the case, including OpenAI employees Chang Li",
+    "article_link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "scraped_at": "2026-10-13T22:33:34.385405"
+  },
+  {
+    "headline": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "author": "Ram Iyer",
+    "date_time": "2026-10-13T11:30:00-07:00",
+    "summary": "N/A",
+    "content": "When I was eight, I remember our train to Mumbai ground to a halt with a great noise. When we started moving again, a good eight hours later, someone pointed out a mangled tail, of all things, hanging from a branch close to the tracks. The train, you see, had apparently hit a wild bison at full speed, and the impact damaged the engine so badly that it had to be towed away for repairs. For a long time, I thought such things only happened in places like rural India, but I learned a few years ago that wildlife and infrastructure do not mix anywhere on the planet. The FAA estimates that wildlife strikes have cost U.S. civil aviation about $272 million a year on average between 1990 and 2025. In France, the rail operator SNCF says wandering animals affect more than 8,000 trains across the country each year and are among its five leading causes of delays. In Brittany, 120 trains hit animals in 2023 alone, disrupting 660 services and causing more than 15,000 minutes of delays. Reading about all that damage, to both infrastructure and animals, inspired Sara Nozkova (pictured above on the left) to develop a wildlife-deterrent system that works differently from the sirens, lights, fences, falcons, and culling traditionally used to keep animals away from roads, train tracks, airports, and other infrastructure. “I was convinced the answer was not a louder deterrent,” she told TechCrunch. After spending 13 years working in transportation and autonomous vehicles, Nozkova had learned how quickly the systems we build to navigate roads and other controlled environments fail once nature enters the equation. “We have taught machines to be brilliant, but only inside the environments we engineered for them,” she said. “Cities, factory lines, warehouses. Fixed geometry, known objects. Stepping outside into nature, I saw firsthand how the same machines quickly go blind. Because nature is complex and always alive.” So instead she joined the AI lab at KTH Royal Institute of Technology in St",
+    "article_link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "scraped_at": "2026-10-13T22:33:35.751287"
+  },
+  {
+    "headline": "Facebook is giving users more control over their algorithm",
+    "author": "Lauren Forristal",
+    "date_time": "2026-10-13T11:05:24-07:00",
+    "summary": "N/A",
+    "content": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tuesday, a feature it first launched on Instagram. The new tool allows Facebook users to influence the content they see in Feed and Reels by describing their preferences in their own words using natural language. Rather than relying entirely on automated recommendations, users can now communicate directly with the platform about the topics and content they want to see more or less frequently. According to Meta, the feature is designed to make content recommendations more relevant. Users can adjust their preferences and interact with the algorithms responsible for ranking and recommending posts, with changes reflected in their recommendations in real time. The company has also updated Facebook’s three-dot menu, making it easier for users to manage their content preferences directly from individual posts. By opening the menu, users can access “Your Algorithm” or select the “Interested” and “Not interested” options to indicate whether particular content aligns with their preferences. Meta says the platform may ask follow-up questions to better understand what users liked or disliked, allowing them to provide more detailed feedback. Users can explain what they want to see more or less of, helping Facebook refine its recommendations based on their responses. The introduction of “Your Algorithm” reflects Meta’s broader effort to give people more influence over their social media experiences as AI increasingly shapes content discovery. The move signals a shift away from the traditional recommendation systems that have shaped social media experiences for years, bringing the platform closer to streaming services that allow users to personalize recommendations based on their interests and preferences. The launch also builds on Meta’s existing personalization effo",
+    "article_link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "scraped_at": "2026-10-13T22:33:37.486568"
+  },
+  {
+    "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-10-13T10:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "scraped_at": "2026-10-13T22:33:37.488522"
+  },
+  {
+    "headline": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "author": "Ram Iyer",
+    "date_time": "2026-10-13T10:18:25-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "scraped_at": "2026-10-13T22:33:37.489736"
+  },
+  {
+    "headline": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "author": "Sarah Perez",
+    "date_time": "2026-10-13T10:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "scraped_at": "2026-10-13T22:33:37.490939"
+  },
+  {
+    "headline": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-13T09:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "scraped_at": "2026-10-13T22:33:37.492151"
+  },
+  {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-10-13T07:00:00-07:00",
     "summary": "N/A",
-    "content": "Save up to $100 on your pass. Get a second pass at 50% off. Register here. Save up to $100 on your pass. Get a second pass at 50% off. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Choose the ticket type that fits you before all prices increase at the door on October 13 Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-13T14:00:38.052980"
+    "scraped_at": "2026-10-13T22:33:37.493428"
   },
   {
-    "headline": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+    "headline": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
     "author": "Sarah Perez",
     "date_time": "2026-10-13T06:50:19-07:00",
     "summary": "N/A",
-    "content": "In a bid to attract more subscribers, the company now known as SpaceX Super Intelligence is bundling all its subscriptions, including X Premium, Grok, and Cursor, into one plan called simply “The X Subscription.” The idea is that the combined offering could potentially attract more subscribers than any single subscription, given the competitive paid AI subscription market, where SpaceXSI faces rivals like OpenAI, Anthropic, and others. With the X Subscription, users can gain access to Grok for AI-powered chat, with support for voice, images, video and the API. Grok’s agentic AI Bot is also available, as is Cursor for AI coding and the paid features that come with an X Premium subscription, like the blue verified checkmark, creator tools, and fewer ads. There are five plans available on the new subscription: free, Plus ($8/month), Premium ($30/month), Super ($100/month) and Ultra ($200/month), with AI usage caps increasing as you move up through the tiers. The free plan will only offer limited chat and agent usage, and Premium or higher is required to access the latest Grok models. There’s another draw for existing X Premium+ subscribers: the comparable plan on the new X subscription costs the same or less, the company noted. Existing users can either switch from their subscription settings on X to upgrade to the new bundle, or maintain their current plan. The option to upgrade will roll out gradually, so interested customers will need to keep an eye on their billing settings for the offer to upgrade.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "scraped_at": "2026-10-13T14:00:39.445399"
+    "scraped_at": "2026-10-13T22:33:37.494698"
   },
   {
     "headline": "TechCrunch Disrupt 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-10-13T06:28:06-07:00",
     "summary": "N/A",
-    "content": "Save up to $100 on your pass. Get a second pass at 50% off. Register here. Save up to $100 on your pass. Get a second pass at 50% off. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Choose the ticket type that fits you before all prices increase at the door on October 13 Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
-    "scraped_at": "2026-10-13T14:00:40.825507"
-  },
-  {
-    "headline": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-13T06:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "scraped_at": "2026-10-13T14:00:40.826877"
-  },
-  {
-    "headline": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "author": "Ivan Mehta",
-    "date_time": "2026-10-13T05:23:42-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "scraped_at": "2026-10-13T14:00:40.827512"
-  },
-  {
-    "headline": "Meta releases its first frontier model, Muse Wonder",
-    "author": "Russell Brandom",
-    "date_time": "2026-10-12T10:56:56-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "scraped_at": "2026-10-13T14:00:40.828136"
-  },
-  {
-    "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "author": "Tim Fernholz",
-    "date_time": "2026-10-12T10:19:14-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "scraped_at": "2026-10-13T14:00:40.828774"
-  },
-  {
-    "headline": "Media & Entertainment",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-12T08:45:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "scraped_at": "2026-10-13T14:00:40.829409"
-  },
-  {
-    "headline": "Microsoft president says UK is best placed to drive AI regulation",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-10-12T08:31:19-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "scraped_at": "2026-10-13T14:00:40.830016"
-  },
-  {
-    "headline": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "author": "Kirsten Korosec",
-    "date_time": "2026-10-12T08:27:59-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "scraped_at": "2026-10-13T14:00:40.830651"
+    "scraped_at": "2026-10-13T22:33:37.495926"
   }
 ]
