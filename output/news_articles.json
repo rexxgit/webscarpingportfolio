@@ -1,30 +1,75 @@
 [
   {
+    "headline": "Deezer will soon let you filter out AI-generated music",
+    "author": "Ivan Mehta",
+    "date_time": "2026-10-14T08:16:04-07:00",
+    "summary": "N/A",
+    "content": "Streaming platform Deezer remains steadfast in its intent to help users avoid listening to AI-generated music: The company on Tuesday said it is working on a new toggle that lets users filter out AI-generated music uploaded to its platform. The feature is expected to be available before the end of the year. Deezer said turning on the toggle will stop you from seeing AI-generated tracks, albums, and related artists in search results. “We’ve seen clear user demand for the ability to filter out AI-generated music, and we are now giving everyone the option to remove this content completely from their streaming experience on Deezer, and focus only on human creators and creations, if they wish,” Deezer CEO Alexis Lanternier said in a statement. He added that the explosion of AI music on the platform was one of the catalysts for the toggle-based features. The company cited a survey from last year, which noted that around 45% of Deezer customers wanted a way to remove AI music from their feeds. Deezer added AI-detection tooling last year and has been reporting on the number of tracks being uploaded to the platform ever since. At that time, AI-generated tracks represented 10% of daily uploads. In July, the company said that more than 50% of daily uploads to its platform were AI-generated tracks, with an average of 90,000 tracks per day. Other music streaming services have also created their own policies in relation to AI music. Bandcamp has completely banned AI tracks, while Tidal cut off monetization for people uploading AI music. Spotify has taken a leaner stance, only tagging AI tracks and artists more prominently on its platform. In August, Variety reported that Apple Music was looking to label AI tracks by the end of the year. Besides platform-based tagging, users are also turning to independent tracking systems to identify AI music.",
+    "article_link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "scraped_at": "2026-10-14T16:59:44.221934"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-10-14T08:13:24-07:00",
+    "summary": "N/A",
+    "content": "Save up to $100 on your pass. Get a second pass at 50% off. Register here. Last two days are half off. Don’t miss any more moments. Register here. October 13 – 15, 2026\n — \nSan Francisco Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward. Choose the ticket type that fits you and your team the best. Scale faster through funding, exposure, networking, and startup growth insights. Grow your portfolio by discovering breakout startups, emerging trends, and founders.",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-10-14T16:59:45.924121"
+  },
+  {
+    "headline": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "author": "Ivan Mehta",
+    "date_time": "2026-10-14T08:08:00-07:00",
+    "summary": "N/A",
+    "content": "Many businesses around the world use consumer-facing chat apps like WhatsApp, Telegram, Discord, or iMessage to talk and coordinate with staff, and exchange documents or data. Guy Weiss is building Zenzap, a private messenger with AI that wants to help companies communicate with their staff and arm them with their organization’s context while staying in line with IT and security rules. The company has raised $44 million in funding from investors including Bessemer, Lightspeed, and The Garage, as well as individual investors Wix president Nir Zohar and former GM of EY, Yoram Tietz. The fundraise is interesting because Weiss is raising money for the first time in his career. In 2012, he bootstrapped e-commerce marketing platform StuccoMedia, and sold it to Market Group in 2015. After that, he became an investor for a few years. In 2022, he founded Zenzap after meeting Bessemer partner Adam Fisher and noodling on different ideas along with his current co-founders Noam Neumann and Jonatan Bien. Weiss said he initially bootstrapped the app and worked out of Bessemer’s office. “I didn’t want to raise capital. The only thing I had to lose was my name, and I was super afraid to do a second round as a founder and become a failure, because my first round was very successful. I didn’t need to work for money. So, when I met Adam, I actually started my idea with my own capital,” he told TechCrunch. Weiss said Fisher convinced him that Zenzap should be a venture-backed business, as the company would need capital to scale. He said that the idea was to build a messaging app for a wide range of businesses, ranging from hospitality and construction, to healthcare and fast food. “You can’t use WhatsApp or iMessage within a workplace with the AI agent on top of it because it doesn’t comply with IT. So that’s off the table. You can’t implement Slack and Microsoft Teams because they were not built for this day-to-day use case for mobile-first that is meant for average users,” Weiss said.",
+    "article_link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "scraped_at": "2026-10-14T16:59:47.609130"
+  },
+  {
+    "headline": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "author": "Lauren Forristal",
+    "date_time": "2026-10-14T08:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "scraped_at": "2026-10-14T16:59:47.611338"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-10-14T07:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "scraped_at": "2026-10-14T16:59:47.612549"
+  },
+  {
     "headline": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
     "author": "Jagmeet Singh",
     "date_time": "2026-10-14T04:00:00-07:00",
     "summary": "N/A",
-    "content": "As manufacturers across industries strive to reduce their reliance on Chinese suppliers, Indian startup Scimplify has raised $25 million to expand its AI-powered approach to producing specialty chemicals and critical materials, with semiconductors, defense and energy emerging as key growth markets. The all-equity strategic round was led by Hitachi Ventures, with customers Henkel and Teknor Apex joining as new investors. Existing backers Accel India, Bertelsmann India Investments, Omnivore, and 3one4 Capital also participated. The round values the Bengaluru-based startup at $250 million after the investment, according to a person familiar with the transaction, up from $150 million after a $40 million Series B round in March 2025. The latest investment brings Scimplify’s total equity funding to $80 million, the startup said, though it declined to disclose its valuation. The growing adoption of AI and advanced computational tools has accelerated materials discovery and research. However, turning promising chemistry into commercially available products at scale remains a slow and complex process. Manufacturers need to develop production processes, qualify facilities, and meet stringent quality standards, all while navigating supply chains limited to a handful of countries. Scimplify is seeking to shorten that process. In some cases, the startup, founded in 2023, has gone from receiving a customer’s requirements to delivering the finished material in just two months, compared with the 12 to 18 months such work would typically take, co-founder Sachin Santhosh (pictured above) said in an interview. Once it receives an order, Scimplify develops chemical manufacturing processes at its research facilities in Bengaluru and Hyderabad and then transfers them to partner factories for commercial production. Its proprietary AI platform, Scinode, helps coordinate the work by identifying suitable production routes and manufacturing facilities, while tracking quality and regulatory re",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "scraped_at": "2026-10-14T11:37:10.720461"
+    "scraped_at": "2026-10-14T16:59:47.613756"
   },
   {
     "headline": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
     "author": "Aisha Malik",
     "date_time": "2026-10-13T16:13:31-07:00",
     "summary": "N/A",
-    "content": "Science Corporation CEO Max Hodak announced that the company has implanted its vision-restoring chip, PRIMA, into its first patient with Stargardt disease, an inherited eye disease that gradually destroys central vision. Hodak, the former president and co-founder of Neuralink, the brain implant company, explained onstage at TechCrunch Disrupt how the company’s work with PRIMA fits into its broader pursuit of a novel brain-computer interface (BCI). “The retina is part of the central nervous system,” Hodak said. “We consider cochlear implants, retinal prostheses, motor prostheses, these are all different types of BCIs.” Hodak outlined a vision in which BCIs expand into a wide range of medical technology applications, rather than simply being a way to control computers. While PRIMA is commercially available in Europe for patients who’ve lost their sight to geographic atrophy, an advanced form of age-related macular degeneration, the company believes its approach can be applied to multiple diseases, including Stargardt disease, which is currently considered incurable. Stargardt disease affects the outer retina, causing the gradual death of the eye’s light-sensing cells while potentially sparing the inner retina, the part that passes visual signals onto the brain. It causes a central blind spot that gradually enlarges over time. Approximately 150,000 people worldwide have lost vision due to the disease. “One of the nice things about this device approach, when I was saying the brain’s a computer, vision is electrical potential, like electrical activity down the optic nerve,” Hodak said. “That’s all vision is to the brain, and so if you can get the optic nerve to signal the rest of the brain correctly, then you can provide vision to it.” The company says its first patient with Stargardt disease received the PRIMA implant in May as part of its ongoing trial at the Sydney Eye Hospital in Australia. During the patient’s first rehabilitation session, he saw a letter, and durin",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "scraped_at": "2026-10-14T11:37:12.517656"
+    "scraped_at": "2026-10-14T16:59:47.614967"
   },
   {
     "headline": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
     "author": "Sarah Perez",
     "date_time": "2026-10-13T16:05:34-07:00",
     "summary": "N/A",
-    "content": "Cerebras Systems CEO and co-founder Andrew Feldman believes we’re nearing a future where everyone will have an AI appliance in their own home. Speaking on stage at TechCrunch Disrupt 2026 on Tuesday, the chipmaker executive answered a question about what would need to happen for AI to become a home appliance, saying, “Actually, I don’t think that’s very far away.” He pointed to the advances in consumer AI agents, like Meta’s Muse and Instinct, the startup now valued at $10 billion, as examples of how AI is finding its footing with everyday users. As for home AI? He predicts that we’ll have personal AI assistants that run locally. “Just like your cell phone, they’ll do some work on device and some work going back to the cloud,” Feldman explained. “But I think they will get to know you very well, and you will have a security perimeter around them. And they will certainly have access to credit cards and be able to buy things for you,” he continued. “I think they will make a meaningful impact in making our lives better.” Of course, for an AI chipmaker, the vision of a home AI appliance, or at least widespread consumer adoption of agentic technology, is certainly appealing. But Feldman isn’t just working on the hardware infrastructure; he’s a personal AI user himself, saying that he now uses “a collection of agents” to sweep his calendar, pull up information about the people he’s going to have a call with, and more. While AI is already doing many of the things we used to do manually, Feldman is most excited about the new possibilities — things that weren’t possible before. He’s leaving it up to other founders to figure out what those might be, though. “One of the reasons I love being in infrastructure is because I don’t need the consumer-facing idea … I like building the platforms that other people’s ideas take flight on,” he said.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "scraped_at": "2026-10-14T11:37:14.573418"
+    "scraped_at": "2026-10-14T16:59:47.616160"
   },
   {
     "headline": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
@@ -33,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "scraped_at": "2026-10-14T11:37:14.574815"
+    "scraped_at": "2026-10-14T16:59:47.617358"
   },
   {
     "headline": "Cerebras CEO pushes back on AI doomsday warnings",
@@ -42,51 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "scraped_at": "2026-10-14T11:37:14.575483"
-  },
-  {
-    "headline": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-13T13:36:44-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "scraped_at": "2026-10-14T11:37:14.576232"
-  },
-  {
-    "headline": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "author": "Ram Iyer",
-    "date_time": "2026-10-13T11:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "scraped_at": "2026-10-14T11:37:14.576885"
-  },
-  {
-    "headline": "Facebook is giving users more control over their algorithm",
-    "author": "Lauren Forristal",
-    "date_time": "2026-10-13T11:05:24-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "scraped_at": "2026-10-14T11:37:14.577527"
-  },
-  {
-    "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-10-13T10:30:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "scraped_at": "2026-10-14T11:37:14.578182"
-  },
-  {
-    "headline": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "author": "Ram Iyer",
-    "date_time": "2026-10-13T10:18:25-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "scraped_at": "2026-10-14T11:37:14.578815"
+    "scraped_at": "2026-10-14T16:59:47.618546"
   }
 ]
