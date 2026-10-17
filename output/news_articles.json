@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company’s CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt. Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic. “I think ChatGPT is better now,” Masad said, adding that the company uses an internal benchmark to help assess metrics like performance. “We publish a public benchmark as well, and consistently, Sol and Astra perform better on building vibe-coded applications from scratch. It was a decision based on both cost, partnership, and performance. And for all these reasons, we just felt like they were a better partner for now.” Replit sells a cloud-based software development platform where users can develop and deploy apps directly from inside their browser. Under its partnership with Anthropic, Replit used the AI lab’s Claude models to run its platform. That partnership was said to have helped the company grow its revenue significantly. Masad’s comments were rejected by insiders familiar with the partnership between the Anthropic and Replit, however. One person familiar, who asked not to be named, said the partnership was still in place. There is evidence on the company’s website, blog posts, and social media posts that Replit was using Anthropic products as recently as a few weeks ago. For instance, a blog post in late September cites Anthropic’s Claude Fable 5 and Claude Fable 5.1 as models running in Replit Agent’s production environment. Around the same time, one of Replit’s product employees posted on X about using Anthropic’s flagship model Opus 5.5 and promoting its capabilities. TechCrunch reached back out to Replit for clarification and will update this story if we hear back. Masad shared insights about the company’s growth while onst",
     "article_link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "scraped_at": "2026-10-17T04:02:29.491170"
+    "scraped_at": "2026-10-17T10:29:35.668871"
   },
   {
     "headline": "India becomes the latest country to report rogue AI agent activity",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "AI agents from multiple providers accessed personal data and confidential material at Indian organizations during research and testing, India’s cybersecurity agency said Thursday. The Indian Computer Emergency Response Team (CERT-In) said it had received “multiple voluntary disclosures from AI model providers” whose models, during research and evaluation runs on the open internet, “had reached the live systems of Indian organizations.” The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles, and their actions “exceeded the authorisation of their assigned tasks.” This makes India the latest stop on what has become a world tour for rogue AI agents. In July, OpenAI’s agents escaped a test environment and hacked French company Hugging Face — kicking off a summer of rogue AI agent activity. Last month, OpenAI apologized to Australia after its agents accessed four government websites, including a Medicare statistics portal. At Hugging Face, OpenAI’s agents started the same way but then found and exploited software flaws to run code on the company’s servers. CERT-In described no such hacking in India, where the agents appear to have simply used the access left lying around. Still, the Indian cases appear to be worse in one respect, which is what the agents saw: In Australia, OpenAI said it found no evidence its agents touched individuals’ medical or criminal records, even after they wrote files inside a Medicare statistics system, while in India, agents read personal data and confidential business records. And unlike earlier incidents, each disclosed by a single lab, India’s case involved agents from multiple providers. CERT-In did not name the providers or affected organizations, or say whether the agents altered any systems. TechCrunch has reached out to CERT-In for more information. For now, the closest parallel seems to be Anthropic’s July disclosure of Claude breaking",
     "article_link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "scraped_at": "2026-10-17T04:02:30.822727"
+    "scraped_at": "2026-10-17T10:29:37.588741"
   },
   {
     "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have its “ChatGPT moment” — that day when the shockingly capable chatbot was launched in late 2022. (General Intuition CEO Pim de Witte told Equity earlier this year that a single general foundation model would make much of today’s specialized robotics work redundant, and be that moment.) On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis caught up with Vishwanath to discuss where she’s writing first checks as the founder and managing partner of Techable VC. They also talked about what she’s learned as one of the first women executives to spin out of Nvidia and launch her own early-stage firm investing in physical AI across robotics, materials science, and life sciences. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You can also follow Equity on X and Threads, at @EquityPod.",
     "article_link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "scraped_at": "2026-10-17T04:02:32.141472"
+    "scraped_at": "2026-10-17T10:29:39.216776"
   },
   {
     "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "scraped_at": "2026-10-17T04:02:32.143326"
+    "scraped_at": "2026-10-17T10:29:39.219038"
   },
   {
     "headline": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "scraped_at": "2026-10-17T04:02:32.144203"
+    "scraped_at": "2026-10-17T10:29:39.220249"
   },
   {
     "headline": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "scraped_at": "2026-10-17T04:02:32.145070"
+    "scraped_at": "2026-10-17T10:29:39.221469"
   },
   {
     "headline": "Media & Entertainment",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "scraped_at": "2026-10-17T04:02:32.145939"
+    "scraped_at": "2026-10-17T10:29:39.222660"
   },
   {
     "headline": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "scraped_at": "2026-10-17T04:02:32.146799"
+    "scraped_at": "2026-10-17T10:29:39.223911"
   },
   {
     "headline": "Replit’s CEO says the future of work is the ‘self-driving company’",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "scraped_at": "2026-10-17T04:02:32.147637"
+    "scraped_at": "2026-10-17T10:29:39.225122"
   },
   {
     "headline": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "scraped_at": "2026-10-17T04:02:32.148481"
+    "scraped_at": "2026-10-17T10:29:39.226323"
   }
 ]
