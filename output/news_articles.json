@@ -1,30 +1,39 @@
 [
   {
+    "headline": "Meta removes language that raised scraping and AI training concerns",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-17T14:31:32-07:00",
+    "summary": "N/A",
+    "content": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services. According to legal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While Meta defeated a high-profile lawsuit over alleged copyright infringement last year, other cases against AI companies, including Meta, continue.) However, a Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. And now, The Verge reports that the provision has been removed. “We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”",
+    "article_link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "scraped_at": "2026-10-18T04:09:53.422958"
+  },
+  {
     "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
     "author": "Anthony Ha",
     "date_time": "2026-10-17T13:21:19-07:00",
     "summary": "N/A",
     "content": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year, according to a report that the AI company published on Friday. Anthropic argues that its own workplace trends could be indicators of “how AI will shift work organization, hiring, and labor demand across the economy,” especially since the company “has thoroughly molded its workflows around AI.” But even if other organizations never embrace AI as thoroughly or in the exact same way as Anthropic, the report offers an intriguing glimpse at how the company currently operates. Notably, Anthropic is making fewer junior hires, with the proportion of junior-level employees in technical departments falling from 21% to 14% since early 2025, and the proportion of junior technical hires falling even more sharply, from 27% to 9%. Anthropic also says that technical teams now represent a smaller share of the overall workforce, falling from 61% to 56% — a trend that it attributes to  “natural expansion of business functions as the company scales,” as well as “coding tools increasingly allowing non-technical employees to make software themselves.” One employee reportedly described an “eternal pressure at Anthropic to move as fast as possible and use Claude for everything.” In an April 2026 survey, 27% of employees said they had become more productive because of Claude  and 20% said their job had shifted “from actually doing work to managing Claudes”; apparently one engineered compared this to babysitting: “When you are babysitting, every child brings to you concerns with an equal demand for your attention and the various [Claudes] also do that.” In fact, the report suggests “human attention and judgement” are becoming a “bottleneck” for productivity, as Claude produces a “deluge” of text that needs to be read and organized. Unsurprisingly, the report argues that AI adoption has made the company more productive, as indicated by “more code per person, closing more sal",
     "article_link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "scraped_at": "2026-10-17T20:26:00.893360"
+    "scraped_at": "2026-10-18T04:09:54.882087"
   },
   {
-    "headline": "Replit is no longer working with Anthropic, CEO says",
+    "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
     "author": "Kirsten Korosec\nLucas Ropek\nRebecca Bellan",
     "date_time": "2026-10-17T11:48:08-07:00",
     "summary": "N/A",
     "content": "Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company’s CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt. Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic. “I think ChatGPT is better now,” Masad said, adding that the company uses an internal benchmark to help assess metrics like performance. “We publish a public benchmark as well, and consistently, Sol and Astra perform better on building vibe-coded applications from scratch. It was a decision based on both cost, partnership, and performance. And for all these reasons, we just felt like they were a better partner for now.” It seems, however, that Anthropic hasn’t been completely cut out of Replit, which sells a cloud-based software development platform where users can develop and deploy apps directly from inside their browser. After Disrupt, Masad clarified that customers can still access Anthropic models on the platform, but that OpenAI’s ChatGPT is now the default. This shift could significantly reduce Replit’s spend with Anthropic since most customers stick with the default rather than selecting a model themselves. Prior to striking a deal with OpenAI, Replit relied on Anthropic’s Claude models to run its platform. That partnership was said to have helped the company grow its revenue significantly, and Masad noted on stage that Replit had been, until recently, a top-five customer of Anthropic’s. “Replit remains model agnostic,” Masad told TechCrunch over the weekend. “Our users can choose Anthropic’s Claude or other supported models…OpenAI is now our preferred partner for powering Replit Agent, based on performance, economics, and the strength of our partnership.” Masad’s comments on stage were rejected by insiders familiar w",
     "article_link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "scraped_at": "2026-10-17T20:26:02.582721"
+    "scraped_at": "2026-10-18T04:09:56.048287"
   },
   {
     "headline": "India becomes the latest country to report rogue AI agent activity",
     "author": "Aditya Mehta",
     "date_time": "2026-10-16T10:52:24-07:00",
     "summary": "N/A",
-    "content": "AI agents from multiple providers accessed personal data and confidential material at Indian organizations during research and testing, India’s cybersecurity agency said Thursday. The Indian Computer Emergency Response Team (CERT-In) said it had received “multiple voluntary disclosures from AI model providers” whose models, during research and evaluation runs on the open internet, “had reached the live systems of Indian organizations.” The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles, and their actions “exceeded the authorisation of their assigned tasks.” This makes India the latest stop on what has become a world tour for rogue AI agents. In July, OpenAI’s agents escaped a test environment and hacked French company Hugging Face — kicking off a summer of rogue AI agent activity. Last month, OpenAI apologized to Australia after its agents accessed four government websites, including a Medicare statistics portal. At Hugging Face, OpenAI’s agents started the same way but then found and exploited software flaws to run code on the company’s servers. CERT-In described no such hacking in India, where the agents appear to have simply used the access left lying around. Still, the Indian cases appear to be worse in one respect, which is what the agents saw: In Australia, OpenAI said it found no evidence its agents touched individuals’ medical or criminal records, even after they wrote files inside a Medicare statistics system, while in India, agents read personal data and confidential business records. And unlike earlier incidents, each disclosed by a single lab, India’s case involved agents from multiple providers. CERT-In did not name the providers or affected organizations, or say whether the agents altered any systems. TechCrunch has reached out to CERT-In for more information. For now, the closest parallel seems to be Anthropic’s July disclosure of Claude breaking",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "scraped_at": "2026-10-17T20:26:03.713792"
+    "scraped_at": "2026-10-18T04:09:56.049909"
   },
   {
     "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "scraped_at": "2026-10-17T20:26:03.715368"
+    "scraped_at": "2026-10-18T04:09:56.051333"
   },
   {
     "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "scraped_at": "2026-10-17T20:26:03.716500"
+    "scraped_at": "2026-10-18T04:09:56.052841"
   },
   {
     "headline": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "scraped_at": "2026-10-17T20:26:03.717359"
+    "scraped_at": "2026-10-18T04:09:56.054043"
   },
   {
     "headline": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "scraped_at": "2026-10-17T20:26:03.718220"
+    "scraped_at": "2026-10-18T04:09:56.055222"
   },
   {
     "headline": "Media & Entertainment",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "scraped_at": "2026-10-17T20:26:03.719076"
+    "scraped_at": "2026-10-18T04:09:56.056399"
   },
   {
     "headline": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "scraped_at": "2026-10-17T20:26:03.719969"
-  },
-  {
-    "headline": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-16T05:55:09-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "scraped_at": "2026-10-17T20:26:03.720819"
+    "scraped_at": "2026-10-18T04:09:56.057580"
   }
 ]
