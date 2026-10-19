@@ -1,0 +1,202 @@
+[
+  {
+    "address": "3420 Golfview Drive, Eagan, MN 55123",
+    "price_aud": "AUD $228,988",
+    "price_usd": "AUD $228,988",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-19T17:55:34.155987"
+  },
+  {
+    "address": "13845 102nd Court N, Maple Grove, MN 55369",
+    "price_aud": "AUD $729,756",
+    "price_usd": "AUD $729,756",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-19T17:55:34.156109"
+  },
+  {
+    "address": "12600 Gavotte Avenue, Apple Valley, MN 55124",
+    "price_aud": "AUD $171,598",
+    "price_usd": "AUD $171,598",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.156215"
+  },
+  {
+    "address": "3547 Norway Lane, Ely, MN 55731-0000",
+    "price_aud": "AUD $549,571",
+    "price_usd": "AUD $549,571",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-10-19T17:55:34.156322"
+  },
+  {
+    "address": "1420 Cleveland Street, Anoka, MN 55303",
+    "price_aud": "AUD $371,962",
+    "price_usd": "AUD $371,962",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.156430"
+  },
+  {
+    "address": "6384 Aspenwood Plaza, Woodbury, MN 55125",
+    "price_aud": "AUD $326,308",
+    "price_usd": "AUD $326,308",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.156538"
+  },
+  {
+    "address": "20710 Helena Lane, Lakeville, MN 55044",
+    "price_aud": "AUD $858,561",
+    "price_usd": "AUD $858,561",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-10-19T17:55:34.156646"
+  },
+  {
+    "address": "19225 Meadowridge Lane N, Scandia, MN 55047",
+    "price_aud": "AUD $1,788,968",
+    "price_usd": "AUD $1,788,968",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-19T17:55:34.156767"
+  },
+  {
+    "address": "9754 31st Street NE, Saint Michael, MN 55376",
+    "price_aud": "AUD $572,326",
+    "price_usd": "AUD $572,326",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.156878"
+  },
+  {
+    "address": "53499 255th Street, Austin, MN 55912",
+    "price_aud": "AUD $414,897",
+    "price_usd": "AUD $414,897",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.156984"
+  },
+  {
+    "address": "1313 Sheridan Avenue N, Minneapolis, MN 55411",
+    "price_aud": "AUD $386,274",
+    "price_usd": "AUD $386,274",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.157089"
+  },
+  {
+    "address": "5515 15th Avenue S, Minneapolis, MN 55417",
+    "price_aud": "AUD $543,703",
+    "price_usd": "AUD $543,703",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.157194"
+  },
+  {
+    "address": "20 2nd Street NE, Minneapolis, MN 55413",
+    "price_aud": "AUD $241,868",
+    "price_usd": "AUD $241,868",
+    "bedrooms": "N/A",
+    "bathrooms": "1",
+    "timestamp": "2026-10-19T17:55:34.157306"
+  },
+  {
+    "address": "3130 Juniper Lane, Woodbury, MN 55125",
+    "price_aud": "AUD $379,261",
+    "price_usd": "AUD $379,261",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.157415"
+  },
+  {
+    "address": "13845 102nd Court North, Maple Grove, MN 55369",
+    "price_aud": "AUD $729,756",
+    "price_usd": "AUD $729,756",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-19T17:55:34.157519"
+  },
+  {
+    "address": "807 7th Avenue SE, Austin, MN 55912",
+    "price_aud": "AUD $221,689",
+    "price_usd": "AUD $221,689",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.157625"
+  },
+  {
+    "address": "5242 Irving Avenue N, Minneapolis, MN 55430",
+    "price_aud": "AUD $407,885",
+    "price_usd": "AUD $407,885",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.157741"
+  },
+  {
+    "address": "721 Bob Ehlen Drive, Anoka, MN 55303",
+    "price_aud": "AUD $343,339",
+    "price_usd": "AUD $343,339",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "timestamp": "2026-10-19T17:55:34.157847"
+  },
+  {
+    "address": "3242 Nybeck Avenue S, Afton, MN 55001",
+    "price_aud": "AUD $1,180,717",
+    "price_usd": "AUD $1,180,717",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-10-19T17:55:34.157952"
+  },
+  {
+    "address": "5811 Glenwood St, Duluth, MN 55804",
+    "price_aud": "AUD $479,443",
+    "price_usd": "AUD $479,443",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-10-19T17:55:34.158058"
+  },
+  {
+    "address": "217 Orchard Street N, Northfield, MN 55057",
+    "price_aud": "AUD $413,609",
+    "price_usd": "AUD $413,609",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.158164"
+  },
+  {
+    "address": "3137 Batavia St, Duluth, MN 55806",
+    "price_aud": "AUD $543,846",
+    "price_usd": "AUD $543,846",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.158269"
+  },
+  {
+    "address": "13773 102nd Court North, Maple Grove, MN 55369",
+    "price_aud": "AUD $787,003",
+    "price_usd": "AUD $787,003",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-19T17:55:34.158375"
+  },
+  {
+    "address": "200 NE Park Avenue, Elysian, MN 56028",
+    "price_aud": "AUD $343,339",
+    "price_usd": "AUD $343,339",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.158482"
+  },
+  {
+    "address": "105 Glencrest Ct, Duluth, MN 55808",
+    "price_aud": "AUD $372,105",
+    "price_usd": "AUD $372,105",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-19T17:55:34.158588"
+  }
+]
