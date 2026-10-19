@@ -1,12 +1,21 @@
 [
   {
+    "headline": "N/A",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-18T13:37:40-07:00",
+    "summary": "N/A",
+    "content": "Anthropic announced today that it’s creating a “public benefit fund” that will give the company “increased flexibility and scale” to support projects for societal good. Anthropic said that it will commit 5% of its shares to the fund — structured as a wholly-owned entity within the company — with the option to contribute an additional 2% for every 50% increase in Anthropic’s value. And it offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.” There’s also the impact that AI might have on the job market, which Anthropic has already committed $200 million to study. But the company said, “Given the pace of AI progress, bolder approaches may be needed. The Fund will have the versatility to pursue them.” Anthropic’s announcement comes as the AI industry faces increasingly negative public sentiment, which CEO Dario Amodei has described as “fundamentally a crisis of trust.” If you’re wondering who will actually decide which public benefits are worth funding, Anthropic said it will share more information about structure and governance in the coming months.",
+    "article_link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "scraped_at": "2026-10-19T04:19:24.399878"
+  },
+  {
     "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
     "author": "Anthony Ha",
     "date_time": "2026-10-18T09:30:00-07:00",
     "summary": "N/A",
     "content": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal filing spotted by Bloomberg revealed more details about the agreement between Character.AI and Disney, with Disney agreeing to make employment offers to at least 60 Character.AI employees — the majority of the workforce — paying them an estimated $60 million in annual compensation. The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer. The filing says that despite its “large and engaged user base,” Character.AI has been hobbled by high costs and “potential litigation-related liabilities and regulatory engagement.” (The company was sued by the mother of a 14-year-old boy who said her son became obsessed with one of Character.AI’s chatbots before committing suicide; it also faces government investigations over child safety concerns.)",
     "article_link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "scraped_at": "2026-10-18T20:26:52.494110"
+    "scraped_at": "2026-10-19T04:19:26.068624"
   },
   {
     "headline": "Meta removes language that raised scraping and AI training concerns",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services. According to legal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While Meta defeated a high-profile lawsuit over alleged copyright infringement last year, other cases against AI companies, including Meta, continue.) However, a Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. And now, The Verge reports that the provision has been removed. “We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”",
     "article_link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "scraped_at": "2026-10-18T20:26:53.736741"
+    "scraped_at": "2026-10-19T04:19:27.262514"
   },
   {
     "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
     "author": "Anthony Ha",
     "date_time": "2026-10-17T13:21:19-07:00",
     "summary": "N/A",
-    "content": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year, according to a report that the AI company published on Friday. Anthropic argues that its own workplace trends could be indicators of “how AI will shift work organization, hiring, and labor demand across the economy,” especially since the company “has thoroughly molded its workflows around AI.” But even if other organizations never embrace AI as thoroughly or in the exact same way as Anthropic, the report offers an intriguing glimpse at how the company currently operates. Notably, Anthropic is making fewer junior hires, with the proportion of junior-level employees in technical departments falling from 21% to 14% since early 2025, and the proportion of junior technical hires falling even more sharply, from 27% to 9%. Anthropic also says that technical teams now represent a smaller share of the overall workforce, falling from 61% to 56% — a trend that it attributes to  “natural expansion of business functions as the company scales,” as well as “coding tools increasingly allowing non-technical employees to make software themselves.” One employee reportedly described an “eternal pressure at Anthropic to move as fast as possible and use Claude for everything.” In an April 2026 survey, 27% of employees said they had become more productive because of Claude  and 20% said their job had shifted “from actually doing work to managing Claudes”; apparently one engineered compared this to babysitting: “When you are babysitting, every child brings to you concerns with an equal demand for your attention and the various [Claudes] also do that.” In fact, the report suggests “human attention and judgement” are becoming a “bottleneck” for productivity, as Claude produces a “deluge” of text that needs to be read and organized. Unsurprisingly, the report argues that AI adoption has made the company more productive, as indicated by “more code per person, closing more sal",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "scraped_at": "2026-10-18T20:26:55.402650"
+    "scraped_at": "2026-10-19T04:19:27.264577"
   },
   {
     "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "scraped_at": "2026-10-18T20:26:55.403852"
+    "scraped_at": "2026-10-19T04:19:27.266168"
   },
   {
     "headline": "India becomes the latest country to report rogue AI agent activity",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "scraped_at": "2026-10-18T20:26:55.404481"
+    "scraped_at": "2026-10-19T04:19:27.267358"
   },
   {
     "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "scraped_at": "2026-10-18T20:26:55.405207"
+    "scraped_at": "2026-10-19T04:19:27.268734"
   },
   {
     "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "scraped_at": "2026-10-18T20:26:55.406033"
+    "scraped_at": "2026-10-19T04:19:27.270286"
   },
   {
     "headline": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "scraped_at": "2026-10-18T20:26:55.406658"
+    "scraped_at": "2026-10-19T04:19:27.271481"
   },
   {
     "headline": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "scraped_at": "2026-10-18T20:26:55.407268"
-  },
-  {
-    "headline": "Media & Entertainment",
-    "author": "Aisha Malik",
-    "date_time": "2026-10-16T07:26:51-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "scraped_at": "2026-10-18T20:26:55.407882"
+    "scraped_at": "2026-10-19T04:19:27.272676"
   }
 ]
