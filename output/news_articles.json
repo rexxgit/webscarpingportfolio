@@ -1,30 +1,66 @@
 [
   {
+    "headline": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "author": "Tim De Chant",
+    "date_time": "2026-10-20T09:00:00-07:00",
+    "summary": "N/A",
+    "content": "Justin Mast’s life was changed by a cyborg plant. A few years ago, Mast was reading through some scientific literature when he stumbled upon research about a houseplant wired to a motorized stand. When the plant wanted more light, electrical signals flowed through the living tissues. A control board sensed the current and wheeled the plant closer to the light source. “I’m like, what the heck?” Mast told TechCrunch. “That was the entry to the rabbit hole for me.” Mast wound up partnering with Lee von Kraus, a neuroscientist who has worked with DARPA, to found Electric Plant, which has been spending the past three years collecting data to build a large language model, Bombadil, capable of interpreting the subtle electrical signals coursing through a plant’s stem and relaying details about the plant’s needs to growers. The founders believe their model could one day lead to a tool that would let people “speak” to plants. “We’re listening more than we’re speaking, but listening’s the first step,” said Mast, co-founder and CEO of Electric Plant. To bring its sensors and Bombadil to market, Electric Plant recently raised an $11.2 million seed round led by Onto Ventures and Climactic, with participation from Ponderosa, Endeavor Catalyst, Ludlow, Michigan Rise, The Fund, Schox VC, and Dug Song. Even in the most controlled greenhouses, farmers and growers don’t have full visibility of what their plants require, Mast said. Traditionally, farmers, growers, and foresters have relied on coarse tools that react to plants’ demands for water, nutrients, or light. And tools like soil probes, handheld spectroscopes, and satellite imagery work well enough, but they leave much to be desired, Mast said. “That technology is sophisticated, but its ability to get at the inside of the plant isn’t very sophisticated. Most of that stuff still lags quite a bit behind the real-time needs of the plant,” he said. Electric Plant had to start somewhere, though, so it used those devices to train its ",
+    "article_link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "scraped_at": "2026-10-20T16:44:46.798139"
+  },
+  {
+    "headline": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "author": "Ivan Mehta",
+    "date_time": "2026-10-20T07:13:32-07:00",
+    "summary": "N/A",
+    "content": "Despite Figma co-founder Dylan Field’s concerns about MCP (model context protocol), which standardizes how AI agents connect to external data sources and tools, the company is expanding its support for the open source standard. At the design company’s first Config conference held in India, the company announced 20 new model context protocol (MCP) partners, including Amp, ClickUp, Dia, Junie by JetBrains, Linear, Meta Muse, Mistral, Notion, OpenCode, and Sarvam Agents. Field has expressed his misgivings about MCP before. Days before this announcement, one of MCP’s co-creators complained about Figma not supporting the open-source tool Pi. As part of his response, Field made a comment about Anthropic not making its various resources available via MCP. “I find it interesting that Anthropic (creators of MCP standard) do not expose artifacts / other cloud resources created via MCP,” he wrote on X. “The debate is framed as open vs closed. Everyone always prefers open… obviously. And meanwhile issues of asymmetric context sharing are ignored.” (Field later added that Figma plans support Pi.) Can you help me understand why you don't make various Anthropic resources available via MCP? Maybe I'm missing something. At a media briefing, I asked Field about this debate. The co-founder explained that while Figma wants to be open, he doesn’t think MCP is a perfect protocol. “I’m really excited about what we’re doing in terms of opening up our ecosystem. I also think that MCP is not a perfect protocol. And I think that it is something that has tons of room for improvement,” the co-founder responded. “It is advantaged more to frontier labs. Also, I understand everyone online who just wants a protocol that they can use when they want to use their Figma data, and I want them to use it, too.” Figma’s CEO said that the reason the company doesn’t want to be fully open is that the more data the company exposes through MCP, the higher the chance of abuse. He also clarified that while most u",
+    "article_link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "scraped_at": "2026-10-20T16:44:48.472717"
+  },
+  {
+    "headline": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "author": "Kate Park",
+    "date_time": "2026-10-20T06:07:24-07:00",
+    "summary": "N/A",
+    "content": "The U.S. has ordered federal civilian agencies to stop purchasing services and products developed by Chinese AI startup DeepSeek and remove them from government IT systems over national security concerns tied to the Chinese AI startup’s operations in China, according to the Department of Homeland Security. The order goes beyond banning DeepSeek’s own product, but also covers third-party products and services built using DeepSeek technology, though agencies can request exceptions. The DHS raised concerns about DeepSeek’s handling of user data, warning that sensitive information from US government users could potentially be accessible to Chinese authorities under Chinese law, the order said. The move comes amid intensifying tech competition in AI between the US and China. The Chinese AI model challenges its U.S. rivals, including OpenAI and Meta, with low-cost open-weight models. China pushed back against the U.S.’s move. Foreign Ministry spokesperson Mao Ning said Tuesday that Beijing opposes “overstretching the concept of national security and politicizing technology and trade issues,” according to an official briefing. “We will resolutely safeguard the legitimate rights and interests of Chinese enterprises,” the spokesperson added. The U.S. has already taken steps to limit DeepSeek’s use in government. A law passed in December 2025 targeted its use in intelligence’s national security systems. The latest order extends the restrictions to federal civilian agencies, covering both new purchases and existing IT systems. Meanwhile, China is reportedly considering export restrictions on 23 AI-related technologies, including chip designs and certain advanced AI models, to address security and misuse risks, Bloomberg reported last week. The Chinese AI lab has faced scrutiny from governments and regulators across the globe since its R1 reasoning model shook the AI industry in January 2025, triggering a sharp sell-off in Nvidia shares. The U.S. accused DeepSeek and five other",
+    "article_link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "scraped_at": "2026-10-20T16:44:49.799611"
+  },
+  {
+    "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-20T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "scraped_at": "2026-10-20T16:44:49.801365"
+  },
+  {
     "headline": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "author": "Ivan Mehta",
     "date_time": "2026-10-20T04:00:00-07:00",
     "summary": "N/A",
-    "content": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. The startup, which has been around for nearly a decade, has raised $50 million in total funding with its last round in 2021, according to PitchBook data. Last year, Otter hit a revenue milestone after crossing $100 million in annual recurring revenue (ARR). The company said it’s now approaching new milestones, but didn’t provide updated figures. The company said that 40 million users have used its product to date, up from 25 million last year. However, given the crowded space among meeting note-taking products, a pertinent challenge for Otter would be to have its customers stick around. Unfortunately, the startup didn’t provide any numbers around its monthly active users or churn. “Voice is one of the biggest untapped opportunities in enterprise AI, and Otter is at the forefront of it – a conviction that’s only deepened watching Otter’s growth,” said Pranav Singhvi, Partner and Co-founder of CVF, General Catalyst. “When Otter enables enterprises to capture critical voice data and turns it into actionable business insights, teams move faster, decisions get sharper, and productivity compounds across the organization, and that’s why it’s a strong partner for CVF.” There is a lot of competition in the market with well-funded meeting notetakers like Fireflies.ai, Granola, and Read AI; new entrants like Calendly, Wispr, and Superhuman, which acquired Fathom; and other notetakers like Circleback, Talat, and Quill. Most of these notetakers want to connect to enterprise systems and, based on data captured in meetings, automate workflows. Otter is also heading in that direction. In the last few y",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "scraped_at": "2026-10-20T11:20:03.536999"
+    "scraped_at": "2026-10-20T16:44:49.802585"
   },
   {
     "headline": "Yelp can now call on your behalf to check wait times at a restaurant",
     "author": "Ivan Mehta",
     "date_time": "2026-10-20T04:00:00-07:00",
     "summary": "N/A",
-    "content": "Over the last few weeks, personal assistants like Instinct, Fo, and Muse have enabled users to call businesses for customer support and appointment booking. Following this trend, Yelp is adding the ability for its app users to get a voice agent to call a restaurant to check wait times. The new feature, Check for Me, will show up on restaurant pages in the app, where users can enter their party size and phone number. The AI agent then calls on behalf of the user to check wait times and texts them the results to decide if they want to go to that particular restaurant. Last year, Yelp debuted its voice solution for restaurants and service providers. With this new feature, the discovery platform is fulfilling the consumer side of the equation, though there is a possibility that a user’s agent will talk to the restaurant’s agent, and agent-to-agent communication might break down the conversation. The company is also updating its Yelp AI assistant that helps users discover restaurants and services. With the new OpenTable integration, users can easily book a restaurant without leaving the app. Yelp is adding better personalization to its assistant by having it remember preferences that you might have mentioned in previous chats. Plus, you can access your chat history from the past 30 days in the app, with full history available soon. Users can ask the chatbot to set custom reminders, such as sending suggestions for weekend activities every Friday. The company is also letting users build their own lists, starting with two “Been Here” and “Want toGo” lists. You can filter your lists by location, category, and cuisine, reorder, add notes to items, and share them with others. Next month, the company will start showing weekly personalized recommendations based on your saved items and rankings. Yelp is also working on converting collections to lists and giving the lists tab a new look, rolling out later in the year, along with a maps view. To cap off all these changes, Yelp has ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "scraped_at": "2026-10-20T11:20:05.239001"
+    "scraped_at": "2026-10-20T16:44:49.803803"
   },
   {
     "headline": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "author": "Rebecca Bellan",
     "date_time": "2026-10-19T18:27:03-07:00",
     "summary": "N/A",
-    "content": "Two of New York’s sweethearts, Mayor Zohran Mamdani and activist and “Broad City” star Ilana Glazer, spoke about AI at Webster Hall in Manhattan on Monday night, with Glazer posing questions to the mayor about the future of AI in society. Mamdani encouraged New Yorkers to resist the overwhelming feeling that AI is inevitably coming for their jobs, their kids’ minds, and their dignity, and to take back control instead. His message came at a moment when the federal government is doing little to regulate AI, leaving cities to act on their own. At The People’s AI Assembly, an event hosted by the AI Now Institute, a think tank that explores the social implications of AI, Mamdani argued that the technology’s rapid rollout is not inevitable and that public officials should hold AI companies accountable. Last month, Mamdani ordered a ban on AI use in elementary and middle schools. Glazer, a parent, said the technology’s arrival in classrooms unsettles her. “It just makes me nervous. It feels so non-consensual, as though…this has to be in schools. It wasn’t two years ago. Why does it have to be in schools?” she said. Over the summer, the mayor also introduced a policy that would require landlords, brokers, and real estate platforms to clearly disclose when a property’s listing photos or videos are made with AI. The policy is aimed at protecting New Yorkers from getting “house-phished,” or tricked by misleading listings. Both moves challenge the assumption that schools and the public must simply accept AI as it arrives. “Nothing has to be,” Mamdani said at the event Monday. “There’s a creep that comes with this, and there’s an intent to overwhelm that leaves people feeling as if there is simply no option.” He said there has been a “reckless adoption of technology without any kind of a reckoning with the limitations of that technology,” citing the U.S. military’s February strike on a school in Iran that killed more than 150 people, including at least 123 children. Officials in",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "scraped_at": "2026-10-20T11:20:06.912924"
+    "scraped_at": "2026-10-20T16:44:49.805019"
   },
   {
     "headline": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "scraped_at": "2026-10-20T11:20:06.913855"
+    "scraped_at": "2026-10-20T16:44:49.806373"
   },
   {
     "headline": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "scraped_at": "2026-10-20T11:20:06.914458"
+    "scraped_at": "2026-10-20T16:44:49.807660"
   },
   {
     "headline": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "scraped_at": "2026-10-20T11:20:06.915051"
-  },
-  {
-    "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "author": "Julie Bort",
-    "date_time": "2026-10-19T13:09:24-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "scraped_at": "2026-10-20T11:20:06.915627"
-  },
-  {
-    "headline": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "author": "Aditya Mehta",
-    "date_time": "2026-10-19T12:28:34-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "scraped_at": "2026-10-20T11:20:06.916200"
-  },
-  {
-    "headline": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-19T12:00:12-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "scraped_at": "2026-10-20T11:20:06.916774"
-  },
-  {
-    "headline": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-10-19T11:49:04-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "scraped_at": "2026-10-20T11:20:06.917363"
+    "scraped_at": "2026-10-20T16:44:49.808916"
   }
 ]
