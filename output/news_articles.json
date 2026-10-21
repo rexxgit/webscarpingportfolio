@@ -1,30 +1,66 @@
 [
   {
+    "headline": "TechCrunch Founder Summit 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-10-21T14:16:20-07:00",
+    "summary": "N/A",
+    "content": "Buy One Founder Summit Ticket, Get a Second Free for a Limited Time. Save Now Ticket savings of up to $190 end June 26, 11:59 p.m. PT. REGISTER HERE. TechCrunch Founder Summit presented by Fidelity Private Shares returns to SoWA Boston, November 4 for a full day of founder-focused learning, investor insights, and meaningful connections. For a limited time, buy one ticket and get a second ticket FREE. Share the experience with a co-founder, colleague, or entrepreneur in your network at no additional cost. One ticket. Two attendees. Twice the value. Wondering how to nail that pitch meeting and raise VC funding? Or how to build a high-octane sales team? What about recruiting early team members who will fuel future growth? Managing the finances of a new company while also wondering about your own personal finances as a founder? Legal? Marketing? PR? Being a great leader? TechCrunch Founder Summit presented by Fidelity Private Shares will answer every one of these questions. Grab your ticket at the lowest rate. Hear from accomplished startup leaders in panel-led breakout sessions as they reveal the secrets to their success. These main-stage sessions offer unparalleled access to the journeys, insights, and tips that can help take your startup to the next level. Participate in immersive sessions where startup pioneers and peers come together to discuss challenges, share stories, and build connections that drive success.",
+    "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
+    "scraped_at": "2026-10-21T21:30:38.371025"
+  },
+  {
+    "headline": "Meta says Muse has over 10M users, with shopping a top activity",
+    "author": "Sarah Perez",
+    "date_time": "2026-10-21T14:14:19-07:00",
+    "summary": "N/A",
+    "content": "Meta said during its third-quarter earnings call on Wednesday that its AI app Muse has been adopted by more than 10 million users, confirming estimates released earlier this week by market intelligence firm Sensor Tower. But it is how people are using it, and how much they’re spending that has caught CEO Mark Zuckerberg’s attention. Zuckerberg said about 25% of people who set up Muse now use it daily, helping improve retention. He also shared that over a quarter of Muse’s engaged users who were shopping via the AI agent, had an average purchase size of over $200, which was surprising even to industry insiders. “Plaid told us that they hadn’t seen activity like they’re seeing with their connector on any other service before,” Zuckerberg said, referring to the financial technology company that connects payment apps to customers’ bank accounts. Muse uses Plaid’s connector to enable agentic shopping. Beyond shopping, Zuckerberg said other popular uses for Muse include personal productivity tasks, such as connecting the AI agent to users’ email or calendars. The exec stressed that this indicates users trusted Muse’s security setup, which includes a feature called “Muse Secure VM” designed to protect their data and privacy. He also mentioned that the forthcoming “Muse Confidential VM” will prevent even Meta from seeing users’ content. Now that Muse has achieved “product-market fit,” Zuckerberg said Meta’s focus will shift to scaling the AI agent, increasing revenue, and optimizing its compute costs. Remarkably, the tech company is forecasting that Muse will eventually bring in more revenue per user than its “family of apps” users do today — meaning its users on Facebook, Instagram, WhatsApp, and Messenger. Currently, that figure is around “several hundreds of dollars annually,” Zuckerberg said. Meta has said it ultimately intends to monetize Muse by keeping it free for most users, but keeping a percentage of the commerce taking place on the platform. Power users who want ",
+    "article_link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "scraped_at": "2026-10-21T21:30:40.390038"
+  },
+  {
+    "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "author": "Aditya Mehta",
+    "date_time": "2026-10-21T13:27:41-07:00",
+    "summary": "N/A",
+    "content": "Recursive, an AI startup founded last year, is starting to live up to its name. The company, which is trying to build AI that can improve itself, released its first model, Flint, on Wednesday. Flint is a free coding model that can run on a laptop and was built largely with the help of AI. Recursive’s automated research system, which it calls the Eureka Machine, helped with nearly every step of Flint’s development, the company says. That let a small team build the model from scratch in under four months. Flint is an early public test of recursive self-improvement: the idea that AI can build better AI, which in turn builds even better AI. It’s also one of the most debated ideas in the industry. Some researchers fear that AI improving itself could slip out of human control. For now, Recursive’s version is more limited: an AI research assistant overseen by people that produced a model small enough for a laptop. The company emerged from stealth in May with $650 million in funding at a $4.65 billion valuation, from backers including GV, Nvidia, and AMD Ventures. Recursive is led by CEO Richard Socher, Salesforce’s former chief scientist. Because Flint runs on a user’s own computer rather than a company’s cloud servers, developers can use it offline, keep their code private, and avoid the usage fees that AI cloud services charge based on how much text the model processes. The model is free to download on Hugging Face, the popular site for sharing AI models, under the Apache 2.0 license, an open-source license that allows free use and modification. Flint is a mixture-of-experts model, meaning it uses only a small slice of itself for any given task: just 2.5 billion of its 40 billion settings, known as parameters, at a time. That makes it light enough for an ordinary laptop and far smaller than Meta’s Muse Spark Open, an open model built for Macs that was released last week. Muse Spark Open uses 816 billion parameters and needs at least a terabyte of memory. Flint is also fa",
+    "article_link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "scraped_at": "2026-10-21T21:30:42.424088"
+  },
+  {
+    "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "author": "Sarah Perez",
+    "date_time": "2026-10-21T12:30:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "scraped_at": "2026-10-21T21:30:42.425265"
+  },
+  {
     "headline": "AI promises productivity, but for managers, it’s mostly a headache for now",
     "author": "Ram Iyer",
     "date_time": "2026-10-21T07:00:00-07:00",
     "summary": "N/A",
-    "content": "Companies are giving employees AI tools to make them more productive, but the tools appear to be creating new problems for their managers. More than half of senior leaders say they find it harder to evaluate employees’ work after adopting AI, according to a Nielsen survey of 1,700 directors and senior managers across seven countries, commissioned by work-management company Monday.com. The reason is that much of employees’ output now arrives polished in the manager’s inbox, making it hard to tell how much came from the employee and how much from AI. As a result, nearly half of managers say they spend more time reviewing and guiding their teams’ output than they used to. That’s not to say managers are unhappy about AI. Quite the opposite, in fact: 94% of the managers polled said they were excited to improve work using AI, and many are confident they know where to use it to get the most value. Michal Miller Levi, head of market research and customer insights at Monday.com, compared the enthusiasm to the early days of the internet in the 2000s, saying people see a similar kind of “magic” to AI. But the problem, she told TechCrunch, is simply that AI is developing faster than companies can adapt. “AI works very well for [managers] individually, but they also have a different role as managers. They need to drive the organization as well … Their struggle is [due to] the fact that AI is just moving faster than the organizational processes,” Levi said. Managers are also reconsidering how they judge their teams: 78% of respondents said they have changed how they evaluate employees after adopting AI, placing greater weight on how well staff can create prompts, decide which tasks to delegate to AI, and experiment with new ways of working. But how fairly can employees be judged when managers can’t easily tell how much of their work was produced by AI? And what if the managers themselves are increasingly relying on AI to make those judgments? The survey found that 46% of managers",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "scraped_at": "2026-10-21T17:01:56.624513"
+    "scraped_at": "2026-10-21T21:30:42.426151"
   },
   {
     "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "author": "Lucas Ropek",
     "date_time": "2026-10-20T16:01:23-07:00",
     "summary": "N/A",
-    "content": "Over the past year, concerns have swirled over the potential dangers posed by artificial intelligence, and debates have raged over the proper path for AI safety. Now, Anthropic appears to have put forth its own vision for how the government might regulate its industry. Politico recently reported that the AI lab has been shopping around a new draft bill on AI safety that it hopes Congress might consider adopting. The legislation posits certain scenarios in which the release of an AI model could be blocked from distribution. Those scenarios involve a “foreseeable, imminent risk” — one in which over 50 people are at risk of dying or if over a billion dollars in property damage could result, Politico writes. The catastrophic risk in question must “stem from the creation or release of a biological weapon, the model evading its developer’s controls or a cyberattack,” the outlet notes. The metrics offered here — 50 people and a billion dollars — are similar to those in a piece of California legislation that was recently passed into law, Senate Bill 53, which similarly defined those scenarios as tantamount to “catastrophic risk.” Anthropic’s bill suggests that analysis of a model’s potential for disaster could be arrived at via the use of “independent evaluators” who would be registered with the U.S. Commerce Department. These evaluators could potentially be paid by the AI labs themselves — so long as the “payment is not contingent on the evaluations’ results,” Politico writes. It’s not clear how this proposed system would ensure that payments couldn’t influence the evaluation. Demis Hassabis, chairman of DeepMind, posited some months ago that a self-governing AI regulatory body should mimic the financial industry’s Financial Industry Regulatory Authority (FINRA). In Anthropic’s draft bill, when evaluators determine that an imminent catastrophic risk is posed, they would have 72 hours to contact the Commerce Department about it. The Commerce Department would then have to re",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "scraped_at": "2026-10-21T17:01:58.678172"
+    "scraped_at": "2026-10-21T21:30:42.427014"
   },
   {
     "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
     "author": "Julie Bort",
     "date_time": "2026-10-20T15:24:02-07:00",
     "summary": "N/A",
-    "content": "Before you share the Netflix documentary “AI Gone Rogue” with family or friends to help them understand why the AI industry freaked out so badly that leaders called for a slowdown, take note: Clem Delangue, co-founder and CEO of the AI platform Hugging Face, says the film isn’t accurate. He appears in it because it’s supposed to be about the famed attack on his company by rogue OpenAI agents. “Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode,” Delangue wrote in a post on X. “I spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.” To be fair, the documentary does have experts who explained what happened fairly well, including Delangue himself and Ryan Greenblatt, the researcher at METR who helped investigate and co-authored the report on what happened. In a nutshell, a model OpenAI was testing broke free from its isolated testing environment and spawned a bunch of agents that hacked into Hugging Face as a way to cheat, finding answers to the difficult task it was given. The agents, which are AI programs that carry out tasks on their own, devised clever ways to communicate and organize. The incident stemmed from a lack of proper security safeguards and from naiveté about whether such a hack was even possible. But the documentary intersperses its explanation of the hack with clips of evil robots, a narrative about why humans fear AI, and presentation choices such as giving the rogue agents human voices. This is bolstered with quotes about the attack. In the documentary, tech journalist and author Kevin Roose describes the agents this way: “They were organizing. They had a hierarchy. There were leaders. It almost felt like watching the birth of a cult.” Continues Roose, “They develop this paranoid belief that OpenAI is going to catch",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "scraped_at": "2026-10-21T17:02:00.343139"
+    "scraped_at": "2026-10-21T21:30:42.427867"
   },
   {
     "headline": "Anthropic’s cloud partnerships are getting messy",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "scraped_at": "2026-10-21T17:02:00.344425"
+    "scraped_at": "2026-10-21T21:30:42.428778"
   },
   {
     "headline": "SpaceX’s AI business is beating expectations",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "scraped_at": "2026-10-21T17:02:00.345469"
+    "scraped_at": "2026-10-21T21:30:42.429751"
   },
   {
     "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "scraped_at": "2026-10-21T17:02:00.346432"
-  },
-  {
-    "headline": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "author": "Julie Bort",
-    "date_time": "2026-10-20T11:38:24-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "scraped_at": "2026-10-21T17:02:00.347328"
-  },
-  {
-    "headline": "ChatGPT now lets you lock your chats",
-    "author": "Aisha Malik",
-    "date_time": "2026-10-20T11:36:53-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-    "scraped_at": "2026-10-21T17:02:00.348197"
-  },
-  {
-    "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "author": "Marina Temkin",
-    "date_time": "2026-10-20T10:55:12-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "scraped_at": "2026-10-21T17:02:00.349121"
-  },
-  {
-    "headline": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-20T10:12:48-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-    "scraped_at": "2026-10-21T17:02:00.350034"
+    "scraped_at": "2026-10-21T21:30:42.430652"
   }
 ]
