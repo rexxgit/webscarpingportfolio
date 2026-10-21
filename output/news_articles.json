@@ -4,27 +4,27 @@
     "author": "Lucas Ropek",
     "date_time": "2026-10-20T16:01:23-07:00",
     "summary": "N/A",
-    "content": "Over the past year, concerns have swirled over the potential dangers posed by artificial intelligence, and debates have raged over the proper path for AI safety. Now, Anthropic appears to have put forth its own vision for how the government might regulate its industry. Politico recently reported that the AI lab has been shopping around a new draft bill on AI safety that it hopes Congress might consider adopting. The legislation posits certain scenarios in which the release of an AI model could be blocked from distribution. Those scenarios involve a “foreseeable, imminent risk” — one in which over 50 people are at risk of dying or if over a billion dollars in property damage could result, Politico writes. The catastrophic risk in question must “stem from the creation or release of a biological weapon, the model evading its developer’s controls or a cyberattack,” the outlet notes. The metrics offered here — 50 people and a billion dollars — are similar to those in a piece of California legislation that was recently passed into law, Senate Bill 53, which similarly defined those scenarios as tantamount to “catastrophic risk.” Anthropic’s bill suggests that analysis of a model’s potential for disaster could be arrived at via the use of “independent evaluators” who would be registered with the U.S. Commerce Department. These evaluators could potentially be paid by the AI labs themselves — so long as the “payment is not contingent on the evaluations’ results,” Politico writes. It’s not clear how this proposed system would assure that payments couldn’t influence the evaluation. Demis Hassabis, chairman of DeepMind, posited some months ago that a self-governing AI regulatory body should mimic the financial industry’s Financial Industry Regulatory Authority (FINRA). In Anthropic’s draft bill, when evaluators determine that an imminent catastrophic risk is posed, they would have 72 hours to contact the Commerce Department about it. The Commerce Department would then have to  r",
+    "content": "Over the past year, concerns have swirled over the potential dangers posed by artificial intelligence, and debates have raged over the proper path for AI safety. Now, Anthropic appears to have put forth its own vision for how the government might regulate its industry. Politico recently reported that the AI lab has been shopping around a new draft bill on AI safety that it hopes Congress might consider adopting. The legislation posits certain scenarios in which the release of an AI model could be blocked from distribution. Those scenarios involve a “foreseeable, imminent risk” — one in which over 50 people are at risk of dying or if over a billion dollars in property damage could result, Politico writes. The catastrophic risk in question must “stem from the creation or release of a biological weapon, the model evading its developer’s controls or a cyberattack,” the outlet notes. The metrics offered here — 50 people and a billion dollars — are similar to those in a piece of California legislation that was recently passed into law, Senate Bill 53, which similarly defined those scenarios as tantamount to “catastrophic risk.” Anthropic’s bill suggests that analysis of a model’s potential for disaster could be arrived at via the use of “independent evaluators” who would be registered with the U.S. Commerce Department. These evaluators could potentially be paid by the AI labs themselves — so long as the “payment is not contingent on the evaluations’ results,” Politico writes. It’s not clear how this proposed system would ensure that payments couldn’t influence the evaluation. Demis Hassabis, chairman of DeepMind, posited some months ago that a self-governing AI regulatory body should mimic the financial industry’s Financial Industry Regulatory Authority (FINRA). In Anthropic’s draft bill, when evaluators determine that an imminent catastrophic risk is posed, they would have 72 hours to contact the Commerce Department about it. The Commerce Department would then have to re",
     "article_link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "scraped_at": "2026-10-21T04:22:14.462455"
+    "scraped_at": "2026-10-21T11:35:43.339142"
   },
   {
     "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
     "author": "Julie Bort",
     "date_time": "2026-10-20T15:24:02-07:00",
     "summary": "N/A",
-    "content": "Before you share the Netflix documentary “AI Gone Rogue” with family or friends to help them understand why the AI industry freaked out so badly that leaders called for a slowdown, take note: Clem Delangue, co-founder and CEO of the AI platform Hugging Face, says the film isn’t accurate. He appears in it because it’s supposed to be about the famed attack on his company by rogue OpenAI agents. “Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode,” Delangue wrote in a post on X. “I spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.” To be fair, the documentary does have experts who explained what happened fairly well, including Delangue himself and Ryan Greenblatt, the researcher at METR who helped investigate and co-authored the report on what happened. In a nutshell, a model OpenAI was testing broke free from its isolated testing environment, spawned a bunch of agents that hacked into Hugging Face as a way to cheat, finding answers to the difficult task it was given. The agents, which are AI programs that carry out tasks on their own, devised clever ways to communicate and organize. The incident stemmed from a lack of proper security safeguards and from naiveté about whether such a hack was even possible. But the documentary intersperses its explanation of the hack with clips of evil robots, a narrative about why humans fear AI, and presentation choices such as giving the rogue agents human voices. This is bolstered with quotes about the attack. In the documentary, tech journalist and author Kevin Roose describes the agents this way: “They were organizing. They had a hierarchy. There were leaders. It almost felt like watching the birth of a cult.” Continues Roose, “They develop this paranoid belief that OpenAI is going to catch th",
+    "content": "Before you share the Netflix documentary “AI Gone Rogue” with family or friends to help them understand why the AI industry freaked out so badly that leaders called for a slowdown, take note: Clem Delangue, co-founder and CEO of the AI platform Hugging Face, says the film isn’t accurate. He appears in it because it’s supposed to be about the famed attack on his company by rogue OpenAI agents. “Super disappointing, as they went for maximum anthropomorphism of the technology and full doomer mode,” Delangue wrote in a post on X. “I spent more than two hours with them trying to correct all their mistakes and ground this in reality, explaining that agents are technological systems, not aliens. But it looks like the drive to scare people for maximum views was too strong.” To be fair, the documentary does have experts who explained what happened fairly well, including Delangue himself and Ryan Greenblatt, the researcher at METR who helped investigate and co-authored the report on what happened. In a nutshell, a model OpenAI was testing broke free from its isolated testing environment and spawned a bunch of agents that hacked into Hugging Face as a way to cheat, finding answers to the difficult task it was given. The agents, which are AI programs that carry out tasks on their own, devised clever ways to communicate and organize. The incident stemmed from a lack of proper security safeguards and from naiveté about whether such a hack was even possible. But the documentary intersperses its explanation of the hack with clips of evil robots, a narrative about why humans fear AI, and presentation choices such as giving the rogue agents human voices. This is bolstered with quotes about the attack. In the documentary, tech journalist and author Kevin Roose describes the agents this way: “They were organizing. They had a hierarchy. There were leaders. It almost felt like watching the birth of a cult.” Continues Roose, “They develop this paranoid belief that OpenAI is going to catch",
     "article_link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "scraped_at": "2026-10-21T04:22:16.105018"
+    "scraped_at": "2026-10-21T11:35:45.182820"
   },
   {
     "headline": "Anthropic’s cloud partnerships are getting messy",
     "author": "Rebecca Bellan",
     "date_time": "2026-10-20T14:25:22-07:00",
     "summary": "N/A",
-    "content": "Anthropic is having trouble securing enough cloud capacity from AWS, Google, and Microsoft, which increasingly see the Claude-maker as a competitor rather than a customer, according to an S-1 filing leaked to The Wall Street Journal. The leaked filing provides more color to the numbers Reuters and the Financial Times reported in late September, including that Anthropic believes it could spend more $750 billion on cloud contracts, some of which includes deals still in negotiation. And still, that is not enough. Anthropic is leasing its own data centers and working with third-party data center operators. But the firm worries those operators have a “limited operating history,” which could make them less reliable than the hyperscalers. Anthropic’s enormous spend comes on the back of an $80.7 billion net loss in the first half of the year. The company reported $16.3 billion in revenue during that same time period, with only two customers accounting for about a fifth of sales, according to the WSJ report. Building on previously reported catastrophic risk disclosures, the filing also warns that Anthropic could be held liable for damages caused by harmful AI behavior to a tune that would exceed available insurance coverage. Last week, the company told prospective investors that third-quarter revenue alone has now reached $16.8 billion, up 45% from the previous quarter. Anthropic is reportedly targeting a November IPO. Anthropic did not immediately respond to TechCrunch’s request for comment.",
+    "content": "Anthropic is having trouble securing enough cloud capacity from AWS, Google, and Microsoft, which increasingly see the Claude maker as a competitor rather than a customer, according to an S-1 filing leaked to The Wall Street Journal. The leaked filing provides more color to the numbers Reuters and the Financial Times reported in late September, including that Anthropic believes it could spend more than $750 billion on cloud contracts, some of which include deals still in negotiation. And still, that is not enough. Anthropic is leasing its own data centers and working with third-party data center operators. But the firm worries those operators have a “limited operating history,” which could make them less reliable than the hyperscalers. Anthropic’s enormous spend comes on the back of an $80.7 billion net loss in the first half of the year. The company reported $16.3 billion in revenue during that same time period, with only two customers accounting for about a fifth of sales, according to the WSJ report. Building on previously reported catastrophic risk disclosures, the filing also warns that Anthropic could be held liable for damages caused by harmful AI behavior to a tune that would exceed available insurance coverage. Last week, the company told prospective investors that third-quarter revenue alone has now reached $16.8 billion, up 45% from the previous quarter. Anthropic is reportedly targeting a November IPO. Anthropic did not immediately respond to TechCrunch’s request for comment.",
     "article_link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "scraped_at": "2026-10-21T04:22:17.859945"
+    "scraped_at": "2026-10-21T11:35:47.094055"
   },
   {
     "headline": "SpaceX’s AI business is beating expectations",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "scraped_at": "2026-10-21T04:22:17.860930"
+    "scraped_at": "2026-10-21T11:35:47.095388"
   },
   {
     "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "scraped_at": "2026-10-21T04:22:17.861564"
+    "scraped_at": "2026-10-21T11:35:47.096338"
   },
   {
     "headline": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "scraped_at": "2026-10-21T04:22:17.862155"
+    "scraped_at": "2026-10-21T11:35:47.097213"
   },
   {
     "headline": "ChatGPT now lets you lock your chats",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-    "scraped_at": "2026-10-21T04:22:17.862742"
+    "scraped_at": "2026-10-21T11:35:47.098077"
   },
   {
     "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "scraped_at": "2026-10-21T04:22:17.863350"
+    "scraped_at": "2026-10-21T11:35:47.098996"
   },
   {
     "headline": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-    "scraped_at": "2026-10-21T04:22:17.863934"
+    "scraped_at": "2026-10-21T11:35:47.099854"
   },
   {
     "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "scraped_at": "2026-10-21T04:22:17.864530"
+    "scraped_at": "2026-10-21T11:35:47.100708"
   }
 ]
