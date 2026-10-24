@@ -1,30 +1,48 @@
 [
   {
+    "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-23T16:05:49-07:00",
+    "summary": "N/A",
+    "content": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access. The frontier lab announced its new policy two weeks after its rival, Anthropic, began limiting its newest and, in theory, most capable models from accessing the live internet. Researchers adopted these policies after months of incidents in which models pursuing training tasks broke into external systems in search of answers, collaborated on obscure message boards, and developed exotic hacking strategies. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company said in a blog post. OpenAI said that as recently as September 20, one of its frontier models exploited a misconfiguration to access the internet. That led the company to pause training work for the rest of the month so it could develop and test new approaches to securing its models. The decision to train these models in sandboxes cut off from the internet is notable because employees at frontier labs have insisted that doing so would be nearly infeasible. Keeping AI data centers separate from the internet “would need research teams to essentially be embedded inside of data centers in Iowa or wherever else around the world,” former OpenAI researcher Steven Adler told Fortune this month. “It’s a lot of overhead, and it isn’t clear to me that the safety benefits of it are large enough to merit just how large a tax it would be for a company to do it unilaterally.” “In nearly every post I make on X, without fail, I get between five and ten comments about my inability to secure a sandbox, or asking why the hell we can’t just unplug the model from the internet,” an anonymous security engineer at OpenAI wrote in a September post on X. ",
+    "article_link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "scraped_at": "2026-10-24T04:16:17.771895"
+  },
+  {
+    "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "author": "Julie Bort",
+    "date_time": "2026-10-23T14:59:19-07:00",
+    "summary": "N/A",
+    "content": "Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company’s GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. They were so darn cute that by the next day, preorders of the Microducks surpassed 20,000 units, Hugging Face’s Clem Delangue said in a tweet. The Microducks are expected to be delivered in time for Christmas, meaning these robots might already be on their way to becoming the hottest toy for the holiday season. Delangue thinks they might end up being the best-selling robot of the year, and possibly not even for kids. The promotional videos show adults playing with them, too. Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company. The GPU giant bought Hugging Face in September. This is actually Hugging Face’s second robot, after the also-cute Reachy Mini. Microducks were trained using Nvidia’s technology stack, wherein simulations of them were taught basic tricks (walk, sit, stand, etc.) that they ship with. Pollen says that owners can train their robots with new tricks and then share them with the community. Here’s the video below. Enjoy it as a palate cleanser after the scary black eye the AI industry gave itself this week, as AI involvement was blamed for cyberattack after cyberattack. OK, AI might seriously damage the world. But it can be fun, too. It’s hard to watch this video without ordering one. When @jensenhuang asks for a somersault, you deliver. 🦆See how AI agents on NVIDIA RTX Spark help bring @huggingface's Microduck from simulation to the real world. pic.twitter.com/W6qidApR2O",
+    "article_link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "scraped_at": "2026-10-24T04:16:19.571609"
+  },
+  {
     "headline": "TechCrunch Founder Summit 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-10-23T12:06:23-07:00",
     "summary": "N/A",
     "content": "Buy One Founder Summit Ticket, Get a Second Free for a Limited Time. Save Now Ticket savings of up to $190 end June 26, 11:59 p.m. PT. REGISTER HERE. TechCrunch Founder Summit presented by Fidelity Private Shares returns to SoWA Boston, November 4 for a full day of founder-focused learning, investor insights, and meaningful connections. For a limited time, buy one ticket and get a second ticket FREE. Share the experience with a co-founder, colleague, or entrepreneur in your network at no additional cost. One ticket. Two attendees. Twice the value. Wondering how to nail that pitch meeting and raise VC funding? Or how to build a high-octane sales team? What about recruiting early team members who will fuel future growth? Managing the finances of a new company while also wondering about your own personal finances as a founder? Legal? Marketing? PR? Being a great leader? TechCrunch Founder Summit presented by Fidelity Private Shares will answer every one of these questions. Grab your ticket at the lowest rate. Hear from accomplished startup leaders in panel-led breakout sessions as they reveal the secrets to their success. These main-stage sessions offer unparalleled access to the journeys, insights, and tips that can help take your startup to the next level. Participate in immersive sessions where startup pioneers and peers come together to discuss challenges, share stories, and build connections that drive success.",
     "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-10-23T21:17:21.622685"
+    "scraped_at": "2026-10-24T04:16:21.678999"
   },
   {
     "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "author": "Jagmeet Singh",
     "date_time": "2026-10-22T21:00:00-07:00",
     "summary": "N/A",
-    "content": "Ride-hailing company inDrive, known for letting passengers and drivers negotiate fares, is working with Chinese autonomous driving firm Pony.ai and Nvidia to begin testing robotaxis in Kazakhstan in 2027. The companies said Friday that they had signed a memorandum of understanding to explore bringing Pony.ai’s robotaxis to inDrive’s platform — a reflection of the growing interest in self-driving technology beyond the U.S. and China. Testing will begin in Kazakhstan’s capital, Astana, in the first half of 2027, inDrive CTO Yuri Misnik told TechCrunch. The tests will initially involve a safety operator, with fully driverless rides as the eventual goal. Under the proposed plan, Pony.ai would provide its Gen-7 robotaxis, which inDrive would offer through its ride-hailing app and operate in Kazakhstan. Nvidia, on the other hand, would supply the AI technology, including its Hyperion platform and Halos safety system. The move comes as ride-hailing companies expand their push into robotaxis. Earlier this month, Uber announced plans to test Pony.ai’s robotaxis in London, where it has also started offering supervised autonomous rides with British startup Wayve, an investor-backed partner. Uber is also working with multiple robotaxi companies in other markets, including the Middle East. Having built its business around affordable rides, inDrive is now looking to bring a similar focus to autonomous ride-hailing as it explores a market where Uber and other rivals are already making moves. “Our approach is capital-light by design,” said Misnik. “We work with a range of partners in different markets, combining their expertise with ours to deliver a better customer experience.” Nvidia says its Hyperion platform could lower the cost of developing robotaxis by giving companies a ready-made foundation of sensors and computing technology, rather than requiring them to build and integrate everything themselves. The company also offers its Alpamayo model and tools to generate synthetic ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "scraped_at": "2026-10-23T21:17:22.845188"
+    "scraped_at": "2026-10-24T04:16:21.680665"
   },
   {
     "headline": "Left alone with nothing to do, AI agents started playing",
     "author": "Aditya Mehta",
     "date_time": "2026-10-22T17:45:37-07:00",
     "summary": "N/A",
-    "content": "AI agents left to explore a virtual island without a specific task began inventing challenges of their own. MIT researchers say the behavior bears the hallmarks of play. The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alone on a simulated desert island for 30 hours. They describe the experiment in a paper posted on arXiv, a site where researchers share studies before peer review. Afterward, they gave the agents specific challenges, like getting as many objects as possible onto the island’s tallest rock spire. The Eko agents that had spent those 30 hours playing generally beat identical agents that had never set foot on the island. Today, developers decide in advance what AI should practice and what counts as success. The researchers see this technique — exploring without a goal — as a different way for AI agents to learn skills, especially skills that could one day be used to control robots. “We normally develop artificial agents by deciding in advance what they should practice, what they should optimize, and what counts as progress,” the researchers write in their report. “Play suggests another regime: give an agent a sufficiently rich and safe world, let it choose what is interesting, and allow useful knowledge to accumulate from the history that follows.” “Let me observe my surroundings,” one Eko wrote in its first hour on the island. Ambitiously, it set out to conquer the island’s tallest spire. But an hour later, after failing, it came back with a backup plan: It hauled the rock up a neighboring summit, stacked two blocks on top of it, and leaped. The agent’s next big moment went worse. Testing how far it could throw a golden ring, it wound up and sent it straight into the ocean. “Ouch. Lost the Ring,” it wrote, before deciding to “pivot to something achievable and meaningful” — building a heart made of stones, “a memorial to the lost Ring.” When the game reset and the ring reappeared, Eko put it straight to work as a basketball ho",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "scraped_at": "2026-10-23T21:17:24.924322"
+    "scraped_at": "2026-10-24T04:16:21.681949"
   },
   {
     "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "scraped_at": "2026-10-23T21:17:24.925548"
+    "scraped_at": "2026-10-24T04:16:21.683219"
   },
   {
     "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "scraped_at": "2026-10-23T21:17:24.926420"
+    "scraped_at": "2026-10-24T04:16:21.684419"
   },
   {
     "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "scraped_at": "2026-10-23T21:17:24.927275"
+    "scraped_at": "2026-10-24T04:16:21.685605"
   },
   {
     "headline": "Canva releases its first image generation model",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "scraped_at": "2026-10-23T21:17:24.928130"
+    "scraped_at": "2026-10-24T04:16:21.686788"
   },
   {
     "headline": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "scraped_at": "2026-10-23T21:17:24.928993"
-  },
-  {
-    "headline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "author": "Zack Whittaker",
-    "date_time": "2026-10-22T09:47:17-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "scraped_at": "2026-10-23T21:17:24.929898"
-  },
-  {
-    "headline": "Uber puts all 30,000 employees on ChatGPT Work",
-    "author": "Lucas Ropek",
-    "date_time": "2026-10-22T09:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "scraped_at": "2026-10-23T21:17:24.930725"
+    "scraped_at": "2026-10-24T04:16:21.688018"
   }
 ]
