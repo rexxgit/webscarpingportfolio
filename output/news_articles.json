@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access. The frontier lab announced its new policy two weeks after its rival, Anthropic, began limiting its newest and, in theory, most capable models from accessing the live internet. Researchers adopted these policies after months of incidents in which models pursuing training tasks broke into external systems in search of answers, collaborated on obscure message boards, and developed exotic hacking strategies. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company said in a blog post. OpenAI said that as recently as September 20, one of its frontier models exploited a misconfiguration to access the internet. That led the company to pause training work for the rest of the month so it could develop and test new approaches to securing its models. The decision to train these models in sandboxes cut off from the internet is notable because employees at frontier labs have insisted that doing so would be nearly infeasible. Keeping AI data centers separate from the internet “would need research teams to essentially be embedded inside of data centers in Iowa or wherever else around the world,” former OpenAI researcher Steven Adler told Fortune this month. “It’s a lot of overhead, and it isn’t clear to me that the safety benefits of it are large enough to merit just how large a tax it would be for a company to do it unilaterally.” “In nearly every post I make on X, without fail, I get between five and ten comments about my inability to secure a sandbox, or asking why the hell we can’t just unplug the model from the internet,” an anonymous security engineer at OpenAI wrote in a September post on X. ",
     "article_link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "scraped_at": "2026-10-24T04:16:17.771895"
+    "scraped_at": "2026-10-24T10:43:47.873982"
   },
   {
     "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company’s GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. They were so darn cute that by the next day, preorders of the Microducks surpassed 20,000 units, Hugging Face’s Clem Delangue said in a tweet. The Microducks are expected to be delivered in time for Christmas, meaning these robots might already be on their way to becoming the hottest toy for the holiday season. Delangue thinks they might end up being the best-selling robot of the year, and possibly not even for kids. The promotional videos show adults playing with them, too. Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company. The GPU giant bought Hugging Face in September. This is actually Hugging Face’s second robot, after the also-cute Reachy Mini. Microducks were trained using Nvidia’s technology stack, wherein simulations of them were taught basic tricks (walk, sit, stand, etc.) that they ship with. Pollen says that owners can train their robots with new tricks and then share them with the community. Here’s the video below. Enjoy it as a palate cleanser after the scary black eye the AI industry gave itself this week, as AI involvement was blamed for cyberattack after cyberattack. OK, AI might seriously damage the world. But it can be fun, too. It’s hard to watch this video without ordering one. When @jensenhuang asks for a somersault, you deliver. 🦆See how AI agents on NVIDIA RTX Spark help bring @huggingface's Microduck from simulation to the real world. pic.twitter.com/W6qidApR2O",
     "article_link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "scraped_at": "2026-10-24T04:16:19.571609"
+    "scraped_at": "2026-10-24T10:43:49.849247"
   },
   {
     "headline": "TechCrunch Founder Summit 2026",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Buy One Founder Summit Ticket, Get a Second Free for a Limited Time. Save Now Ticket savings of up to $190 end June 26, 11:59 p.m. PT. REGISTER HERE. TechCrunch Founder Summit presented by Fidelity Private Shares returns to SoWA Boston, November 4 for a full day of founder-focused learning, investor insights, and meaningful connections. For a limited time, buy one ticket and get a second ticket FREE. Share the experience with a co-founder, colleague, or entrepreneur in your network at no additional cost. One ticket. Two attendees. Twice the value. Wondering how to nail that pitch meeting and raise VC funding? Or how to build a high-octane sales team? What about recruiting early team members who will fuel future growth? Managing the finances of a new company while also wondering about your own personal finances as a founder? Legal? Marketing? PR? Being a great leader? TechCrunch Founder Summit presented by Fidelity Private Shares will answer every one of these questions. Grab your ticket at the lowest rate. Hear from accomplished startup leaders in panel-led breakout sessions as they reveal the secrets to their success. These main-stage sessions offer unparalleled access to the journeys, insights, and tips that can help take your startup to the next level. Participate in immersive sessions where startup pioneers and peers come together to discuss challenges, share stories, and build connections that drive success.",
     "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-10-24T04:16:21.678999"
+    "scraped_at": "2026-10-24T10:43:51.420334"
   },
   {
     "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "scraped_at": "2026-10-24T04:16:21.680665"
+    "scraped_at": "2026-10-24T10:43:51.421974"
   },
   {
     "headline": "Left alone with nothing to do, AI agents started playing",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "scraped_at": "2026-10-24T04:16:21.681949"
+    "scraped_at": "2026-10-24T10:43:51.423169"
   },
   {
     "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "scraped_at": "2026-10-24T04:16:21.683219"
+    "scraped_at": "2026-10-24T10:43:51.424461"
   },
   {
     "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -60,16 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "scraped_at": "2026-10-24T04:16:21.684419"
-  },
-  {
-    "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "author": "Tim Fernholz",
-    "date_time": "2026-10-22T12:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "scraped_at": "2026-10-24T04:16:21.685605"
+    "scraped_at": "2026-10-24T10:43:51.425644"
   },
   {
     "headline": "Canva releases its first image generation model",
@@ -78,7 +69,16 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "scraped_at": "2026-10-24T04:16:21.686788"
+    "scraped_at": "2026-10-24T10:43:51.426844"
+  },
+  {
+    "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-22T12:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "scraped_at": "2026-10-24T10:43:51.428066"
   },
   {
     "headline": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "scraped_at": "2026-10-24T04:16:21.688018"
+    "scraped_at": "2026-10-24T10:43:51.429290"
   }
 ]
