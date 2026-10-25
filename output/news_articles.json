@@ -1,12 +1,21 @@
 [
   {
+    "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-25T09:57:32-07:00",
+    "summary": "N/A",
+    "content": "AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch). Apollo’s Torsten Slok focuses on what he calls the S&P 493 — the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity. “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said. Is this simply a matter of non-tech companies lagging behind the tech giants? Slok sounded skeptical, arguing that it will be tough for corporate America to “turn increasingly cheap intelligence into higher revenue growth and higher profit margins.” “AI may be a great calculator, but in business, intelligence is mostly judgment,” he wrote, later adding, “AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.” Recent studies have also found that AI has yet to deliver significant productivity gains.",
+    "article_link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "scraped_at": "2026-10-25T20:41:44.506281"
+  },
+  {
     "headline": "The hottest AI wearables and gadgets you should know about",
     "author": "Lauren Forristal",
     "date_time": "2026-10-25T07:10:00-07:00",
     "summary": "N/A",
     "content": "A slew of AI-powered gadgets on the market aims to integrate artificial intelligence into our daily lives like never before. Some of these AI wearables — including necklaces, rings, and wristbands, as well as portable devices — serve as productivity tools, while others claim to act as friendly companions listening to your everyday thoughts. Even OpenAI is working on a compact AI companion device. Below, we’ve rounded up some of the most notable devices. Bee is an affordable pendant priced at $49.99 that can either be clipped to your clothing or worn like a fitness band. This device records everything it hears and learns your routines and preferences to create reminders and notes for you. It even features a mute button for those times you want some privacy. The companion app (currently available only on iOS) is included with a $19 monthly subscription. The app allows you to interact with Bee directly and ask it questions. You can also get key takeaways from your day and chronological transcripts of your conversations. Amazon acquired the wearables startup in July 2025, launching its first new products earlier this month. Amazon introduced two new devices: the Bee Frontier, priced at $74.99, which can be worn on the wrist or clipped to clothing, and the Bee Eclipse, priced at $99.99, a credit-card-sized device that attaches magnetically to the back of a smartphone. Both offer the same core functionality as the previous generation, positioning Bee as a more affordable alternative to AI devices such as the Plaud Note and Plaud NotePin. Users can also choose to connect Bee to Alexa. Friend is one of the most hyped entrants in the “personal AI” device market. This $129 white pendant hangs around your neck and functions as an emotional support companion. It recognizes your tone and mood, allowing you to chat with it as if it were a friend. It connects to your phone via Bluetooth and constantly listens, ready to respond or send you proactive messages, like wishing you good ",
     "article_link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "scraped_at": "2026-10-25T15:57:07.586539"
+    "scraped_at": "2026-10-25T20:41:46.060749"
   },
   {
     "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Relay, an AI-powered workflow automation tool built as an alternative to Zapier, shut down entirely in August. The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled to hold on to a reason to exist as a stand-alone product. More recently, chatbot platform Character.ai filed for bankruptcy just five years after launching. Aside from Character.ai and Relay, plenty of AI bets never even survive inside the companies that build them. According to S&P Global Market Intelligence, about 42% of AI initiatives are ultimately abandoned by their corporate parents. The reasons vary: insufficient funding, technical challenges, competition, difficulty scaling, or just weak user demand. The result is a growing AI graveyard. Below is a look at some of the most notable AI products, startups, launches, and bets that have shut down, pivoted, or significantly missed expectations. Think of it less as a scorecard of flops than as a record of what these attempts can (hopefully) teach the rest of the industry. Even the biggest players aren’t immune. OpenAI, one of the most valuable private companies in the world, has had its own share of casualties and missteps. One of the more recent examples was its attempt to turn ChatGPT into a broader “super app.” On July 9, OpenAI updated the app to combine several experiences, including separate “Chat,” “Codex,” and “Work” modes, while renaming the traditional, familiar version “ChatGPT Classic.” The redesign quickly drew criticism from users who found the new interface confusing and cluttered, and OpenAI rolled back the change soon after, bringing the familiar ChatGPT interface back. That wasn’t OpenAI’s only attempt to pull everything under one roof. The company has also shut down several stand-alone apps and folded their features directly into ChatGPT — a strategy that’s worked out better than th",
     "article_link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "scraped_at": "2026-10-25T15:57:08.757662"
+    "scraped_at": "2026-10-25T20:41:48.086718"
   },
   {
     "headline": "Block’s new voice model sounds eerily human",
     "author": "Ivan Mehta",
     "date_time": "2026-10-24T09:00:00-07:00",
     "summary": "N/A",
-    "content": "Jack Dorsey’s Block released a new voice model out of the company’s research lab that runs locally and sounds strangely human with its expressions like laughs, pauses, and cries. The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU rack. Dessa is a full-duplex model, which means it can talk and listen at the same time, just like the GPT-Live model OpenAI released earlier this year. Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa’s knowledge stems from the conversational data it has. We believe voice is the most natural way to interact with intelligence, so we created Dessa, the most authentic full-duplex speech model ever built. Talking with it feels like talking with a person…full of emotion, nuance, pauses, and a natural cadence. https://t.co/r0qFLdvd6c Block said that the current models can sound unnatural and annoying because they have text in the pipeline that drives speech generation. A lot of models like ElevenLabs v4 or Fish Audio Drama 3 use voice tags to drive emotion in speech generation. Dorsey’s company claims that emotion is built into its model. It’s not clear if that emotion is being steered by some kind of tags. “Interacting with current voice AI can just plain suck. It turns your voice into text and throws away an incredible amount of information text alone can’t carry. The most powerful AIs in the world can’t hear how you feel. We think that’s ridiculous, leads to a worse experience, and is potentially dangerous,” the company said in a blog post. The company’s researchers posted multiple examples of conversations with Dessa where the agent had different voices, cadences, and emotions. For instance, in the conversation, the bot said it was tired from work, and at that point it sounded tired. We made the first AI model you can have a realistic conversation with that was trained entirely on speech!Dessa is a full-duplex speech-to-speech model ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "scraped_at": "2026-10-25T15:57:10.324967"
+    "scraped_at": "2026-10-25T20:41:48.087890"
   },
   {
     "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "scraped_at": "2026-10-25T15:57:10.326481"
+    "scraped_at": "2026-10-25T20:41:48.088729"
   },
   {
     "headline": "Here are the top AI agents that can live in your text messages",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "scraped_at": "2026-10-25T15:57:10.327725"
+    "scraped_at": "2026-10-25T20:41:48.089560"
   },
   {
     "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "scraped_at": "2026-10-25T15:57:10.329010"
+    "scraped_at": "2026-10-25T20:41:48.090404"
   },
   {
     "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "scraped_at": "2026-10-25T15:57:10.330245"
+    "scraped_at": "2026-10-25T20:41:48.091263"
   },
   {
     "headline": "TechCrunch Founder Summit 2026",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-10-25T15:57:10.331477"
+    "scraped_at": "2026-10-25T20:41:48.092094"
   },
   {
     "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "scraped_at": "2026-10-25T15:57:10.332729"
-  },
-  {
-    "headline": "Left alone with nothing to do, AI agents started playing",
-    "author": "Aditya Mehta",
-    "date_time": "2026-10-22T17:45:37-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "scraped_at": "2026-10-25T15:57:10.334059"
+    "scraped_at": "2026-10-25T20:41:48.092923"
   }
 ]
