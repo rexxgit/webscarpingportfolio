@@ -1,30 +1,66 @@
 [
   {
+    "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-10-26T09:49:42-07:00",
+    "summary": "N/A",
+    "content": "Anthropic is building the same kind of cross-product ecosystem that helped make tech companies like Amazon and Uber enormously sticky, and its S-1 suggests the strategy is working. More than half of customers spending at least $100,000 annually now use both the Claude platform and a first-party app like Claude Code or Cowork, up from about 30% at the end of last year. “The speed and depth of our enterprise customer adoption are powerful evidence of Claude’s position at the frontier of AI,” the S-1, filed with the Securities and Exchange Commission on Monday, reads. As of September 30, Anthropic recorded more than 11,900 customers spending at least $100,000; more than 1,900 customers spending upward of $1 million; and about 250 customers spending $10 million or more annually. Anthropic attributes customer momentum to a “significant usage expansion as customers realize the value of deploying Claude across their organizations,” which drove net revenue retention of about 900% as of the end of the third quarter. Throwing shade at the entire legacy SaaS industry, Anthropic pitches Claude as not a “static product that serves a single use case,” but rather “frontier AI with rapidly advancing capabilities” spanning the models, the developer platform, and the applications users interact with directly. “An advance at any layer compounds across all three layers, accelerating the pace at which we can deliver more capable intelligence,” the filing reads, calling this “integrated approach” the reason more customers use both the Claude Platform and first-party apps. The playbook is familiar. Uber began by selling rides but has expanded into food delivery and freight. With AWS, Amazon drew in customers with cloud computing services before expanding those relationships into storage, databases, and other offerings, making the ecosystem increasingly hard to leave. Like those companies, Anthropic doesn’t have to sell each product to a brand-new buyer: A business that starts with the API",
+    "article_link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "scraped_at": "2026-10-26T22:33:34.921572"
+  },
+  {
+    "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "author": "Aditya Mehta",
+    "date_time": "2026-10-26T09:46:36-07:00",
+    "summary": "N/A",
+    "content": "SpaceX has reached a binding commitment for roughly $40 billion in financing for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called the deal the “largest committed GPU financing”. Under the agreement, an entity managed by Apollo Global Management, the New York-based private equity giant, will buy the chips and related server hardware, then lease the equipment to SpaceX. The leases will last about five to five-and-a-quarter years, beginning when each tranche of equipment is delivered, according to the filing. SpaceX expects the deal to close by year-end, subject to closing conditions, with leases starting in the first half of 2027 as the GPUs and related equipment arrive. The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets. “This lease diversifies our funding sources and addresses a notable portion of the funding required to deliver on our growth plans,” SpaceX CFO Bret Johnsen said in a statement Monday, noting it is seeing “less than one-year payback periods” on its AI infrastructure investments as it scales compute to power Grok and its cloud services. Apollo said the financing will help deliver Nvidia’s next-generation Vera Rubin chips for SpaceX’s “terrestrial compute buildout.” The financing comes as SpaceX ramps spending to expand its AI infrastructure, alongside its Starlink and launch businesses. The financing follows a blockbuster third quarter for SpaceX’s AI business. SpaceX’s AI segment, which includes the Grok chatbot, the Cursor coding tool, and its cloud compute business, outperformed investor expectations in the third quarter and brought in $7.6 billion of SpaceX’s $14.6 billion in revenue, more than Starlink and rocket launches combined. Capital expenditures also surged to nearly $20 billion, up from $6.9 billion a year earlier, as SpaceX races to expand its compute footprint. CFO Bret Johnsen s",
+    "article_link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "scraped_at": "2026-10-26T22:33:36.476637"
+  },
+  {
+    "headline": "Anthropic officially files for its public debut",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-10-26T07:35:22-07:00",
+    "summary": "N/A",
+    "content": "After weeks of leaked S-1s, Anthropic finally filed for an initial public offering on Monday, setting the stage for one of the most closely watched public debuts in modern U.S. history. Anthropic, which plans to list under the ticker “ANT,” recorded revenue of $16.3 billion for the first half of 2026, up from $1.2 billion in the same period last year, according to the firm’s latest SEC filing. That revenue came off the back of an operating loss of $693 million, an improvement from the $2.1 billion in operating losses that Anthropic recorded in the first half of 2025. Anthropic’s net loss, however, hit $80.7 billion, which was largely driven by noncash accounting adjustments tied to convertible debt. The company says it “may not achieve or sustain profitability in the future.” The filing also provided more color on the scale of Anthropic’s enterprise business. As of the end of September, Anthropic had more than 11,900 customers spending $100,000 or more annually; 1,900 customers spending $1 million or more; and about 250 customers spending $10 million or more. As previously reported, Anthropic’s governance structure will enable Anthropic’s seven co-founders to maintain control once the company goes public. Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah will make up the “Founder LLC,” which will collectively control 50.1% of shareholder voting power — a move Anthropic says is designed to preserve the company’s AI safety mission, per the filing. Anthropic’s Long-Term Benefit Trust, established in 2023 to ensure the company pursues its public benefit mission, will have the authority to appoint most of the company’s board. The governance structure is controversial because it means voting power is not proportional to the founders’ economic ownership, and therefore public shareholders will have little practical control over a company building technology that, by its own admission, poses “catastrophic or existential r",
+    "article_link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "scraped_at": "2026-10-26T22:33:37.744353"
+  },
+  {
     "headline": "Media & Entertainment",
     "author": "Anthony Ha",
     "date_time": "2026-10-25T14:31:16-07:00",
     "summary": "N/A",
-    "content": "Three months after Elon Musk declared that Grok would release a full-length, “historically accurate” movie version of “The Odyssey,” Grok has published a whole seven minutes, which the company is now calling “Episode 1 of our Odyssey series.” Musk had previously lashed out at Christopher Nolan’s version of “The Odyssey”  because Nolan cast nonwhite and transgender actors. And Nolan is, in many ways, a perfect foil for Musk — while SpaceX and Tesla CEO hypes up data centers in space and posts an unending stream of AI-generated content, Nolan has described himself as “a techno-skeptic” and said that before AI, he’d never seen a technology “so completely rejected by the public.” And while Nolan’s version of “The Odyssey” certainly used plenty of visual effects, it’s primarily a feat of practical filmmaking, with a shoot spanning six countries and a cast and crew of thousands. After its release in July, the film became an extraordinary box office success, selling out Imax screenings for months and becoming the likely front-runner at the next Academy Awards. As for the Grok version of “The Odyssey” (created in collaboration with Wonder Studios and director Dev Walker), well, you can watch for yourself. Watch Episode 1  of our Odyssey series made with Grok Imagine.Let us know in the comments if you'd like a full breakdown of how it was done! Creative collaboration with @WonderStudiosX and director Dev Walker @glumlot_ pic.twitter.com/xpgpkqSCpq I’ll admit it’s not as spectacularly ugly as I’d expected, and certainly more impressive than other videos that Musk has posted recently. If I didn’t know better, there were moments when I might have thought these were real actors sailing across a real sea. And while I can’t speak to Grok’s historical accuracy, it does seem that some fudging was necessary, since no one’s speaking in ancient Greek. But hey, all the characters come in a Musk-approved skin color, while the narrator uses a British accent that will sound familiar to any",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "scraped_at": "2026-10-26T12:43:04.300666"
+    "scraped_at": "2026-10-26T22:33:37.745989"
   },
   {
     "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
     "author": "Anthony Ha",
     "date_time": "2026-10-25T09:57:32-07:00",
     "summary": "N/A",
-    "content": "AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch). Apollo’s Torsten Slok focuses on what he calls the S&P 493 — the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity. “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said. Is this simply a matter of non-tech companies lagging behind the tech giants? Slok sounded skeptical, arguing that it will be tough for corporate America to “turn increasingly cheap intelligence into higher revenue growth and higher profit margins.” “AI may be a great calculator, but in business, intelligence is mostly judgment,” he wrote, later adding, “AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.” Recent studies have also found that AI has yet to deliver significant productivity gains.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "scraped_at": "2026-10-26T12:43:05.599452"
+    "scraped_at": "2026-10-26T22:33:37.747437"
   },
   {
     "headline": "The hottest AI wearables and gadgets you should know about",
     "author": "Lauren Forristal",
     "date_time": "2026-10-25T07:10:00-07:00",
     "summary": "N/A",
-    "content": "A slew of AI-powered gadgets on the market aims to integrate artificial intelligence into our daily lives like never before. Some of these AI wearables — including necklaces, rings, and wristbands, as well as portable devices — serve as productivity tools, while others claim to act as friendly companions listening to your everyday thoughts. Even OpenAI is working on a compact AI companion device. Below, we’ve rounded up some of the most notable devices. Bee is an affordable pendant priced at $49.99 that can either be clipped to your clothing or worn like a fitness band. This device records everything it hears and learns your routines and preferences to create reminders and notes for you. It even features a mute button for those times you want some privacy. The companion app (currently available only on iOS) is included with a $19 monthly subscription. The app allows you to interact with Bee directly and ask it questions. You can also get key takeaways from your day and chronological transcripts of your conversations. Amazon acquired the wearables startup in July 2025, launching its first new products earlier this month. Amazon introduced two new devices: the Bee Frontier, priced at $74.99, which can be worn on the wrist or clipped to clothing, and the Bee Eclipse, priced at $99.99, a credit-card-sized device that attaches magnetically to the back of a smartphone. Both offer the same core functionality as the previous generation, positioning Bee as a more affordable alternative to AI devices such as the Plaud Note and Plaud NotePin. Users can also choose to connect Bee to Alexa. Friend is one of the most hyped entrants in the “personal AI” device market. This $129 white pendant hangs around your neck and functions as an emotional support companion. It recognizes your tone and mood, allowing you to chat with it as if it were a friend. It connects to your phone via Bluetooth and constantly listens, ready to respond or send you proactive messages, like wishing you good ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "scraped_at": "2026-10-26T12:43:07.172270"
+    "scraped_at": "2026-10-26T22:33:37.748802"
+  },
+  {
+    "headline": "Will AI expose the rickety infrastructure of the internet?",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-24T13:15:33-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "scraped_at": "2026-10-26T22:33:37.750154"
   },
   {
     "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "scraped_at": "2026-10-26T12:43:07.173473"
+    "scraped_at": "2026-10-26T22:33:37.751383"
   },
   {
     "headline": "Block’s new voice model sounds eerily human",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "scraped_at": "2026-10-26T12:43:07.174364"
+    "scraped_at": "2026-10-26T22:33:37.752465"
   },
   {
     "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "scraped_at": "2026-10-26T12:43:07.175229"
-  },
-  {
-    "headline": "Here are the top AI agents that can live in your text messages",
-    "author": "Lauren Forristal",
-    "date_time": "2026-10-24T07:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "scraped_at": "2026-10-26T12:43:07.176092"
-  },
-  {
-    "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "author": "Tim Fernholz",
-    "date_time": "2026-10-23T16:05:49-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "scraped_at": "2026-10-26T12:43:07.176933"
-  },
-  {
-    "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "author": "Julie Bort",
-    "date_time": "2026-10-23T14:59:19-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "scraped_at": "2026-10-26T12:43:07.177781"
-  },
-  {
-    "headline": "TechCrunch Founder Summit 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-10-23T12:06:23-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-10-26T12:43:07.178629"
+    "scraped_at": "2026-10-26T22:33:37.753548"
   }
 ]
