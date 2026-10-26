@@ -1,0 +1,202 @@
+[
+  {
+    "address": "1108 N Ridge Drive NW, Montgomery, MN 56069",
+    "price_aud": "AUD $497,919",
+    "price_usd": "AUD $497,919",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.247303"
+  },
+  {
+    "address": "24114 Polk Street NE, East Bethel, MN 55005",
+    "price_aud": "AUD $497,919",
+    "price_usd": "AUD $497,919",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-26T17:51:31.247410"
+  },
+  {
+    "address": "12234 Naples Street NE, Blaine, MN 55449",
+    "price_aud": "AUD $711,516",
+    "price_usd": "AUD $711,516",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-26T17:51:31.247526"
+  },
+  {
+    "address": "1779 Fescue Court, Shakopee, MN 55379",
+    "price_aud": "AUD $697,143",
+    "price_usd": "AUD $697,143",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-10-26T17:51:31.247626"
+  },
+  {
+    "address": "1606 17th Street SW, Austin, MN 55912",
+    "price_aud": "AUD $334,270",
+    "price_usd": "AUD $334,270",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.247724"
+  },
+  {
+    "address": "317 5th Street SW, Little Falls, MN 56345",
+    "price_aud": "AUD $249,031",
+    "price_usd": "AUD $249,031",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-26T17:51:31.247821"
+  },
+  {
+    "address": "40084 Harvester Avenue, North Branch, MN 55056",
+    "price_aud": "AUD $372,123",
+    "price_usd": "AUD $372,123",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.247916"
+  },
+  {
+    "address": "7187 Agate Trail, Inver Grove Heights, MN 55077",
+    "price_aud": "AUD $1,060,017",
+    "price_usd": "AUD $1,060,017",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-26T17:51:31.248008"
+  },
+  {
+    "address": "140th Avenue SW, Holloway, MN 56249",
+    "price_aud": "AUD $1,763,137",
+    "price_usd": "AUD $1,763,137",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-10-26T17:51:31.248125"
+  },
+  {
+    "address": "6141 Bourbon Lane, Pequot Lakes, MN 56472",
+    "price_aud": "AUD $853,677",
+    "price_usd": "AUD $853,677",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-26T17:51:31.248226"
+  },
+  {
+    "address": "18752 US Highway 169, Milaca, MN 56353",
+    "price_aud": "AUD $369,988",
+    "price_usd": "AUD $369,988",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.248322"
+  },
+  {
+    "address": "1776 Stieger Lake Lane, Victoria, MN 55386",
+    "price_aud": "AUD $682,913",
+    "price_usd": "AUD $682,913",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.248416"
+  },
+  {
+    "address": "9314 Harpers Court NE, Blaine, MN 55449",
+    "price_aud": "AUD $690,171",
+    "price_usd": "AUD $690,171",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-10-26T17:51:31.248521"
+  },
+  {
+    "address": "1531 American Boulevard E, Bloomington, MN 55425",
+    "price_aud": "AUD $321,605",
+    "price_usd": "AUD $321,605",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.248621"
+  },
+  {
+    "address": "1527 2nd Street NE, Staples, MN 56479",
+    "price_aud": "AUD $625,992",
+    "price_usd": "AUD $625,992",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "timestamp": "2026-10-26T17:51:31.248715"
+  },
+  {
+    "address": "2631 Burd Place, Saint Louis Park, MN 55426",
+    "price_aud": "AUD $989,007",
+    "price_usd": "AUD $989,007",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "timestamp": "2026-10-26T17:51:31.248806"
+  },
+  {
+    "address": "628 Lincoln Drive NE, Saint Michael, MN 55376",
+    "price_aud": "AUD $923,548",
+    "price_usd": "AUD $923,548",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "timestamp": "2026-10-26T17:51:31.248899"
+  },
+  {
+    "address": "6621 Xerxes Avenue S, Richfield, MN 55423",
+    "price_aud": "AUD $490,946",
+    "price_usd": "AUD $490,946",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.248991"
+  },
+  {
+    "address": "1666 Coffman Street 215, Falcon Heights, MN 55108",
+    "price_aud": "AUD $305,952",
+    "price_usd": "AUD $305,952",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.249084"
+  },
+  {
+    "address": "709 Lindbergh Drive S, Little Falls, MN 56345",
+    "price_aud": "AUD $412,537",
+    "price_usd": "AUD $412,537",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "timestamp": "2026-10-26T17:51:31.249179"
+  },
+  {
+    "address": "39005 County 39, Laporte, MN 56461",
+    "price_aud": "AUD $462,343",
+    "price_usd": "AUD $462,343",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-10-26T17:51:31.249270"
+  },
+  {
+    "address": "4090 Foss Road, Saint Anthony, MN 55421",
+    "price_aud": "AUD $327,155",
+    "price_usd": "AUD $327,155",
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "timestamp": "2026-10-26T17:51:31.249361"
+  },
+  {
+    "address": "39935 Osage Drive, Browerville, MN 56438",
+    "price_aud": "AUD $284,464",
+    "price_usd": "AUD $284,464",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-10-26T17:51:31.249452"
+  },
+  {
+    "address": "44150 State Hwy 6, Emily, MN 56447",
+    "price_aud": "AUD $924,828",
+    "price_usd": "AUD $924,828",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-10-26T17:51:31.249555"
+  },
+  {
+    "address": "26484 County Road 2, Staples, MN 56479",
+    "price_aud": "AUD $270,234",
+    "price_usd": "AUD $270,234",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-10-26T17:51:31.249650"
+  }
+]
