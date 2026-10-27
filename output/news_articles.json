@@ -1,30 +1,84 @@
 [
   {
+    "headline": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-27T10:08:08-07:00",
+    "summary": "N/A",
+    "content": "OpenAI released solutions to three blockbuster math problems that have long vexed researchers yesterday. One was a surprise rejection of the Exponential Time Hypothesis (ETH), a durable assumption in computer science that plays a large role in how we understand what is difficult to compute. As with previous proof-drops from the frontier lab, scientific communities responded with a mixture of thrill and dismay. Anthropic mathematician Levent Alpöge suggested that OpenAI was basing its solutions from pre-existing work, and hours later, Anthropic subsequently released its own refutation of ETH. However, OpenAI’s process is evolving. This time, the lab structured its releases differently for each of the three disciplines involved: Mathematicians got the work dropped on GitHub; the computer scientists formed a working group, asked for the proofs to be shared publicly and OpenAI to fund a conference to discuss them; the physicists formed a working group that will determine how their result will be released. MIT Professor Ryan Williams is the computer scientist who is organizing his field’s response to the new finding. Williams, whose work focuses on these questions of computational complexity, has criticized OpenAI’s approach in the past, calling its proof dump earlier this October a “DDOS attack on mathematicians.” However, he agreed to collaborate with the frontier labs in order to help shepherd ideas that are vital to the field, he told TechCrunch. The lab asked him to help interpret the solution, along with UC San Diego computer scientists Russell Impagliazzo and Ramamohan Paturi, who first published the ETH in 1999. Their first step was to release an open letter calling for feedback from scientists interested in these problems and a discussion of the norms around AI contributions to their work. “Some parts [of OpenAI’s proof] are, maybe you could say routine, but then yes, there are two or three alien-looking parts, and it’s exactly these parts that that I saw that m",
+    "article_link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "scraped_at": "2026-10-27T17:53:54.746528"
+  },
+  {
+    "headline": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-10-27T09:30:57-07:00",
+    "summary": "N/A",
+    "content": "Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The latest model generates the most photorealistic and interactive worlds yet, allowing users to type prompts mid-simulation to change the scene. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue. The release of Genie 4 comes a couple of months after AI video startup Runway released its second world model, GWM Worlds 2, a playable model that responds dynamically to user inputs and includes audio generation. At the same time, the world model industry is beginning to consolidate. Fei-Fei Li’s World Labs is being acquired by AMD, Amazon is in talks to buy Decart, and Rivian just acquired Third Dimension to bring simulation capabilities in-house for self-driving testing. Genie 4 is Google’s latest move to stay ahead in the crowded field. Google released its predecessor, Genie 3, as a research preview a little over a year ago. Aside from being far more photorealistic and featuring audio, Genie 4 allows for freeform edits, like changing the weather or camera angle in real time or adding new people or objects. It can maintain a consistent scene for up to two minutes, double its predecessor’s limit, and offers better physics and more human-like characters. Gemini, Google’s AI model, is also more closely integrated with Genie 4, acting as the director that plans steps and checks frames while Genie creates the visuals. In a research experiment tied to Gemini Robotics, a Gemini 4 Argon model broke down tasks into steps that Genie 4 simulated in real time. The experiment shows a possible way to test robot scenarios in simulation before they happen in the real world. “What we’ll increasingly see in the future are these hybrid world models, where you have a combination of Gemini writing code and text, and Genie ingesting that in real time and simulating reality at different levels of abstraction,” Tejas Kulkar",
+    "article_link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "scraped_at": "2026-10-27T17:53:56.703889"
+  },
+  {
+    "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-10-27T07:59:09-07:00",
+    "summary": "N/A",
+    "content": "After eight years developing AI for Meta, Rohit Patel is departing the company, TechCrunch has exclusively learned. The former director at Meta Superintelligence Labs has launched Ndoc, a startup he’s pitching as an AI-native replacement for Microsoft Office suite or Google Workspace. Patel is the latest in a handful of high-profile departures from Meta following the exits of Chief Global Affairs Officer Joel Kaplan, AI researcher Andrew Tulloch, and Head of Product for AI-for-Work Emily Dalton Smith. Patel designed Ndoc to be more than just another AI tool layered onto an existing workflow. The goal is to replace the fragmented way people work across tools like Excel, Word, PowerPoint, Tableau, Replit, and “ChatGPT copy-paste” with one unified workspace that all colleagues can access, even if they’re not signed up for Ndoc. Ndoc brings three components together in one layout. The Stage tab is where presentations of key findings live, like slide decks, dashboards, simulations, or mini apps. The Narrative tab features analyses, numbered citations, generated figures, and generally the “why” behind the numbers. The Model tab is where underlying datasets and Python scripts are housed. The design reflects Patel’s background. During his tenure at Meta, Patel focused on reinforcement learning — a type of machine learning in which AI agents learn to make decisions through trial and error and maximize rewards — and evaluating whether AI output is trustworthy. Patel believes that if AI is going to build the spreadsheets and slide decks that companies use to make decisions, someone should be able to check its work. For instance, users can find the Python scripts used to create the documents. “Even if you don’t know any Python, you can ask [the AI chat] to explain, ‘Hey, what does this script do? Which line has my formula?’ And you can verify that formula,” Patel said. “There’s nothing hidden behind the curtain here.” In practice, users can upload a dataset and ask Ndoc to perf",
+    "article_link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "scraped_at": "2026-10-27T17:53:58.726328"
+  },
+  {
+    "headline": "Japan internet giant GMO says hackers posted stolen customer data",
+    "author": "Kate Park",
+    "date_time": "2026-10-27T06:32:57-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "scraped_at": "2026-10-27T17:53:58.727129"
+  },
+  {
+    "headline": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "author": "Tim Fernholz",
+    "date_time": "2026-10-27T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "scraped_at": "2026-10-27T17:53:58.727725"
+  },
+  {
+    "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "author": "Lucas Ropek",
+    "date_time": "2026-10-27T06:00:00-07:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "scraped_at": "2026-10-27T17:53:58.728324"
+  },
+  {
     "headline": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "author": "Jagmeet Singh",
     "date_time": "2026-10-27T04:00:00-07:00",
     "summary": "N/A",
-    "content": "As the AI boom strains computing capacity, Nvidia has backed Indian startup Simplismart in a $14 million funding round, betting on software that helps companies run AI models more efficiently and, in some cases, with fewer GPUs. Nvidia participated in the all-primary Series B round alongside Accel, Shastra VC, and Micromax, with Dallas Venture Capital leading the investment. The deal values the four-year-old startup at about $100 million, including the new funding. Companies are nowadays spending heavily on GPUs to power AI applications, but running those models reliably and economically at scale remains a challenge. Different workloads demand distinct trade-offs between speed, cost, and performance. Deploying and operating AI models to meet business requirements often also requires complex adjustments. Simplismart says its software automates much of that work, tailoring how models run on existing computing infrastructure instead of requiring customers to manage those configurations themselves. “Nobody actually needs the fastest or the cheapest inference,” Amritanshu Jain (pictured above, left), co-founder and CEO of Simplismart, said in an interview. He added that companies instead need to run AI models at speeds and costs that make sense for their specific applications. Simplismart’s software sits between AI models and the computing infrastructure they run on and adjusts how models are deployed and managed to meet customers’ requirements. It says it can optimize factors such as how quickly a model responds, how many requests it handles, and how much computing power it consumes, helping companies get more out of their existing GPU stack. The Bengaluru-based startup offers companies a way to deploy and run AI models through its own platform or within their existing cloud and on-premises infrastructure. It also provides tools to fine-tune models, automatically scale computing resources as demand changes, and monitor performance. Additionally, Simplismart allows cloud",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "scraped_at": "2026-10-27T11:57:47.155736"
+    "scraped_at": "2026-10-27T17:53:58.728917"
   },
   {
     "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "author": "Tim Fernholz",
     "date_time": "2026-10-26T19:00:00-07:00",
     "summary": "N/A",
-    "content": "The always-on AI personal assistant, which keeps working in the background even when you aren’t asking it to, is this year’s answer to the question of how people will actually use deep learning models. The startup Instinct became an overnight sensation, and Meta put the full force of its marketing behind its assistant, Muse. OpenAI wasn’t going to be left out. The company released dots, its assistant offering, at its developer day in late September. Alexander Embiricos, who leads OpenAI’s enterprise product team, joined us at TechCrunch Disrupt this month to explain where the product came from—starting with the question of why so many companies seem to be turning to cutesy mascots as avatars for their trillion-parameter matrix multiplication machines. “There’s kind of this convergent evolution happening,” Embiricos said of the efforts to build AI assistants. “As we were working on the product, we realized if we could frame this as, it’s an entity and it’s a single conversation, not many different conversations….it starts to become intuitive.” The assistant is available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at $100 a month. Once it is connected to your calendar, email, computer and other tools, the agent tries to help you get your work done. Embiricos points out that you could achieve much of dots’ functionality with Open AI’s Codex app, its coding tool, released at the beginning of this year. But that requires more work and hand-holding. He recalled celebrating when his wife started leaving her computer on all night so that her agents could keep working. “On the product team, what I think about is, how do we make this intuitive and useful to people?” he told Disrupt attendees. “A lot of that isn’t building some new piece of tech into the product; it’s how you frame it to the user and how it feels.” Making the technology feel intuitive meant repackaging the functionality of the company’s models into somet",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "scraped_at": "2026-10-27T11:57:48.490687"
+    "scraped_at": "2026-10-27T17:53:58.729500"
   },
   {
     "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
     "author": "Aditya Mehta",
     "date_time": "2026-10-26T18:12:21-07:00",
     "summary": "N/A",
-    "content": "Canadian AI company Cohere said on Monday that it found one of Alibaba’s newest AI models, Qwen3.8-Flash-Next, trying to upload a file to a server in Beijing during a routine cybersecurity test, even though the model had said in its own notes that it wouldn’t use any tools. The incident initially raised fears that the model had undermined a fundamental promise to businesses — that self-hosting an open-weight model keeps data in-house. But those early fears of corporate espionage were short-lived. Researchers quickly dismissed the threat, saying it was likely a byproduct of messy training environments that cause models to unexpectedly act outside their instructions rather than a deliberate attempt to secretly send sensitive information to China. The incident began on Friday during an evaluation in which the Qwen model was asked to write a rule for catching malware downloads. According to a blog post from Cohere, the model’s written reasoning explicitly stated it would not use any external tools. Yet in the very next step, it attempted to send a test string (a short piece of placeholder text) to an external server before being blocked by a security sandbox. Cohere said it could not tell whether the behavior was deliberate or a leftover from its training. Asked about the debate over the model’s intent, Cohere co-founder Ivan Zhang told TechCrunch that Cohere has seen its own models pick up strange habits in training simulators. “It’s really hard to assign intention or motivation. We’ve read our own model traces, we’ve seen reward hacks, and sometimes these models get really creative when it comes to trying to break out their sandboxes,” Zhang said. (Reward hacks are shortcuts a model finds to earn credit without doing a task as intended.) To teach an AI model to act as an agent that takes actions on its own, companies like Alibaba train it in thousands of practice setups, sort of like flight simulators for software. The model is rewarded every time it finishes a task i",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "scraped_at": "2026-10-27T11:57:50.329712"
+    "scraped_at": "2026-10-27T17:53:58.730082"
   },
   {
     "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -33,60 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "scraped_at": "2026-10-27T11:57:50.330802"
-  },
-  {
-    "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "author": "Aditya Mehta",
-    "date_time": "2026-10-26T09:46:36-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "scraped_at": "2026-10-27T11:57:50.331590"
-  },
-  {
-    "headline": "Anthropic officially files for its public debut",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-10-26T07:35:22-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "scraped_at": "2026-10-27T11:57:50.332454"
-  },
-  {
-    "headline": "Media & Entertainment",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-25T14:31:16-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "scraped_at": "2026-10-27T11:57:50.333098"
-  },
-  {
-    "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-25T09:57:32-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "scraped_at": "2026-10-27T11:57:50.333790"
-  },
-  {
-    "headline": "The hottest AI wearables and gadgets you should know about",
-    "author": "Lauren Forristal",
-    "date_time": "2026-10-25T07:10:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "scraped_at": "2026-10-27T11:57:50.334455"
-  },
-  {
-    "headline": "Will AI expose the rickety infrastructure of the internet?",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-24T13:15:33-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "scraped_at": "2026-10-27T11:57:50.335078"
+    "scraped_at": "2026-10-27T17:53:58.730670"
   }
 ]
