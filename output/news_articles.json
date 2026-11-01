@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "author": "Anthony Ha",
+    "date_time": "2026-10-31T14:41:00-07:00",
+    "summary": "N/A",
+    "content": "During a recent interview with Wired’s Steven Levy, Apple CEO John Ternus defended the company’s current position in the AI landscape. Over the past couple years, Apple has often been described as behind on AI, especially as it delayed the release of a more powerful version of Siri, which finally launched this summer. But while Ternus — a longtime Apple executive who officially became CEO at the beginning of September — acknowledged that “everyone has an opinion,” he insisted, “I really like where we’re at.” Ternus added that Apple is “absolutely going to leverage AI” in its new products, but he said, “We don’t want to ship AI for AI’s sake. When we’re doing it right, people won’t have to think about whether it was AI that made this happen or more traditional software. What matters is, did we build something that they really love?” And when Levy pressed him on whether AI might affect Apple and its ecosystem more dramatically, with agents potentially making things like apps unnecessary, Ternus replied,”That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”",
+    "article_link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "scraped_at": "2026-11-01T05:41:24.557990"
+  },
+  {
+    "headline": "TechCrunch Founder Summit 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-10-31T14:36:07-07:00",
+    "summary": "N/A",
+    "content": "Buy One Founder Summit Ticket, Get a Second Free for a Limited Time. Save Now Founder Summit pass savings & deals end when doors open Nov. 4. REGISTER HERE. TechCrunch Founder Summit presented by Fidelity Private Shares returns to SoWA Boston, November 4 for a full day of founder-focused learning, investor insights, and meaningful connections. Offers end when event doors open: Buy one, get a second pass for free to cover more ground. Or bring your community at up to 30% off. Save up to $100 if it’s just you. Wondering how to nail that pitch meeting and raise VC funding? Or how to build a high-octane sales team? What about recruiting early team members who will fuel future growth? Managing the finances of a new company while also wondering about your own personal finances as a founder? Legal? Marketing? PR? Being a great leader? TechCrunch Founder Summit presented by Fidelity Private Shares will answer every one of these questions. Grab your ticket at the lowest rate. Hear from accomplished startup leaders in panel-led breakout sessions as they reveal the secrets to their success. These main-stage sessions offer unparalleled access to the journeys, insights, and tips that can help take your startup to the next level. Participate in immersive sessions where startup pioneers and peers come together to discuss challenges, share stories, and build connections that drive success. Expand your network, connect with founders, share insights, and form valuable relationships that inspire growth through networking opportunities.",
+    "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
+    "scraped_at": "2026-11-01T05:41:25.750033"
+  },
+  {
     "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
     "author": "Anthony Ha",
     "date_time": "2026-10-31T14:17:03-07:00",
     "summary": "N/A",
     "content": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis. Suing on behalf of the NAACP, the Southern Environmental Law Center said the AI company had “installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits.” It also accused xAI of violating the Clean Air Act. xAI sought to have the lawsuit dismissed, claiming that the turbines are exempt from permitting requirements because they’re mobile. The company also argued that the plaintiffs did not have the standing to sue. “Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not ‘mobile sources’ under Mississippi’s [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs’ claims will proceed,” Judge Debra M. Brown wrote in her decision. Focusing on xAI’s claim that these kinds of citizen lawsuits are unconstitutional, Judge Brown wrote, “Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.” TechCrunch has reached out to SpaceX for comment. In a statement, the NAACP’s director of environmental and climate justice Abre’ Connor described this as “another important victory in our effort to hold xAI accountable.” (A similar motion to dismiss from the Department of Justice was denied earlier this month) “The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,” Connor said. “Our position has been clear: xA",
     "article_link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "scraped_at": "2026-10-31T21:20:29.605167"
+    "scraped_at": "2026-11-01T05:41:27.563120"
   },
   {
     "headline": "OpenAI reportedly lowers funding target for new round",
     "author": "Anthony Ha",
     "date_time": "2026-10-31T09:12:55-07:00",
     "summary": "N/A",
-    "content": "OpenAI’s latest funding round isn’t quite living up to expectations, according to multiple news reports. OpenAI was previously reported to be raising $30 billion at a $1.4 trillion valuation, and then at a $1.25 trillion valuation, ahead of a planned IPO. But The Financial Times reported Friday that the company has subsequently lowered its funding target to $20 billion, with a first close that’s expected to be even lower than that. The round will be led by a group of investors from the United Arab Emirates, the FT said. A subsequent retail offering for wealthy individuals could bring the total funding amount to the $20 billion target. A follow-up story in The Wall Street Journal offered more details, namely that the company has secured $11 billion so far, and that its fundraising efforts had met with a “tepid” response from some large investors. TechCrunch has reached out to OpenAI for comment. The company’s reported funding challenges could be blamed, in part, on bad timing, as Wall Street investors have become wary of heavy AI infrastructure spending, leading to a major sell off of tech stocks. And Anthropic’s planned IPO could be facing challenges, too.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "scraped_at": "2026-10-31T21:20:31.458538"
+    "scraped_at": "2026-11-01T05:41:27.564874"
   },
   {
     "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "author": "Aditya Mehta",
     "date_time": "2026-10-30T18:20:05-07:00",
     "summary": "N/A",
-    "content": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale’s planned Anthropic data center in West Virginia, The Information reported Thursday. Bloomberg later corroborated the report. Anthropic has signed a $44.6 billion contract for the project’s first building alone, according to Nscale’s IPO filing. In essence, the chipmaker would be co-signing a customer’s loans, a sign of how hard the AI industry is working to keep its buildout plans afloat as investors grow jittery about the amounts of money involved. The proposed arrangement would help Nscale secure financing for the electricity and construction costs of its West Virginia campus. Under what’s known as a residual value guarantee, Nvidia would step in if Nscale defaulted on construction payments, temporarily take over the facility, and help find a buyer and new tenant, according to The Information. Nvidia’s earlier support for cloud providers has mostly covered leases and chip purchases, not construction. The stakes are high for Nscale, which is seeking to go public at a valuation of up to $35 billion despite growing concerns about its ability to deliver on ambitious data center projects. Anthropic’s contract with Nscale covers the first 460-megawatt building at Nscale’s West Virginia campus, which is expected to use Nvidia’s next-generation Vera Rubin chips. The companies are also discussing a second deal worth roughly $45 billion for another building. Nscale has struggled to get its projects off the ground. The company had about 25,000 advanced AI chips running in August, a fraction of the nearly 500,000 it plans to deploy. Its West Virginia campus has run into trouble of its own. Runoff from the construction site has flooded nearby homes more than once. In September, after months of negotiations, the project won state certification. This month, Microsoft pulled out of a planned Nscale site in England after grid power for it was pushed into the 2030s. Nvidia has been a major fina",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "scraped_at": "2026-10-31T21:20:33.183340"
+    "scraped_at": "2026-11-01T05:41:27.566061"
   },
   {
     "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "scraped_at": "2026-10-31T21:20:33.184939"
+    "scraped_at": "2026-11-01T05:41:27.567231"
   },
   {
     "headline": "Intel’s stock crashes, knocking $12B from government’s stake",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "scraped_at": "2026-10-31T21:20:33.186183"
+    "scraped_at": "2026-11-01T05:41:27.568410"
   },
   {
     "headline": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "scraped_at": "2026-10-31T21:20:33.187585"
+    "scraped_at": "2026-11-01T05:41:27.569638"
   },
   {
     "headline": "Media & Entertainment",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "scraped_at": "2026-10-31T21:20:33.188765"
+    "scraped_at": "2026-11-01T05:41:27.570794"
   },
   {
     "headline": "Cracks are emerging in the AI spending boom",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "scraped_at": "2026-10-31T21:20:33.189941"
-  },
-  {
-    "headline": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "author": "Sarah Perez",
-    "date_time": "2026-10-30T10:47:12-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "scraped_at": "2026-10-31T21:20:33.191132"
-  },
-  {
-    "headline": "Google’s first data center satellite is online and writing poetry",
-    "author": "Tim Fernholz",
-    "date_time": "2026-10-30T10:00:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "scraped_at": "2026-10-31T21:20:33.192326"
+    "scraped_at": "2026-11-01T05:41:27.571955"
   }
 ]
