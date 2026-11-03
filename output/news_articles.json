@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "author": "Jagmeet Singh",
+    "date_time": "2026-11-02T19:30:00-08:00",
+    "summary": "N/A",
+    "content": "Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S., as the company looks to tap the world’s second-largest internet market to bring personalized visual stories drawn from users’ digital activity to a broader audience. On Monday, Google expanded Dreambeans, available on Android and iOS, to India with support for 13 local languages, including Hindi, Punjabi, Tamil, Telugu, and Bengali, alongside English. The launch comes less than two months after Google made the app available to all eligible U.S. users aged 18 and older. Introduced in June, Google’s Dreambeans uses information from connected Google services, including Calendar, Gemini, Gmail, Photos, Search, and YouTube, to proactively generate personalized, illustrated stories about users’ interests and everyday lives, without requiring them to enter a prompt. The app initially featured static, AI-generated illustrations, but Google recently added a feature that uses its Veo video-generation model to even animate images in select stories. Google said it chose India as Dreambeans’ first international market because of strong interest from Indian users seeking access to the app and the widespread use of its services in the country. India stood out for its high overlap of users across Gemini, Gmail, and Google Photos, Google product manager Gozde Oznur said during a press briefing. Dreambeans has recorded nearly 55,000 downloads in the U.S. since its June debut, according to estimates from market intelligence firm Sensor Tower shared with TechCrunch. About 63% of those downloads came in September, when Google opened the app to all eligible U.S. users aged 18 and older. However, downloads dropped 84% month over month to about 5,500 in October. In the first 30 days after Google opened Dreambeans to all eligible U.S. users, the app recorded an estimated 29,000 downloads, compared with 7.4 million for Meta’s Muse, 2.8 million for ChatGPT, 362,000 for Grok Bot, and 155,000 for",
+    "article_link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "scraped_at": "2026-11-03T13:58:48.939584"
+  },
+  {
+    "headline": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "author": "Lucas Ropek",
+    "date_time": "2026-11-02T17:49:52-08:00",
+    "summary": "N/A",
+    "content": "Apple’s services business remains at record levels, but it’s facing growing pressure. The central part of that business, Apple’s App Store, has faced regulatory pressure and a slump in mobile gaming, which have hurt services growth. However, on Monday’s earnings call, Apple signaled that it may look to boost services revenue through third-party apps. What does that mean, exactly? Unfortunately, it’s not entirely clear. When discussing how AI could potentially “contribute to revenue growth over time,” Kevan Parekh, Apple’s chief financial officer, said: “On the product side, you know, we feel AI offers a compelling reason for customers to upgrade and switch in order to get the latest capabilities, and we also feel there’s opportunities across third-party apps and partnerships as well as first-party opportunities.” Parekh did not elaborate on what sorts of opportunities might be available via third-party apps. However, Reuters reported Monday that investors are wondering whether Apple could profit by distributing third-party AI agents through the App Store and taking a cut of the revenue they generate. Regulatory and legal changes have cut into App Store commission revenue in some markets, even as Apple’s services business as a whole continues to grow. Third-party estimates in August, for example, suggested the company had seen an 18% drop in U.S. commission revenue, with declines also in Brazil and Japan after those countries introduced new regulations. Apple has traditionally controlled payments within its app marketplace tightly, taking a cut of all App Store transactions. But a lawsuit by Epic Games ultimately forced the company to allow apps to redirect users to outside payment systems. Other legal challenges throughout the world have further hampered the business. During the earnings call, Parekh referenced Apple’s App Store woes and returned to the idea that the company’s service business could expand into new territory. “We’ve also seen some factors that impac",
+    "article_link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "scraped_at": "2026-11-03T13:58:50.444992"
+  },
+  {
+    "headline": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "author": "Julie Bort",
+    "date_time": "2026-11-02T16:35:52-08:00",
+    "summary": "N/A",
+    "content": "Y Combinator CEO Garry Tan has, in the past, jokingly admitted that he’s suffered from “cyber psychosis” and sometimes barely sleeps because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast The Builders, set to publish on Tuesday, Tan put a price tag on his passion. “I spend about maybe $100[,000] to $200,000 a year on tokens,” he told Isaacson. He uses agents for countless work projects and coding tasks and has freely shared his set of 23 Claude Code skills, called gstack, on GitHub — an effort to help teach others what agents can do, he said. On the one hand, he uses his agent the way many people use AI: to help him research Isaacson’s podcast and prep for the kinds of questions he might be asked. On the other, his agent also helps him run his life. “It’s read all of my email and all of my Dropbox. It’s read, like, all of my Apple Notes, even my therapy notes going back 20 years,” he said. He describes using AI agents as getting help with “almost anything that you do in your day-to-day life, and for it to do it somewhat more autonomously. Think of it as a Jiminy Cricket on your shoulder at all times. Like, almost anything you want to do, it knows you, and it’s there to help. And it will actually sort of run ahead and say, ‘What about this?’ Or it’ll help you see around corners.” As an early OpenClaw adopter who is now a power user, Tan says one thing he’s learned is not to treat AI agents like traditional software. Some people are so worried about “repeatability and safety that they actually trade off all of the beautiful parts of working with an AI agent, which basically can be so similar to a human,” he said. For instance, Y Combinator is also using an agent that is “rebuilding the way we operate at YC,” he said. “We now have an internal AI agent, for instance, named Stray Light that kind of has a personality, and then it has a company brain. Like it actually has the total context of every founder we’ve ever backed,",
+    "article_link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "scraped_at": "2026-11-03T13:58:52.544216"
+  },
+  {
     "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
     "author": "Marina Temkin",
     "date_time": "2026-11-02T15:13:53-08:00",
     "summary": "N/A",
-    "content": "Whether developed by OpenAI or Anthropic or built on open source alternatives, current AI models share a critical limitation: They don’t learn from their mistakes without further training. Businesses adapting these models for specialized fields, such as law and finance, typically get around this by fine-tuning general models. However, that often requires hiring internal research teams or relying on expensive consultants, commonly known as forward-deployed engineers (FDEs). Trajectory, a startup founded about a year ago by three Stanford classmates with experience at Google DeepMind and Apple, wants to automate that process, allowing AI models to learn from feedback and continuously improve at specialized tasks. The 18-person company just announced that it raised $45 million in a Series A round at a $300 million valuation, led by Sequoia, with participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. Trajectory co-founder Ronak Malde compared foundational models to a very smart PhD student who’s always starting a new job. “But what the economy values is someone who worked on the job for 30 years,” he told TechCrunch. The startup aims to solve this problem through an approach known as continual learning. Businesses using Trajectory can start with an open source AI model and connect the platform to their applications, allowing it to collect feedback on how the model performs. Trajectory then uses that information to retrain the model, helping it improve at specialized tasks over time. With Trajectory, lawyers, doctors, and other specialists can improve the models near automatically themselves, Malde said. That capability could make deploying specialized AI faster and cheaper. Companies like Harvey and Rogo are already using Trajectory’s platform to post-train open source models, helping them perform more like experienced lawyers or financial analysts by learning from previous tasks, such as reviewing a particular type of legal contract or valuing",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "scraped_at": "2026-11-03T00:51:24.802421"
+    "scraped_at": "2026-11-03T13:58:52.545912"
   },
   {
     "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
     "author": "Julie Bort",
     "date_time": "2026-11-02T14:14:50-08:00",
     "summary": "N/A",
-    "content": "While much attention has focused on the updated financials Anthropic revealed in its revised S-1A on Monday, (revenue is soaring, but so are expenses), the AI lab dropped another little bombshell in the fine print. The filing seems to warn that the company is on the cusp of creating a model capable of recursive self-improvement (RSI). RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return, in which AI builds itself into something powerful enough that it slips beyond human control and may be indifferent to the damage it causes while achieving its goals. To AI enthusiasts, RSI, or some version of AI reliably using itself to improve, represents the technology’s promise, where it becomes a tool of unimaginable productivity, scientific discovery, and more. Anthropic seems to believe that RSI is both a promise and a peril. It says in the S-1 that it uses AI in its R&D, but it cautions: “Using AI to help build more capable AI could also pose a considerable safety risk, particularly if it sharply accelerates the pace of progress. This is one of the areas covered by our Responsible Scaling Policy, which sets out our plans to monitor and mitigate the risks as we approach what has been termed ‘recursive self-improvement.’” When the term RSI became popular earlier this year, many believed it was a buzzword or, at best, a goal too hard to achieve, define, or prove. But on Monday, Anthropic added new statements to its Risk Factors section, saying 1) it has already used AI to develop new models whose leaps in capability it didn’t recognize at the time, and 2) it may soon meet its own internal definition of RSI (bold emphasis ours, below): In addition, our increasing use of AI systems to accelerate our own research and development may cause the capabilities of our models to advance more rapidly than our ability to develop, validate, and imp",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "scraped_at": "2026-11-03T00:51:26.561675"
+    "scraped_at": "2026-11-03T13:58:52.547310"
   },
   {
     "headline": "Web host Squarespace lays off 19% of its employees",
     "author": "Lucas Ropek",
     "date_time": "2026-11-02T11:25:59-08:00",
     "summary": "N/A",
-    "content": "Squarespace, the web company that helps customers build and host their own websites, is laying off about one-fifth of its workforce, in a move that will affect hundreds of jobs. Jeff Seedman, a public relations specialist representing Squarespace, confirmed the layoffs to TechCrunch. The Verge initially reported the layoffs. “Squarespace is restructuring its organization and reducing its global workforce by approximately 19%, representing around 300 employees,” said Seedman. “The changes are intended to simplify how we operate, sharpen our priorities and enable the company to move faster as we position Squarespace for its next phase of growth.” Website building has changed immensely over the last few years as a result of the generative AI boom. “Vibe-coding” website builders, which only require simple prompts from users to spin up functional front-end designs, have largely upended the industry, making it possible for users to create sites with significantly less effort. These kinds of sites have become an increasingly central part of the website-building business. Last year, web host rival Wix bought Base44 for $80 million. Similar offerings, like Lovable, have generated significant investor interest; Lovable raised a $400 million Series C round in August that valued the company at $13.3 billion. Google also recently launched Stitch, a feature that allows users to swiftly generate user-interface designs. Squarespace has also begun a big push into AI. In 2024, the company launched an AI tool called Blueprint. The company also recently announced Forma, an upcoming AI native platform, whose waitlist users can join. Squarespace was founded in 2004 and went public in 2021 at a $10 billion valuation. However, the company struggled in the ensuing years to generate enthusiastic public market interest. Squarespace ultimately decided to go private again by way of a $7 billion private equity deal in 2024. An earlier version of this report incorrectly stated that Squarespace ha",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "scraped_at": "2026-11-03T00:51:28.143112"
+    "scraped_at": "2026-11-03T13:58:52.548685"
   },
   {
     "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "scraped_at": "2026-11-03T00:51:28.143902"
+    "scraped_at": "2026-11-03T13:58:52.550142"
   },
   {
     "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "scraped_at": "2026-11-03T00:51:28.144497"
+    "scraped_at": "2026-11-03T13:58:52.551246"
   },
   {
     "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "scraped_at": "2026-11-03T00:51:28.145110"
+    "scraped_at": "2026-11-03T13:58:52.552428"
   },
   {
     "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "scraped_at": "2026-11-03T00:51:28.145688"
-  },
-  {
-    "headline": "TechCrunch Founder Summit 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-11-02T06:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-11-03T00:51:28.146271"
-  },
-  {
-    "headline": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "author": "Ivan Mehta",
-    "date_time": "2026-11-02T05:57:53-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "scraped_at": "2026-11-03T00:51:28.146879"
-  },
-  {
-    "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "author": "Anthony Ha",
-    "date_time": "2026-11-01T13:55:23-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "scraped_at": "2026-11-03T00:51:28.147484"
+    "scraped_at": "2026-11-03T13:58:52.553534"
   }
 ]
