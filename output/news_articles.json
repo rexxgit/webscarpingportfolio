@@ -1,92 +1,92 @@
 [
   {
-    "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "headline": "Anthropic is working on a system to prove AI models’ identity",
+    "author": "Russell Brandom",
+    "date_time": "2026-11-03T14:41:03-08:00",
+    "summary": "N/A",
+    "content": "Anthropic is working on an open-source system to verify which AI model produced a given output, according to a blog post published Tuesday. The system, called FlashProve, is built to provide what researchers call “provable inference” – a cryptographic proof, essentially a mathematical guarantee, that a given output came from a specific model. It’s meant to let users confirm that the answer they received really came from the model they think they’re using. Similar to cryptographic email signatures that let recipients confirm a message really came from its claimed sender, FlashProve would be robust against impostors attempting to disguise one model as another, even when the impostor is the lab that built and runs the model. In particular, the researchers note that the system could be used to prevent an AI company from secretly swapping in a cheaper model to cut costs, or a more expensive model to inflate its performance results. FlashProve could also be used to verify claims by third parties that a specific task was done by an advanced model. “A developer might claim that their software library was scanned for vulnerabilities by a frontier cybersecurity model, or a company might claim that its business plan was given the go-ahead by an appropriate model,” the researchers write. “How can a user verify these claims?” To work, the system requires AI labs to publish a “fingerprint” of each model they release that can later be matched to specific outputs and verified cryptographically. Crucially, the fingerprints don’t reveal a model’s weights, the internal numbers that define how it behaves and which closed-model makers like Anthropic and OpenAI keep private. That means labs could publish the fingerprints without giving up their most valuable asset, enabling the system to work with commercial models, too. The system is also designed to be lightweight, so verification could be performed on a local device. As part of the announcement, researchers released a detailed technic",
+    "article_link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "scraped_at": "2026-11-03T23:08:36.307859"
+  },
+  {
+    "headline": "Data centers are turning to old jet engines as the wait for power grows",
+    "author": "Aditya Mehta",
+    "date_time": "2026-11-03T14:19:53-08:00",
+    "summary": "N/A",
+    "content": "Stuck in years-long lines for grid connections and new turbines, some AI data centers are making their own electricity with converted jet engines, the New York Times reported Tuesday. The engines, pulled from retired aircraft and rebuilt to burn natural gas, aren’t anyone’s idea of a permanent power plant. But they’re another sign of how far power supply has fallen behind the AI buildout. For companies stuck in those lines, the main draw of converted jet engines is how quickly the engines can be up and running. “It’s all about getting power as fast as possible,” Rystad Energy analyst Audun Martinsen told the Times. With jet-powered units, “they can have a data center running in 24 months,” he said. Hooking up 100 megawatts to the grid in Northern Virginia, by comparison, takes about seven years, according to the International Energy Agency. Most power capacity is expected to come on by 2031, an executive at Mitsubishi Power, one of the world’s top makers of power generation equipment told Bloomberg last week. In some cases, these delays are already costing some data center operators business. Last month, Microsoft pulled out as the anchor customer for Nscale’s data center in Loughton, England, after the local utility said it couldn’t deliver enough power until the early-to-mid 2030s. Elon Musk’s xAI is among the companies already using the engines, having installed eight converted jet-engine turbines in Mississippi to help power its Colossus 2 data center in Memphis, the Times reported, citing state permits and satellite imagery. The units come from ProEnergy, which rebuilds a GE engine commonly found on Boeing jets. In 2025, OpenAI followed Musk’s lead with gas turbines at its first Stargate site in Abilene, Texas. Crusoe, a Denver-based startup that builds AI data centers, is constructing that Abilene campus and ordered 13 of ProEnergy’s converted units in April. In September, Crusoe walked away from a $1.25 billion deal to buy 29 natural gas turbines from Boom Su",
+    "article_link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "scraped_at": "2026-11-03T23:08:37.898665"
+  },
+  {
+    "headline": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
     "author": "Jagmeet Singh",
-    "date_time": "2026-11-02T19:30:00-08:00",
+    "date_time": "2026-11-03T13:43:08-08:00",
     "summary": "N/A",
-    "content": "Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S., as the company looks to tap the world’s second-largest internet market to bring personalized visual stories drawn from users’ digital activity to a broader audience. On Monday, Google expanded Dreambeans, available on Android and iOS, to India with support for 13 local languages, including Hindi, Punjabi, Tamil, Telugu, and Bengali, alongside English. The launch comes less than two months after Google made the app available to all eligible U.S. users aged 18 and older. Introduced in June, Google’s Dreambeans uses information from connected Google services, including Calendar, Gemini, Gmail, Photos, Search, and YouTube, to proactively generate personalized, illustrated stories about users’ interests and everyday lives, without requiring them to enter a prompt. The app initially featured static, AI-generated illustrations, but Google recently added a feature that uses its Veo video-generation model to even animate images in select stories. Google said it chose India as Dreambeans’ first international market because of strong interest from Indian users seeking access to the app and the widespread use of its services in the country. India stood out for its high overlap of users across Gemini, Gmail, and Google Photos, Google product manager Gozde Oznur said during a press briefing. Dreambeans has recorded nearly 55,000 downloads in the U.S. since its June debut, according to estimates from market intelligence firm Sensor Tower shared with TechCrunch. About 63% of those downloads came in September, when Google opened the app to all eligible U.S. users aged 18 and older. However, downloads dropped 84% month over month to about 5,500 in October. In the first 30 days after Google opened Dreambeans to all eligible U.S. users, the app recorded an estimated 29,000 downloads, compared with 7.4 million for Meta’s Muse, 2.8 million for ChatGPT, 362,000 for Grok Bot, and 155,000 for",
-    "article_link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "scraped_at": "2026-11-03T13:58:48.939584"
+    "content": "Ballistic Ventures, the cybersecurity-focused venture capital firm co-founded by former Kleiner Perkins partner Ted Schlein (pictured above, second from the right), is seeking to raise $490 million across two new funds, TechCrunch has learned through regulatory filings. The San Francisco-based VC firm filed with the U.S. Securities and Exchange Commission this week to raise $360 million for its third flagship fund, matching the size of its previous fund raised in 2024, and another $130 million for a separate vehicle called Ballistic Ventures Fund B. Neither fund had recorded any sales at the time of filing. The fundraising plans come as the growing use of artificial intelligence has raised concerns about more sophisticated cyberattacks. The rise of AI agents has also created new opportunities for cybersecurity startups and the venture capital firms backing them. Founded in late 2021, Ballistic Ventures’ founding team includes Schlein, former AT&T Cybersecurity president Barmak Meftah, and Roger Thornton, who co-founded security companies Fortify Software and AlienVault. The firm has backed companies, including Talon Cyber Security, acquired by Palo Alto Networks, and Pangea, bought by CrowdStrike, alongside startups such as Armadin, GetReal, Nudge Security, and Oligo Security. Ballistic’s ties to storied venture capital firm Kleiner Perkins, where Schlein spent more than two decades, help set it apart from rivals, a cybersecurity investor at another VC firm told TechCrunch. Its investment strategy, however, is similar to those of other cybersecurity-focused investors, including Forgepoint Capital and Ten Eleven Ventures, the person said. In 2022, Ballistic announced its $300 million debut fund and raised another $360 million for its second flagship fund two years later. It also raised about $130 million for a separate vehicle called Ballistic Ventures Fund A, per PitchBook data. The new Fund B is targeting a similar amount. U.S. cybersecurity startups raised $11.5 b",
+    "article_link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "scraped_at": "2026-11-03T23:08:39.109333"
   },
   {
-    "headline": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-02T17:49:52-08:00",
-    "summary": "N/A",
-    "content": "Apple’s services business remains at record levels, but it’s facing growing pressure. The central part of that business, Apple’s App Store, has faced regulatory pressure and a slump in mobile gaming, which have hurt services growth. However, on Monday’s earnings call, Apple signaled that it may look to boost services revenue through third-party apps. What does that mean, exactly? Unfortunately, it’s not entirely clear. When discussing how AI could potentially “contribute to revenue growth over time,” Kevan Parekh, Apple’s chief financial officer, said: “On the product side, you know, we feel AI offers a compelling reason for customers to upgrade and switch in order to get the latest capabilities, and we also feel there’s opportunities across third-party apps and partnerships as well as first-party opportunities.” Parekh did not elaborate on what sorts of opportunities might be available via third-party apps. However, Reuters reported Monday that investors are wondering whether Apple could profit by distributing third-party AI agents through the App Store and taking a cut of the revenue they generate. Regulatory and legal changes have cut into App Store commission revenue in some markets, even as Apple’s services business as a whole continues to grow. Third-party estimates in August, for example, suggested the company had seen an 18% drop in U.S. commission revenue, with declines also in Brazil and Japan after those countries introduced new regulations. Apple has traditionally controlled payments within its app marketplace tightly, taking a cut of all App Store transactions. But a lawsuit by Epic Games ultimately forced the company to allow apps to redirect users to outside payment systems. Other legal challenges throughout the world have further hampered the business. During the earnings call, Parekh referenced Apple’s App Store woes and returned to the idea that the company’s service business could expand into new territory. “We’ve also seen some factors that impac",
-    "article_link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "scraped_at": "2026-11-03T13:58:50.444992"
-  },
-  {
-    "headline": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "headline": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
     "author": "Julie Bort",
-    "date_time": "2026-11-02T16:35:52-08:00",
+    "date_time": "2026-11-03T13:05:55-08:00",
     "summary": "N/A",
-    "content": "Y Combinator CEO Garry Tan has, in the past, jokingly admitted that he’s suffered from “cyber psychosis” and sometimes barely sleeps because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast The Builders, set to publish on Tuesday, Tan put a price tag on his passion. “I spend about maybe $100[,000] to $200,000 a year on tokens,” he told Isaacson. He uses agents for countless work projects and coding tasks and has freely shared his set of 23 Claude Code skills, called gstack, on GitHub — an effort to help teach others what agents can do, he said. On the one hand, he uses his agent the way many people use AI: to help him research Isaacson’s podcast and prep for the kinds of questions he might be asked. On the other, his agent also helps him run his life. “It’s read all of my email and all of my Dropbox. It’s read, like, all of my Apple Notes, even my therapy notes going back 20 years,” he said. He describes using AI agents as getting help with “almost anything that you do in your day-to-day life, and for it to do it somewhat more autonomously. Think of it as a Jiminy Cricket on your shoulder at all times. Like, almost anything you want to do, it knows you, and it’s there to help. And it will actually sort of run ahead and say, ‘What about this?’ Or it’ll help you see around corners.” As an early OpenClaw adopter who is now a power user, Tan says one thing he’s learned is not to treat AI agents like traditional software. Some people are so worried about “repeatability and safety that they actually trade off all of the beautiful parts of working with an AI agent, which basically can be so similar to a human,” he said. For instance, Y Combinator is also using an agent that is “rebuilding the way we operate at YC,” he said. “We now have an internal AI agent, for instance, named Stray Light that kind of has a personality, and then it has a company brain. Like it actually has the total context of every founder we’ve ever backed,",
-    "article_link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "scraped_at": "2026-11-03T13:58:52.544216"
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "scraped_at": "2026-11-03T23:08:39.110819"
   },
   {
-    "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
     "author": "Marina Temkin",
-    "date_time": "2026-11-02T15:13:53-08:00",
+    "date_time": "2026-11-03T11:34:43-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "scraped_at": "2026-11-03T13:58:52.545912"
+    "article_link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "scraped_at": "2026-11-03T23:08:39.112018"
   },
   {
-    "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "author": "Julie Bort",
-    "date_time": "2026-11-02T14:14:50-08:00",
+    "headline": "Media & Entertainment",
+    "author": "Aisha Malik",
+    "date_time": "2026-11-03T10:42:16-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "scraped_at": "2026-11-03T13:58:52.547310"
+    "article_link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "scraped_at": "2026-11-03T23:08:39.113130"
   },
   {
-    "headline": "Web host Squarespace lays off 19% of its employees",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-02T11:25:59-08:00",
+    "headline": "Anthropic is still grappling with the economics of compute",
+    "author": "Russell Brandom",
+    "date_time": "2026-11-03T09:07:01-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "scraped_at": "2026-11-03T13:58:52.548685"
+    "article_link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "scraped_at": "2026-11-03T23:08:39.114233"
   },
   {
-    "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-02T11:19:17-08:00",
+    "headline": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "author": "Aisha Malik",
+    "date_time": "2026-11-03T08:30:34-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "scraped_at": "2026-11-03T13:58:52.550142"
+    "article_link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "scraped_at": "2026-11-03T23:08:39.115336"
   },
   {
-    "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "author": "Ram Iyer",
-    "date_time": "2026-11-02T08:30:00-08:00",
+    "headline": "Apple restricts dating apps and AI companions to users 18 and up",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-03T07:38:27-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "scraped_at": "2026-11-03T13:58:52.551246"
+    "article_link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "scraped_at": "2026-11-03T23:08:39.116439"
   },
   {
-    "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-02T08:23:21-08:00",
+    "headline": "TechCrunch Founder Summit 2026",
+    "author": "TechCrunch Events",
+    "date_time": "2026-11-03T06:30:00-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "scraped_at": "2026-11-03T13:58:52.552428"
-  },
-  {
-    "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-02T07:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "scraped_at": "2026-11-03T13:58:52.553534"
+    "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
+    "scraped_at": "2026-11-03T23:08:39.117536"
   }
 ]
