@@ -1,30 +1,84 @@
 [
   {
+    "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "author": "Marina Temkin",
+    "date_time": "2026-11-02T15:13:53-08:00",
+    "summary": "N/A",
+    "content": "Whether developed by OpenAI or Anthropic or built on open source alternatives, current AI models share a critical limitation: They don’t learn from their mistakes without further training. Businesses adapting these models for specialized fields, such as law and finance, typically get around this by fine-tuning general models. However, that often requires hiring internal research teams or relying on expensive consultants, commonly known as forward-deployed engineers (FDEs). Trajectory, a startup founded about a year ago by three Stanford classmates with experience at Google DeepMind and Apple, wants to automate that process, allowing AI models to learn from feedback and continuously improve at specialized tasks. The 18-person company just announced that it raised $45 million in a Series A round at a $300 million valuation, led by Sequoia, with participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. Trajectory co-founder Ronak Malde compared foundational models to a very smart PhD student who’s always starting a new job. “But what the economy values is someone who worked on the job for 30 years,” he told TechCrunch. The startup aims to solve this problem through an approach known as continual learning. Businesses using Trajectory can start with an open source AI model and connect the platform to their applications, allowing it to collect feedback on how the model performs. Trajectory then uses that information to retrain the model, helping it improve at specialized tasks over time. With Trajectory, lawyers, doctors, and other specialists can improve the models near automatically themselves, Malde said. That capability could make deploying specialized AI faster and cheaper. Companies like Harvey and Rogo are already using Trajectory’s platform to post-train open source models, helping them perform more like experienced lawyers or financial analysts by learning from previous tasks, such as reviewing a particular type of legal contract or valuing",
+    "article_link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "scraped_at": "2026-11-03T00:51:24.802421"
+  },
+  {
+    "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "author": "Julie Bort",
+    "date_time": "2026-11-02T14:14:50-08:00",
+    "summary": "N/A",
+    "content": "While much attention has focused on the updated financials Anthropic revealed in its revised S-1A on Monday, (revenue is soaring, but so are expenses), the AI lab dropped another little bombshell in the fine print. The filing seems to warn that the company is on the cusp of creating a model capable of recursive self-improvement (RSI). RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return, in which AI builds itself into something powerful enough that it slips beyond human control and may be indifferent to the damage it causes while achieving its goals. To AI enthusiasts, RSI, or some version of AI reliably using itself to improve, represents the technology’s promise, where it becomes a tool of unimaginable productivity, scientific discovery, and more. Anthropic seems to believe that RSI is both a promise and a peril. It says in the S-1 that it uses AI in its R&D, but it cautions: “Using AI to help build more capable AI could also pose a considerable safety risk, particularly if it sharply accelerates the pace of progress. This is one of the areas covered by our Responsible Scaling Policy, which sets out our plans to monitor and mitigate the risks as we approach what has been termed ‘recursive self-improvement.’” When the term RSI became popular earlier this year, many believed it was a buzzword or, at best, a goal too hard to achieve, define, or prove. But on Monday, Anthropic added new statements to its Risk Factors section, saying 1) it has already used AI to develop new models whose leaps in capability it didn’t recognize at the time, and 2) it may soon meet its own internal definition of RSI (bold emphasis ours, below): In addition, our increasing use of AI systems to accelerate our own research and development may cause the capabilities of our models to advance more rapidly than our ability to develop, validate, and imp",
+    "article_link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "scraped_at": "2026-11-03T00:51:26.561675"
+  },
+  {
+    "headline": "Web host Squarespace lays off 19% of its employees",
+    "author": "Lucas Ropek",
+    "date_time": "2026-11-02T11:25:59-08:00",
+    "summary": "N/A",
+    "content": "Squarespace, the web company that helps customers build and host their own websites, is laying off about one-fifth of its workforce, in a move that will affect hundreds of jobs. Jeff Seedman, a public relations specialist representing Squarespace, confirmed the layoffs to TechCrunch. The Verge initially reported the layoffs. “Squarespace is restructuring its organization and reducing its global workforce by approximately 19%, representing around 300 employees,” said Seedman. “The changes are intended to simplify how we operate, sharpen our priorities and enable the company to move faster as we position Squarespace for its next phase of growth.” Website building has changed immensely over the last few years as a result of the generative AI boom. “Vibe-coding” website builders, which only require simple prompts from users to spin up functional front-end designs, have largely upended the industry, making it possible for users to create sites with significantly less effort. These kinds of sites have become an increasingly central part of the website-building business. Last year, web host rival Wix bought Base44 for $80 million. Similar offerings, like Lovable, have generated significant investor interest; Lovable raised a $400 million Series C round in August that valued the company at $13.3 billion. Google also recently launched Stitch, a feature that allows users to swiftly generate user-interface designs. Squarespace has also begun a big push into AI. In 2024, the company launched an AI tool called Blueprint. The company also recently announced Forma, an upcoming AI native platform, whose waitlist users can join. Squarespace was founded in 2004 and went public in 2021 at a $10 billion valuation. However, the company struggled in the ensuing years to generate enthusiastic public market interest. Squarespace ultimately decided to go private again by way of a $7 billion private equity deal in 2024. An earlier version of this report incorrectly stated that Squarespace ha",
+    "article_link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "scraped_at": "2026-11-03T00:51:28.143112"
+  },
+  {
+    "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-02T11:19:17-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "scraped_at": "2026-11-03T00:51:28.143902"
+  },
+  {
+    "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "author": "Ram Iyer",
+    "date_time": "2026-11-02T08:30:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "scraped_at": "2026-11-03T00:51:28.144497"
+  },
+  {
+    "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-02T08:23:21-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "scraped_at": "2026-11-03T00:51:28.145110"
+  },
+  {
     "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
     "author": "Tim Fernholz",
     "date_time": "2026-11-02T07:00:00-08:00",
     "summary": "N/A",
-    "content": "US data centers use 17 to 19 billion gallons of water to cool their hot-running chips each year — and that number is expected to to triple in the next five years, according to the Water Foundation. That’s an expensive and politically tricky proposition for investors throwing billions of dollars at the challenge of scaling up AI. One way to use less water is to do a better job monitoring the cooling fluids, a task that currently involves sending samples away to a laboratory for tests in a multi-day process. Omen AI was founded in 2024 to solve that problem. The company is building a real-time sensor to determine whether valves were failing, or if bacteria growth in the system threatened to choke off water flow. After raising a $31 million Series A in June, Omen is now acquiring competitor Aquatic Labs in a $16 million cash-and-stock deal. The deal came together after Omen founder Zach Laberge was introduced to Aquatic Labs’ CEO Allan Adams by an investor in the filtration space. Both startups were building real-time water sensors with complementary technology: Omen’s sensors looked for elements in the water, while the Aquatic Labs sensor tests its alkalinity. Putting those two technologies in the same sensor creates a “much richer picture of the water and the fluid,” Adams told TechCrunch, while uniting their vision of automating what had previously been a slow, manual process. The combination unites two classic species of founder: Laberge dropped out of high school to pursue his first company, which did similar fluid analysis for large construction machines that depend on hydraulics. Adams was an academic, trained as a physicist, who spent much of his career developing advanced ocean sensing technology as an MIT professor and Woods Hole Oceanographic Institute researcher before starting his company. Now, with Adams as the company’s chief science officer, the combined teams are working to integrate both technologies into one sensor, which they expect to have on the m",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "scraped_at": "2026-11-02T15:28:45.046449"
+    "scraped_at": "2026-11-03T00:51:28.145688"
   },
   {
     "headline": "TechCrunch Founder Summit 2026",
     "author": "TechCrunch Events",
     "date_time": "2026-11-02T06:00:00-08:00",
     "summary": "N/A",
-    "content": "Buy One Founder Summit Ticket, Get a Second Free for a Limited Time. Save Now Founder Summit pass savings & deals end when doors open Nov. 4. REGISTER HERE. TechCrunch Founder Summit presented by Fidelity Private Shares returns to SoWA Boston, November 4 for a full day of founder-focused learning, investor insights, and meaningful connections. Offers end when event doors open: Buy one, get a second pass for free to cover more ground. Or bring your community at up to 30% off. Save up to $100 if it’s just you. Wondering how to nail that pitch meeting and raise VC funding? Or how to build a high-octane sales team? What about recruiting early team members who will fuel future growth? Managing the finances of a new company while also wondering about your own personal finances as a founder? Legal? Marketing? PR? Being a great leader? TechCrunch Founder Summit presented by Fidelity Private Shares will answer every one of these questions. Grab your ticket at the lowest rate. Hear from accomplished startup leaders in panel-led breakout sessions as they reveal the secrets to their success. These main-stage sessions offer unparalleled access to the journeys, insights, and tips that can help take your startup to the next level. Participate in immersive sessions where startup pioneers and peers come together to discuss challenges, share stories, and build connections that drive success. Expand your network, connect with founders, share insights, and form valuable relationships that inspire growth through networking opportunities.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-11-02T15:28:46.726751"
+    "scraped_at": "2026-11-03T00:51:28.146271"
   },
   {
-    "headline": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "headline": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
     "author": "Ivan Mehta",
     "date_time": "2026-11-02T05:57:53-08:00",
     "summary": "N/A",
-    "content": "The ChatGPT desktop app can be a confusing piece of software, given that there are ChatGPT and Codex sections, and within the former, there are Chat and Work tabs. With so many options, it’s sometimes easy to forget where you are working and where exactly your project is. In an apparent effort to address this, OpenAI is now gearing up to merge the Chat and Work tabs within the ChatGPT experience, according to an email sent to users. OpenAI said that initially, this experience will be available to select users for feedback before it is rolled out widely. “This will enable you to move from exploring an idea to having ChatGPT carry it through, all in one place. You can bring in your files and plugins and ask ChatGPT to build a website, create a presentation, or do things for you on the web, while reviewing and guiding its work. Codex will remain a separate experience in the ChatGPT desktop app,” the email said. OpenAI also said with this transition, both ChatGPT and Codex will draw tokens from the same allowance pool. It said this change won’t impact most users, but based on usage and model, some folks might need to wait for resets more frequently. Rival Anthropic merged Claude’s chat and Cowork functions into one screen in September.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "scraped_at": "2026-11-02T15:28:48.547809"
+    "scraped_at": "2026-11-03T00:51:28.146879"
   },
   {
     "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -33,60 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "scraped_at": "2026-11-02T15:28:48.549443"
-  },
-  {
-    "headline": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "author": "Anthony Ha",
-    "date_time": "2026-11-01T12:57:58-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "scraped_at": "2026-11-02T15:28:48.550743"
-  },
-  {
-    "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-31T14:41:00-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "scraped_at": "2026-11-02T15:28:48.552016"
-  },
-  {
-    "headline": "TechCrunch Founder Summit 2026",
-    "author": "TechCrunch Events",
-    "date_time": "2026-10-31T14:36:07-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/",
-    "scraped_at": "2026-11-02T15:28:48.553224"
-  },
-  {
-    "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-31T14:17:03-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "scraped_at": "2026-11-02T15:28:48.554464"
-  },
-  {
-    "headline": "OpenAI reportedly lowers funding target for new round",
-    "author": "Anthony Ha",
-    "date_time": "2026-10-31T09:12:55-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "scraped_at": "2026-11-02T15:28:48.555726"
-  },
-  {
-    "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "author": "Aditya Mehta",
-    "date_time": "2026-10-30T18:20:05-07:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "scraped_at": "2026-11-02T15:28:48.556931"
+    "scraped_at": "2026-11-03T00:51:28.147484"
   }
 ]
