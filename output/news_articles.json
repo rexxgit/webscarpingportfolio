@@ -1,92 +1,92 @@
 [
   {
+    "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "author": "Zack Whittaker",
+    "date_time": "2026-11-06T10:44:38-08:00",
+    "summary": "N/A",
+    "content": "Security researchers have discovered hundreds of copies of a Chinese-made AI hacking tool publicly exposed to the internet for anyone to access, potentially allowing outsiders to launch cyberattacks against unsuspecting targets. The hacking software, called Artex, is an open-source autonomous penetration testing tool, meaning software that automatically probes computer systems for weaknesses, and it’s been linked to several cyberattacks since its public release in July. As open-source software, it’s free for anyone to download and run on their own servers, making it a popular tool for those who cannot access Anthropic or OpenAI’s most advanced cybersecurity AI models for discovering security vulnerabilities. Microsoft has previously described Artex as a system of AI agents that can conduct cyberattacks “from reconnaissance through data exfiltration with little needed human interaction.” In a blog post, cybersecurity firm Censys, which scans the internet for exposed or vulnerable systems, said that it identified more than 800 distinct deployments of Artex that were accessible from the web without needing a password to log in. Silas Cutler, principal security researcher at Censys who wrote the blog post, said that not every instance of Artex is operated maliciously and many are used for authorized testers. But it’s unclear why hundreds of these Artex systems are exposed to the web, as the software does not require them to be accessible from the internet. The findings underscore how even powerful hacking tools can be misconfigured to be publicly accessible by anyone, increasing the chance that someone will find and misuse them. The publicly accessible systems also expose attack tools, such as implants (hidden malicious software) used to compromise and maintain persistent access to a victim’s network. Security companies have linked the use of Artex to several broad-scale cyberattacks, including against the Korean finance industry in September. Cybersecurity giant CrowdS",
+    "article_link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "scraped_at": "2026-11-06T19:13:45.069191"
+  },
+  {
+    "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "author": "Lucas Ropek",
+    "date_time": "2026-11-06T10:44:20-08:00",
+    "summary": "N/A",
+    "content": "Meta recently launched its Muse agents — a new generation of cuddly agentic helpers. Now, the company has launched Spaces, a new way to communicate and collaborate with them. As far as I can tell, Spaces are basically breakout conversations that revolve around a particular topic — although Meta refers to them as “custom experiences.” They live in the sidebar of the interface where you interact with your Muse agent. Clicking on the Space brings up the conversation, where Muse works towards a particular goal on your behalf. For instance, if you wanted to plan a vacation, you could open a new Space focused on that particular project, and whenever you want to work on it with Muse, you would click to open that particular tab. Or, if you’re focused on collecting recipes for an upcoming family event, you’d open a new Space for that particular project. Other examples Meta gives are a holiday gift tracker, wedding planner, or a space for DIY projects. “Describe an idea in chat, and Muse builds a space for you, whether that’s a tracker, a planner or a project board,” Meta says. Spaces can also be easily integrated with third-party apps and information, Meta says. “Connect the apps you use, and your spaces keep themselves up to date in the background, so new concert dates, price changes, or savings progress show up without you having to ask,” the company says. On Friday, Mark Zuckerberg, Meta’s founder and CEO, posted about the new feature on X: “Playing around with spaces in Muse lately — tell Muse what you need and it builds it. I’ve made a BBQ game, an event tracker, and a home control dashboard. Excited to see what you build.” Muse agents — and the cuddly avatars that enclose them — have been greeted with a relatively warm reception over the past few months. During its earnings call in October, Zuckerberg said that its agents had 10 million users in the U.S. and Canada — less than two months after the agents debuted. The company is obviously busy building out the user expe",
+    "article_link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "scraped_at": "2026-11-06T19:13:46.870109"
+  },
+  {
+    "headline": "How a Blue Wave midterm might reshape the AI industry",
+    "author": "Theresa Loconsolo\nAnthony Ha\nSean O'Kane\nKirsten Korosec",
+    "date_time": "2026-11-06T10:00:00-08:00",
+    "summary": "N/A",
+    "content": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a major talking point, with newly-elected Democratic governors and congressmembers likely to support additional regulation. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and Anthony Ha discuss what the election will mean for the tech industry moving forward — not just when it comes to data centers (which OpenAI is already trying to rebrand), but also increased government scrutiny of Big Tech. Listen to the full episode to hear more about: Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "article_link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "scraped_at": "2026-11-06T19:13:48.615323"
+  },
+  {
+    "headline": "After the midterms, is the AI industry in for a rough two years?",
+    "author": "Theresa Loconsolo\nAnthony Ha",
+    "date_time": "2026-11-06T09:23:52-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "scraped_at": "2026-11-06T19:13:48.616764"
+  },
+  {
+    "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-06T07:54:47-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "scraped_at": "2026-11-06T19:13:48.617632"
+  },
+  {
+    "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-06T06:10:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "scraped_at": "2026-11-06T19:13:48.618488"
+  },
+  {
+    "headline": "Underdog shows off a 32MB speech model in new demo",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-06T05:02:16-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "scraped_at": "2026-11-06T19:13:48.619358"
+  },
+  {
+    "headline": "Physicl raises $10M to make the digital world real enough for robots",
+    "author": "Tim Fernholz",
+    "date_time": "2026-11-06T05:00:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "scraped_at": "2026-11-06T19:13:48.620194"
+  },
+  {
+    "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "author": "Marina Temkin",
+    "date_time": "2026-11-05T22:28:32-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "scraped_at": "2026-11-06T19:13:48.621043"
+  },
+  {
     "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "author": "Sarah Perez",
     "date_time": "2026-11-05T14:40:55-08:00",
     "summary": "N/A",
-    "content": "Airbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholder letter on Thursday, Airbnb also provided more detail about how the agent will work, what it will actually do, and how it’s different from a typical AI chatbot. In prior interviews, CEO Brian Chesky sketched out the travel company’s approach to AI, describing a plan to build an AI agent that has a richer interface than a conventional chatbot. He also expressed his opinions about how chatbots aren’t the right interface for travel, noting that people take pleasure in the planning process and in anticipating a trip. Any agent that it built, then, shouldn’t take away from the inspiration and the browsing, he told TechCrunch in an interview last month. Chesky today reiterated that belief, telling analysts on the earnings call that people won’t use one AI agent for everything. “Today’s AI agents like Muse and Instinct are good at simple routine tasks like making a restaurant reservation or scheduling an appointment. But planning a trip is different,” he said. “Travel is aspirational. Discovering where to go and where to stay is part of the experience. In fact, 80% of travelers say they enjoy spending time researching trips. People want to look at photos. They want to compare homes. They want to make decisions with people they’re traveling with,” he continued. “And I don’t think the general-purpose agents are the best to do that. So that is why we are building our own AI agent,” Chesky said. Airbnb described its agent as having a personalized interface that’s designed specifically for travel, where it will “build an interface” around a user’s question instead of simply responding as a chatbot would. “What we are doing is developing a custom-designed AI-native experience that responds to what guests are looking for,” Chesky said. “So instead of relying on traditional chat alon",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "scraped_at": "2026-11-06T06:11:43.526979"
-  },
-  {
-    "headline": "Meta says US users can now video chat with their Muse AI avatar",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-05T11:48:28-08:00",
-    "summary": "N/A",
-    "content": "Muse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday. First introduced at Meta’s Connect developer conference in September, the video-chatting feature involves new AI models, Muse Realtime Avatar and Muse Realtime Voice technology, which help power the digital avatar that chats with the user. While other AI competitors offer voice chat features, Meta’s Muse offers a cute, animated avatar (nicknamed Jolly), which users interact with as they ask questions or request tasks to be handled on their behalf. Users can also customize the avatar as they choose, changing it to something that looks more like a person, animal, or some other character. The company believes that anthropomorphizing Muse in this way could make consumers feel more connected to their AI agent — a connection that could grow even stronger as they begin to engage in live conversations with it. As the Muse avatar speaks, Meta says it will use “subtle expressions and gestures” that match the tone of the conversation. (Muse doesn’t actually “see” the user, but it hears them and reacts based on their conversations.) The news of the rollout was announced via blog post and on X by Meta’s chief AI officer, Alexandr Wang, who shared a demo of his Muse in action. The video saw Wang joking around, referencing his love of posting memes on X, which he told his Muse may have gotten him in trouble with his boss. His Muse, a fluffy white dog, responds with a suggestion to add disclaimers to those memes that could be misinterpreted as Meta endorsing anything risqué. (Ha!) The added support for video chats and calls comes just before Meta’s plan to launch a Tamagotchi-like wearable device for its Muse AI agent before year-end. When the device arrives, the digital avatar will appear on its small screen, letting users talk to the agent, which can then reply or carry out tasks for them. Meta says the real-ti",
-    "article_link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "scraped_at": "2026-11-06T06:11:45.548143"
-  },
-  {
-    "headline": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-05T11:12:39-08:00",
-    "summary": "N/A",
-    "content": "Meta president Dina Powell McCormick said that the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers, adding that the industry has “not done as good a job as we needed to explain the benefits of these investments.” Speaking at the WSJ Tech conference on Wednesday, the Meta exec pointed out that the backlash against data centers — which was very much on the ballot during this election season — was also tied to people’s feelings about AI technology overall. “The visible sort of manifestation of AI is a data center, and it’s something that people can say, ‘I don’t want this in my community,’” she explained. “I think there’s an underlying bigger issue, which is how people feel about AI in general.” Meta believes it could turn around the negative consumer sentiment around AI if it’s able to demonstrate the value, not only of the data centers coming to local communities, but also in the technology itself. “The stakes of who builds the technology that cures cancer, that gives access to education, that is also a very fundamental difference … Mark [Zuckerberg, Meta CEO] is very ‘long human,’ and he’s betting on humans more than machines,” Powell McCormick explained. “And that’s what we mean when we say the future is for everyone. That people should not be left behind. But the way to ensure that is that this technology is democratized, that people have access to it in a very fair and transparent way,” she said. The exec also touted Meta’s experience in building data centers, saying that the company has been doing so for 20 years, as it takes a lot of compute power to offer the products it does in the social networking space. Today, the company has data centers in 23 states, she said, and five of them, including one in Texas, are planned as projects of 1 gigawatt or more. But Meta is now worried that it could lose some of its investments after politicians ran on anti-data-center platforms during the midterms. “I thin",
-    "article_link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "scraped_at": "2026-11-06T06:11:47.166093"
-  },
-  {
-    "headline": "OpenAI released a new cybersecurity model. Is that enough?",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-05T11:06:12-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "scraped_at": "2026-11-06T06:11:47.167036"
-  },
-  {
-    "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-05T10:02:27-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "scraped_at": "2026-11-06T06:11:47.167628"
-  },
-  {
-    "headline": "Claude can now analyze your spending with its new Personal Finance tool",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-05T10:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "scraped_at": "2026-11-06T06:11:47.168208"
-  },
-  {
-    "headline": "Axiom Math wants to keep AI slop out of mathematics",
-    "author": "Aditya Mehta",
-    "date_time": "2026-11-05T08:16:45-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "scraped_at": "2026-11-06T06:11:47.168795"
-  },
-  {
-    "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "author": "Lauren Forristal",
-    "date_time": "2026-11-05T07:19:05-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "scraped_at": "2026-11-06T06:11:47.169377"
-  },
-  {
-    "headline": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "author": "Ivan Mehta",
-    "date_time": "2026-11-05T06:42:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "scraped_at": "2026-11-06T06:11:47.169958"
-  },
-  {
-    "headline": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "author": "Russell Brandom",
-    "date_time": "2026-11-05T06:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "scraped_at": "2026-11-06T06:11:47.170541"
+    "scraped_at": "2026-11-06T19:13:48.621904"
   }
 ]
