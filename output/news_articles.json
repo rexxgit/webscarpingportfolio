@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-05T14:40:55-08:00",
+    "summary": "N/A",
+    "content": "Airbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholder letter on Thursday, Airbnb also provided more detail about how the agent will work, what it will actually do, and how it’s different from a typical AI chatbot. In prior interviews, CEO Brian Chesky sketched out the travel company’s approach to AI, describing a plan to build an AI agent that has a richer interface than a conventional chatbot. He also expressed his opinions about how chatbots aren’t the right interface for travel, noting that people take pleasure in the planning process and in anticipating a trip. Any agent that it built, then, shouldn’t take away from the inspiration and the browsing, he told TechCrunch in an interview last month. Chesky today reiterated that belief, telling analysts on the earnings call that people won’t use one AI agent for everything. “Today’s AI agents like Muse and Instinct are good at simple routine tasks like making a restaurant reservation or scheduling an appointment. But planning a trip is different,” he said. “Travel is aspirational. Discovering where to go and where to stay is part of the experience. In fact, 80% of travelers say they enjoy spending time researching trips. People want to look at photos. They want to compare homes. They want to make decisions with people they’re traveling with,” he continued. “And I don’t think the general-purpose agents are the best to do that. So that is why we are building our own AI agent,” Chesky said. Airbnb described its agent as having a personalized interface that’s designed specifically for travel, where it will “build an interface” around a user’s question instead of simply responding as a chatbot would. “What we are doing is developing a custom-designed AI-native experience that responds to what guests are looking for,” Chesky said. “So instead of relying on traditional chat alon",
+    "article_link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "scraped_at": "2026-11-06T06:11:43.526979"
+  },
+  {
+    "headline": "Meta says US users can now video chat with their Muse AI avatar",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-05T11:48:28-08:00",
+    "summary": "N/A",
+    "content": "Muse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday. First introduced at Meta’s Connect developer conference in September, the video-chatting feature involves new AI models, Muse Realtime Avatar and Muse Realtime Voice technology, which help power the digital avatar that chats with the user. While other AI competitors offer voice chat features, Meta’s Muse offers a cute, animated avatar (nicknamed Jolly), which users interact with as they ask questions or request tasks to be handled on their behalf. Users can also customize the avatar as they choose, changing it to something that looks more like a person, animal, or some other character. The company believes that anthropomorphizing Muse in this way could make consumers feel more connected to their AI agent — a connection that could grow even stronger as they begin to engage in live conversations with it. As the Muse avatar speaks, Meta says it will use “subtle expressions and gestures” that match the tone of the conversation. (Muse doesn’t actually “see” the user, but it hears them and reacts based on their conversations.) The news of the rollout was announced via blog post and on X by Meta’s chief AI officer, Alexandr Wang, who shared a demo of his Muse in action. The video saw Wang joking around, referencing his love of posting memes on X, which he told his Muse may have gotten him in trouble with his boss. His Muse, a fluffy white dog, responds with a suggestion to add disclaimers to those memes that could be misinterpreted as Meta endorsing anything risqué. (Ha!) The added support for video chats and calls comes just before Meta’s plan to launch a Tamagotchi-like wearable device for its Muse AI agent before year-end. When the device arrives, the digital avatar will appear on its small screen, letting users talk to the agent, which can then reply or carry out tasks for them. Meta says the real-ti",
+    "article_link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "scraped_at": "2026-11-06T06:11:45.548143"
+  },
+  {
     "headline": "Meta warns that election backlash against data centers could make AI expansion harder",
     "author": "Sarah Perez",
     "date_time": "2026-11-05T11:12:39-08:00",
     "summary": "N/A",
-    "content": "Meta President Dina Powell McCormick said that the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers, adding that the industry has “not done as good a job as we needed to explain the benefits of these investments.” Speaking at the WSJ Tech conference on Wednesday, the Meta exec pointed out that the backlash against data centers — which was very much on the ballot during this election season — was also tied to people’s feelings about AI technology overall. “The visible sort of manifestation of AI is a data center, and it’s something that people can say, ‘I don’t want this in my community,’” she explained. “I think there’s an underlying bigger issue, which is how people feel about AI in general.” Meta believes it could turn around the negative consumer sentiment around AI if it’s able to demonstrate the value, not only of the data centers coming to local communities, but in the technology itself. “The stakes of who builds the technology that cures cancer, that gives access to education, that is also a very fundamental difference…Mark [Zuckerberg, Meta CEO] is very ‘long human,’ and he’s betting on humans more than machines,” Powell McCormick explained. “And that’s what we mean when we say the future is for everyone. That people should not be left behind. But the way to ensure that is that this technology is democratized, that people have access to it in a very fair and transparent way,” she said. The exec also touted Meta’s experience in building data centers, saying that the company has been doing so for 20 years, as it takes a lot of compute power to offer the products it does in the social networking space. Today, the company has data centers in 23 states, she said, and five of them, including one in Texas, are planned as projects of one gigawatt or more. But Meta is now worried that it could lose some of its investments after politicians ran on anti-data-center platforms during the midterms. “I think it’",
+    "content": "Meta president Dina Powell McCormick said that the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers, adding that the industry has “not done as good a job as we needed to explain the benefits of these investments.” Speaking at the WSJ Tech conference on Wednesday, the Meta exec pointed out that the backlash against data centers — which was very much on the ballot during this election season — was also tied to people’s feelings about AI technology overall. “The visible sort of manifestation of AI is a data center, and it’s something that people can say, ‘I don’t want this in my community,’” she explained. “I think there’s an underlying bigger issue, which is how people feel about AI in general.” Meta believes it could turn around the negative consumer sentiment around AI if it’s able to demonstrate the value, not only of the data centers coming to local communities, but also in the technology itself. “The stakes of who builds the technology that cures cancer, that gives access to education, that is also a very fundamental difference … Mark [Zuckerberg, Meta CEO] is very ‘long human,’ and he’s betting on humans more than machines,” Powell McCormick explained. “And that’s what we mean when we say the future is for everyone. That people should not be left behind. But the way to ensure that is that this technology is democratized, that people have access to it in a very fair and transparent way,” she said. The exec also touted Meta’s experience in building data centers, saying that the company has been doing so for 20 years, as it takes a lot of compute power to offer the products it does in the social networking space. Today, the company has data centers in 23 states, she said, and five of them, including one in Texas, are planned as projects of 1 gigawatt or more. But Meta is now worried that it could lose some of its investments after politicians ran on anti-data-center platforms during the midterms. “I thin",
     "article_link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "scraped_at": "2026-11-05T19:48:30.867859"
+    "scraped_at": "2026-11-06T06:11:47.166093"
   },
   {
     "headline": "OpenAI released a new cybersecurity model. Is that enough?",
     "author": "Tim Fernholz",
     "date_time": "2026-11-05T11:06:12-08:00",
     "summary": "N/A",
-    "content": "Max Justicz, the chief technology officer and co-founder of the startup Charge Robotics, used an OpenAI model to find a severe vulnerability that — if exploited — could allow hackers to take control of servers running Ubuntu, a widely used open source Linux-based operating system. Justicz, who has a hobbyist’s interest in cybersecurity and previously found a vulnerability in the same codebase, told TechCrunch that he found this issue using GPT 5.6 Sol, released in July, through the AI maker’s Daybreak Blue, a program that gives cybersecurity defenders access to powerful frontier models. “I literally just aimed ChatGPT at the same body of code and said ‘I found this bug previously that was fixed several years ago, please find bugs as bad or worse,’ and it came back in two hours with this,” Justicz said. “It’s extremely convoluted and hard for a human to find, but it works!” He reported the issue to the Debian Project, which maintains the software in question and issued a patch to fix the vulnerability. There has been no known evidence of exploitation. Still, the ease with which he found it suggests that we’ve only seen the tip of the iceberg when it comes to potential exploits that even novice hackers can utilize with the help of AI models. “I can only imagine what one could do with more time and access to less neutered models. We should expect some extremely crazy bugs to be found and exploited over the next few months,” Justicz wrote in a social media thread discussing his finding. “This might be obvious to most folks here, but there is currently huge alpha in taking some code or binary someone has not audited yet and just aiming a powerful AI model at it.” OpenAI appears to have noticed. Today, the AI giant announced a new model focused on cybersecurity, ChatGPT Cyber, would be made available to the highest tier of users in the cybersecurity program, Daybreak Red, which allows offensive cybersecurity researchers tools for vulnerability hunting and development. Yes",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "scraped_at": "2026-11-05T19:48:32.414838"
+    "scraped_at": "2026-11-06T06:11:47.167036"
   },
   {
     "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
     "author": "Sarah Perez",
     "date_time": "2026-11-05T10:02:27-08:00",
     "summary": "N/A",
-    "content": "OpenAI co-founder and president Greg Brockman said the company would be ready for an IPO in 2027, noting that its enterprise revenue has been growing. Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads. In response to the interviewer’s question about being IPO-ready next year, Brockman replied, “I think so. Yes.” “We’ve been very clear this year that we want to go public when we feel is the right time for us, and I feel extremely good about the business. I feel like we’ve made so much progress this year, and I’ve honestly never felt more confident in what we’re doing,” Brockman said. He detailed how OpenAI’s trajectory as an enterprise had changed over the course of 2026, noting that the first and second quarters were “pretty rough.” He also admitted that OpenAI “wasn’t even in the conversation” when it came to agentic coding — an area where Anthropic’s Claude Code has gained market share. “We had Codex, but no one was talking about it,” Brockman continued, “and I think that we just kept our heads down and executed.” By the third quarter, activity picked up, as OpenAI saw 70% quarterly growth in its annualized revenue — something Brockman attributed to the enterprise side of the business doubling. He explained that the growth wasn’t simply the result of something that happened in the quarter itself, but rather the culmination of investments the company had been making up to that point. Now the majority of OpenAI’s revenue is coming from the enterprise business, which previously accounted for only around 30% of its total revenue. “And it’s not that consumer [revenue has shrunk] … It’s been growing, but it’s the enterprise segment has really taken off,” he said, pointing to a recent partnership with JPMorgan Chase as one example of the type of client it’s now winning deals with. Brockman also spoke more broadly",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "scraped_at": "2026-11-05T19:48:34.276073"
+    "scraped_at": "2026-11-06T06:11:47.167628"
   },
   {
     "headline": "Claude can now analyze your spending with its new Personal Finance tool",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "scraped_at": "2026-11-05T19:48:34.277961"
+    "scraped_at": "2026-11-06T06:11:47.168208"
   },
   {
     "headline": "Axiom Math wants to keep AI slop out of mathematics",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "scraped_at": "2026-11-05T19:48:34.279230"
+    "scraped_at": "2026-11-06T06:11:47.168795"
   },
   {
     "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "scraped_at": "2026-11-05T19:48:34.280427"
+    "scraped_at": "2026-11-06T06:11:47.169377"
   },
   {
     "headline": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "scraped_at": "2026-11-05T19:48:34.281658"
+    "scraped_at": "2026-11-06T06:11:47.169958"
   },
   {
     "headline": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "scraped_at": "2026-11-05T19:48:34.282863"
-  },
-  {
-    "headline": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-05T05:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "scraped_at": "2026-11-05T19:48:34.284061"
-  },
-  {
-    "headline": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-05T04:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "scraped_at": "2026-11-05T19:48:34.285287"
+    "scraped_at": "2026-11-06T06:11:47.170541"
   }
 ]
