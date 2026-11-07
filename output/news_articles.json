@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google. Google, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management. Crusoe initially announced the project last year with Blackstone-backed infrastructure company Tallgrass, planning to eventually scale it to 10 gigawatts of power capacity. Google did not disclose how much it paid Crusoe for the unfinished project, but it announced plans to invest $17 billion to develop the data center campus. The deal highlights how difficult it can be for independent data center developers to deliver massive projects on time and within budget, given the challenges of securing equipment and power. Growing opposition from local communities can further complicate development. Despite taking over the Wyoming facility, Google hasn’t walked away from working with Crusoe entirely. Crusoe is developing another data center for Google near Amarillo, Texas. The deal to sell the site to Google was first reported by Bloomberg in June, but the Wyoming setback didn’t stop Crusoe from raising a $3.9 billion round in September. Crusoe makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference. Crusoe’s largest projects serve some of the biggest names in AI. Its campus in Abilene, Texas, is being built in phases for Oracle and OpenAI, and the company is also constructing a separate 900-megawatt campus next door for Microsoft, with its first building expected to come online in mid-2027. Meta is also a customer, and Bloomberg reported that the trading firm Jane Street signed a $13 billion, five-year cloud deal with Crusoe. Crusoe was founded by Ch",
     "article_link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "scraped_at": "2026-11-07T05:40:09.336343"
+    "scraped_at": "2026-11-07T12:49:24.105878"
   },
   {
     "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "OpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion. Bloomberg reported on the new funding on Friday, citing sources familiar with the matter. The $11 billion is part of a larger funding round that hasn’t closed yet, according to the outlet. The round is expected to close in the coming weeks and could total about $20 billion, a source told Bloomberg. In late September, Bloomberg reported that OpenAI was looking to raise $30 billion in the upcoming round. The current figures fall well short of that target. TechCrunch has reached out to OpenAI for comment and will update this story if it responds. The news comes only hours after Bloomberg also reported that potential buyers of shares in the IPO of OpenAI’s chief competitor, Anthropic, are eyeing a substantially lower valuation than Anthropic had targeted. Bloomberg writes that some potential buyers believe Anthropic’s valuation could be as low as $1.1 trillion, compared with the $2 trillion that investors were said to be expecting roughly a month ago. OpenAI previously intimated that it would go public this year but subsequently delayed its plans. There are expectations that the company will IPO next year at some point. The market for AI hangs in a particularly precarious place. The Democratic landslide in the U.S. midterms — and overwhelmingly negative voter sentiment around data centers — has caused jitters throughout the market, with many anticipating potential regulatory challenges in the future.",
     "article_link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "scraped_at": "2026-11-07T05:40:10.594268"
+    "scraped_at": "2026-11-07T12:49:25.882826"
   },
   {
     "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "Security researchers have discovered hundreds of copies of a Chinese-made AI hacking tool publicly exposed to the internet for anyone to access, potentially allowing outsiders to launch cyberattacks against unsuspecting targets. The hacking software, called Artex, is an open source autonomous penetration testing tool, meaning software that automatically probes computer systems for weaknesses, and it’s been linked to several cyberattacks since its public release in July. As open source software, it’s free for anyone to download and run on their own servers, making it a popular tool for those who cannot access Anthropic or OpenAI’s most advanced cybersecurity AI models for discovering security vulnerabilities. Microsoft has previously described Artex as a system of AI agents that can conduct cyberattacks “from reconnaissance through data exfiltration with little needed human interaction.” In a blog post, cybersecurity firm Censys, which scans the internet for exposed or vulnerable systems, said that it identified more than 800 distinct deployments of Artex that were accessible from the web without needing a password to log in. Silas Cutler, principal security researcher at Censys who wrote the blog post, said that not every instance of Artex is operated maliciously and many are used for authorized testers. But it’s unclear why hundreds of these Artex systems are exposed to the web, as the software does not require them to be accessible from the internet. The findings underscore how even powerful hacking tools can be misconfigured to be publicly accessible by anyone, increasing the chance that someone will find and misuse them. The publicly accessible systems also expose attack tools, such as implants (hidden malicious software) used to compromise and maintain persistent access to a victim’s network. Security companies have linked the use of Artex to several broad-scale cyberattacks, including against the Korean finance industry in September. Cybersecurity giant CrowdS",
     "article_link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "scraped_at": "2026-11-07T05:40:12.198402"
+    "scraped_at": "2026-11-07T12:49:27.071261"
   },
   {
     "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "scraped_at": "2026-11-07T05:40:12.200073"
+    "scraped_at": "2026-11-07T12:49:27.072829"
   },
   {
     "headline": "How a Blue Wave midterm might reshape the AI industry",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "scraped_at": "2026-11-07T05:40:12.201938"
+    "scraped_at": "2026-11-07T12:49:27.074811"
   },
   {
     "headline": "After the midterms, is the AI industry in for a rough two years?",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "scraped_at": "2026-11-07T05:40:12.203469"
+    "scraped_at": "2026-11-07T12:49:27.076423"
   },
   {
     "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "scraped_at": "2026-11-07T05:40:12.204706"
+    "scraped_at": "2026-11-07T12:49:27.077668"
   },
   {
     "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "scraped_at": "2026-11-07T05:40:12.205915"
+    "scraped_at": "2026-11-07T12:49:27.078883"
   },
   {
     "headline": "Underdog shows off a 32MB speech model in new demo",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "scraped_at": "2026-11-07T05:40:12.207095"
+    "scraped_at": "2026-11-07T12:49:27.080099"
   },
   {
     "headline": "Physicl raises $10M to make the digital world real enough for robots",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "scraped_at": "2026-11-07T05:40:12.208293"
+    "scraped_at": "2026-11-07T12:49:27.081339"
   }
 ]
