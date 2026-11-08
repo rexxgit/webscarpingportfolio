@@ -1,12 +1,21 @@
 [
   {
+    "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "author": "Anthony Ha",
+    "date_time": "2026-11-07T14:07:22-08:00",
+    "summary": "N/A",
+    "content": "Democrats’ historic victory in this week’s midterm elections could also have a dramatic effect on the tech industry. In dozens of local ballot measures, voters rejected data centers. And even when they weren’t voting on the issue directly, they were electing politicians — like Texas’ new governor-elect Gina Hinojosa — who campaigned on the promise of restricting data centers. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed what the midterms mean for the tech industry. Sean kicked it off by noting that Elon Musk “seems to have basically nothing out of donating half a billion dollars” to Republicans, while his companies are now headquartered “in a state that has, remarkably, turned about as blue as it could possibly turn.” And Kirsten said that while data centers probably weren’t the main cause of the “blue wave,” they’ve become an “an increasingly grassroots issue, in part because of how hyperscalers and companies have gone about” getting their projects approved. And now, “we’re already seeing companies like OpenAI all of a sudden go, ‘Actually, we can change our policies.’” Keep reading for a preview of our conversation, edited for length and clarity. Sean O’Kane: First off, let’s talk about the fact that one of the biggest data center builders was also the largest donor to the Republican Party. Elon Musk seems to have gotten basically nothing out of donating half a billion dollars — maybe even more, by the time we see the final count — and in fact is now sitting there with all of his businesses in a state that has, remarkably, turned about as blue as it could possibly turn for the first time in a very long time, if ever. That, I think, is the biggest thing hanging above a lot of this discussion. But, there were also a bunch of ballot measures up around the country that would have paved the way for data centers to get built faster. Almost all of them got shot down, or voted against. [Actually, many of the ballot me",
+    "article_link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "scraped_at": "2026-11-08T05:42:40.326266"
+  },
+  {
     "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
     "author": "Anthony Ha",
     "date_time": "2026-11-07T13:17:08-08:00",
     "summary": "N/A",
     "content": "A memo circulated earlier this year claimed that technology executive Alice Huang was recruited by China’s Ministry of State Security to spy on Nvidia CEO Jensen Huang, according to multiple media reports. The New York Times, which had previously said Nvidia’s chief executive had been the target of Chinese intelligence, was the first to report on the memo, which was reportedly based on U.S. intelligence. The Financial Times subsequently reported that the memo also claimed Jensen Huang had a romantic relationship with Alice Huang, an executive at a Singapore-based company called Megaspeed. An Nvidia spokesperson told the NYT that Jensen Huang’s interactions with Alice Huang were “not unusual,” and that the company does not share classified information with its customers. A separate NYT report examined New Matrix, a Chinese company authorized by the U.S. Commerce Department to buy advanced Nvidia chips. But at the office address listed by New Matrix, reporters only found “a hollow gray shell,” raising concerns that it could be a front for a blacklisted private equity firm. The Nvidia spokesperson said the company sells “the first, best and most of our technology in America.”",
     "article_link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "scraped_at": "2026-11-07T21:41:30.030910"
+    "scraped_at": "2026-11-08T05:42:42.380238"
   },
   {
     "headline": "Crusoe sells troubled Wyoming data center project to Google",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google. Google, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management. Crusoe initially announced the project last year with Blackstone-backed infrastructure company Tallgrass, planning to eventually scale it to 10 gigawatts of power capacity. Google did not disclose how much it paid Crusoe for the unfinished project, but it announced plans to invest $17 billion to develop the data center campus. The deal highlights how difficult it can be for independent data center developers to deliver massive projects on time and within budget, given the challenges of securing equipment and power. Growing opposition from local communities can further complicate development. Despite taking over the Wyoming facility, Google hasn’t walked away from working with Crusoe entirely. Crusoe is developing another data center for Google near Amarillo, Texas. The deal to sell the site to Google was first reported by Bloomberg in June, but the Wyoming setback didn’t stop Crusoe from raising a $3.9 billion round in September. Crusoe makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference. Crusoe’s largest projects serve some of the biggest names in AI. Its campus in Abilene, Texas, is being built in phases for Oracle and OpenAI, and the company is also constructing a separate 900-megawatt campus next door for Microsoft, with its first building expected to come online in mid-2027. Meta is also a customer, and Bloomberg reported that the trading firm Jane Street signed a $13 billion, five-year cloud deal with Crusoe. Crusoe was founded by Ch",
     "article_link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "scraped_at": "2026-11-07T21:41:31.460259"
+    "scraped_at": "2026-11-08T05:42:43.586973"
   },
   {
     "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "author": "Lucas Ropek",
     "date_time": "2026-11-06T14:53:46-08:00",
     "summary": "N/A",
-    "content": "OpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion. Bloomberg reported on the new funding on Friday, citing sources familiar with the matter. The $11 billion is part of a larger funding round that hasn’t closed yet, according to the outlet. The round is expected to close in the coming weeks and could total about $20 billion, a source told Bloomberg. In late September, Bloomberg reported that OpenAI was looking to raise $30 billion in the upcoming round. The current figures fall well short of that target. TechCrunch has reached out to OpenAI for comment and will update this story if it responds. The news comes only hours after Bloomberg also reported that potential buyers of shares in the IPO of OpenAI’s chief competitor, Anthropic, are eyeing a substantially lower valuation than Anthropic had targeted. Bloomberg writes that some potential buyers believe Anthropic’s valuation could be as low as $1.1 trillion, compared with the $2 trillion that investors were said to be expecting roughly a month ago. OpenAI previously intimated that it would go public this year but subsequently delayed its plans. There are expectations that the company will IPO next year at some point. The market for AI hangs in a particularly precarious place. The Democratic landslide in the U.S. midterms — and overwhelmingly negative voter sentiment around data centers — has caused jitters throughout the market, with many anticipating potential regulatory challenges in the future.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "scraped_at": "2026-11-07T21:41:33.535218"
+    "scraped_at": "2026-11-08T05:42:43.588206"
   },
   {
     "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "scraped_at": "2026-11-07T21:41:33.536187"
+    "scraped_at": "2026-11-08T05:42:43.589088"
   },
   {
     "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "scraped_at": "2026-11-07T21:41:33.536799"
+    "scraped_at": "2026-11-08T05:42:43.589951"
   },
   {
     "headline": "How a Blue Wave midterm might reshape the AI industry",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "scraped_at": "2026-11-07T21:41:33.537782"
+    "scraped_at": "2026-11-08T05:42:43.591376"
   },
   {
     "headline": "After the midterms, is the AI industry in for a rough two years?",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "scraped_at": "2026-11-07T21:41:33.538574"
+    "scraped_at": "2026-11-08T05:42:43.592498"
   },
   {
     "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "scraped_at": "2026-11-07T21:41:33.539173"
+    "scraped_at": "2026-11-08T05:42:43.593358"
   },
   {
     "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "scraped_at": "2026-11-07T21:41:33.539766"
-  },
-  {
-    "headline": "Underdog shows off a 32MB speech model in new demo",
-    "author": "Ivan Mehta",
-    "date_time": "2026-11-06T05:02:16-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "scraped_at": "2026-11-07T21:41:33.540397"
+    "scraped_at": "2026-11-08T05:42:43.594195"
   }
 ]
