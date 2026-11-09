@@ -1,0 +1,202 @@
+[
+  {
+    "address": "537 Cedar Avenue, Westbrook, MN 56183",
+    "price_aud": "AUD $228,826",
+    "price_usd": "AUD $228,826",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.153950"
+  },
+  {
+    "address": "4925 E Pike Lake Rd, Duluth, MN 55811",
+    "price_aud": "AUD $1,346,294",
+    "price_usd": "AUD $1,346,294",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-11-09T21:43:32.154106"
+  },
+  {
+    "address": "23030 Henna Avenue N, Forest Lake, MN 55025",
+    "price_aud": "AUD $556,343",
+    "price_usd": "AUD $556,343",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.154235"
+  },
+  {
+    "address": "2936 Hwy 40, Appleton, MN 56208",
+    "price_aud": "AUD $652,134",
+    "price_usd": "AUD $652,134",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.154363"
+  },
+  {
+    "address": "1283 Pine Street, Dawson, MN 56232",
+    "price_aud": "AUD $563,733",
+    "price_usd": "AUD $563,733",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-11-09T21:43:32.154494"
+  },
+  {
+    "address": "2121 13th Avenue S, Minneapolis, MN 55404",
+    "price_aud": "AUD $918,784",
+    "price_usd": "AUD $918,784",
+    "bedrooms": "12",
+    "bathrooms": "6",
+    "timestamp": "2026-11-09T21:43:32.154622"
+  },
+  {
+    "address": "3522 Chambersburg Ave, Duluth, MN 55811",
+    "price_aud": "AUD $347,805",
+    "price_usd": "AUD $347,805",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-11-09T21:43:32.154749"
+  },
+  {
+    "address": "704 9th Street SE, Austin, MN 55912",
+    "price_aud": "AUD $188,249",
+    "price_usd": "AUD $188,249",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-11-09T21:43:32.154881"
+  },
+  {
+    "address": "2219 29th Avenue N, Minneapolis, MN 55411",
+    "price_aud": "AUD $340,414",
+    "price_usd": "AUD $340,414",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.155019"
+  },
+  {
+    "address": "60 Magnus Johnson Street N, Kimball, MN 55353",
+    "price_aud": "AUD $304,329",
+    "price_usd": "AUD $304,329",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "timestamp": "2026-11-09T21:43:32.155146"
+  },
+  {
+    "address": "1267 Scheffer Avenue, Saint Paul, MN 55116",
+    "price_aud": "AUD $398,526",
+    "price_usd": "AUD $398,526",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.155272"
+  },
+  {
+    "address": "2116 2nd Avenue N, Minneapolis, MN 55405",
+    "price_aud": "AUD $359,978",
+    "price_usd": "AUD $359,978",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-09T21:43:32.155397"
+  },
+  {
+    "address": "17760 Winfield Court, Prior Lake, MN 55372",
+    "price_aud": "AUD $1,443,244",
+    "price_usd": "AUD $1,443,244",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "timestamp": "2026-11-09T21:43:32.155522"
+  },
+  {
+    "address": "212 E Chestnut Street, Redwood Falls, MN 56283",
+    "price_aud": "AUD $72,314",
+    "price_usd": "AUD $72,314",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.155651"
+  },
+  {
+    "address": "642 11th Avenue N, South Saint Paul, MN 55075",
+    "price_aud": "AUD $463,595",
+    "price_usd": "AUD $463,595",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.155776"
+  },
+  {
+    "address": "437 Wheeler Street N, Saint Paul, MN 55104",
+    "price_aud": "AUD $507,215",
+    "price_usd": "AUD $507,215",
+    "bedrooms": "7",
+    "bathrooms": "4",
+    "timestamp": "2026-11-09T21:43:32.155901"
+  },
+  {
+    "address": "363 Thompson Avenue E, West Saint Paul, MN 55118",
+    "price_aud": "AUD $579,674",
+    "price_usd": "AUD $579,674",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.156038"
+  },
+  {
+    "address": "3020 Edgerton Street, Little Canada, MN 55117",
+    "price_aud": "AUD $383,889",
+    "price_usd": "AUD $383,889",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.156165"
+  },
+  {
+    "address": "4925 Washington Street NE, Columbia Heights, MN 55421",
+    "price_aud": "AUD $405,772",
+    "price_usd": "AUD $405,772",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-11-09T21:43:32.156294"
+  },
+  {
+    "address": "2741 River Hills Drive S, Burnsville, MN 55337",
+    "price_aud": "AUD $340,559",
+    "price_usd": "AUD $340,559",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.156420"
+  },
+  {
+    "address": "25833 Freeport Avenue, Wyoming, MN 55092",
+    "price_aud": "AUD $615,904",
+    "price_usd": "AUD $615,904",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.156553"
+  },
+  {
+    "address": "1032 Grandview Ave, Duluth, MN 55812",
+    "price_aud": "AUD $486,926",
+    "price_usd": "AUD $486,926",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.156682"
+  },
+  {
+    "address": "3401 94th Avenue N, Brooklyn Park, MN 55443",
+    "price_aud": "AUD $608,658",
+    "price_usd": "AUD $608,658",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-09T21:43:32.156810"
+  },
+  {
+    "address": "7347 Mackenzie Avenue NE, Otsego, MN 55330",
+    "price_aud": "AUD $563,733",
+    "price_usd": "AUD $563,733",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-09T21:43:32.156935"
+  },
+  {
+    "address": "22261 160th Street NE, Thief River Falls, MN 56701",
+    "price_aud": "AUD $326,067",
+    "price_usd": "AUD $326,067",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-11-09T21:43:32.157093"
+  }
+]
