@@ -1,92 +1,92 @@
 [
   {
+    "headline": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-10T06:05:10-08:00",
+    "summary": "N/A",
+    "content": "Adobe is pouring more AI into its products, including Photoshop, Premiere, Illustrator, and InDesign, in a major product feature announcement at its MAX event in Miami. The company is also expanding AI capabilities in its creative tool, Firefly, and releasing a Model Context Protocol (MCP) that lets other chatbots like ChatGPT, Claude, or Gemini use Adobe features. Adobe’s Firefly app is moving into Figma’s territory with a new prototyping tool in private beta called Builder, which lets users create designs to show off ideas. There is also a new tool to create on-brand graphs, along with an image editing tool that lets you change part of an image without changing other objects. A new AI-powered video tool in Firefly will allow users to assemble a video from clips and other elements like images and sound effects. The company is making its agent proactive and always on so that it can get more context about work and be present for any action. Adobe is also making it easier for people to take quick action, like removing the background or generating a thumbnail for a video. The company has already added a ton of AI features across its apps like Photoshop, Express, Premiere, and Illustrator. At the MAX event, Adobe is continuing the trend. Photoshop is getting a new relighting feature and sliders for prompt-based generative styles; Premiere will have a new color grading system for professionals and an object removal feature for video; and Lightroom has a way to correct blinking eyes and a blemish removal tool. Adobe already offers a lot of third-party models from companies like Google, Runway, ElevenLabs, Black Forest Labs, OpenAI, Kling, and ByteDance. One of its newer acquisitions, Topaz Labs, is releasing two image models, called Wonder 4 for upscaling and denoising, and ImageHDR, to turn standard images into HDR. The company already has ChatGPT and Claude integrations to let users access some of its product functions. Now, Adobe is releasing a local MCP to expose more",
+    "article_link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "scraped_at": "2026-11-10T14:42:56.408778"
+  },
+  {
+    "headline": "N/A",
+    "author": "Rebecca Bellan\nRam Iyer",
+    "date_time": "2026-11-10T06:01:39-08:00",
+    "summary": "N/A",
+    "content": "Anthropic intends to push ahead with its IPO despite shakier markets and the broader pullback from AI investing. The Claude-maker said in an updated IPO filing on Tuesday that it would be offering a total of 825 million Class A shares at an estimated price range of $70 to $78 per share. The sale is expected to raise anywhere from $57.75 billion to $64.35 billion. The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis. That would represent a significant jump up from the $965 billion valuation Anthropic reached in a May fundraise, but it’s still lower than the $2 trillion the company was reportedly targeting a couple months ago. Separately, Anthropic said it had struck a deal to privately sell $26 billion of non-voting Class N stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC. Google and Nvidia are investing $10 billion apiece. All up, Anthropic estimates net proceeds to reach somewhere between $84.6 billion and $93.7 billion (the latter if the IPO underwriters exercise their option to buy additional shares). Underwriters, including Goldman Sachs and Morgan Stanley, will have the option to buy up to 123.75 million more shares from Anthropic at the IPO price. As a public benefit corporation, the founders hold a Class F share with 50.1% of the voting power. The Long-Term Benefit Trust will also elect a board majority, so Class A buyers will have limited influence. Anthropic intends to start trading on the Nasdaq close to November 19, per reporting from CNBC, under the ticker symbol “ANT”. The company expects up to 20% of its IPO shares to be allocated to retail investors. Anthropic also gave out a few new details in the updated filing. The company said its run-rate revenue reached $81 billion by the end of October, about $10 billion more than at the end of September. The company’s third-quarter revenue came in at $17 billion, and nine-month revenue was $33.",
+    "article_link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "scraped_at": "2026-11-10T14:42:57.996192"
+  },
+  {
+    "headline": "Media & Entertainment",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-10T06:00:00-08:00",
+    "summary": "N/A",
+    "content": "Spotify’s AI DJ, one of the company’s earlier efforts in embracing AI technology to connect people with their favorite music, is getting an upgrade. On Tuesday, the streamer announced that users will now be able to customize their DJ more like they can an AI assistant, by choosing between different voices and personalities. Those who like the feature, but not all the chatter, can also now opt for an experience with less commentary in between sets. Since first launching the AI DJ in 2023, Spotify has leveraged AI across to improve all areas of its app. Most recently, that has included updates that allow users to chat with a conversational AI agent about music, fine-tune their recommendations with prompts, create playlists with AI, and work with third-party agents like ChatGPT and Claude. However, the DJ remains one of Spotify’s most popular AI features, as it’s used by over 94M Spotify Premium listeners. Now, it’s revisiting one of its first major AI features, taking a cue from the personalization options other AI assistants routinely offer. With the update, Spotify Premium subscribers will be able to choose from an expanded set of AI DJ voices in both English and Spanish. The voices include seven English options with British, American, Irish, Australian, and Indian accents, and two new Spanish options. The different voices will have their own unique personalities as well. For instance, users can pick between three American voices, one of which is laid-back and warm (Casey), another that’s direct and has an edge (Tess), and a third that has a Southern accent and a youthful energy (Lane). In addition to the other various regional accents, there are also two new Spanish voices, one that’s more down-to-earth (Nico) and one that’s more witty and friendly (Fabi). The voices will not replace the AI DJ’s original voice, “X,” which was based on that of a Spotify employee’s real voice recordings. However, DJ Fabi and Nico will now be the only Spanish voices available, replaci",
+    "article_link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "scraped_at": "2026-11-10T14:42:59.240898"
+  },
+  {
+    "headline": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "author": "Jagmeet Singh",
+    "date_time": "2026-11-10T06:00:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "scraped_at": "2026-11-10T14:42:59.242064"
+  },
+  {
+    "headline": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-10T05:00:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "scraped_at": "2026-11-10T14:42:59.242925"
+  },
+  {
+    "headline": "Otter AI can now follow conversations across 30+ languages",
+    "author": "Lauren Forristal",
+    "date_time": "2026-11-09T23:00:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "scraped_at": "2026-11-10T14:42:59.243744"
+  },
+  {
+    "headline": "Anthropic reportedly plans to move forward with IPO plans",
+    "author": "Marina Temkin",
+    "date_time": "2026-11-09T17:27:12-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "scraped_at": "2026-11-10T14:42:59.244643"
+  },
+  {
     "headline": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
     "author": "Marina Temkin",
     "date_time": "2026-11-09T15:28:37-08:00",
     "summary": "N/A",
-    "content": "Nvidia CEO Jensen Huang hired Heller Inc., a crisis communications firm known for handling sex scandals, at least a year before he publicly acknowledged an extramarital affair with a woman suspected of spying for China, Wired reported. Heller Inc. founder Risa Heller has advised prominent men through personal scandals and sexual misconduct accusations, according to a 2023 New York Magazine profile. Her reported clients include former congressman Anthony Weiner, celebrity chef Mario Batali, and former New Yorker writer Jeffrey Toobin. Wired also reported that Nvidia’s internal communications team was told to copy Heller Inc. on press inquiries about Huang shortly after an October 2025 New York Times report about whether Nvidia was helping Chinese companies evade U.S. chip export restrictions. The Times reported that Megaspeed, a then little-known Singapore-based data center company with ties to China, had acquired nearly $2 billion worth of Nvidia chips. It described Megaspeed CEO Alice Huang, the woman later linked to Jensen Huang, standing next to him at a Taipei gathering of Nvidia customers. Heller and Nvidia didn’t immediately respond to requests for comment. On Sunday, Nvidia published a statement from Huang acknowledging an affair with a former Megaspeed executive, though he didn’t name Alice Huang. Nvidia’s board separately announced an independent investigation, citing reports that Huang “has been the target of a foreign intelligence effort.”",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "scraped_at": "2026-11-10T01:24:42.784996"
+    "scraped_at": "2026-11-10T14:42:59.245523"
   },
   {
     "headline": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
     "author": "Sarah Perez",
     "date_time": "2026-11-09T14:46:09-08:00",
     "summary": "N/A",
-    "content": "Six months before the Nvidia spy scandal emerged, the New York-based short seller firm Culper Research had already raised questions about Nvidia CEO Jensen Huang’s unusually close relationship with Alice Huang, an executive at Megaspeed, a Singapore-based company that buys Nvidia chips. She is now suspected to be a Chinese spy. The Nvidia CEO admitted to an extramarital affair over the weekend, and the company has now opened a formal investigation into his relationship with Alice Huang (who shares his last name but is not related). U.S. intelligence officials believe she was recruited by the Chinese government to collect intelligence on Jensen Huang and influence his position regarding U.S. export controls on advanced AI chips. Culper’s May 13 report is resurfacing because it picked up on the connection between Jensen Huang and Alice Huang while investigating Megaspeed’s ties to Nvidia. NEW: We are short Nvidia $NVDA. We believe Nvidia has a significant China problem. Please see our full report and disclosures now available on our website, link in bio. pic.twitter.com/oTaJyL7S2R In particular, the report called the relationship between the two executives “uncomfortably close,” noting that the Nvidia CEO was spotted partying and socializing with Alice Huang on multiple occasions. The report even claimed that some Nvidia employees wondered whether they had a “special relationship.” Culper Research also theorized the China business that Nvidia lost to export controls had been rerouted through Southeast Asia, and that Megaspeed, a major chip buyer in the region, was secretly financed by Chinese tech giant Alibaba through shell companies. It pointed to financial records that showed Megaspeed’s total liabilities and equity had grown from $33 million at the end of 2023 to around $3 billion by the end of 2024, much of it in the form of refundable deposits from an unidentified source. Financial Times reported Monday that documents show Alibaba lent money to Megaspeed through",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "scraped_at": "2026-11-10T01:24:44.334938"
+    "scraped_at": "2026-11-10T14:42:59.246353"
   },
   {
     "headline": "The race is on to sue Nvidia",
     "author": "Connie Loizos",
     "date_time": "2026-11-09T14:23:42-08:00",
     "summary": "N/A",
-    "content": "Nvidia’s stock slid more than 4% on Monday, the first trading day after its board said it would investigate CEO Jensen Huang over his relationship with Alice Huang, an executive U.S. intelligence believes was spying for China. Securities lawyers were already moving. Several firms, including Schall, Brown & Schwartz, Levi & Korsinsky, Bronstein, Gewirtz & Grossman, and The Law Offices of Frank R. Cruz, announced investigations Monday into whether Nvidia made false or misleading statements or failed to disclose information that’s pertinent to investors. Robert Bartlett, a Stanford Law professor and securities law expert, expects them to have plenty of company. “I would definitely wager that there’ll be a filing,” Bartlett said in an interview Monday morning, adding that he wouldn’t be surprised if a case had been filed by the end of day. Plaintiffs’ lawyers have good reasons to be first in line; under federal securities law, the first complaint triggers a public notice, and investors then have 60 days to ask the court to be named lead plaintiff. A firm that files early gets a head start on signing up investors with large losses, as well as on shaping the story of the case. Nvidia is headquartered in Santa Clara, and indeed, that’s where one of the first cases surfaced Monday afternoon. Rosen Law Firm, a New York-based plaintiffs’ firm that specializes in securities class actions, filed the case Monday in federal court in the Northern District of California. (The firm was lead counsel in a $250 million settlement with Alibaba and ranks among the most active filers of such cases.) The suit was brought on behalf of Mark Kistenmacher, who’s described as an individual investor. According to the complaint, Kistenmacher made seven purchases totaling roughly $20,500 between February and November of this year. The proposed class covers anyone who bought Nvidia securities between Oct. 9, 2025, and Nov. 8, 2026, and the suit names both Nvidia and Huang. The complaint accuses the",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "scraped_at": "2026-11-10T01:24:46.129346"
-  },
-  {
-    "headline": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "author": "Ivan Mehta",
-    "date_time": "2026-11-09T12:09:06-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "scraped_at": "2026-11-10T01:24:46.130402"
-  },
-  {
-    "headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "author": "Russell Brandom",
-    "date_time": "2026-11-09T11:24:51-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "scraped_at": "2026-11-10T01:24:46.131079"
-  },
-  {
-    "headline": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-09T10:09:52-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "scraped_at": "2026-11-10T01:24:46.131754"
-  },
-  {
-    "headline": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "author": "Russell Brandom",
-    "date_time": "2026-11-09T10:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "scraped_at": "2026-11-10T01:24:46.132496"
-  },
-  {
-    "headline": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "author": "Tim De Chant",
-    "date_time": "2026-11-09T08:56:54-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "scraped_at": "2026-11-10T01:24:46.133357"
-  },
-  {
-    "headline": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-09T08:12:28-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "scraped_at": "2026-11-10T01:24:46.134156"
-  },
-  {
-    "headline": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "author": "Ivan Mehta",
-    "date_time": "2026-11-09T06:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "scraped_at": "2026-11-10T01:24:46.134873"
+    "scraped_at": "2026-11-10T14:42:59.247174"
   }
 ]
