@@ -1,92 +1,92 @@
 [
   {
+    "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "author": "Julie Bort",
+    "date_time": "2026-11-12T14:42:51-08:00",
+    "summary": "N/A",
+    "content": "Democrats on Thursday opened an inquiry into how the Trump administration handled Nvidia’s chip sales to China. Earlier on Thursday, the company ousted its CEO Jensen Huang. He also agreed to testify to a different set of Republican-led Congressional committees. Huang was removed from the company he founded after he confessed to an extramarital affair amid reports of a relationship with a woman accused of being a Chinese spy. (He has since been accused of having more affairs, with Nvidia employees.) The alleged Chinese spy, Alice Huang, was an executive of Nvidia customer Megaspeed, a Singapore-based company that U.S. officials suspect of helping route advanced Nvidia chips into China. The Democratic inquiry comes from Rep. Richard Neal (D-Mass.), the top Democrat on the House Ways and Means Committee, and Sen. Ron Wyden (D-Ore.), the top Democrat on the Senate Finance Committee. As the minority party, they can ask questions but can’t compel answers. Their humdinger of a letter to Commerce Secretary Howard Lutnick asks the department to preserve records about an arrangement they find questionable and, they allege, illegal. “The scheme worked like this,” as the letter describes it. President Trump agreed to sales of Nvidia’s H200 chips to China as long as the chips, manufactured by Taiwan, were first shipped to the United States. On arriving, Trump added a tariff “effectively taking a cut of Nvidia’s sales to China through what appears to be an unconstitutional export tax system,” the letter said. Then the Commerce Department, under Lutnick, issued an export license. By the way, the deal between Trump and Nvidia to share revenue was public. In August 2025, Nvidia and AMD both agreed to share 15% of their revenue from chip sales to China with the U.S. government as part of a deal to secure export licenses, the AP reported at the time. But the letter questions why Lutnick continued to allow Megaspeed to buy chips even after he was reportedly informed by US intelligence",
+    "article_link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "scraped_at": "2026-11-12T23:27:22.382838"
+  },
+  {
+    "headline": "Muse can now place calls to U.S. businesses — if you pay",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-12T14:22:28-08:00",
+    "summary": "N/A",
+    "content": "After initially testing the feature in September, Meta’s consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users. However, only paid subscribers have access to the feature, the company says. Meta’s Muse, which now has over 10 million users, the company said last month, has been working to make consumer AI a mainstream product for everyday users. Placing calls is one of the ways it aims to get there, as it could handle another task on people’s to-do lists. Notes Alexandr Wang, Meta’s Chief AI officer and head of its Superintelligence Labs division, the feature could be used to take care of calls people don’t want to make, like those to their cable company, the DMV, or to a restaurant that doesn’t offer online reservations. 🚨MUSE FEATURE ALERT!!!🚨lots of you have been asking for this one…muse can make phone calls for you! ☎️📞📲let muse take care of all those calls you don’t want to make. insurance? cable? DMV? dinner res? not your problem anymore.out now to paid subs in the US 🇺🇸 pic.twitter.com/dsyMNmI2Ub Previously, only a select number of Muse early adopters were able to try this feature after asking the AI for access. Now, anyone who pays for Muse can make this type of request. Currently, Muse subscription plans start at $20 per month for 500 million Muse tokens per week. Heavier AI users can opt to pay $100 per month for 3 billion tokens. Muse is not the only AI agent able to place calls to businesses; the startup Instinct has been offering a similar option, as has Google’s Gemini. However, while the AI tools are now certainly capable of handling the task, the reception on the other end of the line can be mixed. Many businesses and receptionists hang up on calls from AI agents as soon as they identify that it’s not a human on the phone. But with AI now better able to mimic a real human voice, being able to tell the difference between a customer and an AI working on the customer’s behalf will get tougher. Despite the challenges, ",
+    "article_link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "scraped_at": "2026-11-12T23:27:23.989629"
+  },
+  {
     "headline": "The unfolding Jensen Huang scandal: a timeline",
     "author": "Amanda Silberling",
-    "date_time": "2026-11-12T06:30:01-08:00",
+    "date_time": "2026-11-12T13:35:00-08:00",
     "summary": "N/A",
-    "content": "Nvidia co-founder and (now former) CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security. U.S. officials believe that Huang’s likely romantic interest, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, The New York Times has reported. The story took a sudden new turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of health care, who reports directly to him. Nvidia, Huang and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up. Separately, the Wall Street Journal reported that Nvidia’s board is preparing to oust Huang, and Nvidia’s shares fell in after-hours trading. The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are essential for accelerating AI development. But as an American company, Nvidia faces government restrictions on the sale of its most power",
+    "content": "Nvidia co-founder and now former CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security. U.S. officials believe that one of Huang’s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, The New York Times has reported. The story took a sudden new turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of healthcare, who reports directly to him. Nvidia, Huang, and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up. By early Thursday morning, Huang was no longer CEO of the company he co-founded 33 years ago. Then, Thursday afternoon, Reuters dropped another bombshell, publishing a report alleging that Huang had yet another extramarital affair with another unnamed Nvidia employee. The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are esse",
     "article_link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "scraped_at": "2026-11-12T14:59:10.544185"
+    "scraped_at": "2026-11-12T23:27:25.333994"
   },
   {
-    "headline": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "author": "Kate Park",
-    "date_time": "2026-11-12T05:26:25-08:00",
-    "summary": "N/A",
-    "content": "TechCrunch’s yearly Startup Battlefield 200 competition sees hundreds of companies from across the world trying every year to get a chance to pitch in front of VCs and the international tech community at the Disrupt conference. This week, nine early-stage South Korean startups pitched at DETO 2026, a technology conference in Seoul, to earn a spot in next year’s Startup Battlefield 200. The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine startups are looking to enter the U.S. market as part of the broader international expansion plans. Voinosis, which develops AI to detect changes in brain health through voice analysis, won the competition. The other eight startups are listed below in alphabetical order. Voinosis is developing an AI tool that analyzes speech patterns such as pitch, pauses, rhythm and response times to detect changes linked to brain health. Each voice check takes less than five minutes. The company says its technology has been tested in Greek, Japanese and English, and its product doesn’t require separate training for each language. In a clinical study involving 146 participants, the startup claims its tech achieved 88% accuracy in screening for potential cognitive issues. Voinosis targets hospitals, senior living facilities, insurers and individual consumers. It also plans to link voice checks with cognitive training, assessments, and treatment provided by healthcare professionals. The startup was founded by Grace Shin, who spent more than 25 years as an otologic surgeon. The startup is currently raising a Series A round and has already secured a South Korean pharmaceutical company as a strategic investor. Awesome Lab, based in Seoul, makes ThermoFlux, a heating system that uses water electrolysis and ionization to generate heat. The system can manage heat production for buildings, water supply, and industrial processes. The company says its technology can reduce energy consumption an",
-    "article_link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "scraped_at": "2026-11-12T14:59:11.660645"
-  },
-  {
-    "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "author": "Connie Loizos",
-    "date_time": "2026-11-11T19:13:10-08:00",
-    "summary": "N/A",
-    "content": "It’s almost inconceivable that Nvidia would fire its rock star CEO. Yet here we are, on the precipice of this happening. Over at Kalshi, Jensen Huang’s odds of surviving the week are sitting at a lowly 30%. Even though he built one of the world’s most valuable — and, many would argue, dangerously powerful — companies, the tides have completely turned against him. He has confessed to an extramarital affair, but as of Wednesday afternoon it isn’t even clear whom he meant: Alice Huang, the Chinese executive suspected by U.S. intelligence of spying for her country, or Kimberly Powell, an Nvidia executive who reports to him and who, five sources told The New York Times in an explosive new report, was also a paramour. Even if Huang is pushed out as CEO, the board members he has made very rich are unlikely to cut him loose entirely. Barring another shoe dropping, they could keep him on as chairman, a role Nvidia doesn’t currently have. But someone still has to run the company, and there’s no apparent succession plan, which leaves us, like everyone else, to speculate while we wait to see what happens next. While Huang’s 60 direct reports undoubtedly get a closer look, consider this our own parlor game, featuring some obvious and less obvious candidates: Lisa Su. The AMD CEO runs Nvidia’s most credible rival, as well as a distant cousin of Huang. The Information floated her name this week, but why would she leave her job for his? Her company stands to benefit from every day that Nvidia spends distracted by an investigation, congressional briefings, and all the mini dramas that are sure to follow. Her best move might be to send a nice note and keep her current corner office. Eric Schmidt. He was the pick of Jeffrey Sonnenfeld, senior associate dean for leadership studies at the Yale School of Management, who we talked with earlier this week. Schmidt could “parachute in tomorrow and do a very good job,” Sonnenfeld said, and perhaps he could. He ran Google from 2001 to 2011, ch",
-    "article_link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "scraped_at": "2026-11-12T14:59:13.534620"
-  },
-  {
-    "headline": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-11T15:28:45-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "scraped_at": "2026-11-12T14:59:13.535887"
-  },
-  {
-    "headline": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-11T15:17:05-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "scraped_at": "2026-11-12T14:59:13.536825"
-  },
-  {
-    "headline": "Why the data center you dread might never even be built",
-    "author": "Theresa Loconsolo\nRebecca Bellan\nTim De Chant",
-    "date_time": "2026-11-11T12:15:15-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "scraped_at": "2026-11-12T14:59:13.538102"
-  },
-  {
-    "headline": "Meta is losing its longtime head of  infrastructure",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-11T12:12:01-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "scraped_at": "2026-11-12T14:59:13.539010"
-  },
-  {
-    "headline": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "author": "Theresa Loconsolo\nRebecca Bellan\nTim De Chant",
-    "date_time": "2026-11-11T12:02:14-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "scraped_at": "2026-11-12T14:59:13.540299"
-  },
-  {
-    "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "headline": "Nebius tests the neocloud playbook with $40 billion in planned spending",
     "author": "Rebecca Bellan",
-    "date_time": "2026-11-11T11:54:00-08:00",
+    "date_time": "2026-11-12T13:27:10-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "scraped_at": "2026-11-12T14:59:13.541154"
+    "article_link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "scraped_at": "2026-11-12T23:27:25.334924"
   },
   {
-    "headline": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "author": "Anna Heim",
-    "date_time": "2026-11-11T11:34:55-08:00",
+    "headline": "Jensen Huang was having a third affair, Reuters reports",
+    "author": "Russell Brandom",
+    "date_time": "2026-11-12T12:26:47-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "scraped_at": "2026-11-12T14:59:13.542004"
+    "article_link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "scraped_at": "2026-11-12T23:27:25.335580"
+  },
+  {
+    "headline": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-12T11:27:45-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "scraped_at": "2026-11-12T23:27:25.336203"
+  },
+  {
+    "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "author": "Lauren Forristal",
+    "date_time": "2026-11-12T11:11:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "scraped_at": "2026-11-12T23:27:25.336825"
+  },
+  {
+    "headline": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-12T10:39:23-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "scraped_at": "2026-11-12T23:27:25.337439"
+  },
+  {
+    "headline": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-12T09:36:40-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "scraped_at": "2026-11-12T23:27:25.338052"
+  },
+  {
+    "headline": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "author": "Zack Whittaker",
+    "date_time": "2026-11-12T09:17:58-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "scraped_at": "2026-11-12T23:27:25.338695"
   }
 ]
