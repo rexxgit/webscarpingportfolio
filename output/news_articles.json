@@ -1,92 +1,92 @@
 [
   {
-    "headline": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-    "author": "Connie Loizos",
-    "date_time": "2026-11-10T23:30:51-08:00",
-    "summary": "N/A",
-    "content": "Nvidia’s stock sank 5.47% on Tuesday, following a 4% drop on Monday, a loss of about 9.5% in two days, even though there wasn’t much news out of the company. CEO Jensen Huang has reportedly been trying to conduct business as usual after admitting to an extramarital affair with Alice Huang, whom U.S. intelligence agencies believe was spying for China. The biggest development: the board hired the law firm Wachtell, Lipton, Rosen & Katz to conduct an internal investigation. What comes next is mostly a guessing game, even for the people who study how boards are supposed to handle crises. Two corporate governance professors, Ann Lipton of the University of Colorado and Todd Henderson of the University of Chicago, say there is no real precedent for a CEO caught up in a suspected honeypot. And while they have views on what the investigation should ask, like everyone else, they’re watching to see how it plays out. “There have actually been affair cases and sexual harassment cases,” Lipton said, but was quick to add that she doesn’t know of previous cases that also involve potential national security compromises. Henderson, whose research interests include corporations, securities regulation, and law and economics, said much depends on facts few people have yet, including, most importantly, what, if anything, Alice Huang got out of Jensen Huang. (Secrets about Nvidia’s fabs or chip designs would matter to the Justice Department. Ordinary corporate information probably would not.) Lipton described the investigation led by Nvidia’s independent board members, with their own outside counsel, as perhaps the most “standard” aspect of the whole affair so far. She also observed that an investigation will be “exactly as thorough” as the directors running it want it to be, which is also standard. Henderson made a related point about incentives, saying that Washington law firms that conduct internal investigations “know who pays their bills.” He didn’t suggest that’s happening here. Li",
-    "article_link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-    "scraped_at": "2026-11-11T13:58:05.373001"
-  },
-  {
-    "headline": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "author": "Julie Bort",
-    "date_time": "2026-11-10T13:08:52-08:00",
-    "summary": "N/A",
-    "content": "OpenAI has acquired an AI travel agent called Odessia, according to Odessia’s founder, Francis Davidson. Davidson says in a post announcing the deal that he’s now working for OpenAI, helping the AI lab with the future of travel. Terms of the deal were not disclosed, but this looks like an acqui-hire. Davidson’s announcement focused largely on how he built his AI travel agent Odessia by directing teams of AI agents. The year-old Odessia raised a $6 million pre-seed round led by Sequoia and launched its AI travel agent around five months ago. Davidson says that it had helped early adopters plan millions of dollars’ worth of travel, but the tool has already been shut down. An OpenAI spokesperson confirmed the hire to TechCrunch. “We’re thrilled to welcome Francis to OpenAI. Francis is a proven founder who has built multiple businesses to help people travel, and we’re excited he’s chosen to build with us.” However the AI lab has not announced new travel-specific products or plans. It does, however, count such companies as Bookings.com, Expedia, and KAYAK as customers or partners. Travel is also one of the main areas that people are using personal AI assistants to help with. And, back in July 2025, when OpenAI launched its ChatGPT agent, it mentioned travel as one of its potential uses. OpenAI’s spokesperson didn’t have more to share on its plans for travel-related products, except to say that travel is one of the areas that chatbot users frequently ask about. “1.2 billion people turn to ChatGPT each week for help with everyday tasks — from understanding their health, figuring out what to make for dinner, building a budget, and even planning a trip. We see a real opportunity to make these experiences even more useful,” the spokesperson said. Acquiring Odessia is interesting for another reason. Davidson is well known in the travel industry after he founded a travel startup called Sonder as a college student in 2014. It was sort of like Airbnb, but it focused on short-term",
-    "article_link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "scraped_at": "2026-11-11T13:58:06.984179"
-  },
-  {
-    "headline": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-10T12:52:13-08:00",
-    "summary": "N/A",
-    "content": "New York is gearing up to enforce one of the country’s most significant AI safety laws. The state opened a registration portal Tuesday, with which large frontier AI developers like Anthropic and OpenAI will be required to register by January 1, 2027. The RAISE Act, New York’s safety and transparency bill, kicks in at the start of the year. It mandates that large frontier developers — companies with more than $500 million in annual revenue — have to publish safety frameworks on their websites, report critical safety incidents within 72 hours, and issue public model transparency reports. The newly formed Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will implement the RAISE Act and oversee large frontier AI labs. Penalties can be as high as $1 million for one violation and $3 million for subsequent violations. The state also can bring enforcement actions against companies that fail to register with the new portal, though a spokesperson declined to provide specifics. “Tech moguls tell us that their vision for AI is inevitable,” Governor Kathy Hochul said Tuesday during a press briefing. “They tell us get on board or get left behind… That any collateral damage is worth it as long as we win the race to the AI cliff.” On Tuesday, Hochul also launched the New York Center for AI Responsibility and Research based at State University of New York’s Binghamton University. The center will independently evaluate the safety, security, and operation of advanced AI systems and work with DIGIT to review companies’ safety frameworks. Hochul first announced the center in January with $55 million in donations and capital. “We’re building a national model for smart, sensible AI regulation, a model that puts communities above corporations and people above powerful technology,” Hochul said. The RAISE Act isn’t the only safety law New York has passed. Last year, the state began enforcing a law that requires AI companion operators to regularly let users know they’re ",
-    "article_link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "scraped_at": "2026-11-11T13:58:08.956203"
-  },
-  {
-    "headline": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "author": "Julie Bort",
-    "date_time": "2026-11-10T11:57:52-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "scraped_at": "2026-11-11T13:58:08.957883"
-  },
-  {
-    "headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-10T11:23:34-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-    "scraped_at": "2026-11-11T13:58:08.959270"
-  },
-  {
-    "headline": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-10T11:03:52-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-    "scraped_at": "2026-11-11T13:58:08.960693"
-  },
-  {
-    "headline": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-10T10:49:52-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-    "scraped_at": "2026-11-11T13:58:08.961991"
-  },
-  {
-    "headline": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-10T09:30:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "scraped_at": "2026-11-11T13:58:08.963084"
-  },
-  {
-    "headline": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "headline": "The unfolding Jensen Huang scandal: a timeline",
     "author": "Amanda Silberling",
-    "date_time": "2026-11-10T09:04:19-08:00",
+    "date_time": "2026-11-11T15:50:00-08:00",
     "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "scraped_at": "2026-11-11T13:58:08.964183"
+    "content": "Nvidia co-founder CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he cheated on his wife of 40 years in an affair that could have ramifications beyond Huang’s personal life and potentially impact national security. United States officials believe that Huang’s likely romantic interest, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed, a Singapore-based AI infrastructure company, had reportedly purchased $4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, the Times has reported. The story took a sudden new turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of health care, who reports directly to him. Nvidia, Huang and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up. Separately, the Wall Street Journal reported that Nvidia’s board is preparing to oust Huang, and Nvidia’s shares fell in after-hours trading. The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are essential for accelerating AI development. But as an American company, Nvidia faces government restrictions on the sale of its most powerful",
+    "article_link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "scraped_at": "2026-11-12T00:26:52.655642"
   },
   {
-    "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "author": "Ram Iyer",
-    "date_time": "2026-11-10T07:54:08-08:00",
+    "headline": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-11T15:28:45-08:00",
+    "summary": "N/A",
+    "content": "Nvidia is reportedly planning to oust its co-founder and CEO Jensen Huang, who has led the company for the last 33 years, the Wall Street Journal reports. Sources told the newspaper that the Nvidia board is meeting as soon as Wednesday to determine Huang’s future at the company. On Sunday, Huang admitted to having an extramarital affair with a woman purported by U.S. intelligence to be a Chinese spy. On Wednesday evening, the New York Times reported that Huang also had an affair with an executive who reports to him. Nvidia has become one of the most valuable companies in the world as it designs the chips that power the AI boom, but in the midst of Huang’s ongoing scandal, Nvidia stock fell about 8% in after hours trading on Wednesday. The stock is down about 11% in the past five days. Huang famously delegates very little and has about 60 direct reports, he has said. The company also has not had an obvious successor or a succession plan.",
+    "article_link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "scraped_at": "2026-11-12T00:26:54.510254"
+  },
+  {
+    "headline": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "author": "Lucas Ropek",
+    "date_time": "2026-11-11T15:17:05-08:00",
+    "summary": "N/A",
+    "content": "Nvidia CEO Jensen Huang is already under investigation after having admitted to having an affair with a woman accused of being a Chinese spy. Now the New York Times is reporting that Huang is also suspected of having another extramarital affair, with a direct report of his at the company — Kimberly Powell, Nvidia’s vice president of healthcare. Powell, like Huang, is married, the outlet says. The Times says it was told of the alleged affair by five employees at the company. The sources said that Huang and Powell were captured on video “being affectionate at a San Jose, Calif., hotel” during a conference earlier this year. Like many companies, Nvidia has rules discouraging superiors from having relationships with employees in subordinate roles, the Times notes. TechCrunch reached out to Nvidia for comment. The company’s board has initiated an investigation into Huang’s publicly admitted affair. Additionally, two House Republicans said Wednesday that Congress is gearing up to subpoena Huang over the spy allegations if he doesn’t voluntarily respond to their summons to a closed-door briefing. Late Wednesday, after the reports of the second affair were published, the Wall Street Journal reported that the Nvidia board was preparing to oust Huang, who co-founded the company in 1993.",
+    "article_link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "scraped_at": "2026-11-12T00:26:56.327040"
+  },
+  {
+    "headline": "Why the data center you dread might never even be built",
+    "author": "Theresa Loconsolo\nRebecca Bellan\nTim De Chant",
+    "date_time": "2026-11-11T12:15:15-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-    "scraped_at": "2026-11-11T13:58:08.965295"
+    "article_link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "scraped_at": "2026-11-12T00:26:56.328584"
+  },
+  {
+    "headline": "Meta is losing its longtime head of  infrastructure",
+    "author": "Lucas Ropek",
+    "date_time": "2026-11-11T12:12:01-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+    "scraped_at": "2026-11-12T00:26:56.329507"
+  },
+  {
+    "headline": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "author": "Theresa Loconsolo\nRebecca Bellan\nTim De Chant",
+    "date_time": "2026-11-11T12:02:14-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+    "scraped_at": "2026-11-12T00:26:56.330762"
+  },
+  {
+    "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-11T11:54:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "scraped_at": "2026-11-12T00:26:56.331621"
+  },
+  {
+    "headline": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "author": "Anna Heim",
+    "date_time": "2026-11-11T11:34:55-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "scraped_at": "2026-11-12T00:26:56.332467"
+  },
+  {
+    "headline": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-11T11:22:22-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "scraped_at": "2026-11-12T00:26:56.333357"
+  },
+  {
+    "headline": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "author": "Russell Brandom",
+    "date_time": "2026-11-11T08:16:07-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "scraped_at": "2026-11-12T00:26:56.334180"
   }
 ]
