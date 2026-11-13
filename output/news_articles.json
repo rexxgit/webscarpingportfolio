@@ -1,30 +1,75 @@
 [
   {
+    "headline": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "author": "Tim Fernholz",
+    "date_time": "2026-11-13T10:40:30-08:00",
+    "summary": "N/A",
+    "content": "The leading open-weight models developed by Chinese companies were trained on Nvidia chips that the U.S. government restricted from shipping to its largest geopolitical rival, a new research effort claims. The apparently widespread access to Blackwell GPUs among Chinese frontier labs shows the magnitude of the problem facing the leading chip designer. Nvidia CEO Jensen Huang left the company this week after admitting to his affair with Alice Huang, executive of Megaspeed, a company implicated in smuggling Nvidia chips into China. Alice Huang has also been alleged to be an agent of China’s intelligence service. While Jensen Huang’s relationships with a customer and two employees have drawn the most public interest, Nvidia’s potential corporate liability for export control violations likely factored into its decision to part ways with Huang. U.S. export controls are intended to protect the country’s leadership in AI capabilities against China, but Huang has long sought to open up that market. Blackwell GPUs are banned from export to China or Chinese-owned firms, while the Trump administration allows Nvidia to export the H200, a less powerful chip, provided shipments take a circuitous shipping route that allows the U.S. to claim a 25% tariff. Will DePue, a former OpenAI researcher who leads the nonprofit research group Unemployment Labs, analyzed the weights — the unique structure — of large language models released openly by DeepSeek, Moonshot AI, MiniMax, and Ant Group. The weights still reflect the configurations of the chips used to train them, and DePue was able to find compelling evidence that the most closely watched models, including Moonshot’s Kimi’s K3 releases and DeepSeek’s V4 models, bear fingerprints from training on Blackwell chips. White House technology adviser Michael Kratsios said earlier this year that Moonshot had used export-banned Nvidia chips, citing U.S. intelligence sources. Epoch AI, a nonprofit research organization, estimates that about two",
+    "article_link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "scraped_at": "2026-11-13T19:29:52.509606"
+  },
+  {
+    "headline": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-13T08:00:12-08:00",
+    "summary": "N/A",
+    "content": "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express. OpenAI says that users are fully in control of the purchases, as they’re able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction. The addition comes as consumer-facing AI tools are working to find the right product-market fit, in terms of how they can help people be more efficient as they complete various tasks. While companies like DoorDash and Uber have so far reported low numbers of orders placed by AI agents, Meta’s Muse, which now has over 10 million users, has seen AI-assisted shopping become a top activity on its app. Other personal AI agents, like Instinct, also support making purchases on users’ behalf. It’s no surprise, then, that OpenAI would want to enter this space more with an agentic shopping feature of its own. To get started, ChatGPT subscribers add their eligible payment cards to the new ChatGPT Wallet, then ask their dot to help with a purchase. (This setup is a one-time thing; users don’t have to re-enter their payment information every time they buy.) When it’s time to transact, ChatGPT’s Wallet charges the selected card using a payment token, which is a substitute for the user’s actual card details, so that information isn’t shared with either the dot or the merchant. The merchant will automatically receive what it needs to fulfill the order from the dot, like the shipping address and contact information, OpenAI says. The company notes that customers who shop via their dots",
+    "article_link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "scraped_at": "2026-11-13T19:29:53.764273"
+  },
+  {
+    "headline": "The unfolding Jensen Huang scandal: a timeline",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-13T07:58:00-08:00",
+    "summary": "N/A",
+    "content": "Nvidia co-founder and now former CEO Jensen Huang has never been as prone to controversy as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. But the 63-year-old industry kingpin recently admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security. U.S. officials believe that one of Huang’s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion worth of Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, The New York Times has reported. The story took a sudden turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of healthcare, who reports directly to him. Nvidia, Huang and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up. By early Thursday morning, Huang was no longer CEO of the company he co-founded 33 years ago. Then, Thursday afternoon, Reuters dropped another bombshell, publishing a report alleging that Huang had yet another extramarital affair with another unnamed Nvidia employee. The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are essent",
+    "article_link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "scraped_at": "2026-11-13T19:29:55.266799"
+  },
+  {
+    "headline": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-13T06:44:48-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "scraped_at": "2026-11-13T19:29:55.268413"
+  },
+  {
+    "headline": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "author": "Anna Heim",
+    "date_time": "2026-11-13T04:52:19-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "scraped_at": "2026-11-13T19:29:55.269625"
+  },
+  {
+    "headline": "Jensen Huang didn’t show confidence in his successor, report says",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-13T04:28:23-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "scraped_at": "2026-11-13T19:29:55.270920"
+  },
+  {
     "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
     "author": "Julie Bort",
     "date_time": "2026-11-12T14:42:51-08:00",
     "summary": "N/A",
-    "content": "Democrats on Thursday opened an inquiry into how the Trump administration handled Nvidia’s chip sales to China. Earlier on Thursday, the company ousted its CEO Jensen Huang. He also agreed to testify to a different set of Republican-led Congressional committees. Huang was removed from the company he founded after he confessed to an extramarital affair with a woman accused of being a Chinese spy. (He has since been accused of having more affairs, with Nvidia employees.) The alleged Chinese spy, Alice Huang, was an executive of Nvidia customer Megaspeed, a Singapore-based company that U.S. officials suspect of helping route advanced Nvidia chips into China. The Democratic inquiry comes from Rep. Richard Neal (D-Mass.), the top Democrat on the House Ways and Means Committee, and Sen. Ron Wyden (D-Ore.), the top Democrat on the Senate Finance Committee. As the minority party, they can ask questions but can’t compel answers. Their humdinger of a letter to Commerce Secretary Howard Lutnick asks the department to preserve records about an arrangement they find questionable and, they allege, illegal. “The scheme worked like this,” as the letter describes it. President Trump agreed to sales of Nvidia’s H200 chips to China as long as the chips, manufactured by Taiwan, were first shipped to the United States. On arriving, Trump added a tariff “effectively taking a cut of Nvidia’s sales to China through what appears to be an unconstitutional export tax system,” the letter said. Then the Commerce Department, under Lutnick, issued an export license. By the way, the deal between Trump and Nvidia to share revenue was public. In August 2025, Nvidia and AMD both agreed to share 15% of their revenue from chip sales to China with the U.S. government as part of a deal to secure export licenses, the AP reported at the time. But the letter questions why Lutnick continued to allow Megaspeed to buy chips even after he was reportedly informed by U.S. intelligence of their suspicions of Alice",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-    "scraped_at": "2026-11-13T06:14:45.376175"
+    "scraped_at": "2026-11-13T19:29:55.272137"
   },
   {
     "headline": "Muse can now place calls to US businesses — if you pay",
     "author": "Sarah Perez",
     "date_time": "2026-11-12T14:22:28-08:00",
     "summary": "N/A",
-    "content": "After initially testing the feature in September, Meta’s consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users. However, only paid subscribers have access to the feature, the company says. Meta’s Muse, which now has over 10 million users, the company said last month, has been working to make consumer AI a mainstream product for everyday users. Placing calls is one of the ways it aims to get there, as it could handle another task on people’s to-do lists. Notes Alexandr Wang, Meta’s chief AI officer and head of its Superintelligence Labs division, the feature could be used to take care of calls people don’t want to make, like those to their cable company, the DMV, or to a restaurant that doesn’t offer online reservations. 🚨MUSE FEATURE ALERT!!!🚨lots of you have been asking for this one…muse can make phone calls for you! ☎️📞📲let muse take care of all those calls you don’t want to make. insurance? cable? DMV? dinner res? not your problem anymore.out now to paid subs in the US 🇺🇸 pic.twitter.com/dsyMNmI2Ub Previously, only a select number of Muse early adopters were able to try this feature after asking the AI for access. Now, anyone who pays for Muse can make this type of request. Currently, Muse subscription plans start at $20 per month for 500 million Muse tokens per week. Heavier AI users can opt to pay $100 per month for 3 billion tokens. Muse is not the only AI agent able to place calls to businesses; the startup Instinct has been offering a similar option, as has Google’s Gemini. However, while the AI tools are now certainly capable of handling the task, the reception on the other end of the line can be mixed. Many businesses and receptionists hang up on calls from AI agents as soon as they identify that it’s not a human on the phone. But with AI now better able to mimic a real human voice, being able to tell the difference between a customer and an AI working on the customer’s behalf will get tougher. Despite the challenges, ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "scraped_at": "2026-11-13T06:14:46.962271"
-  },
-  {
-    "headline": "The unfolding Jensen Huang scandal: a timeline",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-12T13:35:00-08:00",
-    "summary": "N/A",
-    "content": "Nvidia co-founder and now former CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security. U.S. officials believe that one of Huang’s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, The New York Times has reported. The story took a sudden new turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of healthcare, who reports directly to him. Nvidia, Huang, and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up. By early Thursday morning, Huang was no longer CEO of the company he co-founded 33 years ago. Then, Thursday afternoon, Reuters dropped another bombshell, publishing a report alleging that Huang had yet another extramarital affair with another unnamed Nvidia employee. The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are esse",
-    "article_link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "scraped_at": "2026-11-13T06:14:49.009025"
+    "scraped_at": "2026-11-13T19:29:55.273356"
   },
   {
     "headline": "Nebius tests the neocloud playbook with $40 billion in planned spending",
@@ -33,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "scraped_at": "2026-11-13T06:14:49.010402"
+    "scraped_at": "2026-11-13T19:29:55.274557"
   },
   {
     "headline": "Jensen Huang was having a third affair, Reuters reports",
@@ -42,51 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "scraped_at": "2026-11-13T06:14:49.011498"
-  },
-  {
-    "headline": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-12T11:27:45-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-    "scraped_at": "2026-11-13T06:14:49.012557"
-  },
-  {
-    "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "author": "Lauren Forristal",
-    "date_time": "2026-11-12T11:11:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "scraped_at": "2026-11-13T06:14:49.013576"
-  },
-  {
-    "headline": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-12T10:39:23-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "scraped_at": "2026-11-13T06:14:49.014607"
-  },
-  {
-    "headline": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-12T09:36:40-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "scraped_at": "2026-11-13T06:14:49.015613"
-  },
-  {
-    "headline": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "author": "Zack Whittaker",
-    "date_time": "2026-11-12T09:17:58-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "scraped_at": "2026-11-13T06:14:49.016694"
+    "scraped_at": "2026-11-13T19:29:55.275867"
   }
 ]
