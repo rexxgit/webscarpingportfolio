@@ -1,12 +1,21 @@
 [
   {
+    "headline": "Where was Nvidia’s security team?",
+    "author": "Connie Loizos",
+    "date_time": "2026-11-14T16:08:07-08:00",
+    "summary": "N/A",
+    "content": "Outsiders had little reason to notice when Nvidia’s longtime chief security officer and head of product security stepped down in August. Just two and a half months later, CEO Jensen Huang himself left the company over growing questions about his extramarital relationships — starting with an executive at Megaspeed, a Singapore data center company that U.S. investigators suspect of funneling Nvidia chips to China, then widening to reports about two separate affairs with Nvidia employees. At the time, David Reber, who spent four years as CSO and seven at Nvidia overall, said he was leaving for health reasons. “This wasn’t a pivot I had planned. But I know what needs to come first: family and health,” he wrote on LinkedIn in late August, disclosing that he’d been diagnosed with young-onset Parkinson’s more than two years ago. Reber’s replacement, Saša Zdjelar, previously spent 17 years at ExxonMobil in Houston, leaving as a senior IT manager before spending one year at Salesforce and several years at the cybersecurity company ReversingLabs. Zdjelar didn’t respond to questions Thursday about the transition or what the security team knew. Nothing public connects Reber’s or Zdjelar’s role changes to the Megaspeed matter, but it seems fair to wonder what Nvidia’s security team knew about the government’s scrutiny of Megaspeed and about Huang’s relationships, and whether anyone raised concerns. Reber didn’t respond to questions Thursday. Nvidia also has not answered our related questions. Relationships between a CEO and his employees typically fall to HR, legal and the board, not security. But security specialists say any affair — even one inside the office — can give a foreign intelligence service leverage over an exec who wants it kept quiet. And Huang’s relationship with an executive at Megaspeed, a company under federal investigation, wasn’t an office matter at all. (Megaspeed has denied any wrongdoing.) Still, spotting the clues isn’t easy. The way intelligence services",
+    "article_link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "scraped_at": "2026-11-15T05:59:58.132712"
+  },
+  {
     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
     "author": "Anthony Ha",
     "date_time": "2026-11-14T13:41:22-08:00",
     "summary": "N/A",
-    "content": "A petition calling on Nvidia to reinstate the company’s recently ousted CEO Jensen Huang appears to have attracted more than 115,000 signatures as of Saturday afternoon. The petition website said the signers include 5,965 current Nvidia employees, 1,108 former employees, and 63,063 shareholders. Notable supporters include Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, and Epic Games CEO Tim Sweeney. The petition states that its signers are “concerned that Jensen was removed without meaningful due process” and demands that the board “bring him back while an independent investigation establishes the facts.” It also calls on the board to ensure a fair investigation and provide more information to the public. “Jensen deserves due process, not mob justice,” the petition says. Huang resigned on Thursday, several days after confessing to having an affair with a chip executive identified by U.S. intelligence as a suspected Chinese spy. News reports have also suggested that Huang engaged in multiple extramarital affairs. Nvidia appointed CFO Colette Kress as the company’s interim CEO while it searches for a permanent replacement. Nvidia’s stock fell 2% on Friday, while Huang’s departure is also expected to leave a big gap in AI industry funding.",
+    "content": "A petition calling on Nvidia to reinstate the company’s recently ousted CEO Jensen Huang appears to have attracted more than 115,000 signatures as of Saturday afternoon. The petition website said the signers include 5,965 current Nvidia employees, 1,108 former employees, and 63,063 shareholders. Notable supporters include Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan. The petition states that its signers are “concerned that Jensen was removed without meaningful due process” and demands that the board “bring him back while an independent investigation establishes the facts.” It also calls on the board to ensure a fair investigation and provide more information to the public. “Jensen deserves due process, not mob justice,” the petition says. Huang resigned on Thursday, four days after confessing to having an affair with a chip executive suspected by U.S. intelligence to be a Chinese spy. The former CEO has agreed to testify before Congress, while news reports have also suggested that Huang engaged in multiple extramarital affairs. Nvidia appointed CFO Colette Kress as the company’s interim CEO while it searches for a permanent replacement. Nvidia’s stock price fell sharply through the week, while Huang’s departure is also expected to leave a big gap in AI industry funding.",
     "article_link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "scraped_at": "2026-11-14T22:14:26.853294"
+    "scraped_at": "2026-11-15T05:59:59.204426"
   },
   {
     "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "Last month, chatbot platform Character.ai filed for bankruptcy just five years after launching. More recently, privacy-focused AI assistant Ollie announced its shutdown a few weeks ago. Aside from Character.ai and Ollie, plenty of AI bets never even survive inside the companies that build them. According to S&P Global Market Intelligence, about 42% of AI initiatives are ultimately abandoned by their corporate parents. The reasons vary: insufficient funding, technical challenges, competition, difficulty scaling, or just weak user demand. The result is a growing AI graveyard. Below is a look at some of the most notable AI products, startups, launches, and bets that have shut down, pivoted, or significantly missed expectations. Think of it less as a scorecard of flops than as a record of what these attempts can (hopefully) teach the rest of the industry. Even the biggest players aren’t immune. OpenAI, one of the most valuable private companies in the world, has had its own share of casualties and missteps. One of the more recent examples was its attempt to turn ChatGPT into a broader “super app.” On July 9, OpenAI updated the app to combine several experiences, including separate “Chat,” “Codex,” and “Work” modes, while renaming the traditional, familiar version “ChatGPT Classic.” The redesign quickly drew criticism from users who found the new interface confusing and cluttered, and OpenAI rolled back the change soon after, bringing the familiar ChatGPT interface back. That wasn’t OpenAI’s only attempt to pull everything under one roof. The company has also shut down several stand-alone apps and folded their features directly into ChatGPT — a strategy that’s worked out better than the redesign did. ChatGPT Atlas, a stand-alone AI-powered web browser, lasted less than a year before being discontinued on August 9, with its most useful features absorbed into ChatGPT. The company did the same thing with Operator, an AI agent that could browse the web and complete tasks on ",
     "article_link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "scraped_at": "2026-11-14T22:14:28.593082"
+    "scraped_at": "2026-11-15T06:00:01.055454"
   },
   {
     "headline": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
     "author": "Kate Park",
     "date_time": "2026-11-14T08:34:15-08:00",
     "summary": "N/A",
-    "content": "Jensen Huang’s departure from Nvidia has drawn a range of responses across Asia, with some governments moving to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations. On Sunday, November 8, Nvidia’s board launched an independent investigation after reports that Huang was targeted by a Chinese spy operation; Huang admitted to an affair with Alice Huang, a former executive at Singapore-based chip company Megaspeed. Nvidia’s influence extends far beyond the United States. The chip giant has built close ties with companies worldwide, particularly in Asia, where many of its key partners play important roles in the global AI industry. China’s foreign ministry rejected allegations on November 10 that a Chinese businesswoman linked to former Nvidia CEO Jensen Huang was a spy, calling them groundless and a smear against Beijing. On Friday, a spokesperson reiterated opposition to export controls that disrupt global supply chains and stated the ministry was not aware of reports linking restricted Nvidia chips to a Shanghai data center associated with Alice Huang. Huang’s exit has also raised uncertainty over more than $3 billion in Chinese AI computing projects reliant on Nvidia’s restricted processors, according to Reuters’ review of procurement notices, investment plans and corporate disclosures. Many of these chips are subject to U.S. export controls, making them difficult for Chinese companies to obtain. In Singapore, authorities seized the passport of Alice Huang, former CEO of Singapore-based cloud computing company Megaspeed, in June 2025 as part of an investigation into possible false declarations regarding server purchases, according to the Ministry of Home Affairs. The Singapore ministry said police took her passport to ensure she remained available for questioning, as she was not based in Singapore. The investigation examined whether servers shipped from Singapore to Malaysia were later sent t",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "scraped_at": "2026-11-14T22:14:30.326997"
+    "scraped_at": "2026-11-15T06:00:01.057147"
   },
   {
     "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "scraped_at": "2026-11-14T22:14:30.328276"
+    "scraped_at": "2026-11-15T06:00:01.058514"
   },
   {
     "headline": "AI agent startup LangChain hits $3B valuation",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "scraped_at": "2026-11-14T22:14:30.329098"
+    "scraped_at": "2026-11-15T06:00:01.059776"
   },
   {
     "headline": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "scraped_at": "2026-11-14T22:14:30.329862"
+    "scraped_at": "2026-11-15T06:00:01.060997"
   },
   {
     "headline": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "scraped_at": "2026-11-14T22:14:30.330619"
+    "scraped_at": "2026-11-15T06:00:01.062206"
   },
   {
     "headline": "The unfolding Jensen Huang scandal: a timeline",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "scraped_at": "2026-11-14T22:14:30.331381"
+    "scraped_at": "2026-11-15T06:00:01.063409"
   },
   {
     "headline": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "scraped_at": "2026-11-14T22:14:30.332176"
-  },
-  {
-    "headline": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "author": "Anna Heim",
-    "date_time": "2026-11-13T04:52:19-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "scraped_at": "2026-11-14T22:14:30.332938"
+    "scraped_at": "2026-11-15T06:00:01.064618"
   }
 ]
