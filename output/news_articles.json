@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Apple launches new app to study how people use AI for health",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-15T17:30:00-08:00",
+    "summary": "N/A",
+    "content": "Big AI labs like OpenAI and Anthropic have made their bets on offering chatbots that can answer health-related queries with specialized features. Apple is debuting a new study to understand how people use AI for health. But it isn’t quite following other AI startups just yet; it wants to study how clinically grounded answers can help people. The iPhone maker is partnering with healthcare-focused AI company OpenEvidence to launch a new study app. Apple is inviting users in the U.S. over 21, using iPhone 15 or later, and running iOS 26 or later, with Apple Intelligence enabled. The company is aiming to run this study with up to 200,000 participants for more than 12 months. The new app will allow users to ask health-related questions, as they do with ChatGPT or Claude, with answers grounded in clinical data, from sources including The New England Journal of Medicine, Journal of the American Medical Association, and Nature. Apple said that the app will try to give simplified answers to everyday medical questions. Users can rate those answers and provide feedback about the responses; they’ll also be asked to participate in monthly surveys. Participants can share data from HealthKit such as resting heart rate, activity, sleep, or lab results to get more personalized and pointed suggestions from the app. The company said the app can also help prepare participants better for a doctor’s visit, and it will guide users to specific providers for answers related to concerning medical issues. Apple specified that the data will be anonymized before sending it to a secure third-party cloud provider, and it won’t be used to train any kind of AI models. The company said that OpenEvidence deletes the query and response data after 24 hours. “At Apple, we believe responsible innovation starts with scientific rigor and clinical grounding. Health is deeply personal, and conducting a dedicated research study is the most thoughtful way to understand how people engage with, comprehend, and e",
+    "article_link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "scraped_at": "2026-11-16T05:59:38.635756"
+  },
+  {
+    "headline": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "author": "Jagmeet Singh",
+    "date_time": "2026-11-15T15:30:00-08:00",
+    "summary": "N/A",
+    "content": "Bharat Semi, an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors, as it seeks to win customers in the United States and elsewhere. The investment comes as the nearly five-year-old, pre-revenue startup says it has secured design wins with U.S. defense technology company General Atomics and India’s Kaynes Semicon. Its image sensors, however, remain under development, with the startup targeting its initial commercial production in 2027. India has committed billions of dollars to build up a domestic semiconductor industry, with a hope to become an alternative manufacturing hub as U.S. companies look to diversify supply chains beyond China. The country, however, has yet to establish itself as a major chip manufacturing hub. Meanwhile, the AI boom is also giving Indian startups such as Bharat Semi an opportunity to develop specialized chips for global markets. The New Delhi-based startup is developing programmable image sensors that combine image capture, processing, and AI capabilities on a single chip, reducing the need to send visual data to separate processors. The move could cut system costs by at least 70% compared with conventional setups that use a separate image sensor, image signal processor, and a system-on-chip, co-founder Vrinda Kapoor (pictured above, right) said in an interview. “Our aim here is to move from sensors to sense-making solutions,” Kapoor told TechCrunch. Kapoor, a South Park Commons fellow who earlier worked in healthcare technology, co-founded Bharat Semi in late 2021 with Vinayak Dalmia (pictured above, left), the startup’s managing director, who previously worked at McKinsey and in private equity. Its chief technology officer, Boyd Fowler, previously held the same role at image-sensor maker OmniVision. Bharat Semi is targeting smart homes, industrial automation, surveillance, and aerospace. Without disclosing specifics, Kapoor pointed to air conditioners that could detect when a room is",
+    "article_link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "scraped_at": "2026-11-16T05:59:40.349076"
+  },
+  {
     "headline": "Is bad news for Jensen Huang also bad news for the AI industry?",
     "author": "Anthony Ha",
     "date_time": "2026-11-15T13:56:35-08:00",
     "summary": "N/A",
     "content": "We didn’t see this coming. Or at least, I didn’t — a week ago, when I wrote about Nvidia’s board opening an investigation into then-CEO Jensen Huang, I assumed his job was safe. On the latest episode of TechCrunch’s Equity podcast, Rebecca Bellan, Tim De Chant, and I discussed how Huang’s ouster went down and what it means for the larger AI economy. While Tim said he saw it coming (albeit not this quickly), Rebecca said, “I didn’t think it was going to happen at all.” “Jensen is Nvidia, right?” she added. “And so much of this economy is riding on Nvidia.” Similarly, I marveled at how quickly Huang’s support seemed to crumble, with more scandals seeming to emerge every day. (At the same time, there are many who’d still like to see him return.) And we also took a moment to wonder what will happen to Nvidia’s investments in the larger AI ecosystem. Keep reading for a preview of our conversation, edited for length and clarity; you can listen to the whole episode here. Tim De Chant: I figured this was coming. I didn’t think it would happen this quickly. I thought there would be at least a few days. Rebecca Bellan: I didn’t think it was going to happen at all. I mean, Jensen is Nvidia, right? And so much of this economy is riding on Nvidia. And we’ve got nothing but the last few years of data to show us that billionaires can do whatever the hell they want. So it was surprising to me  — it almost restored my faith in humanity, that he resigned. But someone said to me, “If this were Elon, nothing would happen.” He would not be resigning. Nothing would be going down Anthony Ha: Which is interesting, because I would have said, as of a week ago, or even just a few days ago, that Jensen is in the same category as Elon. I mean, no one is quite as special as Elon is, but it’s a big, incredibly successful company. Like you said — in a lot of ways, the entire AI economy is built on top of Nvidia. And for most people, Jensen Huang is Nvidia. He’s the biggest shareholder. He has fami",
     "article_link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "scraped_at": "2026-11-15T22:42:06.224129"
+    "scraped_at": "2026-11-16T05:59:41.533546"
   },
   {
     "headline": "Media & Entertainment",
     "author": "Anthony Ha",
     "date_time": "2026-11-15T12:20:57-08:00",
     "summary": "N/A",
-    "content": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once. In a single sketch, we got James Austin Johnson as Peter Thiel, Ben Marshall as Sam Altman, Jane Wickline as Dario Amodei, Jeremy Culhane as Elon Musk, Andrew Dismukes as Mark Zuckerberg — and eventually, the recently departed Bowen Yang joined the fun as Jensen Huang. Huang’s ouster from Nvidia (after admitting to an affair with a suspected Chinese spy) could have serious implications for the tech industry; it also provided a hook for some obvious jokes about rich nerds being easy marks for women (or men) who are out of their league. In the sketch, a CIA agent played by host John Mulaney (hilarious as ever, if not entirely confident about how to pronounce “Palantir” or “Nvidia”) attempts to painstakingly explain why these execs should be suspicious when someone attractive suddenly seems interested in them romantically. For Altman and Thiel’s sake, he added, “I hope this is obvious: Even though you’re gay, you can still be tricked by a spy.” Johnson’s version of Thiel pushed back, insisting that tech tycoons deserve more respect, given all they’ve done for the country. “Name one time technology has let us down,” he said, giving Mulaney a chance to remind viewers about flights being halted all across the United States on Friday night. “Okay, name one more time,” the fictional Thiel said, leading to an obligatory mention of Microsoft Outlook going down on Thursday. When asked for a third example, Mulaney said, “No, I’m done naming times.” “Look, I get it,” he said. “I can’t imagine how disorienting this has been for you, to go from being bug-eyed weirdos to being gods. I mean, never in the history of our species have people as pale and as strange as you a) survived, and b) been given all the world’s wealth and power.”",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "scraped_at": "2026-11-15T22:42:07.748125"
+    "scraped_at": "2026-11-16T05:59:41.534699"
   },
   {
     "headline": "Where was Nvidia’s security team?",
     "author": "Connie Loizos",
     "date_time": "2026-11-14T16:08:07-08:00",
     "summary": "N/A",
-    "content": "Outsiders had little reason to notice when Nvidia’s longtime chief security officer and head of product security stepped down in August. Just two and a half months later, CEO Jensen Huang himself left the company over growing questions about his extramarital relationships — starting with an executive at Megaspeed, a Singapore data center company that U.S. investigators suspect of funneling Nvidia chips to China, then widening to reports about two separate affairs with Nvidia employees. At the time, David Reber, who spent four years as CSO and seven at Nvidia overall, said he was leaving for health reasons. “This wasn’t a pivot I had planned. But I know what needs to come first: family and health,” he wrote on LinkedIn in late August, disclosing that he’d been diagnosed with young-onset Parkinson’s more than two years ago. Reber’s replacement, Saša Zdjelar, previously spent 17 years at ExxonMobil in Houston, leaving as a senior IT manager before spending one year at Salesforce and several years at the cybersecurity company ReversingLabs. Zdjelar didn’t respond to questions Thursday about the transition or what the security team knew. Nothing public connects Reber’s or Zdjelar’s role changes to the Megaspeed matter, but it seems fair to wonder what Nvidia’s security team knew about the government’s scrutiny of Megaspeed and about Huang’s relationships, and whether anyone raised concerns. Reber didn’t respond to questions Thursday. Nvidia also has not answered our related questions. Relationships between a CEO and his employees typically fall to HR, legal and the board, not security. But security specialists say any affair — even one inside the office — can give a foreign intelligence service leverage over an exec who wants it kept quiet. Still, spotting the clues isn’t easy. The way intelligence services collect information, much of it through everyday conversation rather than hacking, makes it especially difficult for security teams to identify risks, according to re",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "scraped_at": "2026-11-15T22:42:09.419194"
+    "scraped_at": "2026-11-16T05:59:41.535559"
   },
   {
     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "scraped_at": "2026-11-15T22:42:09.420455"
+    "scraped_at": "2026-11-16T05:59:41.536467"
   },
   {
     "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "scraped_at": "2026-11-15T22:42:09.421340"
+    "scraped_at": "2026-11-16T05:59:41.537315"
   },
   {
     "headline": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "scraped_at": "2026-11-15T22:42:09.422203"
+    "scraped_at": "2026-11-16T05:59:41.538166"
   },
   {
     "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "scraped_at": "2026-11-15T22:42:09.423190"
+    "scraped_at": "2026-11-16T05:59:41.539151"
   },
   {
     "headline": "AI agent startup LangChain hits $3B valuation",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "scraped_at": "2026-11-15T22:42:09.424089"
-  },
-  {
-    "headline": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-13T10:40:30-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "scraped_at": "2026-11-15T22:42:09.424946"
-  },
-  {
-    "headline": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-13T08:00:12-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "scraped_at": "2026-11-15T22:42:09.425802"
+    "scraped_at": "2026-11-16T05:59:41.540085"
   }
 ]
