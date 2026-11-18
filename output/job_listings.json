@@ -1,202 +1,402 @@
 [
   {
-    "job_title": "Finance Associate",
+    "job_title": "Senior Director for Membership Engagement",
     "company": "New",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "4 hours ago",
+    "posted_time": "2 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747068"
+    "scraped_at": "2026-11-18T19:53:32.543762"
+  },
+  {
+    "job_title": "Special Assistant - Staff Assistant",
+    "company": "New",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "5 hours ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.543957"
   },
   {
     "job_title": "Fundraising Associate",
     "company": "New",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "a day ago",
+    "is_new": true,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.544128"
+  },
+  {
+    "job_title": "Deputy Director of Government Affairs",
+    "company": "Citizens for Safe AI",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Nov 16, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.544295"
+  },
+  {
+    "job_title": "Director of Government Affairs",
+    "company": "Citizens for Safe AI",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 16, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.544464"
+  },
+  {
+    "job_title": "Analyst, Government Relations (Research and Policy Analysis)",
+    "company": "FTP",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 16, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.544628"
+  },
+  {
+    "job_title": "National Finance Director",
+    "company": "Congressional Progressive Caucus PAC",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 16, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.544810"
+  },
+  {
+    "job_title": "MULTIPLE COMMS POSITIONS: Entry Level to Management",
+    "company": "Feldman Strategies LLC",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 14, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.544980"
+  },
+  {
+    "job_title": "Major Gifts Officer, National Fundraising & Capital Campaign",
+    "company": "Washington, DC, USA",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 13, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.545171"
+  },
+  {
+    "job_title": "Sr. Policy Analyst",
+    "company": "ZERO TO THREE",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Nov 13, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.545336"
+  },
+  {
+    "job_title": "Sr. Policy Analyst",
+    "company": "ZERO TO THREE",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Nov 13, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.545500"
+  },
+  {
+    "job_title": "Senior Director of Legal and Regulatory Affairs",
+    "company": "Consumer Data Industry Association",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 13, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.545663"
+  },
+  {
+    "job_title": "Senior Manager Federal Government Relations",
+    "company": "Consumer Data Industry Association",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 13, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.545860"
+  },
+  {
+    "job_title": "2026 US. Senators-Elect Resume Collection",
+    "company": "U.S. Senate",
+    "location": "Washington, DC, USA",
+    "salary": "Not Listed",
+    "posted_time": "Nov 17, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:32.546032"
+  },
+  {
+    "job_title": "Winter/Spring 2026 Press Intern",
+    "company": "New",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
     "posted_time": "4 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747228"
+    "scraped_at": "2026-11-18T19:53:32.546235"
   },
   {
-    "job_title": "Director of Healthcare Policy",
+    "job_title": "Vice President Government Affairs",
     "company": "New",
-    "location": "Washington, DC, USA",
+    "location": "Washington DC-Baltimore Area",
     "salary": "Not Listed",
-    "posted_time": "15 hours ago",
+    "posted_time": "6 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747364"
+    "scraped_at": "2026-11-18T19:53:32.546391"
   },
   {
-    "job_title": "Congressional Relations Director",
+    "job_title": "Senior Director, Government Relations",
     "company": "New",
-    "location": "Washington, DC, USA",
+    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "a day ago",
+    "posted_time": "6 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747504"
+    "scraped_at": "2026-11-18T19:53:32.546542"
   },
   {
-    "job_title": "Campaigns Director",
+    "job_title": "Director of Congressional Affairs",
     "company": "New",
-    "location": "Washington, DC, USA",
+    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "a day ago",
+    "posted_time": "6 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747655"
+    "scraped_at": "2026-11-18T19:53:32.546692"
   },
   {
-    "job_title": "Chief of Staff",
+    "job_title": "Vice President & Managing Director of Government Affairs",
     "company": "New",
-    "location": "Washington, DC, USA",
+    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "a day ago",
+    "posted_time": "6 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747795"
+    "scraped_at": "2026-11-18T19:53:32.546857"
   },
   {
-    "job_title": "Chief Communications Officer",
+    "job_title": "Director, Federal Government Affairs",
     "company": "New",
-    "location": "Washington, DC, USA",
+    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "a day ago",
+    "posted_time": "6 hours ago",
     "is_new": true,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.747935"
+    "scraped_at": "2026-11-18T19:53:32.547010"
   },
   {
-    "job_title": "Assistant/Associate Director of Government Affairs",
-    "company": "J Street",
-    "location": "Washington, DC, USA",
+    "job_title": "Government Relations Intern",
+    "company": "Washington",
+    "location": "Washington",
     "salary": "Not Listed",
-    "posted_time": "Nov 10, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748073"
+    "scraped_at": "2026-11-18T19:53:36.323050"
   },
   {
-    "job_title": "Domestic Violence Clinic Graduate Teaching Fellowship, 2027-2029",
+    "job_title": "Director, Legislative Outreach",
     "company": "Washington, DC",
     "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "Nov 10, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748227"
-  },
-  {
-    "job_title": "Compliance and Reporting Coordinator (Election Law)",
-    "company": "Washington, DC, USA",
-    "location": "Washington, DC, USA",
-    "salary": "Not Listed",
-    "posted_time": "Nov 10, 2026",
-    "is_new": false,
-    "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748375"
-  },
-  {
-    "job_title": "NSSC Policy Director/Senior Policy Director",
-    "company": "Americans for Responsible Innovation",
-    "location": "Washington, DC, USA",
-    "salary": "Not Listed",
-    "posted_time": "Nov 9, 2026",
-    "is_new": false,
-    "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748518"
+    "scraped_at": "2026-11-18T19:53:36.323244"
   },
   {
     "job_title": "Director, Government Affairs",
-    "company": "American Podiatric Medical Association",
-    "location": "Rockville, MD, USA",
+    "company": "Washington, DC",
+    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "Nov 9, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748686"
+    "scraped_at": "2026-11-18T19:53:36.323419"
   },
   {
-    "job_title": "Federal Government Relations Director",
-    "company": "American Flood Coalition",
+    "job_title": "Legal Fellow",
+    "company": "Congresswoman Sydney Kamlager-Dove",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "Nov 4, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748826"
+    "scraped_at": "2026-11-18T19:53:36.323586"
   },
   {
-    "job_title": "Policy Associate, Clean Power and Natural Resources",
-    "company": "ClearPath",
+    "job_title": "Economic Policy Advisor",
+    "company": "Senator Catherine Cortez Masto",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "Nov 6, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.748962"
+    "scraped_at": "2026-11-18T19:53:36.323782"
   },
   {
-    "job_title": "Events Coordinator",
-    "company": "ClearPath",
+    "job_title": "Digital Manager | Communications Assistant",
+    "company": "Congresswoman Nanette Diaz Barragán",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "Nov 6, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.749099"
+    "scraped_at": "2026-11-18T19:53:36.323959"
   },
   {
-    "job_title": "Nuclear Associate",
-    "company": "ClearPath",
+    "job_title": "Scheduler | Executive Assistant",
+    "company": "Congresswoman Nanette Diaz Barragán",
     "location": "Washington, DC, USA",
     "salary": "Not Listed",
-    "posted_time": "Nov 6, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.749234"
+    "scraped_at": "2026-11-18T19:53:36.324126"
   },
   {
-    "job_title": "Associate Director, Foundations",
-    "company": "Washington, DC, USA",
-    "location": "Washington, DC, USA",
+    "job_title": "US Congressional Lead",
+    "company": "OpenAI",
+    "location": "Washington, DC",
     "salary": "Not Listed",
-    "posted_time": "Nov 6, 2026",
+    "posted_time": "Oct 29, 2026",
     "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.749383"
+    "scraped_at": "2026-11-18T19:53:36.324294"
   },
   {
-    "job_title": "Spring 2027 Internship",
-    "company": "New",
-    "location": "Washington, DC, US",
+    "job_title": "Social Media Editor",
+    "company": "POLITICO",
+    "location": "N/A",
     "salary": "Not Listed",
-    "posted_time": "2 hours ago",
-    "is_new": true,
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.749520"
+    "scraped_at": "2026-11-18T19:53:36.324893"
   },
   {
-    "job_title": "Spring 2027 Internship",
-    "company": "New",
-    "location": "Washington, DC, US",
+    "job_title": "State Political Strategy Manager, Public Affairs and Political Strategy",
+    "company": "Google",
+    "location": "Washington, District of Columbia, United States",
     "salary": "Not Listed",
-    "posted_time": "2 hours ago",
-    "is_new": true,
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.749679"
+    "scraped_at": "2026-11-18T19:53:36.325059"
   },
   {
-    "job_title": "Spring 2027 Internship",
-    "company": "New",
-    "location": "Washington, DC, US",
+    "job_title": "Intern Staff Assistant",
+    "company": "Library of Congress",
+    "location": "Washington, District of Columbia, United States",
     "salary": "Not Listed",
-    "posted_time": "2 hours ago",
-    "is_new": true,
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
     "job_url": null,
-    "scraped_at": "2026-11-11T19:11:11.749818"
+    "scraped_at": "2026-11-18T19:53:36.325218"
+  },
+  {
+    "job_title": "Integrated Marketing Lead, Brand & Policy",
+    "company": "OpenAI",
+    "location": "Washington, DC",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.325378"
+  },
+  {
+    "job_title": "Tech Politics & Policy Editor",
+    "company": "POLITICO",
+    "location": "Arlington, VA",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.325575"
+  },
+  {
+    "job_title": "Economist",
+    "company": "Executive Office of President Donald Trump",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.325742"
+  },
+  {
+    "job_title": "Engagement Manager",
+    "company": "The American College of Obstetricians and Gynecologists",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.325908"
+  },
+  {
+    "job_title": "Intern",
+    "company": "Center for Strategic and International Studies",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.326069"
+  },
+  {
+    "job_title": "Project Manager, Policy - SVP Support & Strategic Initiatives",
+    "company": "Enterprise Community Partners",
+    "location": "Washington",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.326229"
+  },
+  {
+    "job_title": "Deputy Director of Development, Fundraising Operations",
+    "company": "Center for Strategic and International Studies",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.326387"
+  },
+  {
+    "job_title": "Account Manager, Corporate Partnerships",
+    "company": "National Park Foundation",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.326546"
+  },
+  {
+    "job_title": "Senior Program Officer II, Community College Initiative Program",
+    "company": "IREX",
+    "location": "Washington, District of Columbia, United States",
+    "salary": "Not Listed",
+    "posted_time": "Oct 29, 2026",
+    "is_new": false,
+    "job_url": null,
+    "scraped_at": "2026-11-18T19:53:36.326705"
   }
 ]
