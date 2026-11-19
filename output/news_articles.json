@@ -1,92 +1,92 @@
 [
   {
-    "headline": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-    "author": "Julie Bort",
-    "date_time": "2026-11-18T05:00:00-08:00",
-    "summary": "N/A",
-    "content": "One reason 197,000 people, including Elon Musk, signed a petition over the weekend calling on Nvidia to reinstate the company’s ousted CEO Jensen Huang is that he wasn’t just championing the AI boom. He was using Nvidia’s enormous profits to help finance it. And Nvidia has a lot of money to spend. The company reported on Tuesday net income of $64.9 billion for the third quarter, which was up from $59.7 billion the prior quarter. But Nvidia’s continued success depends on having enough customers building and expanding data centers to keep buying its AI chips and systems. Under Huang, the company aggressively invested in AI startups and neoclouds and, more recently, began guaranteeing massive loans to finance new data centers. The biggest deal yet was the $105 billion backstop for OpenAI’s PORTS-Pike data center campus in Ohio, announced in August. In exchange for that loan guarantee, OpenAI promised that the campus would exclusively use Nvidia’s equipment, the company said. Huang’s abrupt departure last week raised questions about whether Nvidia would continue bankrolling its customers at the same pace. There were reports that CFO Colette Kress, now interim CEO, had tried to push back on Huang’s increasingly ambitious dealmaking. She reportedly reduced the backstop guarantee for the OpenAI  project from $250 billion down to $105 billion. Under Kress, Nvidia clarified in its quarterly CFO commentary that guaranteeing a loan doesn’t mean the company is providing the financing itself. The guarantee only takes effect once the customer has secured the financing needed to build the facility and install Nvidia’s products. If the project fails to meet those conditions, the guarantee “doesn’t exist” she said. “There is the raising of capital that they may need through equity and or debt, in order to build out any of the buildings, get them ready for use, but also the ability to procure the compute, install the compute, and get ready. What we are indicating in our statement the",
-    "article_link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-    "scraped_at": "2026-11-18T15:29:12.680624"
-  },
-  {
-    "headline": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-    "author": "Jagmeet Singh",
-    "date_time": "2026-11-18T04:00:00-08:00",
-    "summary": "N/A",
-    "content": "As businesses increasingly turn to AI agents to automate work, the vast amounts of information locked in complex documents remain a challenge. Unsiloed AI has raised $7.5 million in seed funding led by Felicis to tackle that problem, aiming to help enterprises make their documents more accessible to AI agents through specialized technology. Silicon Valley venture capital firm Felicis led the round, with participation from Y Combinator, Orange Collective, and Uncorrelated Ventures. Angel investors Aarthi Ramamurthy and Beth Turner also participated. Business documents often include tables, charts, and complicated layouts that AI systems can struggle to interpret accurately. But getting the information wrong can lead to costly mistakes for businesses, and the impact could be severe in the case of a bank, hospital, or a law firm, as they rely on these documents for their daily work. Unsiloed aims to solve this problem with software that breaks down complex documents, extracts information from tables, charts and other elements, and turns it into structured data that AI agents can use. The technology also shows where the extracted information came from in the original document, so businesses can check the results rather than take the AI’s output at face value. “The problem with LLMs is they’re inherently probabilistic,” said Unsiloed co-founder and CEO Aman Mishra (pictured above, right) in an interview. “There is going to be some deviation induced. There is going to be some hallucination involved, and that has a massive negative impact downstream.” Mishra co-founded Unsiloed with Adnan Abbas (pictured above, left), his former classmate at the Indian Institute of Technology (IIT) Kharagpur. The two joined Y Combinator’s Fall 2025 batch after spending some time developing the technology. Unsiloed is already working with customers in finance, legal services, and healthcare, Mishra told TechCrunch. One bank is using its technology to process documents, while a law firm has ",
-    "article_link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-    "scraped_at": "2026-11-18T15:29:14.454840"
-  },
-  {
-    "headline": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-    "author": "Jagmeet Singh",
-    "date_time": "2026-11-18T03:30:00-08:00",
-    "summary": "N/A",
-    "content": "As demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments. The funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital. Companies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups including Mecka AI, XDOF, and MicroAGI are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them. Humyn Labs has developed its own two-camera hardware to record people performing everyday tasks. It then uses its software to process and label the footage, which means tagging what happens in each clip so AI can learn from it. The startup collects data across over 20 countries in Latin America and Asia, with Brazil, India, and South Korea serving as its main hubs, co-founder Manish Agarwal (pictured above, right) said in an interview. Agarwal, the former CEO of Indian gaming company Nazara Technologies, founded Humyn Labs in February with Ishank Gupta (pictured above, left), a former executive at the brewing giant AB InBev. The duo previously founded Kratos Studios, now known as KGeN. KGeN has a network of contributors across emerging markets, and that network helps Humyn Labs collect data in people’s homes, the founders told TechCrunch. Collecting footage of human activity is only part of the challenge, Agarwal said. He added that Humyn Labs also uses software to track hand movements, interactions with objects, and other details, turning raw recordings into da",
-    "article_link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-    "scraped_at": "2026-11-18T15:29:16.084001"
-  },
-  {
-    "headline": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-    "author": "Dominic-Madori Davis\nMarina Temkin",
-    "date_time": "2026-11-17T17:44:21-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-    "scraped_at": "2026-11-18T15:29:16.085964"
-  },
-  {
-    "headline": "Nvidia promises that revenue will keep soaring — for now",
-    "author": "Julie Bort",
-    "date_time": "2026-11-17T16:16:50-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-    "scraped_at": "2026-11-18T15:29:16.087260"
-  },
-  {
-    "headline": "Nvidia is abandoning China after Jensen Huang’s ouster",
-    "author": "Tim Fernholz",
-    "date_time": "2026-11-17T15:37:48-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "scraped_at": "2026-11-18T15:29:16.088479"
-  },
-  {
-    "headline": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-17T15:04:35-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "scraped_at": "2026-11-18T15:29:16.089686"
-  },
-  {
-    "headline": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "headline": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
     "author": "Lucas Ropek",
-    "date_time": "2026-11-17T14:42:27-08:00",
+    "date_time": "2026-11-18T15:45:00-08:00",
     "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-    "scraped_at": "2026-11-18T15:29:16.090883"
+    "content": "During his appearance at The New York Times’ DealBook Summit on Wednesday, Microsoft CEO Satya Nadella lamented the fact that a lot of America’s software systems — including those governing everyday hardware and transportation systems — suffer from unfixable software vulnerabilities that, in the age of AI-aided cyberattacks, are just waiting to be exploited. “Remember, there is a lot of stuff in our critical infrastructure that’s unpatchable,” Nadella said. “I mean, think about all the firmware and the chillers [a cooling device often used in data centers] and the HVAC systems everywhere else. So all of that, by the way, they’re on the internet.” In other words: The smartification of the economy, in which much of the world’s “dumb” devices were hooked up to the internet, is now causing tremendous headaches. The conversation took place against the backdrop of a wave of recent large-scale outages — including one involving Microsoft Outlook. Others have involved the NSA, the FFA, and Apple. Concerns have swirled that these outages are the result of cyberattacks, although officials have denied those claims. Still, the reality of AI-aided cyberattacks is spurring companies to find new strategies for vulnerability discovery and remediation. Nadella touched briefly on the recent Outlook situation, noting that the global inconvenience was the result of a “latent bug” that led to a “perfect storm.” “We put out an incident response, and we’re going to obviously take all of the learnings, both upstream architectural, as well as operational, and fix that,” he added. “Somebody was telling me about sort of even the transportation systems and the amount of stuff that’s discoverable but with unpatchable firmware,” Nadella also added on the topic of vulnerable systems. “So we’ll have to really modernize for sure … and then we will have to assess what the threat vector looks like, what our own ability to both detect and then defend in real time looks like.” Nadella made a broader poi",
+    "article_link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "scraped_at": "2026-11-19T00:10:43.647680"
   },
   {
-    "headline": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "headline": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-18T15:25:17-08:00",
+    "summary": "N/A",
+    "content": "Elon Musk has already been vocal about his disapproval of the Nvidia board’s decision to oust its founder and CEO Jensen Huang after a series of extramarital affairs were made public, including one with an alleged Chinese spy who is suspected of feeding sensitive information back to Beijing. At The New York Times DealBook Summit on Wednesday, Musk elaborated on his thoughts about Nvidia’s leadership change. “Jensen is an old friend of mine,” Musk said. “I would call Jensen, you know, Michael Jordan at his peak level, in terms of what he means to a team.” On X, the social media platform he owns, Musk even said he would hire Huang. “He’s one of the most talented entrepreneur-CEOs in history,” Musk said when asked about his X post. “Who wouldn’t want to hire Jensen?” Musk also signed a petition, alongside over 200,000 other people, urging Nvidia to reinstate its former CEO. Nvidia’s board, however, confirmed it is not planning to bring Huang back. “[It] doesn’t seem like a smart decision to me…,” Musk said of that decision. “There’s no one that can really replace Jensen.” He has long-term relationships that have been built up over decades,” Musk added. “He understands technology incredibly well. His team loves him… and many of them are there because of him, and have higher offers to go elsewhere, and have turned them down because of personal loyalty to Jensen.” Anduril CEO Palmer Luckey also said that he thinks Nvidia is making the wrong decision by not reinstating Huang. “China wants Jensen out, so I want him in,” Luckey said earlier in the day at the DealBook event. “They’re thrilled to have Jensen out… There’s a reason it’s knocking a trillion dollars off Nvidia’s market cap. They know it makes America weaker to knock him out.” Musk also did not express concern over what Huang’s affair with an alleged Chinese spy could mean for U.S. national security.",
+    "article_link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "scraped_at": "2026-11-19T00:10:44.731302"
+  },
+  {
+    "headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-18T15:17:28-08:00",
+    "summary": "N/A",
+    "content": "Microsoft CEO Satya Nadella weighed in on former Nvidia CEO Jensen Huang’s unexpected departure amid a series of shocking controversies. “It’s all sort of pretty tragic in the sense of, you know, Jensen is somebody I’ve known for a long time. I’ve admired what he’s done, and at this point, I kind of want to give him space to figure this out,” Nadella said onstage at The New York Times DealBook Summit on Wednesday. Huang stepped down last week from his CEO role, which he has held for 33 years. Huang’s leadership has been central to Nvidia’s ascent to one of the world’s most valuable companies, but his judgment was questioned after it was reported that he had an affair with Megaspeed executive Alice Huang, whom U.S. officials believe is a Chinese spy feeding information back to Beijing. It was also revealed that Huang was having affairs with two Nvidia employees, including one who was a direct report. While the world waits to see what the long-term economic impacts of Huang’s departure might be, Nadella says he still has confidence in Nvidia, which is a close partner of Microsoft. “I’ll just say this one thing,” Nadella added. “Colette [Kress, interim CEO at Nvidia] worked at Microsoft for a long time. I’ve known her for a long time. She’s a tremendous person… I’m in touch with the same set of people I was in touch with before [Huang left], so I have a lot of confidence in the Nvidia team and their ability to continue to do the good work.” Microsoft is not unlike Nvidia in that its founder Bill Gates inhabited a larger-than-life persona as CEO. “Founders are unbelievable in the sense that they create something from nothing, so that is pretty magical… They’re singular, but they’re not gods, right?” Nadella said. “I used to say to Bill [Gates]… Founders also die, and so at some point, a company, if it needs to succeed, it has to have someone take over.”",
+    "article_link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "scraped_at": "2026-11-19T00:10:46.726833"
+  },
+  {
+    "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-18T14:58:11-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "scraped_at": "2026-11-19T00:10:46.728027"
+  },
+  {
+    "headline": "N/A",
+    "author": "Marina Temkin",
+    "date_time": "2026-11-18T14:11:15-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "scraped_at": "2026-11-19T00:10:46.728858"
+  },
+  {
+    "headline": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
     "author": "Julie Bort",
-    "date_time": "2026-11-17T14:29:05-08:00",
+    "date_time": "2026-11-18T13:57:40-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "scraped_at": "2026-11-18T15:29:16.092075"
+    "article_link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "scraped_at": "2026-11-19T00:10:46.729641"
   },
   {
-    "headline": "SEC reportedly investigating Nvidia amid Huang exit",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-17T13:48:07-08:00",
+    "headline": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-18T13:34:13-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "scraped_at": "2026-11-18T15:29:16.093348"
+    "article_link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "scraped_at": "2026-11-19T00:10:46.730413"
+  },
+  {
+    "headline": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-18T13:31:21-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "scraped_at": "2026-11-19T00:10:46.731206"
+  },
+  {
+    "headline": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "author": "Amanda Silberling",
+    "date_time": "2026-11-18T12:07:01-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "scraped_at": "2026-11-19T00:10:46.732003"
+  },
+  {
+    "headline": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "author": "Aisha Malik",
+    "date_time": "2026-11-18T11:56:39-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "scraped_at": "2026-11-19T00:10:46.732782"
   }
 ]
