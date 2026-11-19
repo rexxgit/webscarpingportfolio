@@ -1,30 +1,57 @@
 [
   {
+    "headline": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-19T06:54:39-08:00",
+    "summary": "N/A",
+    "content": "Arriving at public markets today, Anthropic’s IPO is poised to raise billions for the company and its investors. But the biggest surprise may be just how much of that money will end up going to supplier-investors. Amazon and Google, two of Anthropic’s largest infrastructure partners, hold stakes valued around a combined $307.9 billion at the company’s updated IPO price of $83 per share. Amazon, which invested $18 billion into the AI startup, would see its 14.7% stake hit upwards of $159 billion, while Google’s 13.7% stake is valued at nearly $149 billion, according to share ownership figures disclosed in Anthropic’s IPO prospectus. A handful of other AI infrastructure providers are also positioned to benefit. Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC have joined Google in committing $26 billion to Anthropic at its IPO price in a private placement. In total, Google has invested $12.3 billion into Anthropic since 2023, with another promised $30 billion dependent on Anthropic meeting certain performance milestones. And with the exception of TSMC, Anthropic has announced multi-billion-dollar strategic partnerships with its other infrastructure supplier investors — including Nvidia, AMD, Broadcom, Microsoft, and Micron — that would see Anthropic purchasing their products. This is the circular financing that has made some observers so skeptical of the AI boom. These companies are not just investors; they’re also Anthropic’s biggest suppliers. It might look like Amazon and Google are putting billions into Anthropic, but they get that money right back when Anthropic needs to train a model or serve Claude to users. From afar, it looks like unprecedented revenue growth for cloud companies and unprecedented fundraising from Anthropic — but it’s just the same money passing from one pocket to another. Today’s IPO marks a critical change in that financing system, the moment it might just become self-sustaining. Those investments appear to have paid off, and are now liqui",
+    "article_link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "scraped_at": "2026-11-19T15:36:37.430400"
+  },
+  {
+    "headline": "Superhuman pushes its Go assistant everywhere",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-19T06:00:00-08:00",
+    "summary": "N/A",
+    "content": "Productivity apps are simultaneously trying to feed more context to their AI tools while also making those AI assistants available in every nook and corner of their products. Superhuman (formerly Grammarly) is going in the same direction with the rollout of features, including a personalized Go assistant, making agents available in Docs, and third-party agent integrations. While some of the company’s AI features have faced criticism, Superhuman started pushing its Go assistant after its rebranding last year. With the new rollout, it is making Go learn context across different apps and give better personalized suggestions for prompts. Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The assistant works inline with the cursor — just like Grammarly does — and also manages other agents. Superhuman is also making the agent proactive, which means it looks for your schedule, keeps an eye on your email, and even drafts responses. The updated Go agent also learns users’ writing styles and responds accordingly in email and Docs. The productivity company is adding 20 new connected agents, including DeepL, Legora, Amplitude, Databricks, and Blackboard, through its Go SDK. The company is also thinking about adding AI to different products, including Docs and Superhuman Mail. In Docs, all Go agents work natively, and you can set them off to work on different tasks in the background. Users can also set routines to trigger workflows based on events. Until now, Mail has used AI as its central tool, which is being replaced by Go. Users can also do enterprise search by using data from the company knowledge base and connected tools. Go also uses this context to form drafts and organize the inbox across Google and Outlook accounts. Superhuman acquired notetaker Fathom in September to add more context to its suite. The company is now rolling out live collaborative notetaking, which would be shared across the",
+    "article_link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "scraped_at": "2026-11-19T15:36:39.372957"
+  },
+  {
+    "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "author": "Julie Bort",
+    "date_time": "2026-11-18T16:42:56-08:00",
+    "summary": "N/A",
+    "content": "Microsoft CEO Satya Nadella explained Wednesday why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit instead of reducing the workforce via another massive layoff. Short answer: AI, but not, he insists, in the way you might expect. He’s not saying he’s replacing employees with AI, especially software engineers. He’s saying he’s reorganizing Microsoft into a company where everyone uses AI to do their work, and their jobs become focused on managing that AI. The buyout was “to make sure that at least everyone felt like they had agency in making choices,” he told Andrew Ross Sorkin during the DealBook Summit. “Let’s take software engineering. We went from, ‘Well, we don’t buy that AI can ever do software.’ To suddenly, ‘Wow, it can do all software, and why do we need software engineers?’ To now rediscovering that software engineering is very much alive and, in fact, is going to thrive, except the way the team is organized and the work that a software engineer does has now got a new operating point,” he explained. For some people, “that reorganization and change is sort of hard, right?” he added, “but, I mean, it has to be done.” He offered the example of the team that builds Cowork, the AI agent in Microsoft 365 apps. He said the team consists of just 11 developers who have mastered using AI to do their jobs. “They build a software factory that builds the product. They don’t build the product.” He believes that every employee will one day similarly become a manager of agents, rather than a person directly doing the work. “That level of direction is what, by the way, is going to happen in all jobs.” But Microsoft, as a 51-year-old company, didn’t grow up as an AI-first company. “So the question is, how quickly can an incumbent transform the work, the workflow, and the work artifact, and with all the wage support that goes with it?” he said. “It’s going to take a bit more time than anyone expects. And there is going to b",
+    "article_link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "scraped_at": "2026-11-19T15:36:41.097795"
+  },
+  {
     "headline": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
     "author": "Lucas Ropek",
     "date_time": "2026-11-18T15:45:00-08:00",
     "summary": "N/A",
-    "content": "During his appearance at The New York Times’ DealBook Summit on Wednesday, Microsoft CEO Satya Nadella lamented the fact that a lot of America’s software systems — including those governing everyday hardware and transportation systems — suffer from unfixable software vulnerabilities that, in the age of AI-aided cyberattacks, are just waiting to be exploited. “Remember, there is a lot of stuff in our critical infrastructure that’s unpatchable,” Nadella said. “I mean, think about all the firmware and the chillers [a cooling device often used in data centers] and the HVAC systems everywhere else. So all of that, by the way, they’re on the internet.” In other words: The smartification of the economy, in which much of the world’s “dumb” devices were hooked up to the internet, is now causing tremendous headaches. The conversation took place against the backdrop of a wave of recent large-scale outages — including one involving Microsoft Outlook. Others have involved the NSA, the FFA, and Apple. Concerns have swirled that these outages are the result of cyberattacks, although officials have denied those claims. Still, the reality of AI-aided cyberattacks is spurring companies to find new strategies for vulnerability discovery and remediation. Nadella touched briefly on the recent Outlook situation, noting that the global inconvenience was the result of a “latent bug” that led to a “perfect storm.” “We put out an incident response, and we’re going to obviously take all of the learnings, both upstream architectural, as well as operational, and fix that,” he added. “Somebody was telling me about sort of even the transportation systems and the amount of stuff that’s discoverable but with unpatchable firmware,” Nadella also added on the topic of vulnerable systems. “So we’ll have to really modernize for sure … and then we will have to assess what the threat vector looks like, what our own ability to both detect and then defend in real time looks like.” Nadella made a broader poi",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "scraped_at": "2026-11-19T00:10:43.647680"
+    "scraped_at": "2026-11-19T15:36:41.099495"
   },
   {
     "headline": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
     "author": "Amanda Silberling",
     "date_time": "2026-11-18T15:25:17-08:00",
     "summary": "N/A",
-    "content": "Elon Musk has already been vocal about his disapproval of the Nvidia board’s decision to oust its founder and CEO Jensen Huang after a series of extramarital affairs were made public, including one with an alleged Chinese spy who is suspected of feeding sensitive information back to Beijing. At The New York Times DealBook Summit on Wednesday, Musk elaborated on his thoughts about Nvidia’s leadership change. “Jensen is an old friend of mine,” Musk said. “I would call Jensen, you know, Michael Jordan at his peak level, in terms of what he means to a team.” On X, the social media platform he owns, Musk even said he would hire Huang. “He’s one of the most talented entrepreneur-CEOs in history,” Musk said when asked about his X post. “Who wouldn’t want to hire Jensen?” Musk also signed a petition, alongside over 200,000 other people, urging Nvidia to reinstate its former CEO. Nvidia’s board, however, confirmed it is not planning to bring Huang back. “[It] doesn’t seem like a smart decision to me…,” Musk said of that decision. “There’s no one that can really replace Jensen.” He has long-term relationships that have been built up over decades,” Musk added. “He understands technology incredibly well. His team loves him… and many of them are there because of him, and have higher offers to go elsewhere, and have turned them down because of personal loyalty to Jensen.” Anduril CEO Palmer Luckey also said that he thinks Nvidia is making the wrong decision by not reinstating Huang. “China wants Jensen out, so I want him in,” Luckey said earlier in the day at the DealBook event. “They’re thrilled to have Jensen out… There’s a reason it’s knocking a trillion dollars off Nvidia’s market cap. They know it makes America weaker to knock him out.” Musk also did not express concern over what Huang’s affair with an alleged Chinese spy could mean for U.S. national security.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "scraped_at": "2026-11-19T00:10:44.731302"
+    "scraped_at": "2026-11-19T15:36:41.100833"
   },
   {
     "headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
     "author": "Amanda Silberling",
     "date_time": "2026-11-18T15:17:28-08:00",
     "summary": "N/A",
-    "content": "Microsoft CEO Satya Nadella weighed in on former Nvidia CEO Jensen Huang’s unexpected departure amid a series of shocking controversies. “It’s all sort of pretty tragic in the sense of, you know, Jensen is somebody I’ve known for a long time. I’ve admired what he’s done, and at this point, I kind of want to give him space to figure this out,” Nadella said onstage at The New York Times DealBook Summit on Wednesday. Huang stepped down last week from his CEO role, which he has held for 33 years. Huang’s leadership has been central to Nvidia’s ascent to one of the world’s most valuable companies, but his judgment was questioned after it was reported that he had an affair with Megaspeed executive Alice Huang, whom U.S. officials believe is a Chinese spy feeding information back to Beijing. It was also revealed that Huang was having affairs with two Nvidia employees, including one who was a direct report. While the world waits to see what the long-term economic impacts of Huang’s departure might be, Nadella says he still has confidence in Nvidia, which is a close partner of Microsoft. “I’ll just say this one thing,” Nadella added. “Colette [Kress, interim CEO at Nvidia] worked at Microsoft for a long time. I’ve known her for a long time. She’s a tremendous person… I’m in touch with the same set of people I was in touch with before [Huang left], so I have a lot of confidence in the Nvidia team and their ability to continue to do the good work.” Microsoft is not unlike Nvidia in that its founder Bill Gates inhabited a larger-than-life persona as CEO. “Founders are unbelievable in the sense that they create something from nothing, so that is pretty magical… They’re singular, but they’re not gods, right?” Nadella said. “I used to say to Bill [Gates]… Founders also die, and so at some point, a company, if it needs to succeed, it has to have someone take over.”",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "scraped_at": "2026-11-19T00:10:46.726833"
+    "scraped_at": "2026-11-19T15:36:41.102031"
   },
   {
     "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
@@ -33,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "scraped_at": "2026-11-19T00:10:46.728027"
+    "scraped_at": "2026-11-19T15:36:41.103292"
   },
   {
     "headline": "N/A",
@@ -42,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "scraped_at": "2026-11-19T00:10:46.728858"
+    "scraped_at": "2026-11-19T15:36:41.104512"
   },
   {
     "headline": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
@@ -51,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "scraped_at": "2026-11-19T00:10:46.729641"
+    "scraped_at": "2026-11-19T15:36:41.105726"
   },
   {
     "headline": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
@@ -60,33 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "scraped_at": "2026-11-19T00:10:46.730413"
-  },
-  {
-    "headline": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-18T13:31:21-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "scraped_at": "2026-11-19T00:10:46.731206"
-  },
-  {
-    "headline": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-18T12:07:01-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "scraped_at": "2026-11-19T00:10:46.732003"
-  },
-  {
-    "headline": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-18T11:56:39-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "scraped_at": "2026-11-19T00:10:46.732782"
+    "scraped_at": "2026-11-19T15:36:41.106937"
   }
 ]
