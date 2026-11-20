@@ -1,30 +1,66 @@
 [
   {
+    "headline": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "author": "Theresa Loconsolo\nAnthony Ha\nKirsten Korosec\nTim De Chant",
+    "date_time": "2026-11-20T06:55:44-08:00",
+    "summary": "N/A",
+    "content": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to bring Huang back as CEO. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Tim De Chant discussed what the future holds for Nvidia and the broader AI industry, especially as Anthropic goes public and puts the industry’s circular funding model to the test. Keep listening to hear more about: Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "article_link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "scraped_at": "2026-11-20T15:15:47.858448"
+  },
+  {
+    "headline": "Six AI-powered gadgets that could make your home office smarter",
+    "author": "Lauren Forristal",
+    "date_time": "2026-11-20T06:00:00-08:00",
+    "summary": "N/A",
+    "content": "Tech companies are racing to figure out how AI can make everyday work a little easier. From notetakers to webcams that follow your movements, here are AI-powered gadgets worth checking out if you want to upgrade your workspace. If you’re constantly scribbling notes during meetings, Flowtica’s Scribe could save you from having to type everything up afterward. The AI-powered pen combines traditional handwriting with audio recording. You can use its built-in gel pen to take notes, tap the side to highlight important points, and press the end of the pen to start recording audio. Once the meeting is over, its AI can transcribe the conversation, summarize key takeaways, and create a to-do list based on what was discussed. You can even ask the AI questions about the meeting to find specific information without having to go through the entire recording. The Scribe comes with a built-in microphone and 32GB of onboard storage. It can also identify up to 15 different speakers and supports 92 languages. Anker’s AI-powered recording pin, Soundcore Work, is designed to capture conversations, meetings, and quick voice memos without taking up much space on your desk. Priced at $159, the coin-sized device comes with a puck-shaped charging case and can record for up to eight hours on a single charge, extending to 32 hours when used with its case. Anker also claims a recording range of up to five meters, making it useful for capturing conversations around a meeting table. The companion app handles transcription and uses AI to turn recordings into more organized notes and summaries. Users also get 300 minutes of free audio transcription each month. If you need more recording capacity or access to additional AI features, Anker offers optional subscription plans, including Pro ($99 per year) and Unlimited ($239 per year).",
+    "article_link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "scraped_at": "2026-11-20T15:15:49.060048"
+  },
+  {
+    "headline": "Apple may be developing its own AI agent that runs your Mac",
+    "author": "Lucas Ropek",
+    "date_time": "2026-11-19T16:56:01-08:00",
+    "summary": "N/A",
+    "content": "Apple appears to be working on its own AI agent to conduct computer work on behalf of users — including using apps, accessing websites, and coding, among other things. The news was originally reported by Bloomberg, which spotted a job listing the iPhone maker recently posted for a senior engineering manager to oversee the creation of an “AI agent that can use a computer.” “Imagine an AI agent that can use a computer the way a capable person does,” the posting says. “It browses the web, works across apps, runs commands, writes and debugs code, and calls services, and it chooses the right tool for each step. It does all this privately and with the polish people expect from Apple.” The posting additionally notes that the agents should be able to move “fluidly between tools” and “carry out multi-step tasks across apps, browsers, command lines, code, and APIs.” TechCrunch reached out to Apple for more information but did not receive a response. Agents capable of computer work have become one of the hottest commodities in the tech industry over the past year. Major labs like Anthropic and OpenAI have launched such services, while other major tech brands — like Meta, which recently launched its Muse agent line — have also moved into the space. It makes sense that Apple — which is trying to expand its AI offerings in the new John Ternus era — would want to follow suit. Bloomberg additionally notes that, at the same time that Apple is working on its own digital assistant, the company is making it significantly harder for third-party agents to gain total control over its computers. The outlet notes that the version of its upcoming macOS 27.3 will deploy warnings discouraging users from granting full access to third-party agents. In October, Apple issued a notification to developers stating that the company planned to “introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user ",
+    "article_link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "scraped_at": "2026-11-20T15:15:50.329688"
+  },
+  {
+    "headline": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "author": "Julie Bort",
+    "date_time": "2026-11-19T16:43:50-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "scraped_at": "2026-11-20T15:15:50.331381"
+  },
+  {
     "headline": "Meta’s new Muse Charm device may cost $300",
     "author": "Lucas Ropek",
     "date_time": "2026-11-19T13:58:06-08:00",
     "summary": "N/A",
-    "content": "Meta plans to charge $300 for Muse Charm, its upcoming Tamagotchi-like AI device that was teased at the company’s Connect event earlier this year, The Information has reported. When reached for comment by TechCrunch, a Meta spokesperson didn’t deny the claims, merely providing the following statement: “We’re charmed by the interest in our AI devices, and we’ll have more to share soon.” So far, Meta has made a relatively successful push into consumer AI, launching Muse — its agentic helper — along with a variety of cute avatars that users can use to give the system more of a personality. Muse Charm, the company’s push into AI hardware, will allow users to carry a physical personification of its software around in their pocket (or potentially wear it around their neck), talking to it, asking it questions, and giving it commands. It remains to be seen whether customers will bite or not. AI wearables have had a rough go of it so far (here’s looking at you, Humane Ai pin), but companies continue to iterate on the concept in an attempt to break through to a broader audience. Indeed, $300 is arguably a pretty steep price for a product the size of a keychain, although it’s also a price point that’s in line with what other companies have been charging. The wearable launched by Friend — the AI startup whose device lets you text and talk to an AI persona — is currently retailing for $250. On the other hand, Amazon’s all-new Bee Frontier wearable AI device — which transcribes conversations and tracks tasks — lists for $75 and is currently on a Black Friday, 30% off sale of $52.49. Even with its $99/year subscription to let it tie into a user’s apps (photos, emails, etc.), it’s still far less expensive than Muse Charm.",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "scraped_at": "2026-11-20T00:31:52.964879"
+    "scraped_at": "2026-11-20T15:15:50.332635"
   },
   {
     "headline": "These tech outages are giving Y2K, AI agent style",
     "author": "Dominic-Madori Davis",
     "date_time": "2026-11-19T13:42:31-08:00",
     "summary": "N/A",
-    "content": "It’s going down, as the American rapper Yung Joc might say: the airline booking systems, banking platforms, and productivity platforms. In the past two weeks, the U.S.’s top businesses have faced technical outages that have disrupted the systems that run everyday life. Apple Pay went down. NASA’s internal communication network went down. The FAA had to ground all flights for hours (only the third time in history since 9/11), and Microsoft was hit with an outage that took down Outlook, Teams, and Copilot for nearly two days. The first thought, naturally, is an AI hacker invasion of some sort, especially after hackers managed to attack fridges in a grocery store and a blood bank in France a few weeks ago. Here in the U.S., the director of National Intelligence said these outages don’t seem related to state-sponsored terrorism, while President Trump called the issues “individual events.” Many of the companies themselves have said the outages were not caused by cyberattacks or AI attacks, but tech issues. Only, there’s the fact that they all struck within a short timespan of each other, and just a few weeks after Cybersecurity’s so-called “Black October,” when a slew of also-unrelated cybersecurity incidents occurred on October 21, striking PHP, Node.js, LiteLLM, more. While there’s no reason to view these outages as cyberattacks, there may be more than coincidence going on: It’s giving AI-native Y2K, frankly. Dave DeWalt, an investor who worked in cybersecurity for more than three decades (including as president and CEO of McAfee and as vice chairman of the CISA Advisory Council for the Department of Homeland Security), also thinks it’s probably AI-related. The technical outages are most likely the “growing pains of a security system that’s getting stronger, not weaker,” and that “AI is surfacing vulnerabilities at a speed and scale we’ve never had before through AI tools like Mythos and others,” he told TechCrunch. The thing is, many of these technical flaws have alwa",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "scraped_at": "2026-11-20T00:31:54.080751"
+    "scraped_at": "2026-11-20T15:15:50.333807"
   },
   {
     "headline": "The unfolding Jensen Huang scandal: a timeline",
     "author": "Amanda Silberling",
     "date_time": "2026-11-19T12:18:49-08:00",
     "summary": "N/A",
-    "content": "Nvidia co-founder and now former CEO Jensen Huang has never been as prone to controversy as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. But the 63-year-old industry kingpin recently admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security. U.S. officials believe that one of Huang’s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion worth of Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, The New York Times has reported. The story took a sudden turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of healthcare, who reports directly to him. Nvidia, Huang and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up. By early Thursday morning, Huang was no longer CEO of the company he co-founded 33 years ago. Then, Thursday afternoon, Reuters dropped another bombshell, publishing a report alleging that Huang had yet another extramarital affair with another unnamed Nvidia employee. The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are essent",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "scraped_at": "2026-11-20T00:31:55.204929"
+    "scraped_at": "2026-11-20T15:15:50.334976"
   },
   {
     "headline": "Anthropic’s IPO could deliver $156B to charity",
@@ -33,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "scraped_at": "2026-11-20T00:31:55.206060"
+    "scraped_at": "2026-11-20T15:15:50.336160"
   },
   {
     "headline": "Google gives Gemini the ability to use your Mac for you",
@@ -42,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "scraped_at": "2026-11-20T00:31:55.206863"
+    "scraped_at": "2026-11-20T15:15:50.337350"
   },
   {
     "headline": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
@@ -51,42 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "scraped_at": "2026-11-20T00:31:55.207703"
-  },
-  {
-    "headline": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "author": "Kate Park",
-    "date_time": "2026-11-19T09:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "scraped_at": "2026-11-20T00:31:55.208464"
-  },
-  {
-    "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "author": "Russell Brandom",
-    "date_time": "2026-11-19T08:59:23-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "scraped_at": "2026-11-20T00:31:55.209245"
-  },
-  {
-    "headline": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-19T08:19:41-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "scraped_at": "2026-11-20T00:31:55.210020"
-  },
-  {
-    "headline": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-19T06:54:39-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "scraped_at": "2026-11-20T00:31:55.210798"
+    "scraped_at": "2026-11-20T15:15:50.338597"
   }
 ]
