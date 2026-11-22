@@ -1,30 +1,48 @@
 [
   {
+    "headline": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "author": "Anthony Ha",
+    "date_time": "2026-11-21T13:37:10-08:00",
+    "summary": "N/A",
+    "content": "Signal announced Friday that it’s limiting users’ ability to take screenshots within the secure messaging app — a response to what President Meredith Whittaker described as the “existential threat” of operating systems that integrate agentic AI. Whittaker wrote that by giving AI agents the ability to “scan” the information on users’ screens, Windows, Android, and macOS/iOS “are undermining Signal’s ability to independently guarantee privacy.” “Now, in service of AI agentic capabilities, your sensitive data is being captured, stored, and made accessible to whatever local database or remote server an OS-level AI agent is using at that moment,” she said. “All of this is outside of Signal’s control once the data has been captured, and imperils the privacy of all the participants in a conversation.” Signal already sought to limit these risks by blocking screenshots of its Windows app by default. Now it’s adding similar restrictions in Android and iOS. That said, users can disable this setting if they wish, which Whittaker said would “break our privacy guarantees.” She also admitted this is an “incomplete” solution, as it doesn’t “address other more sneaky ways AI agents could potentially access application data.”",
+    "article_link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "scraped_at": "2026-11-22T06:19:42.585069"
+  },
+  {
+    "headline": "A tale of two Nvidias",
+    "author": "Anthony Ha",
+    "date_time": "2026-11-21T13:07:42-08:00",
+    "summary": "N/A",
+    "content": "We got two very different pictures of Nvidia this week, depending on whether you were focused on the company’s latest earnings report or the tech executives loudly calling for former CEO Jensen Huang’s return. On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Tim De Chant, and I discussed the latest news from the AI chipmaker, which reported soaring revenue and insisted that it has no plans for Huang to return. Kirsten described this as “the tale of two Nvidias this week,” with the company’s current executives assuring investors, “Hey, we’ve got this.” At the same time, “You’ve got Elon Musk and others out there really pushing to bring Jensen back, circulating a petition, Jensen himself saying that he’s prepared to come back.” (The company’s falling stock price certainly suggests that Wall Street isn’t feeling reassured.) Keep reading for a preview of our conversation, edited for length and clarity. Kirsten Korosec: Nvidia will no longer sell its H200 chips in China. This was coming directly from the interim CEO Colette Kress, and that coincides with the Trump administration also talking about closing off what we have discussed in the past, which is this idea of remote access — really closing and tightening all these restrictions [so] the chips can’t make it into China. What was happening is that data centers were being set up right outside, in countries like Malaysia and elsewhere, and then companies within China were remote accessing these chips, and so that’s now also been shut down. A lot is happening on the China front that is so much bigger than Nvidia, but Nvidia came out publicly and said, “Nope, we’re shutting this part down.” I’ll be very curious to see if this changes, maybe in the first half of 2027. Tim De Chant: I’d love to be a fly on the wall in some of these Trump administration conversations, because they were much more stringent in terms of export controls at the end of the first Trump administration, and that continued throug",
+    "article_link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "scraped_at": "2026-11-22T06:19:44.145308"
+  },
+  {
     "headline": "Here are the top AI agents that can live in your text messages",
     "author": "Lauren Forristal",
     "date_time": "2026-11-21T09:00:00-08:00",
     "summary": "N/A",
     "content": "Rather than downloading another app, a growing number of agents can simply be texted like an ordinary person. You text it what you need, and it can remember context, connect to the apps and services you already use, and complete tasks on your behalf. That can mean scheduling an appointment, organizing a calendar, researching a trip, sending an email, making a reservation, shopping online, or reminding you about something days later. While Instinct is one of the buzziest AI agents at present, thanks to its $10 billion valuation after its latest funding round of $1 billion, there are many others also making a play for this space. Below are the most notable options so far, from general-purpose personal assistants to agents designed for families, travel, and work. Ask Proxy’s biggest differentiator is that it “thinks like a woman,” meaning it aims to anticipate your needs before you even ask, the company explains on its website. It works like a chatbot you can text like a friend, whether you need gift ideas, help planning an event, or recommendations for things to do that weekend. You can ask it to add important dates to your calendar, set reminders, or help with everyday decisions. You can also send it photos, like an empty table, to figure out how to decorate the table for a dinner party. Unlike a typical chatbot, Ask Proxy also takes a proactive approach. It can reach out when it notices something you might forget or when it comes across a new activity, restaurant, or experience you might enjoy. There’s also a work-focused version, which the company explains “gets employees back to work faster, while keeping personal data off company systems.” The personal version costs $1 per day. For businesses, pricing starts at $15 per employee per month for large companies and $23 per employee per month for small teams with fewer than 49 employees. Ask Proxy works over SMS. You can text “start” to 820-732-2625.",
     "article_link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "scraped_at": "2026-11-21T19:00:32.487924"
+    "scraped_at": "2026-11-22T06:19:46.023129"
   },
   {
     "headline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
     "author": "Lucas Ropek",
     "date_time": "2026-11-21T08:00:00-08:00",
     "summary": "N/A",
-    "content": "For the most part, the content offered by the microdrama startup Shortical is indistinguishable from the rest of its industry. The company produces soapy, melodramatic storylines — almost always risqué romances — that, in bite-sized two-minute episodes, compel viewers to stay glued to their phones so as not to miss the latest twist in a tawdry, cliff-hanger-happy saga. The primary way that Shortical — which was founded last January — makes money is through subscriptions. Typically, the first 7-10 episodes of a micro-drama are free. After that, if the user wants to finish the series, they have to pay a small monthly fee which unlocks access to all of the site’s content. Over the past year, the company has churned out a gush of popular live-action romances like “Crossing the Line with My Neighbor,” “Accidentally Married My Boss,” and “Spoiled by My Billionaire Sugar Daddy.” Lately, however, the company’s homepage is covered in AI-generated content. The reason isn’t exactly hard to figure out: the production overhead for AI content is substantially less than live-action. The profit potential, meanwhile, is substantially higher, if you can draw an audience. Its latest microdrama premiered in Los Angeles last week. The series, called “Inevitable,” stars Aki Avni, an Israeli film and television star who has been visible in American TV shows for years (he had a stint on Fox’s 9/11-era thriller “24” years ago) but is now trying something largely unheard of in modern Hollywood: licensing his face to Shortical for the sake of its AI content. The project, which is wholly AI, used Avni’s face to create a digital avatar of him. In “Inevitable,” he plays himself – in a very meta plot in which he — the actor Aki Avni — licenses his face to a film studio, after which thriller-like antics ensue. This is Shortical’s first foray into such a licensing deal, but it likely won’t be their last. In a phone interview, Avni told TechCrunch that he found the project both nerveracking and exci",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "scraped_at": "2026-11-21T19:00:34.315607"
+    "scraped_at": "2026-11-22T06:19:46.024390"
   },
   {
     "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
     "author": "Tim De Chant",
     "date_time": "2026-11-20T11:53:41-08:00",
     "summary": "N/A",
-    "content": "Spotify founder Daniel Ek is backing Europa Fusion, a stealthy fusion power startup founded by an AI researcher who is taking a different approach to developing a fusion power plant. The U.K.-based startup was founded in February, though sources told TechCrunch that the founder, Nantas Nardelli, has been working on the idea for longer. The people asked not to be identified because the information isn’t public. Bloomberg first reported Ek’s backing of Europa Fusion. Nardelli has extensive experience in the AI world, having previously worked at Google DeepMind, Facebook AI Research, and Microsoft Research Cambridge. Recently, he was head of machine learning at Pacific Fusion, the fusion power startup based in Fremont, California. Pacific Fusion recently broke ground on a demonstration facility in New Mexico. Like most fusion startups of its size, Pacific Fusion leans heavily on physical devices to test its theories and improve its simulations. Nardelli apparently didn’t agree with the focus on hardware, instead thinking that fusion startups should invest in a more simulation- and data-heavy approach, a source familiar with his thinking told TechCrunch. Like Pacific Fusion, Europa Fusion will pursue a pulsed-power approach to fusion. Pulsed-power reactors use massive, perfectly timed surges of electrical current to compress fuel targets until the atoms inside fuse and release energy. Fusion power has the potential to be a significant energy source in the coming decades, but to date, no one has built a power plant capable of supplying electricity to the grid. If fusion power becomes commercially viable, though, it could possibly be a significant source of carbon-free power that draws on nearly limitless fuel supplies. The technology also has the potential to alleviate concerns about AI’s energy consumption. Fusion’s ability to generate electricity without exacerbating climate change apparently drove Nardelli’s pivot from AI. “My original background is in electronics and",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "scraped_at": "2026-11-21T19:00:36.003971"
+    "scraped_at": "2026-11-22T06:19:46.025312"
   },
   {
     "headline": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
@@ -33,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "scraped_at": "2026-11-21T19:00:36.004882"
+    "scraped_at": "2026-11-22T06:19:46.026177"
   },
   {
     "headline": "Chips can survive the space environment — can their financing?",
@@ -42,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "scraped_at": "2026-11-21T19:00:36.005464"
+    "scraped_at": "2026-11-22T06:19:46.027033"
   },
   {
     "headline": "The fallout from Nvidia’s Jensen Huang scandal continues",
@@ -51,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "scraped_at": "2026-11-21T19:00:36.006381"
+    "scraped_at": "2026-11-22T06:19:46.028557"
   },
   {
     "headline": "Six AI-powered gadgets that could make your home office smarter",
@@ -60,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "scraped_at": "2026-11-21T19:00:36.006965"
+    "scraped_at": "2026-11-22T06:19:46.029426"
   },
   {
     "headline": "Apple may be developing its own AI agent that runs your Mac",
@@ -69,24 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "scraped_at": "2026-11-21T19:00:36.007534"
-  },
-  {
-    "headline": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "author": "Julie Bort",
-    "date_time": "2026-11-19T16:43:50-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "scraped_at": "2026-11-21T19:00:36.008109"
-  },
-  {
-    "headline": "Meta’s new Muse Charm device may cost $300",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-19T13:58:06-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "scraped_at": "2026-11-21T19:00:36.008714"
+    "scraped_at": "2026-11-22T06:19:46.030291"
   }
 ]
