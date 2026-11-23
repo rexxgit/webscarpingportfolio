@@ -1,0 +1,202 @@
+[
+  {
+    "address": "State Hwy 23 S, Sandstone, MN 55072",
+    "price_aud": "AUD $330,796",
+    "price_usd": "AUD $330,796",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-11-23T23:01:41.144799"
+  },
+  {
+    "address": "8880 92nd Street S, Cottage Grove, MN 55016",
+    "price_aud": "AUD $385,173",
+    "price_usd": "AUD $385,173",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.144944"
+  },
+  {
+    "address": "19903 Ann River Trail, Mora, MN 55051",
+    "price_aud": "AUD $934,989",
+    "price_usd": "AUD $934,989",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.145074"
+  },
+  {
+    "address": "3765 Brookside Drive, Chaska, MN 55318",
+    "price_aud": "AUD $2,112,024",
+    "price_usd": "AUD $2,112,024",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-23T23:01:41.145198"
+  },
+  {
+    "address": "2716 Brockman Court, Northfield, MN 55057",
+    "price_aud": "AUD $317,201",
+    "price_usd": "AUD $317,201",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.145321"
+  },
+  {
+    "address": "704 N 2nd Street N, Tower, MN 55790",
+    "price_aud": "AUD $313,425",
+    "price_usd": "AUD $313,425",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "timestamp": "2026-11-23T23:01:41.145444"
+  },
+  {
+    "address": "27380 Sevastopol Road, Red Wing, MN 55066",
+    "price_aud": "AUD $678,207",
+    "price_usd": "AUD $678,207",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "timestamp": "2026-11-23T23:01:41.145588"
+  },
+  {
+    "address": "865 Main Street S, Pine City, MN 55063",
+    "price_aud": "AUD $1,131,352",
+    "price_usd": "AUD $1,131,352",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-11-23T23:01:41.145714"
+  },
+  {
+    "address": "369 25th Lane SE, Cambridge, MN 55008",
+    "price_aud": "AUD $792,853",
+    "price_usd": "AUD $792,853",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-23T23:01:41.145837"
+  },
+  {
+    "address": "2755 229th Lane NW, Saint Francis, MN 55070",
+    "price_aud": "AUD $540,753",
+    "price_usd": "AUD $540,753",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-23T23:01:41.145963"
+  },
+  {
+    "address": "1181 Edgcumbe Road, Saint Paul, MN 55105",
+    "price_aud": "AUD $223,551",
+    "price_usd": "AUD $223,551",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.146087"
+  },
+  {
+    "address": "3933 191st Avenue NE, Wyoming, MN 55092",
+    "price_aud": "AUD $400,278",
+    "price_usd": "AUD $400,278",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.146209"
+  },
+  {
+    "address": "11516 Brookview Drive, Maple Grove, MN 55311",
+    "price_aud": "AUD $845,701",
+    "price_usd": "AUD $845,701",
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "timestamp": "2026-11-23T23:01:41.146333"
+  },
+  {
+    "address": "845 Main Street S, Pine City, MN 55063",
+    "price_aud": "AUD $301,946",
+    "price_usd": "AUD $301,946",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-11-23T23:01:41.146458"
+  },
+  {
+    "address": "48190 Old River Bluff Road, St. Peter, MN 56082",
+    "price_aud": "AUD $241,526",
+    "price_usd": "AUD $241,526",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-11-23T23:01:41.146598"
+  },
+  {
+    "address": "6603 Voyageurs Tr, Biwabik, MN 55705-0000",
+    "price_aud": "AUD $1,320,162",
+    "price_usd": "AUD $1,320,162",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "timestamp": "2026-11-23T23:01:41.146721"
+  },
+  {
+    "address": "10371 Hwy 1, Cook, MN 55723",
+    "price_aud": "AUD $120,688",
+    "price_usd": "AUD $120,688",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-23T23:01:41.146842"
+  },
+  {
+    "address": "83 Outer Dr, Silver Bay, MN 55614",
+    "price_aud": "AUD $415,383",
+    "price_usd": "AUD $415,383",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "timestamp": "2026-11-23T23:01:41.146955"
+  },
+  {
+    "address": "207 Brandon Rd, Hoyt Lakes, MN 55750",
+    "price_aud": "AUD $166,002",
+    "price_usd": "AUD $166,002",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "timestamp": "2026-11-23T23:01:41.147080"
+  },
+  {
+    "address": "318 Cimarron, Lake Elmo, MN 55042",
+    "price_aud": "AUD $226,421",
+    "price_usd": "AUD $226,421",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.147201"
+  },
+  {
+    "address": "89 Cimarron, Lake Elmo, MN 55042",
+    "price_aud": "AUD $241,526",
+    "price_usd": "AUD $241,526",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.147325"
+  },
+  {
+    "address": "240 Cimarron, Lake Elmo, MN 55042",
+    "price_aud": "AUD $241,526",
+    "price_usd": "AUD $241,526",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.147447"
+  },
+  {
+    "address": "151 Cimarron, Lake Elmo, MN 55042",
+    "price_aud": "AUD $226,421",
+    "price_usd": "AUD $226,421",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.147584"
+  },
+  {
+    "address": "475 Cimarron, Lake Elmo, MN 55042",
+    "price_aud": "AUD $241,526",
+    "price_usd": "AUD $241,526",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "timestamp": "2026-11-23T23:01:41.147711"
+  },
+  {
+    "address": "23324 124th Avenue, Rogers, MN 55374",
+    "price_aud": "AUD $498,459",
+    "price_usd": "AUD $498,459",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "timestamp": "2026-11-23T23:01:41.147833"
+  }
+]
