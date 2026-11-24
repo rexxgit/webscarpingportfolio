@@ -1,92 +1,92 @@
 [
   {
-    "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-23T14:05:50-08:00",
-    "summary": "N/A",
-    "content": "Anthropic is moving from having Claude write code to helping developers decide when that code is ready to ship. On Monday, the newly public AI company announced the launch of Claude Ship, a suite of AI agents for automating code reviews, fixes, and approvals of routine code changes. The latter is the more interesting part of this new set of tools, as AI coding tools already offered code review features before now. What’s notable about Claude Ship is not just that it can review proposed code changes and identify and address problems, but that it also includes an agent that can approve code changes automatically based on policies set by a development team. The launch arrives at a time when AI coding agents have become increasingly capable of generating substantial amounts of code, leading to bottlenecks in reviewing and approving the code changes before they go live. With Claude Ship, the idea is to automate even more of the work involved in the development process, essentially by delegating approval authority to an AI agent itself. “Most teams want a person to approve every change, and that’s easy to keep up with when people write every line. But a lot of developers build with agents now,” a company blog post explains. “On the Claude Code team, Claude writes most of our code, and we wanted everything after the PR to move that fast too.” Claude Ship is launching in beta, allowing early adopters to use it to review pull requests (PRs), and then decide what’s ready to merge. The new offering consists of Code Review, which is already generally available, and two new agents now in beta: PR Steward and Claude Approvals. PR Steward focuses on addressing issues such as failing CI checks, merge conflicts, and feedback from Code Review. It also comments after every push on what it changed and how to roll it back, if needed. Claude Approvals then applies an approval policy that the team writes as a file in the repository. This approval process can incorporate various signals, i",
-    "article_link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "scraped_at": "2026-11-24T09:34:30.072809"
-  },
-  {
-    "headline": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-23T14:02:05-08:00",
-    "summary": "N/A",
-    "content": "AI investing startup Supertake has an interesting premise: What if your “takes” on the market could make you money without you having to pick stocks yourself? The service lets people turn their ideas into real investment portfolios, using frontier AI models and trading agents. Now, the company has raised $20 million in seed funding to grow its business. The round was led by venture firm Adjacent (Nico Wittenborn), with participation from Coinbase Ventures and Union Square Ventures (USV). Numerous angel investors also joined, including Nat Friedman, who’s currently head of product at Meta Superintelligence Labs; Vercel CEO Guillermo Rauch; renowned product manager Nikita Bier; investor Scott Belsky; and Nemil Dalal, a former Coinbase exec who is now a visiting partner at Y Combinator. Michael Mignano originally incubated the startup at USV. He is the co-founder and former CEO of the podcasting platform Anchor, which Spotify acquired in 2019 for over $150 million. After leading Spotify’s podcasting business as “Head of Talk” for a few years, he joined the team at Lightspeed as a venture partner, betting on AI companies like Suno and Granola. He also co-founded Oboe, an AI education startup, and joined USV as a general partner in April. “We really believed there was an opportunity to make investing more democratized…and give everyone and anyone the ability to invest in their own insights and beliefs and ideas,” Mignano said. While he will continue in his role as founder and executive chairman, he’s now brought in a team to run the company day to day. The team includes co-founders Lincoln Murr (CEO) and John Peterson (CTO). Both joined from Coinbase, where, Mignano notes, they were the heads of AI product and engineering, leading launches like Coinbase advisor, Coinbase for agents, agentic wallets, and others. The startup arrives as AI continues to make inroads into financial services, but allowing AI to take over people’s actual investments requires a new level of trus",
-    "article_link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "scraped_at": "2026-11-24T09:34:31.946908"
-  },
-  {
-    "headline": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-23T13:47:41-08:00",
-    "summary": "N/A",
-    "content": "A handful of tech CEOs, including Elon Musk, are celebrating Jensen Huang’s return to Nvidia. Despite being caught in three affairs — including one with an alleged Chinese spy that has triggered multiple congressional investigations over national security concerns — Huang was reinstated as CEO and president of Nvidia on Monday morning. “The mistake has been corrected,” Tesla and SpaceX leader Elon Musk wrote on X about Huang’s return. The mistake has been corrected https://t.co/UKvEng9rCD Musk had been among the most vocal tech leaders to advocate for Huang. “I think it’s like kicking Michael Jordan off your team when you’re on a winning streak, and it just doesn’t seem like a good thing for shareholders,” Musk said last week at the DealBook Summit. OpenAI CEO Sam Altman had taken a more neutral stance, commenting last week, “It’s hard to imagine the AI industry without Jensen.” Altman had experienced a similar situation when he was ousted as CEO of OpenAI, then reinstated days later. After the announcement that Huang would return, Altman simply posted, “Jensen!” Many other tech CEOs have similarly refrained from commenting on the matter, given the shifting politics surrounding Huang’s ouster and reinstatement, as well as the national security concerns at the center of the controversy. In addition to Musk, Binance co-founder and former CEO Changpeng Zhao (CZ), who served prison time for failing to stop criminal activity on the Binance crypto exchange, is also supportive of Huang. “Glad to see @JensenHuang back,” CZ posted on X with a clapping hands emoji.",
-    "article_link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "scraped_at": "2026-11-24T09:34:33.790169"
-  },
-  {
-    "headline": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "headline": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
     "author": "Lucas Ropek",
-    "date_time": "2026-11-23T13:25:42-08:00",
+    "date_time": "2026-11-24T13:48:27-08:00",
     "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "scraped_at": "2026-11-24T09:34:33.792611"
+    "content": "After a whirlwind period during which Jensen Huang’s life fell apart and then came back together again, the Nvidia founder now wants his staff to know that he’s a changed man. Huang held Nvidia’s first all-hands meeting on Tuesday since his reinstatement on Monday. During that meeting, CNBC reported that Huang struck a “remorseful tone” and told the crowd “I hurt all of you.” The founder, whose extramarital affairs have been accused of jeopardizing everything from the stock market to U.S. national security, went on to describe how difficult the current moment is for him: “This is going to be the hardest company meeting I’ve ever done, and the second hardest meeting I have ever done,” Huang reportedly told staff. “The hardest meeting I’ve ever done was with my wife,” he added. The CEO admitted in the meeting that he had flouted Nvidia’s code of conduct, which he himself had largely devised. Huang emphasized that the code of conduct was still in effect, but that mitigating circumstances would matter a lot. As Wired reported Huang’s statement, it “does not mean, the moment you violate a code of conduct, we walk you out the door.” Huang told staff that he’s in therapy and also said that he was grateful for a second chance at the company. The CEO is now walking a difficult tight rope between reasserting his authority over one of the world’s most powerful and influential companies, and conceding that he may have made some mistakes. He also tackled the difficult question of President Trump’s role in his restoration. The President reportedly called Nvidia’s board directly to lobby for Huang’s return, but in his talk, Huang downplayed Trump’s role Huang thanked the administration on Tuesday for “providing Nvidia with quick access to intelligence that he said helped the board determine that the national security risks the company faced in reinstating him were low,” the Wall Street Journal writes. Huang will likely need the administration’s support as he weathers an upcoming w",
+    "article_link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "scraped_at": "2026-11-24T22:15:20.639245"
   },
   {
-    "headline": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-23T12:38:53-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "scraped_at": "2026-11-24T09:34:33.794734"
-  },
-  {
-    "headline": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-23T11:14:46-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "scraped_at": "2026-11-24T09:34:33.796737"
-  },
-  {
-    "headline": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-23T10:12:22-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "scraped_at": "2026-11-24T09:34:33.798856"
-  },
-  {
-    "headline": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "headline": "Even the best AI agents struggle with everyday life",
     "author": "Rebecca Bellan",
-    "date_time": "2026-11-23T09:14:23-08:00",
+    "date_time": "2026-11-24T13:33:29-08:00",
     "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "scraped_at": "2026-11-24T09:34:33.800975"
+    "content": "AI companies have spent the last couple of months marketing personal AI agents as tools to take over the digital drudgery of human existence — and millions have been sold on the vision, handing over their shopping schedules, travel plans, and everyday responsibilities to AI assistants. But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agent work, even the most advanced models from OpenAI, Anthropic, and Meta failed more than a third of the time. Across all models tested, 15.7% of attempts failed at least one safety requirement, often leading to unintended consequences. ShellBench was developed in collaboration with researchers at The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat, and UC Berkeley, drawing on more than 10 million anonymized, real-world AI agent interactions to see how agents perform on the everyday work people actually delegate to them. The research comes as personal AI assistants are finding new popularity among developers, with Meta, OpenAI, and Anthropic all fighting for a piece of the market with Muse, Dots, and Claude Duet, respectively. In October, Meta said more than 10 million people in the U.S. and Canada had set up its personal AI agent, Muse, within six weeks of launch, with about a quarter using it daily. That number is expected to grow as Meta implants Muse directly into Instagram DMs. Despite growing popularity among consumers, we still have little evidence about how reliable AI personal assistant products actually are. ShellBench suggests that the unreliable nature of most everyday data sources still causes problems for many state-of-the-art systems. A successful agent should be able to navigate messy personal workspaces containing emails, calendar entries, spreadsheets, receipts, chat logs, outdated information, and phishing attempts, and figure out which information is relevant, what",
+    "article_link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "scraped_at": "2026-11-24T22:15:22.394998"
   },
   {
-    "headline": "Jensen Huang isn’t out of the woods yet",
-    "author": "Russell Brandom",
-    "date_time": "2026-11-23T08:57:40-08:00",
+    "headline": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "author": "Lauren Forristal",
+    "date_time": "2026-11-24T13:32:38-08:00",
     "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-    "scraped_at": "2026-11-24T09:34:33.802821"
+    "content": "Shopping with AI is becoming less of a futuristic idea and more of something companies expect us to do. Walmart is the latest retailer making that shift, teaming up with Meta to let customers shop its Black Friday deals through Muse, Meta’s AI agent. The partnership, announced Tuesday, gives shoppers another way to find products, compare prices, and make purchases without browsing Walmart’s website themselves. Instead, customers can simply tell Muse what they are looking for and let the AI do the work. The announcement highlights how differently Walmart and Amazon are approaching AI shopping. While Amazon has taken steps to stop third-party AI agents from making purchases for customers, Walmart is leaning into the idea. To get started, users open the Muse app, sign in to their Walmart account, and return to the assistant to begin shopping. They can ask it to find specific products, compare options, or track down deals. Once a customer makes a request in Muse, the assistant sends it to Walmart, which returns relevant products and helps build a shopping cart. Walmart says it has built privacy protections into the experience. For instance, Muse doesn’t get access to a customer’s Walmart shopping history or other personal information. Shoppers can also set spending limits, require approval before purchases, and review orders placed by the agent. Plus, the company notes users can always delete their agent’s profile if they want to. The experience is powered by Walmart’s Agent Gateway, a new system that allows outside AI assistants to connect directly with the retailer’s online store. This launched in October, and the company is planning to open it up to more developers and AI platforms, meaning Muse could eventually be just one of several assistants capable of shopping Walmart’s online store. Walmart is not the only company teaming up with Meta’s Muse. Instacart also recently joined forces with the AI assistant. Beyond Muse, Walmart has recently rolled out more AI-powere",
+    "article_link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "scraped_at": "2026-11-24T22:15:24.467060"
   },
   {
-    "headline": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-    "author": "Amanda Silberling",
-    "date_time": "2026-11-23T08:39:10-08:00",
+    "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-24T13:19:52-08:00",
     "summary": "N/A",
     "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-    "scraped_at": "2026-11-24T09:34:33.804056"
+    "article_link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "scraped_at": "2026-11-24T22:15:24.468690"
+  },
+  {
+    "headline": "N/A",
+    "author": "Marina Temkin",
+    "date_time": "2026-11-24T10:30:42-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "scraped_at": "2026-11-24T22:15:24.469998"
+  },
+  {
+    "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "author": "Zack Whittaker",
+    "date_time": "2026-11-24T10:02:59-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "scraped_at": "2026-11-24T22:15:24.471190"
+  },
+  {
+    "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "author": "Aisha Malik",
+    "date_time": "2026-11-24T09:00:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "scraped_at": "2026-11-24T22:15:24.472383"
+  },
+  {
+    "headline": "Media & Entertainment",
+    "author": "Ivan Mehta",
+    "date_time": "2026-11-24T08:46:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "scraped_at": "2026-11-24T22:15:24.473590"
+  },
+  {
+    "headline": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "author": "Tim De Chant",
+    "date_time": "2026-11-24T08:10:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "scraped_at": "2026-11-24T22:15:24.474789"
+  },
+  {
+    "headline": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-24T08:02:37-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "scraped_at": "2026-11-24T22:15:24.475970"
   }
 ]
