@@ -1,92 +1,92 @@
 [
   {
+    "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "author": "Jagmeet Singh",
+    "date_time": "2026-11-25T12:03:27-08:00",
+    "summary": "N/A",
+    "content": "OpenAI has started rolling out a unified Chat and Work experience in ChatGPT to a few of its users, amid criticism from some subscribers that the merger could restrict their usage. The ChatGPT maker began introducing the update to a small group of Pro subscribers, product lead Thibault “Tibo” Sottiaux said in a post on X on Tuesday. The rollout follows OpenAI’s earlier announcement of the merger in an email to users. An OpenAI spokesperson told TechCrunch that while most users are not expected to face more frequent usage resets, a small fraction of its heaviest users may hit their limits sooner. That’s among the concerns raised by some ChatGPT subscribers on social media and OpenAI’s community forum recently. The users fear that merging the usage limits for Chat and Work could leave them with less access to advanced reasoning models than they currently have, even as they continue paying the same subscription fees. Under the new system, Chat and Work will share a single usage meter across ChatGPT, the OpenAI spokesperson told TechCrunch. Conversations using the Instant model will, however, remain unlimited and will not count toward the shared allowance. Users can also continue using Instant after exhausting their usage limits. The spokesperson added that OpenAI would continue working to improve efficiency so subscribers could get more out of their plans. While the rollout has started for a small group of users, OpenAI plans to bring shared usage limits more broadly in December, per its support page. Similar to OpenAI, rival Anthropic also moved to bring its conversational chat service Claude and work-focused Cowork under one interface in September. The changes come as AI companies face mounting infrastructure costs and growing demand for increasingly capable models, putting pressure on their computing resources. Bringing conversational and work-related tools into a single interface could also make AI chatbots simpler to use, allowing users to move between chats and m",
+    "article_link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "scraped_at": "2026-11-25T21:31:19.906046"
+  },
+  {
+    "headline": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "author": "Russell Brandom",
+    "date_time": "2026-11-25T11:54:57-08:00",
+    "summary": "N/A",
+    "content": "When Jensen Huang gave his first all-hands address since returning as CEO, there was an odd emphasis on Nvidia’s code of conduct. He admitted to violating the code, then emphasized that no one was exempt from it. But that “does not mean, the moment you violate a code of conduct, we walk you out the door,” Huang said, according to Wired. “Facts, circumstances, a lot of assessments” still matter. In other words, the code applies to everyone, but breaking it doesn’t automatically cost anyone their job, including, apparently, the CEO. It’s an awkward stance for a company whose CEO has admitted to breaking its rules. A central part of modern human resources, a code of conduct can seem like a quasi-legal rulebook that lays out unacceptable behavior. But experts say most codes are better understood as a reflection of corporate culture. When an infraction goes unpunished, the main risk isn’t legal but cultural — that employees will feel embarrassed or even angry about the company they work for. That’s the risk Huang now faces at Nvidia. Matt Plass, chief market strategy officer at LRN, an ethics and compliance training outfit, recently surveyed more than 2,000 workers across different industries for a study on workplace codes of conduct. As Plass sees it, the biggest risk is that employees will become ashamed of their workplace. “People coming into the workforce now, ethics is incredibly important to them,” he told TechCrunch. “They’re really mindful of the ethical standards of their company. They’re really embarrassed and angry when senior leadership lets them down.” The consequences of violating the rules aren’t always tangible, but they’re definitely real. Plass gave one example of a company that banned corporate travel to cut costs — only to have its CEO turn up in a VIP box at the Olympics. “For over a decade afterwards, ‘the Olympics’ was used within that company as an example of the worst thing an employee could do. People would say, ‘Yeah, I shouldn’t have done that",
+    "article_link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "scraped_at": "2026-11-25T21:31:21.020752"
+  },
+  {
+    "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-25T11:44:24-08:00",
+    "summary": "N/A",
+    "content": "Anthropic CEO Dario Amodei is pushing back against claims that Anthropic believes we should “surrender human free will” to AI systems. In a long X post on Wednesday, Amodei called the suggestion “absurd.” “We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,” he wrote. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea…No one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different.” The statement comes after a growing chorus from Anthropic rivals suggesting that human agency could be at risk if AI is developed irresponsibly. Earlier this month, OpenAI CEO Sam Altman said he wanted to ensure people continue to have “agency over the future.” Meta’s chief AI officer Alexandr Wang also wrote in an essay on X that we “should not be okay with a ‘handover’ of society to AI.” “It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,” Wang wrote. “Now that we are at a point where the scientific and technical problems on capability progress are likely solved, we must not only make progress in the extremely urgent areas of safety, alignment, and security, but we have to start thinking through how we progress thoughtfully.” But in published essays, Amodei claims he has repeatedly advocated for democratic oversight of AI, saying the technology should strengthen democratic institutions and that humans should retain ultimate decision-making power. Amodei noted that there’s a difference between surrendering human free will broadly and the idea that “as AI systems advance, they become capable of doing specific tasks in a more automated way.” As examples, he gave AI driving a car, designing a cancer drug, or writing end-to-end software. Amodei suggested drawing a line at recursive self-improvement (RSI), or AI that can ",
+    "article_link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "scraped_at": "2026-11-25T21:31:26.963097"
+  },
+  {
+    "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "author": "Rebecca Bellan",
+    "date_time": "2026-11-25T10:11:46-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "scraped_at": "2026-11-25T21:31:26.964665"
+  },
+  {
+    "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "author": "Sarah Perez",
+    "date_time": "2026-11-25T09:35:58-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "scraped_at": "2026-11-25T21:31:26.965879"
+  },
+  {
+    "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "author": "Theresa Loconsolo\nRebecca Bellan",
+    "date_time": "2026-11-25T07:41:43-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "scraped_at": "2026-11-25T21:31:26.967522"
+  },
+  {
+    "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "author": "Lauren Forristal",
+    "date_time": "2026-11-25T06:10:18-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "scraped_at": "2026-11-25T21:31:26.968790"
+  },
+  {
+    "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "author": "Tim Fernholz",
+    "date_time": "2026-11-25T05:00:00-08:00",
+    "summary": "N/A",
+    "content": "N/A",
+    "article_link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "scraped_at": "2026-11-25T21:31:26.969981"
+  },
+  {
     "headline": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
     "author": "Connie Loizos",
     "date_time": "2026-11-24T16:12:02-08:00",
     "summary": "N/A",
-    "content": "Investors cheered Jensen Huang’s return as Nvidia’s CEO on Monday, but renowned business academic Jeffrey Sonnenfeld of Yale thinks they’re celebrating a mistake. He sees a company that is largely responsible for putting sophisticated technology in the hands of the country’s adversaries, at a moment when the risks couldn’t be higher. Far from a champion of American industry, he says, Nvidia is “a detriment to U.S. global industrial might.” As evidence, Sonnenfeld points to research suggesting Nvidia’s most advanced chips have reached China despite U.S. export controls and to sinking shares of Anthropic, which he links to the realization that China’s seemingly miraculous open source AI models are, in a sense, copies of top U.S. labs’ work, even as Nvidia has insisted that smuggling is a “non-factor.” Indeed, Huang’s return was greeted with just as much enthusiasm in Asia, The Washington Post reported. “The king is back!” read one headline from China’s state-affiliated Star Market Daily. The reinstatement itself followed heavy pressure from Washington. Nvidia’s chairman had effectively ruled out Huang’s return just last week. Then, in a torrent of private weekend calls led by Vice President JD Vance, top administration officials leaned on the board to welcome Huang back, with President Trump calling the board directly to vouch for him. “I made the deal,” Trump told CNBC on Monday. Sonnenfeld says the directors who went along, and who returned Huang to the board even as it investigates whether foreign intelligence efforts targeted him, now face a “historic level of individual liability.” The legal deluge has already begun. As we noted a couple of weeks ago, a potential class-action lawsuit was filed almost immediately. Days later, a shareholder derivative suit followed. Filed on Nvidia’s behalf against the directors themselves, the suit alleges the board ignored red flags about Huang’s relationship with suspected Chinese spy Alice Huang. The class action is very much a",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "scraped_at": "2026-11-25T08:05:31.769164"
+    "scraped_at": "2026-11-25T21:31:26.971180"
   },
   {
     "headline": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
     "author": "Kirsten Korosec",
     "date_time": "2026-11-24T14:27:52-08:00",
     "summary": "N/A",
-    "content": "Nvidia CEO Jensen Huang kicked off his return to the chipmaker he co-founded by holding an all-hands meeting that covered remorse, therapy, and even the company’s code of conduct, according to accounts from multiple insiders who spoke to the media. The topic of succession planning also came up — a particularly sticky issue seen as a key risk at Nvidia. Huang reportedly told staff that Nvidia doesn’t require succession planning because of its unique business model, CNBC reported, citing an unnamed source who was present. Surprisingly, given the events of the last two weeks, Huang argued that a succession plan would create unnecessary hierarchy. Investors and analysts saw the issue differently earlier this month, when Huang resigned as CEO following his admission that he had extramarital affairs with at least two people, including one whom the U.S. government suspects of being a Chinese spy. Nvidia is a flat organization, unlike other large corporations that have a swath of C-suite executives and multiple layers of management. Huang sits at the top and says he has about 60 direct reports. Nvidia has just five executive officers running the show, including Huang. The other four are CFO Colette Kress, who was interim CEO for 12 days; Ajay Puri, who heads worldwide field operations; Debora Shoquist, executive vice president of operations; and Timothy Teter, executive vice president and general counsel, according to the company’s regulatory filings. Huang has previously defended the company’s structure in numerous interviews, including one in March with podcaster Lex Fridman. “When you’re designing a company, you should first think about what is it that you want the company to produce,” Huang said in the interview. “You know, I see a lot of companies’ organization charts, and they all look the same. Hamburger [company] organization charts, software organization charts, and car company organization charts. They all look the same. And it doesn’t make any sense to me. You kn",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "scraped_at": "2026-11-25T08:05:33.543000"
-  },
-  {
-    "headline": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-    "author": "Lucas Ropek",
-    "date_time": "2026-11-24T13:48:27-08:00",
-    "summary": "N/A",
-    "content": "After a whirlwind period during which Jensen Huang’s life fell apart and then came back together again, the Nvidia founder now wants his staff to know that he’s a changed man. Huang held Nvidia’s first all-hands meeting on Tuesday since his reinstatement on Monday. During that meeting, CNBC reported that Huang struck a “remorseful tone” and told the crowd “I hurt all of you.” The founder, whose extramarital affairs have been accused of jeopardizing everything from the stock market to U.S. national security, went on to describe how difficult the current moment is for him: “This is going to be the hardest company meeting I’ve ever done, and the second hardest meeting I have ever done,” Huang reportedly told staff. “The hardest meeting I’ve ever done was with my wife,” he added. The CEO admitted in the meeting that he had flouted Nvidia’s code of conduct, which he himself had largely devised. Huang emphasized that the code of conduct was still in effect, but that mitigating circumstances would matter a lot. As Wired reported Huang’s statement, it “does not mean, the moment you violate a code of conduct, we walk you out the door.” Huang told staff that he’s in therapy and also said that he was grateful for a second chance at the company. The CEO is now walking a difficult tight rope between reasserting his authority over one of the world’s most powerful and influential companies, and conceding that he may have made some mistakes. He also tackled the difficult question of President Trump’s role in his restoration. The president reportedly called Nvidia’s board directly to lobby for Huang’s return, but in his talk, Huang downplayed Trump’s role Huang thanked the administration on Tuesday for “providing Nvidia with quick access to intelligence that he said helped the board determine that the national security risks the company faced in reinstating him were low,” The Wall Street Journal writes. Huang will likely need the administration’s support as he weathers an upcoming w",
-    "article_link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-    "scraped_at": "2026-11-25T08:05:35.540711"
-  },
-  {
-    "headline": "Even the best AI agents struggle with everyday life",
-    "author": "Rebecca Bellan",
-    "date_time": "2026-11-24T13:33:29-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-    "scraped_at": "2026-11-25T08:05:35.542518"
-  },
-  {
-    "headline": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "author": "Lauren Forristal",
-    "date_time": "2026-11-24T13:32:38-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-    "scraped_at": "2026-11-25T08:05:35.543717"
-  },
-  {
-    "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "author": "Sarah Perez",
-    "date_time": "2026-11-24T13:19:52-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-    "scraped_at": "2026-11-25T08:05:35.544903"
-  },
-  {
-    "headline": "N/A",
-    "author": "Marina Temkin",
-    "date_time": "2026-11-24T10:30:42-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "scraped_at": "2026-11-25T08:05:35.546202"
-  },
-  {
-    "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "author": "Zack Whittaker",
-    "date_time": "2026-11-24T10:02:59-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "scraped_at": "2026-11-25T08:05:35.547394"
-  },
-  {
-    "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "author": "Aisha Malik",
-    "date_time": "2026-11-24T09:00:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "scraped_at": "2026-11-25T08:05:35.548622"
-  },
-  {
-    "headline": "Media & Entertainment",
-    "author": "Ivan Mehta",
-    "date_time": "2026-11-24T08:46:00-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "scraped_at": "2026-11-25T08:05:35.549856"
+    "scraped_at": "2026-11-25T21:31:26.972386"
   }
 ]
