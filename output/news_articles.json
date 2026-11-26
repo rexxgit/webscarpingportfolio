@@ -1,12 +1,21 @@
 [
   {
+    "headline": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "author": "Marina Temkin",
+    "date_time": "2026-11-25T14:44:32-08:00",
+    "summary": "N/A",
+    "content": "S&P Global Ratings, one of the three major credit rating agencies, is considering downgrading Nvidia’s rating, citing concerns about the company’s management and governance practices. Despite Nvidia’s strong financial performance, the ouster and reinstatement of CEO Jensen Huang has raised concerns about “weak executive oversight and lack of succession planning” and “key man risk,” meaning heavy reliance on Huang for its future success, S&P said in a statement. The agency expects to finish its review within 90 days and could cut Nvidia’s rating from AA to AA-, the fourth-highest on its scale. Although Nvidia is certain to keep its investment-grade rating, a downgrade could raise its borrowing costs. Because Nvidia backstops neoclouds and other infrastructure companies that lack strong credit on their own, a lower rating could make their debt costlier or force them to post more collateral. In August, Nvidia announced plans to arrange $500 billion in financing for AI infrastructure with six financial institutions, including Goldman Sachs, Apollo, and Blackstone. Under the original terms, Nvidia would guarantee 25% of the loans. But even before Huang’s ouster and return, lenders had been demanding that Nvidia guarantee more, Bloomberg reported. A downgrade would likely prompt lenders to demand even larger guarantees.",
+    "article_link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "scraped_at": "2026-11-26T07:55:41.303131"
+  },
+  {
     "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "author": "Jagmeet Singh",
     "date_time": "2026-11-25T12:03:27-08:00",
     "summary": "N/A",
     "content": "OpenAI has started rolling out a unified Chat and Work experience in ChatGPT to a few of its users, amid criticism from some subscribers that the merger could restrict their usage. The ChatGPT maker began introducing the update to a small group of Pro subscribers, product lead Thibault “Tibo” Sottiaux said in a post on X on Tuesday. The rollout follows OpenAI’s earlier announcement of the merger in an email to users. An OpenAI spokesperson told TechCrunch that while most users are not expected to face more frequent usage resets, a small fraction of its heaviest users may hit their limits sooner. That’s among the concerns raised by some ChatGPT subscribers on social media and OpenAI’s community forum recently. The users fear that merging the usage limits for Chat and Work could leave them with less access to advanced reasoning models than they currently have, even as they continue paying the same subscription fees. Under the new system, Chat and Work will share a single usage meter across ChatGPT, the OpenAI spokesperson told TechCrunch. Conversations using the Instant model will, however, remain unlimited and will not count toward the shared allowance. Users can also continue using Instant after exhausting their usage limits. The spokesperson added that OpenAI would continue working to improve efficiency so subscribers could get more out of their plans. While the rollout has started for a small group of users, OpenAI plans to bring shared usage limits more broadly in December, per its support page. Similar to OpenAI, rival Anthropic also moved to bring its conversational chat service Claude and work-focused Cowork under one interface in September. The changes come as AI companies face mounting infrastructure costs and growing demand for increasingly capable models, putting pressure on their computing resources. Bringing conversational and work-related tools into a single interface could also make AI chatbots simpler to use, allowing users to move between chats and m",
     "article_link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-    "scraped_at": "2026-11-25T21:31:19.906046"
+    "scraped_at": "2026-11-26T07:55:42.854002"
   },
   {
     "headline": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
@@ -15,16 +24,16 @@
     "summary": "N/A",
     "content": "When Jensen Huang gave his first all-hands address since returning as CEO, there was an odd emphasis on Nvidia’s code of conduct. He admitted to violating the code, then emphasized that no one was exempt from it. But that “does not mean, the moment you violate a code of conduct, we walk you out the door,” Huang said, according to Wired. “Facts, circumstances, a lot of assessments” still matter. In other words, the code applies to everyone, but breaking it doesn’t automatically cost anyone their job, including, apparently, the CEO. It’s an awkward stance for a company whose CEO has admitted to breaking its rules. A central part of modern human resources, a code of conduct can seem like a quasi-legal rulebook that lays out unacceptable behavior. But experts say most codes are better understood as a reflection of corporate culture. When an infraction goes unpunished, the main risk isn’t legal but cultural — that employees will feel embarrassed or even angry about the company they work for. That’s the risk Huang now faces at Nvidia. Matt Plass, chief market strategy officer at LRN, an ethics and compliance training outfit, recently surveyed more than 2,000 workers across different industries for a study on workplace codes of conduct. As Plass sees it, the biggest risk is that employees will become ashamed of their workplace. “People coming into the workforce now, ethics is incredibly important to them,” he told TechCrunch. “They’re really mindful of the ethical standards of their company. They’re really embarrassed and angry when senior leadership lets them down.” The consequences of violating the rules aren’t always tangible, but they’re definitely real. Plass gave one example of a company that banned corporate travel to cut costs — only to have its CEO turn up in a VIP box at the Olympics. “For over a decade afterwards, ‘the Olympics’ was used within that company as an example of the worst thing an employee could do. People would say, ‘Yeah, I shouldn’t have done that",
     "article_link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-    "scraped_at": "2026-11-25T21:31:21.020752"
+    "scraped_at": "2026-11-26T07:55:44.492077"
   },
   {
     "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "author": "Rebecca Bellan",
     "date_time": "2026-11-25T11:44:24-08:00",
     "summary": "N/A",
-    "content": "Anthropic CEO Dario Amodei is pushing back against claims that Anthropic believes we should “surrender human free will” to AI systems. In a long X post on Wednesday, Amodei called the suggestion “absurd.” “We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,” he wrote. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea…No one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different.” The statement comes after a growing chorus from Anthropic rivals suggesting that human agency could be at risk if AI is developed irresponsibly. Earlier this month, OpenAI CEO Sam Altman said he wanted to ensure people continue to have “agency over the future.” Meta’s chief AI officer Alexandr Wang also wrote in an essay on X that we “should not be okay with a ‘handover’ of society to AI.” “It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,” Wang wrote. “Now that we are at a point where the scientific and technical problems on capability progress are likely solved, we must not only make progress in the extremely urgent areas of safety, alignment, and security, but we have to start thinking through how we progress thoughtfully.” But in published essays, Amodei claims he has repeatedly advocated for democratic oversight of AI, saying the technology should strengthen democratic institutions and that humans should retain ultimate decision-making power. Amodei noted that there’s a difference between surrendering human free will broadly and the idea that “as AI systems advance, they become capable of doing specific tasks in a more automated way.” As examples, he gave AI driving a car, designing a cancer drug, or writing end-to-end software. Amodei suggested drawing a line at recursive self-improvement (RSI), or AI that can ",
+    "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-    "scraped_at": "2026-11-25T21:31:26.963097"
+    "scraped_at": "2026-11-26T07:55:44.493024"
   },
   {
     "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
@@ -33,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-    "scraped_at": "2026-11-25T21:31:26.964665"
+    "scraped_at": "2026-11-26T07:55:44.493651"
   },
   {
     "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
@@ -42,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-    "scraped_at": "2026-11-25T21:31:26.965879"
+    "scraped_at": "2026-11-26T07:55:44.494275"
   },
   {
     "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
@@ -51,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-    "scraped_at": "2026-11-25T21:31:26.967522"
+    "scraped_at": "2026-11-26T07:55:44.495090"
   },
   {
     "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
@@ -60,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-    "scraped_at": "2026-11-25T21:31:26.968790"
+    "scraped_at": "2026-11-26T07:55:44.495735"
   },
   {
     "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
@@ -69,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-    "scraped_at": "2026-11-25T21:31:26.969981"
+    "scraped_at": "2026-11-26T07:55:44.496356"
   },
   {
     "headline": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -78,15 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "scraped_at": "2026-11-25T21:31:26.971180"
-  },
-  {
-    "headline": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "author": "Kirsten Korosec",
-    "date_time": "2026-11-24T14:27:52-08:00",
-    "summary": "N/A",
-    "content": "N/A",
-    "article_link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "scraped_at": "2026-11-25T21:31:26.972386"
+    "scraped_at": "2026-11-26T07:55:44.496964"
   }
 ]
