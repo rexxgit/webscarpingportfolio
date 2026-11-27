@@ -6,7 +6,7 @@
     "summary": "N/A",
     "content": "Nvidia is under pressure to do things differently, and a new WSJ report shows how far that’s going. According to the Journal, Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S. export requirements. As for why those countries, Chinese companies have been tapping Nvidia chips remotely from data centers there, a loophole the US Commerce Department closed — reportedly grudgingly —  earlier this month. The Journal notes that the think tank Institute for Progress estimates remote data centers like these supply about 24% of China’s AI computing power.",
     "article_link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-    "scraped_at": "2026-11-27T07:56:46.498252"
+    "scraped_at": "2026-11-27T21:00:12.129059"
   },
   {
     "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -15,7 +15,7 @@
     "summary": "N/A",
     "content": "It should have been impossible for “Grand Theft Auto VI” (GTA VI) to live up to the hype. Fans waited 13 years for the newest installment in the crime-adventure franchise, and Rockstar Games exceeded even those inconceivable expectations when the game finally came out last week. GTA VI launched as the highest-rated game of all time on Metacritic and made $3.79 billion on release day to mark what could be the biggest entertainment event ever – more massive than “Avengers: Endgame” ($2.9 billion) or Taylor Swift’s Eras tour ($2 billion). The 13-year wait certainly fueled the frenzy, and sales, around GTA VI, but some fans craved GTA VI because of what it represents in the emerging era of AI. Even the biggest workaholics among us – startup founders – scheduled time off to play the game, including Spiry co-founder Dima Beseda, who told TechCrunch, “I reshuffled my workload to free up time around the weekends and even booked vitamin IV drips to keep my energy up.” Yet some players felt a sense of anticipatory nostalgia as they wiped away a layer of dust on their Xbox to play the game they’d been looking forward to since they were kids. “We do have a view that GTA is likely to be the last game of its kind to be made this way,” Ben Feder, managing partner at TIRTA Ventures and former CEO of Rockstar parent company Take-Two Interactive, told TechCrunch. That’s because GTA VI was created entirely without generative AI. “We’re kind of at this technological moment where this way of developing has sort of reached its natural frontier,” Feder said. “I don’t think you can say that games like this will always be around.” As millions of people immersed themselves in Vice City, the tech industry witnessed another long-awaited moment: Anthropic became the first major AI lab to go public. At Nasdaq HQ, Anthropic executives gathered to celebrate the Claude maker’s $81.3 billion IPO. At virtually the same moment that Anthropic broke the record for the largest IPO ever, GTA VI was also b",
     "article_link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-    "scraped_at": "2026-11-27T07:56:47.948529"
+    "scraped_at": "2026-11-27T21:00:14.118516"
   },
   {
     "headline": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -24,7 +24,7 @@
     "summary": "N/A",
     "content": "S&P Global Ratings, one of the three major credit rating agencies, is considering downgrading Nvidia’s rating, citing concerns about the company’s management and governance practices. Despite Nvidia’s strong financial performance, the ouster and reinstatement of CEO Jensen Huang has raised concerns about “weak executive oversight and lack of succession planning” and “key man risk,” meaning heavy reliance on Huang for its future success, S&P said in a statement. The agency expects to finish its review within 90 days and could cut Nvidia’s rating from AA to AA-, the fourth-highest on its scale. Although Nvidia is certain to keep its investment-grade rating, a downgrade could raise its borrowing costs. Because Nvidia backstops neoclouds and other infrastructure companies that lack strong credit on their own, a lower rating could make their debt costlier or force them to post more collateral. In August, Nvidia announced plans to arrange $500 billion in financing for AI infrastructure with six financial institutions, including Goldman Sachs, Apollo, and Blackstone. Under the original terms, Nvidia would guarantee 25% of the loans. But even before Huang’s ouster and return, lenders had been demanding that Nvidia guarantee more, Bloomberg reported. A downgrade would likely prompt lenders to demand even larger guarantees.",
     "article_link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-    "scraped_at": "2026-11-27T07:56:49.054435"
+    "scraped_at": "2026-11-27T21:00:16.070767"
   },
   {
     "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -33,7 +33,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-    "scraped_at": "2026-11-27T07:56:49.056175"
+    "scraped_at": "2026-11-27T21:00:16.071920"
   },
   {
     "headline": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
@@ -42,7 +42,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-    "scraped_at": "2026-11-27T07:56:49.057465"
+    "scraped_at": "2026-11-27T21:00:16.072700"
   },
   {
     "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -51,7 +51,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-    "scraped_at": "2026-11-27T07:56:49.058677"
+    "scraped_at": "2026-11-27T21:00:16.073497"
   },
   {
     "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
@@ -60,7 +60,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-    "scraped_at": "2026-11-27T07:56:49.059891"
+    "scraped_at": "2026-11-27T21:00:16.074356"
   },
   {
     "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
@@ -69,7 +69,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-    "scraped_at": "2026-11-27T07:56:49.061090"
+    "scraped_at": "2026-11-27T21:00:16.075145"
   },
   {
     "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
@@ -78,7 +78,7 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-    "scraped_at": "2026-11-27T07:56:49.062637"
+    "scraped_at": "2026-11-27T21:00:16.076176"
   },
   {
     "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
@@ -87,6 +87,6 @@
     "summary": "N/A",
     "content": "N/A",
     "article_link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-    "scraped_at": "2026-11-27T07:56:49.063940"
+    "scraped_at": "2026-11-27T21:00:16.076989"
   }
 ]
